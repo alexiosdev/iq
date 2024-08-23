@@ -21,7 +21,7 @@
         "name_jp": "",
         "name_ko": "",
         "name_zh": "",
-         "key":"agequestions",
+         "key":"age_questions",
          "image":"agequestions.png"
       },
       {
@@ -33,7 +33,7 @@
         "name_jp": "",
         "name_ko": "",
         "name_zh": "",
-         "key":"bloodrelationship",
+         "key":"blood_relationship",
          "image":"bloodrelationship.png"
       },
       {
@@ -45,7 +45,7 @@
         "name_jp": "",
         "name_ko": "",
         "name_zh": "",
-         "key":"clockandcanlender",
+         "key":"clock_and_canlender",
          "image":"clockandcanlender.jpg"
       },
       {
@@ -57,7 +57,7 @@
         "name_jp": "",
         "name_ko": "",
         "name_zh": "",
-         "key":"logicalreasoning",
+         "key":"logical_reasoning",
          "image":"logicalreasoning.jpg"
       },
       {
@@ -69,7 +69,7 @@
         "name_jp": "",
         "name_ko": "",
         "name_zh": "",
-         "key":"mentalarithmetic",
+         "key":"mental_arithmetic",
          "image":"mentalarithmetic.jpg"
       },
       {
@@ -81,7 +81,7 @@
         "name_jp": "",
         "name_ko": "",
         "name_zh": "",
-         "key":"numbersequancetest",
+         "key":"number_sequence_test",
          "image":"numbersequancetest.png"
       },
       {
@@ -93,7 +93,7 @@
         "name_jp": "",
         "name_ko": "",
         "name_zh": "",
-         "key":"trainandboatprolems",
+         "key":"train_and_boat_problems",
          "image":"trainandboatprolems.png"
       },
       {
@@ -105,7 +105,7 @@
         "name_jp": "",
         "name_ko": "",
         "name_zh": "",
-         "key":"verbalaptitudetest",
+         "key":"verbal_aptitude_test",
          "image":"verbalaptitudetest.png"
       },
       {
