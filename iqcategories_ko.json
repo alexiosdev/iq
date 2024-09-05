@@ -1,0 +1,124 @@
+{
+   "data":[
+      {
+        "name_en": "Spatial Reasoning",
+        "name_vn": "Hình không gian",
+        "name_de": "Räumliches Denken",
+        "name_fr": "Raisonnement spatial",
+        "name_hi": "स्थानिक तर्क",
+        "name_jp": "空間推理",
+        "name_ko": "공간 추리",
+        "name_zh": "空间推理",
+        "key":"shapesiq",
+        "image":"shapeiq.png"
+      },
+      {
+        "name_en": "Age questions",
+        "name_vn": "Câu hỏi về tuổi",
+        "name_de": "Altersfragen",
+        "name_fr": "Questions d’âge",
+        "name_hi": "आयु से संबंधित प्रश्न",
+        "name_jp": "年齢に関する質問",
+        "name_ko": "연령 질문",
+        "name_zh": "年龄问题",
+         "key":"age_questions",
+         "image":"agequestions.png"
+      },
+      {
+        "name_en": "Blood relationship",
+        "name_vn": "Câu hỏi về quan hệ trong gia đình",
+        "name_de": "Blutverwandtschaft",
+        "name_fr": "Lien de parenté",
+        "name_hi": "रक्त संबंध",
+        "name_jp": "血縁関係",
+        "name_ko": "혈연 관계",
+        "name_zh": "血缘关系",
+         "key":"blood_relationship",
+         "image":"bloodrelationship.png"
+      },
+      {
+        "name_en": "Clock and calendar",
+        "name_vn": "Câu hỏi về thời gian",
+        "name_de": "Uhr und Kalender",
+        "name_fr": "Horloge et calendrier",
+        "name_hi": "घड़ी और कैलेंडर",
+        "name_jp": "時計とカレンダー",
+        "name_ko": "시계와 달력",
+        "name_zh": "时钟和日历",
+         "key":"clock_and_canlender",
+         "image":"clockandcanlender.jpg"
+      },
+      {
+        "name_en": "Logical reasoning",
+        "name_vn": "Câu hỏi về tư duy",
+        "name_de": "Logisches Denken",
+        "name_fr": "Raisonnement logique",
+        "name_hi": "तार्किक तर्क",
+        "name_jp": "論理的推論",
+        "name_ko": "논리적 추리",
+        "name_zh": "逻辑推理",
+         "key":"logical_reasoning",
+         "image":"logicalreasoning.jpg"
+      },
+      {
+        "name_en": "Mental arithmetic",
+        "name_vn": "Câu hỏi về tính nhẩm",
+        "name_de": "Kopfrechnen",
+        "name_fr": "Calcul mental",
+        "name_hi": "मानसिक गणना",
+        "name_jp": "心算",
+        "name_ko": "암산",
+        "name_zh": "心算",
+         "key":"mental_arithmetic",
+         "image":"mentalarithmetic.jpg"
+      },
+      {
+        "name_en": "Number sequence",
+        "name_vn": "Câu hỏi về dãy số",
+        "name_de": "Zahlenfolge",
+        "name_fr": "Séquence numérique",
+        "name_hi": "संख्या क्रम",
+        "name_jp": "数列",
+        "name_ko": "숫자 시퀀스",
+        "name_zh": "数列",
+         "key":"number_sequence_test",
+         "image":"numbersequancetest.png"
+      },
+      {
+        "name_en": "Train and boat problems",
+        "name_vn": "Câu hỏi vật lý",
+        "name_de": "Zug- und Bootsprobleme",
+        "name_fr": "Problèmes de train et de bateau",
+        "name_hi": "ट्रेन और नाव की समस्याएँ",
+        "name_jp": "電車とボートの問題",
+        "name_ko": "기차와 보트 문제",
+        "name_zh": "火车和船问题",
+         "key":"train_and_boat_problems",
+         "image":"trainandboatprolems.png"
+      },
+      {
+        "name_en": "Verbal aptitude",
+        "name_vn": "Câu hỏi về ngôn ngữ",
+        "name_de": "Sprachliche Eignung",
+        "name_fr": "Aptitude verbale",
+        "name_hi": "मौखिक योग्यता",
+        "name_jp": "言語適性",
+        "name_ko": "언어 능력",
+        "name_zh": "言语能力",
+         "key":"verbal_aptitude_test",
+         "image":"verbalaptitudetest.png"
+      },
+      {
+        "name_en": "Work profit",
+        "name_vn": "Câu hỏi về hiệu quả công việc",
+        "name_de": "Arbeitsgewinn",
+        "name_fr": "Bénéfice du travail",
+        "name_hi": "कार्य लाभ",
+        "name_jp": "仕事の利益",
+        "name_ko": "작업 이익",
+        "name_zh": "工作利润",
+        "key":"workprofit",
+        "image":"workprofit.png"
+      }
+   ]
+}
