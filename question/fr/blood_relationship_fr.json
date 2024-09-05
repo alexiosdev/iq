@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "question": "Pointing to a photograph of a boy Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
-            "a": "Brother",
-            "b": "Uncle",
+            "question": "En montrant une photo d’un garçon, Suresh a dit : « Il est le fils du fils unique de ma mère. » Quel est le lien entre Suresh et ce garçon ?",
+            "a": "Frère",
+            "b": "Oncle",
             "c": "Cousin",
-            "d": "Father",
+            "d": "Père",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of the son of Suresh's mother i.e., the son of Suresh.! !Hence, Suresh is the father of boy."
+            "explain": "Le garçon sur la photo est le fils unique du fils de la mère de Suresh, c’est-à-dire le fils de Suresh. Par conséquent, Suresh est le père du garçon."
         },
         {
-            "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+            "question": "Si A + B signifie que A est la mère de B ; A - B signifie que A est le frère de B ; A % B signifie que A est le père de B et A x B signifie que A est la sœur de B, lequel des éléments suivants montre que P est l’oncle maternel de Q ?",
             "a": "Q - N + M x P",
             "b": "P + S x N - Q",
             "c": "P - M + N x Q",
@@ -20,21 +20,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P - M = P is the brother of M! !M + N = M is the mother of N! !N x Q = N is the sister of Q! !Therefore, P is the maternal uncle of Q."
+            "explain": "P - M = P est le frère de M. M + N = M est la mère de N. N x Q = N est la sœur de Q. Par conséquent, P est l’oncle maternel de Q."
         },
         {
-            "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-            "a": "Brother",
-            "b": "Sister",
-            "c": "Nephew",
-            "d": "None of these",
+            "question": "Si A est le frère de B ; B est la sœur de C ; et C est le père de D, quel est le lien entre D et A ?",
+            "a": "Frère",
+            "b": "Sœur",
+            "c": "Neveu",
+            "d": "Aucun de ces",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "If D is Male, the answer is Nephew.! !If D is Female, the answer is Niece.! !As the sex of D is not known, hence, the relation between D and A cannot be determined.! !Note;!   Niece - A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law.!Nephew - A son of one's brother or sister, or of one's brother-in-law or sister-in-law."
+            "explain": "Si D est masculin, la réponse est neveu. Si D est féminin, la réponse est nièce. Comme le sexe de D n’est pas connu, la relation entre D et A ne peut pas être déterminée. Note : Nièce - Fille du frère ou de la sœur, ou d’un beau-frère ou d’une belle-sœur. Neveu - Fils du frère ou de la sœur, ou d’un beau-frère ou d’une belle-sœur."
         },
         {
-            "question": "If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?",
+            "question": "Si A + B signifie que A est le frère de B ; A - B signifie que A est la sœur de B et A x B signifie que A est le père de B. Lequel des éléments suivants signifie que C est le fils de M ?",
             "a": "M - N x C + F",
             "b": "F - C + N x M",
             "c": "N + M - F x C",
@@ -42,87 +42,87 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M x N = M is the father of N! !N - C = N is the sister of C! !and C + F = C is the brother of F.! !Hence, M is the father of C or C is the son of M."
+            "explain": "M x N = M est le père de N. N - C = N est la sœur de C. C + F = C est le frère de F. Par conséquent, M est le père de C ou C est le fils de M."
         },
         {
-            "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
-            "a": "Brother",
-            "b": "Nephew",
-            "c": "Uncle",
-            "d": "Son",
+            "question": "En présentant un garçon, une fille a dit : « Il est le fils de la fille du père de mon oncle. » Quel est le lien entre le garçon et la fille ?",
+            "a": "Frère",
+            "b": "Neveu",
+            "c": "Oncle",
+            "d": "Fils",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The father of the boy's uncle = the grandfather of the boy! !daughter of the grandfather = sister of father."
+            "explain": "Le père de l’oncle du garçon = le grand-père du garçon ! Fille du grand-père = sœur du père."
         },
         {
-            "question": "Pointing to a photograph Lata says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Lata?",
-            "a": "Brother",
-            "b": "Uncle",
+            "question": "En montrant une photo, Lata a dit : « Il est le fils du fils unique de mon grand-père. » Quel est le lien entre l’homme sur la photo et Lata ?",
+            "a": "Frère",
+            "b": "Oncle",
             "c": "Cousin",
-            "d": "Data inadequate",
+            "d": "Données insuffisantes",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is the son of the only son of Lata's grandfather i.e., the man is the son of Lata's father. Hence, the man is the brother of Lata."
+            "explain": "L’homme sur la photo est le fils du fils unique du grand-père de Lata, c’est-à-dire le fils du père de Lata. Par conséquent, l’homme est le frère de Lata."
         },
         {
-            "question": "If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?",
+            "question": "Si A + B signifie que A est le frère de B ; A x B signifie que A est le fils de B ; et A % B signifie que B est la fille de A, lequel des éléments suivants signifie que M est l’oncle maternel de N ?",
             "a": "M + O x N",
             "b": "M % O x N + P",
             "c": "M + O % N",
-            "d": "None of these",
+            "d": "Aucun de ces",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Because the sex of O is not known."
+            "explain": "Parce que le sexe de O n’est pas connu."
         },
         {
-            "question": "Pointing to a photograph. Bajpai said, \"He is the son of the only daughter of the father of my brother.\" How Bajpai is related to the man in the photograph?",
-            "a": "Nephew",
-            "b": "Brother",
-            "c": "Father",
-            "d": "Maternal Uncle",
+            "question": "En montrant une photo, Bajpai a dit : « Il est le fils de la fille unique du père de mon frère. » Quel est le lien entre Bajpai et l’homme sur la photo ?",
+            "a": "Neveu",
+            "b": "Frère",
+            "c": "Père",
+            "d": "Oncle maternel",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photo is the son of the sister of Bajpai. Hence, Bajpai is the maternal uncle of the man in the photograph."
+            "explain": "L’homme sur la photo est le fils de la sœur de Bajpai. Par conséquent, Bajpai est l’oncle maternel de l’homme sur la photo."
         },
         {
-            "question": "Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?",
-            "a": "Son",
-            "b": "Brother",
+            "question": "Deepak a dit à Nitin : « Ce garçon qui joue au football est le plus jeune des deux frères de la fille de la femme de mon père. » Quel est le lien entre le garçon qui joue au football et Deepak ?",
+            "a": "Fils",
+            "b": "Frère",
             "c": "Cousin",
-            "d": "Brother-in-law",
+            "d": "Beau-frère",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father's wife = mother.! !Hence, the daughter of the mother means sister and sister's younger brother means brother.! !Therefore, the boy is the brother of Deepak."
+            "explain": "La femme du père = mère. Par conséquent, la fille de la mère signifie sœur et le frère plus jeune de la sœur signifie frère. Par conséquent, le garçon est le frère de Deepak."
         },
         {
-            "question": "Pointing a photograph X said to his friend Y, \"She is the only daughter of the father of my mother.\" How X is related to the person of photograph?",
-            "a": "Daughter",
-            "b": "Son",
-            "c": "Nephew",
-            "d": "Brother",
+            "question": "En montrant une photo, X a dit à son ami Y : « Elle est la fille unique du père de ma mère. » Quel est le lien entre X et la personne sur la photo ?",
+            "a": "Fille",
+            "b": "Fils",
+            "c": "Neveu",
+            "d": "Frère",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "'The only daughter of the father of X's mother' means mother of X.! !Hence X is the son of the lady in the photograph."
+            "explain": "La seule fille du père de la mère de X signifie la mère de X. Par conséquent, X est le fils de la femme sur la photo."
         },
         {
-            "question": "Veena who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep who is the only brother of Ashok. How Kalyani is related to Ashok?",
-            "a": "Mother-in-law",
-            "b": "Aunt",
-            "c": "Wife",
-            "d": "None of these",
+            "question": "Veena, qui est la belle-sœur d’Ashok, est la belle-fille de Kalyani. Dheeraj est le père de Sudeep, qui est le seul frère d’Ashok. Quel est le lien entre Kalyani et Ashok ?",
+            "a": "Belle-mère",
+            "b": "Tante",
+            "c": "Épouse",
+            "d": "Aucun de ces",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ashok is the only brother of Sudeep and Veena is the sister-in-law of Ashok.! !Hence Veena is the wife of Sudeep.! !Kalyani is the mother-in-law of Veena.!Kalyani is the mother of Ashok."
+            "explain": "Ashok est le seul frère de Sudeep et Veena est la belle-sœur d’Ashok. Par conséquent, Veena est l’épouse de Sudeep. Kalyani est la belle-mère de Veena. Kalyani est la mère d’Ashok."
         },
         {
-            "question": "If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?",
+            "question": "Si A + B signifie que A est la sœur de B ; A x B signifie que A est l’épouse de B ; A % B signifie que A est le père de B et A - B signifie que A est le frère de B, lequel des éléments suivants signifie que T est la fille de P ?",
             "a": "P x Q % R + S - T",
             "b": "P x Q % R - T + S",
             "c": "P x Q % R + T - S",
@@ -130,76 +130,76 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P x Q = P is the wife of Q! !Q % R = Q is the father of R! !R - T = R is the brother of T! !T + S = T is the sister of S.! !Therefore, T is the daughter of P."
+            "explain": "P x Q = P est l’épouse de Q. Q % R = Q est le père de R. R - T = R est le frère de T. T + S = T est la sœur de S. Par conséquent, T est la fille de P."
         },
         {
-            "question": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Mother-in-law",
-            "d": "Sister",
+            "question": "En montrant une femme, Abhijit a dit : « Sa petite-fille est la seule fille de mon frère. » Quel est le lien entre la femme et Abhijit ?",
+            "a": "Mère",
+            "b": "Grand-mère",
+            "c": "Belle-mère",
+            "d": "Sœur",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Daughter of Abhijit's brother = niece of Abhijit.! !Thus the granddaughter of the woman is Abhijit's niece.! !Hence, the woman is the mother of Abhijit."
+            "explain": "La fille du frère d’Abhijit = nièce d’Abhijit. Par conséquent, la petite-fille de la femme est la nièce d’Abhijit. Par conséquent, la femme est la mère d’Abhijit."
         },
         {
-            "question": "Amit said - \"This girl is the wife of the grandson of my mother\". How is Amit related to the girl?",
-            "a": "Brother",
-            "b": "Grandfather",
-            "c": "Father-in-law",
-            "d": "Husband",
+            "question": "Amit a dit : « Cette fille est la femme du petit-fils de ma mère. » Quel est le lien entre Amit et la fille ?",
+            "a": "Frère",
+            "b": "Grand-père",
+            "c": "Beau-père",
+            "d": "Mari",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the wife of grandson of Amit's mother i.e., the girl is the wife of son of Amit.! !Hence, Amit is the father-in-law of the girl."
+            "explain": "La fille est l’épouse du petit-fils de la mère d’Amit, c’est-à-dire l’épouse du fils d’Amit. Par conséquent, Amit est le beau-père de la fille."
         },
         {
-            "question": "A and B are children of D. Who is the father of A? To answer this question which of the statements (1) and (2) is necessary? (1) C is the brother of A and the son of E.   (2) F is the mother B.",
-            "a": "Only (1)",
-            "b": "Only (2)",
-            "c": "Either (1) or (2)",
-            "d": "(1) and (2) both",
+            "question": "A et B sont les enfants de D. Qui est le père de A ? Pour répondre à cette question, laquelle des déclarations (1) et (2) est nécessaire ? (1) C est le frère de A et le fils de E. (2) F est la mère de B.",
+            "a": "Seulement (1)",
+            "b": "Seulement (2)",
+            "c": "Soit (1) ou (2)",
+            "d": "(1) et (2) tous les deux",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A and B are children of D.! !From (1), C is the brother B and son of E.! !Since, the sex of D and E are not known. Hence (1) is not sufficient to answer the question.! !From (2). F is the mother of B. Hence, F is also the mother of A. Hence D is the father of A.! !Thus, (2) is sufficient to answer the question."
+            "explain": "A et B sont les enfants de D. À partir de (1), C est le frère de B et le fils de E. Comme le sexe de D et E n’est pas connu, (1) n’est pas suffisant pour répondre à la question. À partir de (2), F est la mère de B. Donc, F est aussi la mère de A. Par conséquent, D est le père de A. Ainsi, (2) est suffisant pour répondre à la question."
         },
         {
-            "question": "Pointing towards a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Sister",
-            "d": "Daughter",
+            "question": "En désignant un homme, une femme a dit : « Sa mère est la seule fille de ma mère. » Quel est le lien entre la femme et l’homme ?",
+            "a": "Mère",
+            "b": "Grand-mère",
+            "c": "Sœur",
+            "d": "Fille",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Only daughter of my mother = myself.! !Hence, the woman is the mother of the man."
+            "explain": "La seule fille de ma mère = moi-même. Donc, la femme est la mère de l’homme."
         },
         {
-            "question": "If P $ Q means P is the brother of Q; P # Q means P is the mother of Q; P * Q means P is the daughter of Q in A # B $ C * D, who is the father?",
+            "question": "Si P $ Q signifie que P est le frère de Q ; P # Q signifie que P est la mère de Q ; P * Q signifie que P est la fille de Q, qui est le père dans A # B $ C * D ?",
             "a": "D",
             "b": "B",
             "c": "C",
-            "d": "None of these",
+            "d": "Aucun de ces",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A is the mother of B, B is the brother of C and C is the daughter of D.! !Hence, D is the father."
+            "explain": "A est la mère de B, B est le frère de C et C est la fille de D. Donc, D est le père."
         },
         {
-            "question": "Introducing Sonia, Aamir says, \"She is the wife of only nephew of only brother of my mother.\" How Sonia is related to Aamir?",
-            "a": "Sister-in-law",
-            "b": "Sister",
-            "c": "Wife",
-            "d": "Data is inadequate",
+            "question": "En introduisant Sonia, Aamir dit : « Elle est l’épouse du seul neveu du seul frère de ma mère. » Quel est le lien entre Sonia et Aamir ?",
+            "a": "Belle-sœur",
+            "b": "Sœur",
+            "c": "Épouse",
+            "d": "Données insuffisantes",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of mother means maternal uncle.! !Hence only nephew of Aamir's maternal uncle means Aamir himself.! !Therefore Sonia is the wife of Aamir."
+            "explain": "Le frère de la mère signifie l’oncle maternel. Donc, le seul neveu de l’oncle maternel d’Aamir signifie Aamir lui-même. Par conséquent, Sonia est la femme d’Aamir."
         },
         {
-            "question": "If A + B means A is the brother of B; A % B means A is the father of B and A x B means A is the sister of B. Which of the following means M is the uncle of P?",
+            "question": "Si A + B signifie que A est le frère de B ; A % B signifie que A est le père de B et A x B signifie que A est la sœur de B. Lequel des suivants signifie que M est l’oncle de P ?",
             "a": "M % N x P",
             "b": "N x P % M",
             "c": "M + S % R % P",
@@ -207,32 +207,32 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M + K = M is the brother of K! !K % T = K is the father of T! !T x P = T is the sister of P! !Therefore, K is the father of P and M is the uncle of P."
+            "explain": "M + K = M est le frère de K. K % T = K est le père de T. T x P = T est la sœur de P. Par conséquent, K est le père de P et M est l’oncle de P."
         },
         {
-            "question": "Pointing to Varman, Madhav said, \"I am the only son of one of the sons of his father.\" How is Varman related to Madhav?",
-            "a": "Nephew",
-            "b": "Uncle",
-            "c": "Father or Uncle",
-            "d": "Father",
+            "question": "En désignant Varman, Madhav dit : « Je suis le fils unique de l’un des fils de son père. » Quel est le lien entre Varman et Madhav ?",
+            "a": "Neveu",
+            "b": "Oncle",
+            "c": "Père ou Oncle",
+            "d": "Père",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Madhav is the only son of one of the sons of Varman's father! !So, Either Varman is the father or uncle of Madhav."
+            "explain": "Madhav est le fils unique d’un des fils du père de Varman. Donc, Varman est soit le père, soit l’oncle de Madhav."
         },
         {
-            "question": "Introducing a woman, Shashank said, \"She is the mother of the only daughter of my son.\" How that woman is related to Shashank?",
-            "a": "Daughter",
-            "b": "Sister-in-law",
-            "c": "Wife",
-            "d": "Daughter-in-law",
+            "question": "En introduisant une femme, Shashank dit : « Elle est la mère de la seule fille de mon fils. » Quel est le lien entre cette femme et Shashank ?",
+            "a": "Fille",
+            "b": "Belle-sœur",
+            "c": "Épouse",
+            "d": "Belle-fille",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The woman is the mother of Shashank's granddaughter.! !Hence, the woman is the daughter-in-law of Shashank. "
+            "explain": "La femme est la mère de la petite-fille de Shashank. Donc, la femme est la belle-fille de Shashank."
         },
         {
-            "question": "If A + B means B is the brother of A; A x B means B is the husband of A; A - B means A is the mother of B and A % B means A is the father of B, which of the following relations shows that Q is the grandmother of T?",
+            "question": "Si A + B signifie que B est le frère de A ; A x B signifie que B est le mari de A ; A - B signifie que A est la mère de B et A % B signifie que A est le père de B, lequel des relations suivantes montre que Q est la grand-mère de T ?",
             "a": "Q - P + R % T",
             "b": "P x Q % R - T",
             "c": "P x Q % R + T",
@@ -240,10 +240,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q - P = Q is the mother of P! !P + R = R is the brother of P! !Hence, Q is the mother of R! !R % T = R is the father of T.! !Hence, Q is the grandmother of T."
+            "explain": "Q - P = Q est la mère de P. P + R = R est le frère de P. Donc, Q est la mère de R. R % T = R est le père de T. Donc, Q est la grand-mère de T."
         },
         {
-            "question": "A3P means A is the mother of P , A4P means A is the brother of P , A9P means A is the husband of P , A5P means A is the daughter of P ; Which of the following means that K is the mother-in-law of M?",
+            "question": "A3P signifie que A est la mère de P, A4P signifie que A est le frère de P, A9P signifie que A est le mari de P, A5P signifie que A est la fille de P ; Lequel des suivants signifie que K est la belle-mère de M ?",
             "a": "M9N3K4J",
             "b": "M9N5K3J",
             "c": "K5J9M3N",
@@ -251,54 +251,54 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M9N = M is the husband of N! !N5K = N is the daughter of K! !Hence, M is the son-in-law of K! !K3J = K is the mother of J! !Hence, K is a lady! !Hence, K is the mother-in-law of M."
+            "explain": "M9N = M est le mari de N. N5K = N est la fille de K. Donc, M est le gendre de K. K3J = K est la mère de J. Donc, K est une femme. Donc, K est la belle-mère de M."
         },
         {
-            "question": "Pointing to a photograph Anjali said, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Anjali?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Son",
-            "d": "Data inadequate",
+            "question": "En désignant une photographie, Anjali dit : « Il est le fils du seul fils de mon grand-père. » Quel est le lien entre l’homme sur la photographie et Anjali ?",
+            "a": "Frère",
+            "b": "Oncle",
+            "c": "Fils",
+            "d": "Données insuffisantes",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is son of Anjali's grandfather's son i.e., the son of Anjali's father.! !Hence, the boy is the brother of Anjali."
+            "explain": "L’homme sur la photo est le fils du seul fils de la mère de la femme, c’est-à-dire le fils du père de la femme. Donc, l’homme est le frère de la femme."
         },
         {
-            "question": "Pointing to a person, Deepak said, \"His only brother is the father of my daughter's father\". How is the person related to Deepak?",
-            "a": "Father",
-            "b": "Grandfather",
-            "c": "Uncle",
-            "d": "Brother-in-law",
+            "question": "En désignant une personne, Deepak dit : « Son seul frère est le père du père de ma fille. » Quel est le lien entre cette personne et Deepak ?",
+            "a": "Père",
+            "b": "Grand-père",
+            "c": "Oncle",
+            "d": "Beau-frère",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father of Deepak's daughter's father = Deepak's father.! !Hence, the person in the brother of Deepak's father.! !Therefore, the person is the uncle of Deepak."
+            "explain": "Le père du père de la fille de Deepak = le père de Deepak. Donc, la personne est le frère du père de Deepak. Par conséquent, la personne est l’oncle de Deepak."
         },
         {
-            "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Aunt",
-            "d": "Data inadequate",
+            "question": "P est la mère de K ; K est la sœur de D ; D est le père de J. Quel est le lien entre P et J ?",
+            "a": "Mère",
+            "b": "Grand-mère",
+            "c": "Tante",
+            "d": "Données insuffisantes",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P is the mother of K! !K is the sister of D! !D is the father of J.! !Therefore, J is the nephew or niece of K and P is the grandmother of J."
+            "explain": "P est la mère de K. K est la sœur de D. D est le père de J. Donc, J est le neveu ou la nièce de K et P est la grand-mère de J."
         },
         {
-            "question": "If P $ Q means P is the father of Q; P # Q means P is the mother of Q and P * Q means P is the sister of Q, then N # L $ P * Q shows which of the relation of Q to N?",
-            "a": "Grand son",
-            "b": "Grand daughter",
-            "c": "Nephew",
-            "d": "Data is inadequate",
+            "question": "Si P $ Q signifie que P est le père de Q ; P # Q signifie que P est la mère de Q et P * Q signifie que P est la sœur de Q, alors N # L $ P * Q montre quelle relation de Q à N ?",
+            "a": "Petit-fils",
+            "b": "Petite-fille",
+            "c": "Neveu",
+            "d": "Données insuffisantes",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the sex of Q is not known, hence, data is inadequate."
+            "explain": "Comme le sexe de Q n’est pas connu, les données sont insuffisantes."
         },
         {
-            "question": "If A $ B means A is the brother of B; A / B means A is the wife of B; A # B means A is the daughter of B and A * B means A is the father of B, which of the following indicates that U is the father-in-law of P?",
+            "question": "Si A $ B signifie qu’A est le frère de B ; A / B signifie qu’A est l’épouse de B ; A # B signifie qu’A est la fille de B et A * B signifie qu’A est le père de B, lequel des suivants indique que U est le beau-père de P ?",
             "a": "P / Q $ T # U * W",
             "b": "P / W $ Q * T # U",
             "c": "P / Q $ W * T # U",
@@ -306,54 +306,54 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(1) P / Q = P is the wife of Q! !(2) Q $ T = Q is the brother of T! !T # U = T is the daughter of U! !Hence,!(3)Q is the son of U! !U * W = U is the father of W.! !From (1) and (3), U is the father-in-law of P."
+            "explain": "(1) P / Q = P est la femme de Q. (2) Q $ T = Q est le frère de T. T # U = T est la fille de U. Donc, (3) Q est le fils de U. U * W = U est le père de W. À partir de (1) et (3), U est le beau-père de P."
         },
         {
-            "question": "Introducing a man, a woman said, \"He is the only son of the mother of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Niece",
-            "d": "Maternal aunt",
+            "question": "En introduisant un homme, une femme dit : « Il est le fils unique de la mère de ma mère. » Quel est le lien entre la femme et l’homme ?",
+            "a": "Mère",
+            "b": "Sœur",
+            "c": "Nièce",
+            "d": "Tante maternelle",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man is the only son of the mother of the woman.! !Hence, the man is the maternal uncle of the woman.! !So, the woman is the niece of the man."
+            "explain": "L’homme est le fils unique de la mère de la femme. Donc, l’homme est l’oncle de la femme. Donc, la femme est la nièce de l’homme."
         },
         {
-            "question": "Pointing to Gopi, Nalni says, \"I am the daughter of the only son of his grandfather.\" How Nalni is related to Gopi?",
-            "a": "Niece",
-            "b": "Daughter",
-            "c": "Sister",
-            "d": "Aunt",
+            "question": "En montrant Gopi, Nalni dit : « Je suis la fille du seul fils de son grand-père. » Quel est le lien entre Nalni et Gopi ?",
+            "a": "Nièce",
+            "b": "Fille",
+            "c": "Sœur",
+            "d": "Tante",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Nalni is the daughter of the only son of Gopi's grandfather.! !Hence, it's clear that Nalni is the sister of Gopi."
+            "explain": "A et B sont les enfants de D. D’après (1), C est le frère de B et le fils de E. Comme le sexe de D et E n’est pas connu, (1) n’est pas suffisant pour répondre à la question. D’après (2), F est la mère de B. Donc, F est aussi la mère de A. Donc, D est le père de A. Ainsi, (2) est suffisant pour répondre à la question."
         },
         {
-            "question": "A's son B is married with C whose sister D is married to E the brother of B. How D is related to A?",
-            "a": "Sister",
-            "b": "Daughter's-in-law",
-            "c": "Sister-in-law",
+            "question": "Le fils de A, B, est marié à C dont la sœur D est mariée à E, le frère de B. Quel est le lien entre D et A ?",
+            "a": "Sœur",
+            "b": "Belle-fille",
+            "c": "Belle-sœur",
             "d": "Cousin",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Since E is the brother of B! !Therefore, A is the father of E! !but D is the wife of E.! !Hence, D is the daughter-in-law of A."
+            "explain": "La seule fille de ma mère = moi-même. Donc, la femme est la mère de l’homme."
         },
         {
-            "question": "Pointing to a lady a person said, \"The son of her only brother is the brother of my wife.\" How is the lady related to the person?",
-            "a": "Maternal aunt",
-            "b": "Grandmother",
-            "c": "Sister of father-in-law",
-            "d": "None of these",
+            "question": "En montrant une femme, une personne dit : « Le fils de son seul frère est le frère de ma femme. » Quel est le lien entre cette femme et la personne ?",
+            "a": "Tante",
+            "b": "Grand-mère",
+            "c": "Sœur du beau-père",
+            "d": "Aucun de ces",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of person's wife is brother-in-law of the person.! !Hence, the son of lady's brother is brother-in-law of the person.! !Therefore, the brother of the lady is the father-in-law of the person. Hence, the lady is the sister of the person's father-in-law."
+            "explain": "A est la mère de B, B est le frère de C et C est la fille de D. Donc, D est le père."
         },
         {
-            "question": "B5D means B is the father of D , B9D means B is the sister of D , B4D means B is the brother of D , B3D means B is the wife of D ; Which of the following means F is the mother of K?",
+            "question": "B5D signifie que B est le père de D, B9D signifie que B est la sœur de D, B4D signifie que B est le frère de D, et B3D signifie que B est l’épouse de D. Laquelle des affirmations suivantes signifie que F est la mère de K ?",
             "a": "F3M5K",
             "b": "F5M3K",
             "c": "F9M4N3K",
@@ -361,10 +361,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "F3M = F is the wife of M! !M5K = M is the father of K! !Therefore, F is the mother of K."
+            "explain": "Le frère de la mère signifie l’oncle maternel. Donc, le seul neveu de l’oncle maternel d’Aamir est Aamir lui-même. Donc, Sonia est la femme d’Aamir."
         },
         {
-            "question": "A $ B means A is the father of B; A # B means A is the sister of B; A * B means A is the daughter of B and A / B means A is the brother of B. Which of the following indicates that M is the wife of Q?",
+            "question": "A $ B signifie que A est le père de B ; A # B signifie que A est la sœur de B ; A * B signifie que A est la fille de B et A / B signifie que A est le frère de B. Laquelle des affirmations suivantes montre que M est l’épouse de Q ?",
             "a": "Q $ R # T / M",
             "b": "Q $ R / T # M",
             "c": "Q $ R * T # M",
@@ -372,65 +372,65 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q $ R = Q is the father of R! !R / T = R is the brother of T! !Hence, Q is the father of T! !T * M = T is the daughter of M! !Hence, M is the mother of T! !Hence, M is the wife of Q."
+            "explain": "M + K = M est le frère de K. K % T = K est le père de T. T x P = T est la sœur de P. Donc, K est le père de P et M est l’oncle de P."
         },
         {
-            "question": "If A $ B means A is the brother of B; B * C means B is the son of C; C / D means C is the wife of D and A # D means A is the son of D, how C is related to A?",
-            "a": "Grandmother",
-            "b": "Maternal aunt",
-            "c": "Aunt",
-            "d": "Mother",
+            "question": "Si A $ B signifie que A est le frère de B ; B * C signifie que B est le fils de C ; C / D signifie que C est l’épouse de D et A # D signifie que A est le fils de D, quel est le lien entre C et A ?",
+            "a": "Grand-mère",
+            "b": "Tante",
+            "c": "Tante",
+            "d": "Mère",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A $ B = A is the brother of B! !B * C = B is the son of C! !Hence, A is the son of C! !C / D = C is the wife of D! !Hence, C is the mother of A."
+            "explain": "Madhav est le fils unique d’un des fils du père de Varman. Donc, Varman est soit le père, soit l’oncle de Madhav."
         },
         {
-            "question": "Pointing to a girl Sandeep said, \"She is the daughter of the only sister of my father.\" How is sandeep related to the girl?",
-            "a": "Uncle",
-            "b": "Cousin",
-            "c": "Father",
-            "d": "Grandfather",
+            "question": "En montrant une fille, Sandeep dit : « Elle est la fille de la seule sœur de mon père. » Quel est le lien entre Sandeep et la fille ?",
+            "a": "Oncle",
+            "b": "Cousine",
+            "c": "Père",
+            "d": "Grand-père",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the daughter of the sister of Sandeep's father.! !Hence, the girl is the cousin or Sandeep is the cousin of the girl."
+            "explain": "La femme est la mère de la petite-fille de Shashank. Donc, la femme est la belle-fille de Shashank."
         },
         {
-            "question": "Pointing to a boy in the photograph Reena said, \"He is the only son of the only child of my grandfather.\" How Reena is related to that boy?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "En montrant un garçon sur une photo, Reena dit : « Il est le fils unique de l’unique enfant de mon grand-père. » Quel est le lien entre Reena et ce garçon ?",
+            "a": "Mère",
+            "b": "Sœur",
+            "c": "Tante",
+            "d": "Aucun de ces",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of Reena's grandfather's only son; i.e., the boy is the only son of Reena's father.! !Hence, the boy is the brother of Reena or Reena is the sister of the boy."
+            "explain": "Q - P = Q est la mère de P. P + R = R est le frère de P. Donc, Q est la mère de R. R % T = R est le père de T. Donc, Q est la grand-mère de T."
         },
         {
-            "question": "A * B means A is the sister of B , A $ B means B is the mother of A , A + B means A is the brother of B , A = B means B is the father of A ; Which of the following means M is the maternal uncle of N?",
+            "question": "A * B signifie que A est la sœur de B, A $ B signifie que B est la mère de A, A + B signifie que A est le frère de B, et A = B signifie que B est le père de A ; Laquelle des affirmations suivantes signifie que M est l’oncle maternel de N ?",
             "a": "M = P + Q * N",
             "b": "N + P = Q * M",
             "c": "N * P $ Q * M",
-            "d": "None of these",
+            "d": "Aucun de ces",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "M9N = M est le mari de N. N5K = N est la fille de K. Donc, M est le gendre de K. K3J = K est la mère de J. Donc, K est une femme. Donc, K est la belle-mère de M."
         },
         {
-            "question": "If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N then P % Q + R - T x K indicates which relation of P to K?",
-            "a": "Daughter-in-law",
-            "b": "Sister-in-law",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "Si M x N signifie que M est la fille de N ; M + N signifie que M est le père de N ; M % N signifie que M est la mère de N et M - N signifie que M est le frère de N, quel lien P % Q + R - T x K indique-t-il entre P et K ?",
+            "a": "Belle-fille",
+            "b": "Belle-sœur",
+            "c": "Tante",
+            "d": "Aucun de ces",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P % Q = P is the mother of Q! !Q + R = Q is the father of R! !R - T = R is the brother of T! !Hence, Q is the father of T! !T x K = T is the daughter of K! !Hence, Q is the husband of K.! !Therefore, P is the mother-in-law of K."
+            "explain": "L’homme sur la photo est le fils du seul fils de la mère de la femme, c’est-à-dire le fils du père de la femme. Donc, l’homme est le frère de la femme."
         },
         {
-            "question": "If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q, which of the following relations shows that I is the niece of K?",
+            "question": "Si P + Q signifie que P est le frère de Q ; P x Q signifie que P est le père de Q et P - Q signifie que P est la sœur de Q, laquelle des relations suivantes montre que I est la nièce de K ?",
             "a": "K + Y + Z - I",
             "b": "K + Y x I - Z",
             "c": "Z - I x Y + K",
@@ -438,7 +438,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "K + Y = K is the brother of Y! !Y x I = Y is the father of I! !Hence, K is the uncle of I! !and I - Z = I is the sister of Z! !Hence, I is the niece of K."
+            "explain": "Le père du père de la fille de Deepak = le père de Deepak. Donc, la personne est le frère du père de Deepak. Donc, la personne est l’oncle de Deepak."
         }
     ]
 }

@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "question": "Pointing to a photograph of a boy Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Father",
+            "question": "指着一个男孩的照片，Suresh说：“他是我母亲唯一的儿子的儿子。” Suresh和那个男孩的关系是什么？",
+            "a": "兄",
+            "b": "叔叔",
+            "c": "堂兄",
+            "d": "父亲",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of the son of Suresh's mother i.e., the son of Suresh.! !Hence, Suresh is the father of boy."
+            "explain": "照片中的男孩是Suresh母亲唯一儿子的儿子，也就是Suresh的儿子。因此，Suresh是那个男孩的父亲。"
         },
         {
-            "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+            "question": "如果A + B表示A是B的母亲；A - B表示A是B的兄弟；A % B表示A是B的父亲，而A x B表示A是B的姐妹，那么以下哪个表示P是Q的舅舅？",
             "a": "Q - N + M x P",
             "b": "P + S x N - Q",
             "c": "P - M + N x Q",
@@ -20,21 +20,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P - M = P is the brother of M! !M + N = M is the mother of N! !N x Q = N is the sister of Q! !Therefore, P is the maternal uncle of Q."
+            "explain": "P - M = P是M的兄弟。M + N = M是N的母亲。N x Q = N是Q的姐妹。因此，P是Q的外叔叔。"
         },
         {
-            "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-            "a": "Brother",
-            "b": "Sister",
-            "c": "Nephew",
-            "d": "None of these",
+            "question": "如果A是B的兄弟；B是C的姐妹；C是D的父亲，那么D和A的关系是什么？",
+            "a": "兄",
+            "b": "姐妹",
+            "c": "侄子",
+            "d": "这些都没有",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "If D is Male, the answer is Nephew.! !If D is Female, the answer is Niece.! !As the sex of D is not known, hence, the relation between D and A cannot be determined.! !Note;!   Niece - A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law.!Nephew - A son of one's brother or sister, or of one's brother-in-law or sister-in-law."
+            "explain": "如果D是男性，则答案是侄子。如果D是女性，则答案是侄女。由于D的性别未知，因此无法确定D与A的关系。注意：侄女 - 兄弟或姐妹，或兄弟姐妹的女儿。侄子 - 兄弟或姐妹，或兄弟姐妹的儿子。"
         },
         {
-            "question": "If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?",
+            "question": "如果A + B表示A是B的兄弟；A - B表示A是B的姐妹，而A x B表示A是B的父亲。那么以下哪个表示C是M的儿子？",
             "a": "M - N x C + F",
             "b": "F - C + N x M",
             "c": "N + M - F x C",
@@ -42,87 +42,87 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M x N = M is the father of N! !N - C = N is the sister of C! !and C + F = C is the brother of F.! !Hence, M is the father of C or C is the son of M."
+            "explain": "M x N = M是N的父亲。N - C = N是C的姐妹。C + F = C是F的兄弟。因此，M是C的父亲或C是M的儿子。"
         },
         {
-            "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
-            "a": "Brother",
-            "b": "Nephew",
-            "c": "Uncle",
-            "d": "Son",
+            "question": "介绍一个男孩时，一个女孩说：“他是我叔叔父亲的女儿的儿子。” 那个男孩和女孩的关系是什么？",
+            "a": "兄",
+            "b": "侄子",
+            "c": "叔叔",
+            "d": "儿子",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The father of the boy's uncle = the grandfather of the boy! !daughter of the grandfather = sister of father."
+            "explain": "男孩的叔叔的父亲 = 男孩的祖父！祖父的女儿 = 父亲的姐妹。"
         },
         {
-            "question": "Pointing to a photograph Lata says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Lata?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Data inadequate",
+            "question": "指着一张照片，Lata说：“他是我祖父唯一的儿子的儿子。” 照片中的男人和Lata的关系是什么？",
+            "a": "兄",
+            "b": "叔叔",
+            "c": "堂兄",
+            "d": "数据不足",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is the son of the only son of Lata's grandfather i.e., the man is the son of Lata's father. Hence, the man is the brother of Lata."
+            "explain": "照片中的男人是Lata的祖父唯一儿子的儿子，也就是Lata的父亲的儿子。因此，那个男人是Lata的兄弟。"
         },
         {
-            "question": "If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?",
+            "question": "如果A + B表示A是B的兄弟；A x B表示A是B的儿子；而A % B表示B是A的女儿，那么以下哪个表示M是N的舅舅？",
             "a": "M + O x N",
             "b": "M % O x N + P",
             "c": "M + O % N",
-            "d": "None of these",
+            "d": "这些都没有",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Because the sex of O is not known."
+            "explain": "因为O的性别未知。"
         },
         {
-            "question": "Pointing to a photograph. Bajpai said, \"He is the son of the only daughter of the father of my brother.\" How Bajpai is related to the man in the photograph?",
-            "a": "Nephew",
-            "b": "Brother",
-            "c": "Father",
-            "d": "Maternal Uncle",
+            "question": "指着一张照片，Bajpai说：“他是我兄弟的父亲唯一的女儿的儿子。” Bajpai和照片中的男人的关系是什么？",
+            "a": "侄子",
+            "b": "哥哥",
+            "c": "父亲",
+            "d": "舅舅",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photo is the son of the sister of Bajpai. Hence, Bajpai is the maternal uncle of the man in the photograph."
+            "explain": "照片中的男人是Bajpai的姐妹的儿子。因此，Bajpai是照片中男人的外叔叔。"
         },
         {
-            "question": "Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?",
-            "a": "Son",
-            "b": "Brother",
-            "c": "Cousin",
-            "d": "Brother-in-law",
+            "question": "Deepak对Nitin说：“那个踢足球的男孩是我父亲妻子的女儿的两个兄弟中的年幼者。” 踢足球的男孩和Deepak的关系是什么？",
+            "a": "儿子",
+            "b": "哥哥",
+            "c": "堂兄",
+            "d": "姐夫",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father's wife = mother.! !Hence, the daughter of the mother means sister and sister's younger brother means brother.! !Therefore, the boy is the brother of Deepak."
+            "explain": "父亲的妻子 = 母亲。因此，母亲的女儿是姐妹，而姐妹的弟弟是兄弟。因此，那个男孩是Deepak的兄弟。"
         },
         {
-            "question": "Pointing a photograph X said to his friend Y, \"She is the only daughter of the father of my mother.\" How X is related to the person of photograph?",
-            "a": "Daughter",
-            "b": "Son",
-            "c": "Nephew",
-            "d": "Brother",
+            "question": "指着一张照片，X对他的朋友Y说：“她是我母亲的父亲唯一的女儿。” X和照片中的人是什么关系？",
+            "a": "女儿",
+            "b": "儿子",
+            "c": "侄子",
+            "d": "兄弟",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "'The only daughter of the father of X's mother' means mother of X.! !Hence X is the son of the lady in the photograph."
+            "explain": "“X的母亲的唯一女儿”是X的母亲。因此X是照片中女性的儿子。"
         },
         {
-            "question": "Veena who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep who is the only brother of Ashok. How Kalyani is related to Ashok?",
-            "a": "Mother-in-law",
-            "b": "Aunt",
-            "c": "Wife",
-            "d": "None of these",
+            "question": "Veena是Ashok的嫂子，是Kalyani的儿媳。 Dheeraj是Sudeep的父亲，Sudeep是Ashok的唯一兄弟。 Kalyani和Ashok的关系是什么？",
+            "a": "岳母",
+            "b": "姑姑",
+            "c": "妻子",
+            "d": "这些都没有",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ashok is the only brother of Sudeep and Veena is the sister-in-law of Ashok.! !Hence Veena is the wife of Sudeep.! !Kalyani is the mother-in-law of Veena.!Kalyani is the mother of Ashok."
+            "explain": "Ashok是Sudeep的唯一兄弟，Veena是Ashok的嫂子。因此，Veena是Sudeep的妻子。Kalyani是Veena的婆婆。Kalyani是Ashok的母亲。"
         },
         {
-            "question": "If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?",
+            "question": "如果A + B表示A是B的姐妹；A x B表示A是B的妻子；A % B表示A是B的父亲，而A - B表示A是B的兄弟。那么以下哪个表示T是P的女儿？",
             "a": "P x Q % R + S - T",
             "b": "P x Q % R - T + S",
             "c": "P x Q % R + T - S",
@@ -130,76 +130,76 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P x Q = P is the wife of Q! !Q % R = Q is the father of R! !R - T = R is the brother of T! !T + S = T is the sister of S.! !Therefore, T is the daughter of P."
+            "explain": "P x Q = P是Q的妻子。Q % R = Q是R的父亲。R - T = R是T的兄弟。T + S = T是S的姐妹。因此，T是P的女儿。"
         },
         {
-            "question": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Mother-in-law",
-            "d": "Sister",
+            "question": "指着一个女人，Abhijit说：“她的孙女是我兄弟唯一的女儿。” 那个女人和Abhijit的关系是什么？",
+            "a": "母亲",
+            "b": "祖母",
+            "c": "岳母",
+            "d": "姐妹",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Daughter of Abhijit's brother = niece of Abhijit.! !Thus the granddaughter of the woman is Abhijit's niece.! !Hence, the woman is the mother of Abhijit."
+            "explain": "Abhijit的兄弟的女儿 = Abhijit的侄女。因此，那个女人的孙女是Abhijit的侄女。因此，那个女人是Abhijit的母亲。"
         },
         {
-            "question": "Amit said - \"This girl is the wife of the grandson of my mother\". How is Amit related to the girl?",
-            "a": "Brother",
-            "b": "Grandfather",
-            "c": "Father-in-law",
-            "d": "Husband",
+            "question": "Amit说：“这个女孩是我母亲的孙子的妻子。” Amit和这个女孩的关系是什么？",
+            "a": "哥哥",
+            "b": "祖父",
+            "c": "岳父",
+            "d": "丈夫",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the wife of grandson of Amit's mother i.e., the girl is the wife of son of Amit.! !Hence, Amit is the father-in-law of the girl."
+            "explain": "那个女孩是Amit母亲的孙媳，也就是Amit的儿子的妻子。因此，Amit是那个女孩的岳父。"
         },
         {
-            "question": "A and B are children of D. Who is the father of A? To answer this question which of the statements (1) and (2) is necessary? (1) C is the brother of A and the son of E.   (2) F is the mother B.",
-            "a": "Only (1)",
-            "b": "Only (2)",
-            "c": "Either (1) or (2)",
-            "d": "(1) and (2) both",
+            "question": "A 和 B 是 D 的孩子。谁是 A 的父亲？要回答这个问题，哪一个陈述（1）和（2）是必要的？（1）C 是 A 的兄弟，也是 E 的儿子。 （2）F 是 B 的母亲。",
+            "a": "仅 (1)",
+            "b": "仅 (2)",
+            "c": "要么 (1) 或 (2)",
+            "d": "(1)和(2)都",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A and B are children of D.! !From (1), C is the brother B and son of E.! !Since, the sex of D and E are not known. Hence (1) is not sufficient to answer the question.! !From (2). F is the mother of B. Hence, F is also the mother of A. Hence D is the father of A.! !Thus, (2) is sufficient to answer the question."
+            "explain": "A和B是D的孩子。从(1)来看，C是B的哥哥，是E的儿子。由于D和E的性别未知，因此(1)不足以回答问题。从(2)来看，F是B的母亲。因此，F也是A的母亲。因此，D是A的父亲。因此，(2)足以回答问题。"
         },
         {
-            "question": "Pointing towards a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Sister",
-            "d": "Daughter",
+            "question": "指着一个男人，一位女士说：“他的母亲是我母亲唯一的女儿。” 这位女士与那个男人的关系是什么？",
+            "a": "母亲",
+            "b": "祖母",
+            "c": "姐妹",
+            "d": "女儿",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Only daughter of my mother = myself.! !Hence, the woman is the mother of the man."
+            "explain": "我母亲的唯一女儿 = 我自己。因此，那个女人是那个男人的母亲。"
         },
         {
-            "question": "If P $ Q means P is the brother of Q; P # Q means P is the mother of Q; P * Q means P is the daughter of Q in A # B $ C * D, who is the father?",
+            "question": "如果 P $ Q 表示 P 是 Q 的兄弟；P # Q 表示 P 是 Q 的母亲；P * Q 表示 P 是 Q 的女儿，那么在 A # B $ C * D 中，谁是父亲？",
             "a": "D",
             "b": "B",
             "c": "C",
-            "d": "None of these",
+            "d": "这些都没有",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A is the mother of B, B is the brother of C and C is the daughter of D.! !Hence, D is the father."
+            "explain": "A是B的母亲，B是C的哥哥，C是D的女儿。因此，D是父亲。"
         },
         {
-            "question": "Introducing Sonia, Aamir says, \"She is the wife of only nephew of only brother of my mother.\" How Sonia is related to Aamir?",
-            "a": "Sister-in-law",
-            "b": "Sister",
-            "c": "Wife",
-            "d": "Data is inadequate",
+            "question": "介绍 Sonia 时，Aamir 说：“她是我母亲唯一的兄弟的唯一侄子的妻子。” Sonia 与 Aamir 的关系是什么？",
+            "a": "嫂子",
+            "b": "姐姐",
+            "c": "妻子",
+            "d": "数据不足",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of mother means maternal uncle.! !Hence only nephew of Aamir's maternal uncle means Aamir himself.! !Therefore Sonia is the wife of Aamir."
+            "explain": "母亲的哥哥意味着外叔叔。因此，Aamir的外叔叔的唯一侄子就是Aamir本人。因此，Sonia是Aamir的妻子。"
         },
         {
-            "question": "If A + B means A is the brother of B; A % B means A is the father of B and A x B means A is the sister of B. Which of the following means M is the uncle of P?",
+            "question": "如果 A + B 表示 A 是 B 的兄弟；A % B 表示 A 是 B 的父亲，A x B 表示 A 是 B 的姐妹。以下哪项表示 M 是 P 的叔叔？",
             "a": "M % N x P",
             "b": "N x P % M",
             "c": "M + S % R % P",
@@ -207,32 +207,32 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M + K = M is the brother of K! !K % T = K is the father of T! !T x P = T is the sister of P! !Therefore, K is the father of P and M is the uncle of P."
+            "explain": "M + K = M是K的哥哥。K % T = K是T的父亲。T x P = T是P的姐妹。因此，K是P的父亲，M是P的叔叔。"
         },
         {
-            "question": "Pointing to Varman, Madhav said, \"I am the only son of one of the sons of his father.\" How is Varman related to Madhav?",
-            "a": "Nephew",
-            "b": "Uncle",
-            "c": "Father or Uncle",
-            "d": "Father",
+            "question": "指着 Varman，Madhav 说：“我是他父亲的儿子中的唯一儿子。” Varman 与 Madhav 的关系是什么？",
+            "a": "侄子",
+            "b": "叔叔",
+            "c": "父亲 或 叔叔",
+            "d": "父亲",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Madhav is the only son of one of the sons of Varman's father! !So, Either Varman is the father or uncle of Madhav."
+            "explain": "Madhav是Varman的父亲的儿子中的唯一儿子。因此，Varman要么是Madhav的父亲，要么是叔叔。"
         },
         {
-            "question": "Introducing a woman, Shashank said, \"She is the mother of the only daughter of my son.\" How that woman is related to Shashank?",
-            "a": "Daughter",
-            "b": "Sister-in-law",
-            "c": "Wife",
-            "d": "Daughter-in-law",
+            "question": "介绍一位女士时，Shashank 说：“她是我儿子的唯一女儿的母亲。” 那位女士与 Shashank 的关系是什么？",
+            "a": "女儿",
+            "b": "嫂子",
+            "c": "妻子",
+            "d": "儿媳",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The woman is the mother of Shashank's granddaughter.! !Hence, the woman is the daughter-in-law of Shashank. "
+            "explain": "那个女人是Shashank的孙女的母亲。因此，那个女人是Shashank的儿媳。"
         },
         {
-            "question": "If A + B means B is the brother of A; A x B means B is the husband of A; A - B means A is the mother of B and A % B means A is the father of B, which of the following relations shows that Q is the grandmother of T?",
+            "question": "如果 A + B 表示 B 是 A 的兄弟；A x B 表示 B 是 A 的丈夫；A - B 表示 A 是 B 的母亲，A % B 表示 A 是 B 的父亲，那么以下哪种关系显示 Q 是 T 的祖母？",
             "a": "Q - P + R % T",
             "b": "P x Q % R - T",
             "c": "P x Q % R + T",
@@ -240,10 +240,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q - P = Q is the mother of P! !P + R = R is the brother of P! !Hence, Q is the mother of R! !R % T = R is the father of T.! !Hence, Q is the grandmother of T."
+            "explain": "Q - P = Q是P的母亲。P + R = R是P的哥哥。因此，Q是R的母亲。R % T = R是T的父亲。因此，Q是T的祖母。"
         },
         {
-            "question": "A3P means A is the mother of P , A4P means A is the brother of P , A9P means A is the husband of P , A5P means A is the daughter of P ; Which of the following means that K is the mother-in-law of M?",
+            "question": "A3P 表示 A 是 P 的母亲，A4P 表示 A 是 P 的兄弟，A9P 表示 A 是 P 的丈夫，A5P 表示 A 是 P 的女儿；以下哪项表示 K 是 M 的岳母？",
             "a": "M9N3K4J",
             "b": "M9N5K3J",
             "c": "K5J9M3N",
@@ -251,54 +251,54 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M9N = M is the husband of N! !N5K = N is the daughter of K! !Hence, M is the son-in-law of K! !K3J = K is the mother of J! !Hence, K is a lady! !Hence, K is the mother-in-law of M."
+            "explain": "M9N = M是N的丈夫。N5K = N是K的女儿。因此，M是K的女婿。K3J = K是J的母亲。因此，K是女性。因此，K是M的岳母。"
         },
         {
-            "question": "Pointing to a photograph Anjali said, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Anjali?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Son",
-            "d": "Data inadequate",
+            "question": "指着一张照片，Anjali 说：“他是我祖父唯一儿子的儿子。” 照片中的男人与 Anjali 的关系是什么？",
+            "a": "哥哥",
+            "b": "叔叔",
+            "c": "儿子",
+            "d": "数据不足",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is son of Anjali's grandfather's son i.e., the son of Anjali's father.! !Hence, the boy is the brother of Anjali."
+            "explain": "照片中的男人是那个女人的母亲的唯一儿子的儿子，即那个女人的父亲的儿子。因此，那个男人是那个女人的哥哥。"
         },
         {
-            "question": "Pointing to a person, Deepak said, \"His only brother is the father of my daughter's father\". How is the person related to Deepak?",
-            "a": "Father",
-            "b": "Grandfather",
-            "c": "Uncle",
-            "d": "Brother-in-law",
+            "question": "指着一个人，Deepak 说：“他的唯一兄弟是我女儿的父亲的父亲。” 那个人与 Deepak 的关系是什么？",
+            "a": "父亲",
+            "b": "祖父",
+            "c": "叔叔",
+            "d": "姐夫",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father of Deepak's daughter's father = Deepak's father.! !Hence, the person in the brother of Deepak's father.! !Therefore, the person is the uncle of Deepak."
+            "explain": "Deepak的女儿的父亲的父亲 = Deepak的父亲。因此，那个人是Deepak父亲的兄弟。因此，那个人是Deepak的叔叔。"
         },
         {
-            "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Aunt",
-            "d": "Data inadequate",
+            "question": "P 是 K 的母亲；K 是 D 的姐妹；D 是 J 的父亲。P 与 J 的关系是什么？",
+            "a": "母亲",
+            "b": "祖母",
+            "c": "姨妈",
+            "d": "数据不足",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P is the mother of K! !K is the sister of D! !D is the father of J.! !Therefore, J is the nephew or niece of K and P is the grandmother of J."
+            "explain": "P是K的母亲。K是D的姐妹。D是J的父亲。因此，J是K的侄子或侄女，而P是J的祖母。"
         },
         {
-            "question": "If P $ Q means P is the father of Q; P # Q means P is the mother of Q and P * Q means P is the sister of Q, then N # L $ P * Q shows which of the relation of Q to N?",
-            "a": "Grand son",
-            "b": "Grand daughter",
-            "c": "Nephew",
-            "d": "Data is inadequate",
+            "question": "如果 P $ Q 表示 P 是 Q 的父亲；P # Q 表示 P 是 Q 的母亲，P * Q 表示 P 是 Q 的姐妹，那么 N # L $ P * Q 表示 Q 与 N 的什么关系？",
+            "a": "孙子",
+            "b": "孙女",
+            "c": "侄子",
+            "d": "数据不足",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the sex of Q is not known, hence, data is inadequate."
+            "explain": "由于Q的性别未知，因此数据不充分。"
         },
         {
-            "question": "If A $ B means A is the brother of B; A / B means A is the wife of B; A # B means A is the daughter of B and A * B means A is the father of B, which of the following indicates that U is the father-in-law of P?",
+            "question": "如果 A $ B 表示 A 是 B 的兄弟；A / B 表示 A 是 B 的妻子；A # B 表示 A 是 B 的女儿，A * B 表示 A 是 B 的父亲，那么以下哪项表示 U 是 P 的岳父？",
             "a": "P / Q $ T # U * W",
             "b": "P / W $ Q * T # U",
             "c": "P / Q $ W * T # U",
@@ -306,54 +306,54 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(1) P / Q = P is the wife of Q! !(2) Q $ T = Q is the brother of T! !T # U = T is the daughter of U! !Hence,!(3)Q is the son of U! !U * W = U is the father of W.! !From (1) and (3), U is the father-in-law of P."
+            "explain": "(1) P / Q = P是Q的妻子。 (2) Q $ T = Q是T的哥哥。T # U = T是U的女儿。因此，(3) Q是U的儿子。U * W = U是W的父亲。从(1)和(3)来看，U是P的岳父。"
         },
         {
-            "question": "Introducing a man, a woman said, \"He is the only son of the mother of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Niece",
-            "d": "Maternal aunt",
+            "question": "介绍一个男人时，一位女士说：“他是我母亲的母亲唯一的儿子。” 这位女士与那个男人的关系是什么？",
+            "a": "母亲",
+            "b": "姐妹",
+            "c": "侄女",
+            "d": "姨妈",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man is the only son of the mother of the woman.! !Hence, the man is the maternal uncle of the woman.! !So, the woman is the niece of the man."
+            "explain": "那个人是那个女人的母亲的唯一儿子。因此，那个人是那个女人的舅舅。因此，那女人是那个男人的侄女。"
         },
         {
-            "question": "Pointing to Gopi, Nalni says, \"I am the daughter of the only son of his grandfather.\" How Nalni is related to Gopi?",
-            "a": "Niece",
-            "b": "Daughter",
-            "c": "Sister",
-            "d": "Aunt",
+            "question": "指着Gopi，Nalni说：“我是他祖父唯一儿子的女儿。” Nalni与Gopi的关系是什么？",
+            "a": "侄女",
+            "b": "女儿",
+            "c": "姐妹",
+            "d": "姨妈",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Nalni is the daughter of the only son of Gopi's grandfather.! !Hence, it's clear that Nalni is the sister of Gopi."
+            "explain": "A和B是D的孩子。从(1)来看，C是B的哥哥，并且是E的儿子。由于D和E的性别未知，因此(1)不足以回答问题。从(2)来看，F是B的母亲。因此，F也是A的母亲。因此，D是A的父亲。因此，(2)足以回答问题。"
         },
         {
-            "question": "A's son B is married with C whose sister D is married to E the brother of B. How D is related to A?",
-            "a": "Sister",
-            "b": "Daughter's-in-law",
-            "c": "Sister-in-law",
-            "d": "Cousin",
+            "question": "A的儿子B与C结婚，C的妹妹D与B的兄弟E结婚。D与A的关系是什么？",
+            "a": "姐姐",
+            "b": "儿媳",
+            "c": "嫂子",
+            "d": "堂兄",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Since E is the brother of B! !Therefore, A is the father of E! !but D is the wife of E.! !Hence, D is the daughter-in-law of A."
+            "explain": "母亲的唯一女儿 = 我自己。因此，这个女人是那个男人的母亲。"
         },
         {
-            "question": "Pointing to a lady a person said, \"The son of her only brother is the brother of my wife.\" How is the lady related to the person?",
-            "a": "Maternal aunt",
-            "b": "Grandmother",
-            "c": "Sister of father-in-law",
-            "d": "None of these",
+            "question": "指着一位女士，一个人说：“她唯一的兄弟的儿子是我妻子的兄弟。”那位女士与这个人是什么关系？",
+            "a": "姑姑",
+            "b": "祖母",
+            "c": "岳父的姐妹",
+            "d": "这些都没有",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of person's wife is brother-in-law of the person.! !Hence, the son of lady's brother is brother-in-law of the person.! !Therefore, the brother of the lady is the father-in-law of the person. Hence, the lady is the sister of the person's father-in-law."
+            "explain": "A是B的母亲，B是C的哥哥，C是D的女儿。因此，D是父亲。"
         },
         {
-            "question": "B5D means B is the father of D , B9D means B is the sister of D , B4D means B is the brother of D , B3D means B is the wife of D ; Which of the following means F is the mother of K?",
+            "question": "B5D意味着B是D的父亲，B9D意味着B是D的姐妹，B4D意味着B是D的兄弟，而B3D意味着B是D的妻子。以下哪一项表示F是K的母亲？",
             "a": "F3M5K",
             "b": "F5M3K",
             "c": "F9M4N3K",
@@ -361,10 +361,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "F3M = F is the wife of M! !M5K = M is the father of K! !Therefore, F is the mother of K."
+            "explain": "母亲的兄弟称为外叔。因此，Aamir外叔的唯一侄子是Aamir自己。因此，Sonia是Aamir的妻子。"
         },
         {
-            "question": "A $ B means A is the father of B; A # B means A is the sister of B; A * B means A is the daughter of B and A / B means A is the brother of B. Which of the following indicates that M is the wife of Q?",
+            "question": "A $ B意味着A是B的父亲；A # B意味着A是B的姐妹；A * B意味着A是B的女儿，而A / B意味着A是B的兄弟。以下哪一项表示M是Q的妻子？",
             "a": "Q $ R # T / M",
             "b": "Q $ R / T # M",
             "c": "Q $ R * T # M",
@@ -372,65 +372,65 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q $ R = Q is the father of R! !R / T = R is the brother of T! !Hence, Q is the father of T! !T * M = T is the daughter of M! !Hence, M is the mother of T! !Hence, M is the wife of Q."
+            "explain": "M + K = M是K的哥哥。K % T = K是T的父亲。T x P = T是P的妹妹。因此，K是P的父亲，M是P的叔叔。"
         },
         {
-            "question": "If A $ B means A is the brother of B; B * C means B is the son of C; C / D means C is the wife of D and A # D means A is the son of D, how C is related to A?",
-            "a": "Grandmother",
-            "b": "Maternal aunt",
-            "c": "Aunt",
-            "d": "Mother",
+            "question": "如果A $ B意味着A是B的兄弟；B * C意味着B是C的儿子；C / D意味着C是D的妻子，而A # D意味着A是D的儿子，那么C与A的关系是什么？",
+            "a": "祖母",
+            "b": "姨妈",
+            "c": "姨妈",
+            "d": "母亲",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A $ B = A is the brother of B! !B * C = B is the son of C! !Hence, A is the son of C! !C / D = C is the wife of D! !Hence, C is the mother of A."
+            "explain": "Madhav是Varman的父亲的儿子中唯一的儿子。因此，Varman要么是Madhav的父亲，要么是他的叔叔。"
         },
         {
-            "question": "Pointing to a girl Sandeep said, \"She is the daughter of the only sister of my father.\" How is sandeep related to the girl?",
-            "a": "Uncle",
-            "b": "Cousin",
-            "c": "Father",
-            "d": "Grandfather",
+            "question": "指着一个女孩，Sandeep说：“她是我父亲唯一的姐妹的女儿。”Sandeep与这个女孩的关系是什么？",
+            "a": "叔叔",
+            "b": "表兄弟",
+            "c": "父亲",
+            "d": "祖父",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the daughter of the sister of Sandeep's father.! !Hence, the girl is the cousin or Sandeep is the cousin of the girl."
+            "explain": "这个女人是Shashank的孙女的母亲。因此，这个女人是Shashank的儿媳。"
         },
         {
-            "question": "Pointing to a boy in the photograph Reena said, \"He is the only son of the only child of my grandfather.\" How Reena is related to that boy?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "指着一张男孩的照片，Reena说：“他是我祖父唯一的孩子的儿子。”Reena与这个男孩的关系是什么？",
+            "a": "母亲",
+            "b": "姐妹",
+            "c": "姨妈",
+            "d": "这些都没有",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of Reena's grandfather's only son; i.e., the boy is the only son of Reena's father.! !Hence, the boy is the brother of Reena or Reena is the sister of the boy."
+            "explain": "Q - P = Q是P的母亲。P + R = R是P的哥哥。因此，Q是R的母亲。R % T = R是T的父亲。因此，Q是T的祖母。"
         },
         {
-            "question": "A * B means A is the sister of B , A $ B means B is the mother of A , A + B means A is the brother of B , A = B means B is the father of A ; Which of the following means M is the maternal uncle of N?",
+            "question": "A * B意味着A是B的姐妹，A $ B意味着B是A的母亲，A + B意味着A是B的兄弟，A = B意味着B是A的父亲；以下哪一项表示M是N的外叔叔？",
             "a": "M = P + Q * N",
             "b": "N + P = Q * M",
             "c": "N * P $ Q * M",
-            "d": "None of these",
+            "d": "这些都没有",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "M9N = M是N的丈夫。N5K = N是K的女儿。因此，M是K的女婿。K3J = K是J的母亲。因此，K是女性。因此，K是M的岳母。"
         },
         {
-            "question": "If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N then P % Q + R - T x K indicates which relation of P to K?",
-            "a": "Daughter-in-law",
-            "b": "Sister-in-law",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "如果M x N意味着M是N的女儿；M + N意味着M是N的父亲；M % N意味着M是N的母亲，而M - N意味着M是N的兄弟，那么P % Q + R - T x K表示P与K的什么关系？",
+            "a": "儿媳",
+            "b": "嫂子",
+            "c": "姨妈",
+            "d": "这些都没有",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P % Q = P is the mother of Q! !Q + R = Q is the father of R! !R - T = R is the brother of T! !Hence, Q is the father of T! !T x K = T is the daughter of K! !Hence, Q is the husband of K.! !Therefore, P is the mother-in-law of K."
+            "explain": "照片中的男人是那个女人的母亲的唯一儿子，也就是那个女人的父亲的儿子。因此，那个男人是那个女人的哥哥。"
         },
         {
-            "question": "If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q, which of the following relations shows that I is the niece of K?",
+            "question": "如果P + Q意味着P是Q的兄弟；P x Q意味着P是Q的父亲，而P - Q意味着P是Q的姐妹，以下哪一项表示I是K的侄女？",
             "a": "K + Y + Z - I",
             "b": "K + Y x I - Z",
             "c": "Z - I x Y + K",
@@ -438,7 +438,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "K + Y = K is the brother of Y! !Y x I = Y is the father of I! !Hence, K is the uncle of I! !and I - Z = I is the sister of Z! !Hence, I is the niece of K."
+            "explain": "Deepak的女儿的父亲的父亲 = Deepak的父亲。因此，这个人是Deepak的父亲的兄弟。因此，这个人是Deepak的叔叔。"
         }
     ]
 }

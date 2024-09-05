@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "question": "Pointing to a photograph of a boy Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Father",
+            "question": "소년의 사진을 가리키며 수레시는 말했습니다. “그는 나의 어머니의 외아들의 아들입니다.” 수레시는 그 소년과 어떤 관계인가요?",
+            "a": "형",
+            "b": "삼촌",
+            "c": "사촌",
+            "d": "아버지",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of the son of Suresh's mother i.e., the son of Suresh.! !Hence, Suresh is the father of boy."
+            "explain": "사진 속 소년은 Suresh의 어머니의 아들의 유일한 아들, 즉 Suresh의 아들입니다. 따라서, Suresh는 소년의 아버지입니다."
         },
         {
-            "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+            "question": "A + B가 A가 B의 어머니를 의미하고 A - B가 A가 B의 형제이며 A % B가 A가 B의 아버지이고 A x B가 A가 B의 자매를 의미하는 경우, 다음 중 P가 Q의 외삼촌임을 나타내는 것은 무엇인가요?",
             "a": "Q - N + M x P",
             "b": "P + S x N - Q",
             "c": "P - M + N x Q",
@@ -20,21 +20,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P - M = P is the brother of M! !M + N = M is the mother of N! !N x Q = N is the sister of Q! !Therefore, P is the maternal uncle of Q."
+            "explain": "P - M = P는 M의 형입니다. M + N = M은 N의 어머니입니다. N x Q = N은 Q의 자매입니다. 따라서, P는 Q의 외삼촌입니다."
         },
         {
-            "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-            "a": "Brother",
-            "b": "Sister",
-            "c": "Nephew",
-            "d": "None of these",
+            "question": "A가 B의 형제이고 B가 C의 자매이며 C가 D의 아버지라면 D는 A와 어떤 관계인가요?",
+            "a": "형",
+            "b": "자매",
+            "c": "조카",
+            "d": "이 중에는 없음",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "If D is Male, the answer is Nephew.! !If D is Female, the answer is Niece.! !As the sex of D is not known, hence, the relation between D and A cannot be determined.! !Note;!   Niece - A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law.!Nephew - A son of one's brother or sister, or of one's brother-in-law or sister-in-law."
+            "explain": "D가 남성이라면, 답은 조카입니다. D가 여성이라면, 답은 조카딸입니다. D의 성별이 알려지지 않았으므로, D와 A의 관계는 결정할 수 없습니다. 참고: 조카딸 - 형제나 자매, 또는 형제자매의 자녀; 조카 - 형제나 자매, 또는 형제자매의 자녀."
         },
         {
-            "question": "If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?",
+            "question": "A + B가 A가 B의 형제임을 의미하고 A - B가 A가 B의 자매이며 A x B가 A가 B의 아버지임을 의미하는 경우, 다음 중 C가 M의 아들이라는 것을 의미하는 것은 무엇인가요?",
             "a": "M - N x C + F",
             "b": "F - C + N x M",
             "c": "N + M - F x C",
@@ -42,87 +42,87 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M x N = M is the father of N! !N - C = N is the sister of C! !and C + F = C is the brother of F.! !Hence, M is the father of C or C is the son of M."
+            "explain": "M x N = M은 N의 아버지입니다. N - C = N은 C의 자매입니다. C + F = C는 F의 형제입니다. 따라서, M은 C의 아버지 또는 C는 M의 아들입니다."
         },
         {
-            "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
-            "a": "Brother",
-            "b": "Nephew",
-            "c": "Uncle",
-            "d": "Son",
+            "question": "한 소년을 소개하며 소녀가 말했습니다. “그는 내 삼촌의 아버지의 딸의 아들입니다.” 그 소년은 소녀와 어떤 관계인가요?",
+            "a": "형",
+            "b": "조카",
+            "c": "삼촌",
+            "d": "아들",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The father of the boy's uncle = the grandfather of the boy! !daughter of the grandfather = sister of father."
+            "explain": "소년의 삼촌의 아버지 = 소년의 할아버지! 할아버지의 딸 = 아버지의 자매입니다."
         },
         {
-            "question": "Pointing to a photograph Lata says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Lata?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Data inadequate",
+            "question": "Lata는 사진을 가리키며 말했습니다. “그는 내 할아버지의 유일한 아들의 아들입니다.” 사진 속 남자는 Lata와 어떤 관계인가요?",
+            "a": "형",
+            "b": "삼촌",
+            "c": "사촌",
+            "d": "데이터 불충분",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is the son of the only son of Lata's grandfather i.e., the man is the son of Lata's father. Hence, the man is the brother of Lata."
+            "explain": "사진 속 남자는 Lata의 할아버지의 유일한 아들의 아들, 즉 Lata의 아버지입니다. 따라서, 남자는 Lata의 형제입니다."
         },
         {
-            "question": "If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?",
+            "question": "A + B가 A가 B의 형제임을 의미하고 A x B가 A가 B의 아들임을 의미하며 A % B가 B가 A의 딸임을 의미할 때, 다음 중 M이 N의 외삼촌임을 의미하는 것은 무엇인가요?",
             "a": "M + O x N",
             "b": "M % O x N + P",
             "c": "M + O % N",
-            "d": "None of these",
+            "d": "이 중에는 없음",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Because the sex of O is not known."
+            "explain": "O의 성별이 알려지지 않았습니다."
         },
         {
-            "question": "Pointing to a photograph. Bajpai said, \"He is the son of the only daughter of the father of my brother.\" How Bajpai is related to the man in the photograph?",
-            "a": "Nephew",
-            "b": "Brother",
-            "c": "Father",
-            "d": "Maternal Uncle",
+            "question": "사진을 가리키며 Bajpai는 말했습니다. “그는 내 형제의 아버지의 유일한 딸의 아들입니다.” Bajpai는 사진 속 남자와 어떤 관계인가요?",
+            "a": "조카",
+            "b": "형",
+            "c": "아버지",
+            "d": "외삼촌",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photo is the son of the sister of Bajpai. Hence, Bajpai is the maternal uncle of the man in the photograph."
+            "explain": "사진 속 남자는 Bajpai의 자매의 아들입니다. 따라서, Bajpai는 사진 속 남자의 외삼촌입니다."
         },
         {
-            "question": "Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?",
-            "a": "Son",
-            "b": "Brother",
-            "c": "Cousin",
-            "d": "Brother-in-law",
+            "question": "Deepak이 Nitin에게 말했습니다. “축구를 하는 그 소년은 내 아버지의 아내의 딸의 두 형제 중 어린 형제입니다.” 축구를 하는 소년은 Deepak과 어떤 관계인가요?",
+            "a": "아들",
+            "b": "형",
+            "c": "사촌",
+            "d": "형부",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father's wife = mother.! !Hence, the daughter of the mother means sister and sister's younger brother means brother.! !Therefore, the boy is the brother of Deepak."
+            "explain": "아버지의 아내 = 어머니입니다. 따라서, 어머니의 딸은 자매이고 자매의 어린 남동생은 형제입니다. 따라서, 그 소년은 Deepak의 형제입니다."
         },
         {
-            "question": "Pointing a photograph X said to his friend Y, \"She is the only daughter of the father of my mother.\" How X is related to the person of photograph?",
-            "a": "Daughter",
-            "b": "Son",
-            "c": "Nephew",
-            "d": "Brother",
+            "question": "사진을 가리키며 X가 친구 Y에게 말했습니다. “그녀는 나의 어머니의 아버지의 유일한 딸입니다.” X는 사진 속 인물과 어떤 관계인가요?",
+            "a": "딸",
+            "b": "아들",
+            "c": "조카",
+            "d": "형",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "'The only daughter of the father of X's mother' means mother of X.! !Hence X is the son of the lady in the photograph."
+            "explain": "X의 어머니의 유일한 딸은 X의 어머니입니다. 따라서 X는 사진 속 여성의 아들입니다."
         },
         {
-            "question": "Veena who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep who is the only brother of Ashok. How Kalyani is related to Ashok?",
-            "a": "Mother-in-law",
-            "b": "Aunt",
-            "c": "Wife",
-            "d": "None of these",
+            "question": "Veena는 Ashok의 시누이로 Kalyani의 며느리입니다. Dheeraj는 Sudeep의 아버지로 Sudeep은 Ashok의 유일한 형제입니다. Kalyani는 Ashok과 어떤 관계인가요?",
+            "a": "시어머니",
+            "b": "이모",
+            "c": "아내",
+            "d": "이 중에는 없음",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ashok is the only brother of Sudeep and Veena is the sister-in-law of Ashok.! !Hence Veena is the wife of Sudeep.! !Kalyani is the mother-in-law of Veena.!Kalyani is the mother of Ashok."
+            "explain": "Ashok은 Sudeep의 유일한 형제이고 Veena는 Ashok의 형제자매입니다. 따라서 Veena는 Sudeep의 아내입니다. Kalyani는 Veena의 장모입니다. Kalyani는 Ashok의 어머니입니다."
         },
         {
-            "question": "If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?",
+            "question": "A + B가 A가 B의 자매임을 의미하고 A x B가 A가 B의 아내임을 의미하며 A % B가 A가 B의 아버지임을 의미하고 A - B가 A가 B의 형제임을 의미할 때, 다음 중 T가 P의 딸이라는 것을 의미하는 것은 무엇인가요?",
             "a": "P x Q % R + S - T",
             "b": "P x Q % R - T + S",
             "c": "P x Q % R + T - S",
@@ -130,76 +130,76 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P x Q = P is the wife of Q! !Q % R = Q is the father of R! !R - T = R is the brother of T! !T + S = T is the sister of S.! !Therefore, T is the daughter of P."
+            "explain": "P x Q = P는 Q의 아내입니다. Q % R = Q는 R의 아버지입니다. R - T = R은 T의 형제입니다. T + S = T는 S의 자매입니다. 따라서, T는 P의 딸입니다."
         },
         {
-            "question": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Mother-in-law",
-            "d": "Sister",
+            "question": "여성을 가리키며 Abhijit가 말했습니다. “그녀의 손녀는 내 형제의 유일한 딸입니다.” 그 여성은 Abhijit와 어떤 관계인가요?",
+            "a": "어머니",
+            "b": "할머니",
+            "c": "시어머니",
+            "d": "여자 형제",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Daughter of Abhijit's brother = niece of Abhijit.! !Thus the granddaughter of the woman is Abhijit's niece.! !Hence, the woman is the mother of Abhijit."
+            "explain": "Abhijit의 형제의 딸 = Abhijit의 조카입니다. 따라서, 여성의 손녀는 Abhijit의 조카입니다. 따라서, 여성은 Abhijit의 어머니입니다."
         },
         {
-            "question": "Amit said - \"This girl is the wife of the grandson of my mother\". How is Amit related to the girl?",
-            "a": "Brother",
-            "b": "Grandfather",
-            "c": "Father-in-law",
-            "d": "Husband",
+            "question": "Amit가 말했습니다. “이 소녀는 내 어머니의 손자의 아내입니다.” Amit는 그 소녀와 어떤 관계인가요?",
+            "a": "형",
+            "b": "할아버지",
+            "c": "장인",
+            "d": "남편",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the wife of grandson of Amit's mother i.e., the girl is the wife of son of Amit.! !Hence, Amit is the father-in-law of the girl."
+            "explain": "그 소녀는 Amit의 어머니의 손자의 아내입니다. 즉, 그 소녀는 Amit의 아들의 아내입니다. 따라서, Amit는 그 소녀의 장인입니다."
         },
         {
-            "question": "A and B are children of D. Who is the father of A? To answer this question which of the statements (1) and (2) is necessary? (1) C is the brother of A and the son of E.   (2) F is the mother B.",
-            "a": "Only (1)",
-            "b": "Only (2)",
-            "c": "Either (1) or (2)",
-            "d": "(1) and (2) both",
+            "question": "A와 B는 D의 자녀입니다. A의 아버지는 누구입니까? 이 질문에 답하기 위해서는 다음 두 진술 중 어떤 것이 필요한가요? (1) C는 A의 형제이자 E의 아들입니다. (2) F는 B의 어머니입니다.",
+            "a": "오직 (1)",
+            "b": "오직 (2)",
+            "c": "또는 (1) 또는 (2)",
+            "d": "(1)과 (2) 둘 다",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A and B are children of D.! !From (1), C is the brother B and son of E.! !Since, the sex of D and E are not known. Hence (1) is not sufficient to answer the question.! !From (2). F is the mother of B. Hence, F is also the mother of A. Hence D is the father of A.! !Thus, (2) is sufficient to answer the question."
+            "explain": "A와 B는 D의 자녀입니다. (1)에서, C는 B의 형이며 E의 아들입니다. D와 E의 성별이 알려져 있지 않기 때문에 (1)만으로는 질문에 답하기에 충분하지 않습니다. (2)에서, F는 B의 어머니입니다. 따라서 F는 A의 어머니이기도 합니다. 따라서 D는 A의 아버지입니다. 따라서 (2)는 질문에 답하기에 충분합니다."
         },
         {
-            "question": "Pointing towards a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Sister",
-            "d": "Daughter",
+            "question": "한 남자를 가리키며, 여자는 말했습니다. “그의 어머니는 내 어머니의 유일한 딸입니다.” 여자는 그 남자와 어떤 관계입니까?",
+            "a": "어머니",
+            "b": "할머니",
+            "c": "자매",
+            "d": "딸",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Only daughter of my mother = myself.! !Hence, the woman is the mother of the man."
+            "explain": "엄마의 유일한 딸 = 나 자신입니다. 따라서 그 여성은 그 남자의 어머니입니다."
         },
         {
-            "question": "If P $ Q means P is the brother of Q; P # Q means P is the mother of Q; P * Q means P is the daughter of Q in A # B $ C * D, who is the father?",
+            "question": "P $ Q가 P가 Q의 형제임을 의미하고; P # Q가 P가 Q의 어머니임을 의미하며; P * Q가 P가 Q의 딸임을 의미하는 경우, A # B $ C * D에서 아버지는 누구입니까?",
             "a": "D",
             "b": "B",
             "c": "C",
-            "d": "None of these",
+            "d": "이 중에는 없음",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A is the mother of B, B is the brother of C and C is the daughter of D.! !Hence, D is the father."
+            "explain": "A는 B의 어머니이고, B는 C의 형이며, C는 D의 딸입니다. 따라서 D는 아버지입니다."
         },
         {
-            "question": "Introducing Sonia, Aamir says, \"She is the wife of only nephew of only brother of my mother.\" How Sonia is related to Aamir?",
-            "a": "Sister-in-law",
-            "b": "Sister",
-            "c": "Wife",
-            "d": "Data is inadequate",
+            "question": "Sonia를 소개하면서 Aamir는 말했습니다. “그녀는 내 어머니의 유일한 형제의 유일한 조카의 아내입니다.” Sonia는 Aamir와 어떤 관계입니까?",
+            "a": "형수",
+            "b": "여동생",
+            "c": "아내",
+            "d": "데이터 불충분",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of mother means maternal uncle.! !Hence only nephew of Aamir's maternal uncle means Aamir himself.! !Therefore Sonia is the wife of Aamir."
+            "explain": "엄마의 형제는 외삼촌입니다. 따라서 Aamir의 외삼촌의 유일한 조카는 Aamir 자신입니다. 따라서 Sonia는 Aamir의 아내입니다."
         },
         {
-            "question": "If A + B means A is the brother of B; A % B means A is the father of B and A x B means A is the sister of B. Which of the following means M is the uncle of P?",
+            "question": "A + B가 A가 B의 형제임을 의미하고; A % B가 A가 B의 아버지임을 의미하며 A x B가 A가 B의 자매임을 의미할 때, 다음 중 M이 P의 삼촌임을 의미하는 것은 무엇입니까?",
             "a": "M % N x P",
             "b": "N x P % M",
             "c": "M + S % R % P",
@@ -207,32 +207,32 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M + K = M is the brother of K! !K % T = K is the father of T! !T x P = T is the sister of P! !Therefore, K is the father of P and M is the uncle of P."
+            "explain": "M + K = M은 K의 형입니다. K % T = K는 T의 아버지입니다. T x P = T는 P의 자매입니다. 따라서 K는 P의 아버지이며 M은 P의 삼촌입니다."
         },
         {
-            "question": "Pointing to Varman, Madhav said, \"I am the only son of one of the sons of his father.\" How is Varman related to Madhav?",
-            "a": "Nephew",
-            "b": "Uncle",
-            "c": "Father or Uncle",
-            "d": "Father",
+            "question": "Varman을 가리키며, Madhav는 말했습니다. “나는 그의 아버지의 아들 중 한 명의 유일한 아들입니다.” Varman은 Madhav와 어떤 관계입니까?",
+            "a": "조카",
+            "b": "삼촌",
+            "c": "아버지 또는 삼촌",
+            "d": "아버지",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Madhav is the only son of one of the sons of Varman's father! !So, Either Varman is the father or uncle of Madhav."
+            "explain": "Madhav는 Varman의 아버지의 아들 중 유일한 아들입니다. 따라서 Varman은 Madhav의 아버지 또는 삼촌입니다."
         },
         {
-            "question": "Introducing a woman, Shashank said, \"She is the mother of the only daughter of my son.\" How that woman is related to Shashank?",
-            "a": "Daughter",
-            "b": "Sister-in-law",
-            "c": "Wife",
-            "d": "Daughter-in-law",
+            "question": "여자를 소개하며 Shashank는 말했습니다. “그녀는 내 아들의 유일한 딸의 어머니입니다.” 그 여자는 Shashank와 어떤 관계입니까?",
+            "a": "딸",
+            "b": "형수",
+            "c": "아내",
+            "d": "며느리",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The woman is the mother of Shashank's granddaughter.! !Hence, the woman is the daughter-in-law of Shashank. "
+            "explain": "그 여성은 Shashank의 손녀의 어머니입니다. 따라서 그 여성은 Shashank의 며느리입니다."
         },
         {
-            "question": "If A + B means B is the brother of A; A x B means B is the husband of A; A - B means A is the mother of B and A % B means A is the father of B, which of the following relations shows that Q is the grandmother of T?",
+            "question": "A + B가 B가 A의 형제임을 의미하고; A x B가 B가 A의 남편임을 의미하며; A - B가 A가 B의 어머니임을 의미하고 A % B가 A가 B의 아버지임을 의미할 때, Q가 T의 할머니임을 나타내는 관계는 무엇입니까?",
             "a": "Q - P + R % T",
             "b": "P x Q % R - T",
             "c": "P x Q % R + T",
@@ -240,10 +240,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q - P = Q is the mother of P! !P + R = R is the brother of P! !Hence, Q is the mother of R! !R % T = R is the father of T.! !Hence, Q is the grandmother of T."
+            "explain": "Q - P = Q는 P의 어머니입니다. P + R = R은 P의 형입니다. 따라서 Q는 R의 어머니입니다. R % T = R은 T의 아버지입니다. 따라서 Q는 T의 할머니입니다."
         },
         {
-            "question": "A3P means A is the mother of P , A4P means A is the brother of P , A9P means A is the husband of P , A5P means A is the daughter of P ; Which of the following means that K is the mother-in-law of M?",
+            "question": "A3P는 A가 P의 어머니임을 의미하고, A4P는 A가 P의 형제임을 의미하며, A9P는 A가 P의 남편임을 의미하고, A5P는 A가 P의 딸임을 의미합니다. 다음 중 K가 M의 장모임을 의미하는 것은 무엇입니까?",
             "a": "M9N3K4J",
             "b": "M9N5K3J",
             "c": "K5J9M3N",
@@ -251,54 +251,54 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M9N = M is the husband of N! !N5K = N is the daughter of K! !Hence, M is the son-in-law of K! !K3J = K is the mother of J! !Hence, K is a lady! !Hence, K is the mother-in-law of M."
+            "explain": "M9N = M은 N의 남편입니다. N5K = N은 K의 딸입니다. 따라서 M은 K의 사위입니다. K3J = K는 J의 어머니입니다. 따라서 K는 여성입니다. 따라서 K는 M의 시어머니입니다."
         },
         {
-            "question": "Pointing to a photograph Anjali said, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Anjali?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Son",
-            "d": "Data inadequate",
+            "question": "Anjali는 사진을 가리키며 말했습니다. “그는 내 할아버지의 유일한 아들의 아들입니다.” 사진 속 남자는 Anjali와 어떤 관계입니까?",
+            "a": "형",
+            "b": "삼촌",
+            "c": "아들",
+            "d": "데이터 불충분",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is son of Anjali's grandfather's son i.e., the son of Anjali's father.! !Hence, the boy is the brother of Anjali."
+            "explain": "사진 속 남자는 여성의 어머니의 유일한 아들의 아들, 즉 여성의 아버지의 아들입니다. 따라서 그 남자는 여성의 형입니다."
         },
         {
-            "question": "Pointing to a person, Deepak said, \"His only brother is the father of my daughter's father\". How is the person related to Deepak?",
-            "a": "Father",
-            "b": "Grandfather",
-            "c": "Uncle",
-            "d": "Brother-in-law",
+            "question": "한 사람을 가리키며, Deepak는 말했습니다. “그의 유일한 형제는 내 딸의 아버지의 아버지입니다.” 그 사람은 Deepak과 어떤 관계입니까?",
+            "a": "아버지",
+            "b": "할아버지",
+            "c": "삼촌",
+            "d": "형부",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father of Deepak's daughter's father = Deepak's father.! !Hence, the person in the brother of Deepak's father.! !Therefore, the person is the uncle of Deepak."
+            "explain": "Deepak의 딸의 아버지의 아버지 = Deepak의 아버지입니다. 따라서 그 사람은 Deepak의 아버지의 형제입니다. 따라서 그 사람은 Deepak의 삼촌입니다."
         },
         {
-            "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Aunt",
-            "d": "Data inadequate",
+            "question": "P는 K의 어머니입니다; K는 D의 자매입니다; D는 J의 아버지입니다. P는 J와 어떤 관계입니까?",
+            "a": "어머니",
+            "b": "할머니",
+            "c": "이모",
+            "d": "데이터 불충분",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P is the mother of K! !K is the sister of D! !D is the father of J.! !Therefore, J is the nephew or niece of K and P is the grandmother of J."
+            "explain": "P는 K의 어머니입니다. K는 D의 자매입니다. D는 J의 아버지입니다. 따라서 J는 K의 조카 또는 조카딸이며 P는 J의 할머니입니다."
         },
         {
-            "question": "If P $ Q means P is the father of Q; P # Q means P is the mother of Q and P * Q means P is the sister of Q, then N # L $ P * Q shows which of the relation of Q to N?",
-            "a": "Grand son",
-            "b": "Grand daughter",
-            "c": "Nephew",
-            "d": "Data is inadequate",
+            "question": "P $ Q가 P가 Q의 아버지임을 의미하고; P # Q가 P가 Q의 어머니임을 의미하며; P * Q가 P가 Q의 자매임을 의미할 때, N # L $ P * Q는 Q와 N 사이의 어떤 관계를 나타냅니까?",
+            "a": "손자",
+            "b": "손녀",
+            "c": "조카",
+            "d": "데이터 불충분",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the sex of Q is not known, hence, data is inadequate."
+            "explain": "Q의 성별이 알려져 있지 않으므로 데이터가 불충분합니다."
         },
         {
-            "question": "If A $ B means A is the brother of B; A / B means A is the wife of B; A # B means A is the daughter of B and A * B means A is the father of B, which of the following indicates that U is the father-in-law of P?",
+            "question": "A $ B가 A가 B의 형제임을 의미하고; A / B가 A가 B의 아내임을 의미하며; A # B가 A가 B의 딸임을 의미하고 A * B가 A가 B의 아버지임을 의미할 때, U가 P의 장인임을 나타내는 것은 무엇입니까?",
             "a": "P / Q $ T # U * W",
             "b": "P / W $ Q * T # U",
             "c": "P / Q $ W * T # U",
@@ -306,54 +306,54 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(1) P / Q = P is the wife of Q! !(2) Q $ T = Q is the brother of T! !T # U = T is the daughter of U! !Hence,!(3)Q is the son of U! !U * W = U is the father of W.! !From (1) and (3), U is the father-in-law of P."
+            "explain": "(1) P / Q = P는 Q의 아내입니다. (2) Q $ T = Q는 T의 형입니다. T # U = T는 U의 딸입니다. 따라서 (3) Q는 U의 아들입니다. U * W = U는 W의 아버지입니다. (1)과 (3)에서, U는 P의 장인입니다."
         },
         {
-            "question": "Introducing a man, a woman said, \"He is the only son of the mother of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Niece",
-            "d": "Maternal aunt",
+            "question": "한 남자를 소개하며, 여자는 말했습니다. “그는 내 어머니의 어머니의 유일한 아들입니다.” 여자는 그 남자와 어떤 관계입니까?",
+            "a": "어머니",
+            "b": "자매",
+            "c": "조카딸",
+            "d": "이모",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man is the only son of the mother of the woman.! !Hence, the man is the maternal uncle of the woman.! !So, the woman is the niece of the man."
+            "explain": "그 남자는 여성의 어머니의 유일한 아들입니다. 따라서 그 남자는 여성의 외삼촌입니다. 따라서 여성은 그 남자의 조카입니다."
         },
         {
-            "question": "Pointing to Gopi, Nalni says, \"I am the daughter of the only son of his grandfather.\" How Nalni is related to Gopi?",
-            "a": "Niece",
-            "b": "Daughter",
-            "c": "Sister",
-            "d": "Aunt",
+            "question": "Gopi를 가리키며, Nalni가 말했습니다: “나는 그의 할아버지의 유일한 아들의 딸입니다.” Nalni는 Gopi와 어떤 관계인가요?",
+            "a": "조카",
+            "b": "딸",
+            "c": "자매",
+            "d": "이모",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Nalni is the daughter of the only son of Gopi's grandfather.! !Hence, it's clear that Nalni is the sister of Gopi."
+            "explain": "Nalni는 Gopi의 할아버지의 외아들의 딸입니다. 따라서 Nalni는 Gopi의 자매입니다."
         },
         {
-            "question": "A's son B is married with C whose sister D is married to E the brother of B. How D is related to A?",
-            "a": "Sister",
-            "b": "Daughter's-in-law",
-            "c": "Sister-in-law",
-            "d": "Cousin",
+            "question": "A의 아들 B는 C와 결혼했으며, C의 자매 D는 B의 형제 E와 결혼했습니다. D는 A와 어떤 관계인가요?",
+            "a": "누나",
+            "b": "며느리",
+            "c": "형수",
+            "d": "사촌",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Since E is the brother of B! !Therefore, A is the father of E! !but D is the wife of E.! !Hence, D is the daughter-in-law of A."
+            "explain": "E는 B의 형제입니다. 따라서 A는 E의 아버지입니다. 그러나 D는 E의 아내입니다. 따라서 D는 A의 며느리입니다."
         },
         {
-            "question": "Pointing to a lady a person said, \"The son of her only brother is the brother of my wife.\" How is the lady related to the person?",
-            "a": "Maternal aunt",
-            "b": "Grandmother",
-            "c": "Sister of father-in-law",
-            "d": "None of these",
+            "question": "한 여성을 가리키며, 한 사람이 말했습니다: “그녀의 유일한 형제의 아들은 내 아내의 형제입니다.” 그 여성은 그 사람과 어떤 관계인가요?",
+            "a": "이모",
+            "b": "할머니",
+            "c": "시어머니의 자매",
+            "d": "이 중에는 없음",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of person's wife is brother-in-law of the person.! !Hence, the son of lady's brother is brother-in-law of the person.! !Therefore, the brother of the lady is the father-in-law of the person. Hence, the lady is the sister of the person's father-in-law."
+            "explain": "사람의 아내의 형제는 그 사람의 형부입니다. 따라서 여성의 형제의 아들은 그 사람의 형부입니다. 따라서 여자의 형제는 그 사람의 시아버지입니다. 따라서 여자는 그 사람의 시아버지의 자매입니다."
         },
         {
-            "question": "B5D means B is the father of D , B9D means B is the sister of D , B4D means B is the brother of D , B3D means B is the wife of D ; Which of the following means F is the mother of K?",
+            "question": "B5D는 B가 D의 아버지라는 것을 의미하며, B9D는 B가 D의 자매라는 것을 의미하고, B4D는 B가 D의 형제라는 것을 의미하며, B3D는 B가 D의 아내라는 것을 의미합니다. 다음 중 어떤 것이 F가 K의 어머니라는 것을 의미하나요?",
             "a": "F3M5K",
             "b": "F5M3K",
             "c": "F9M4N3K",
@@ -361,10 +361,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "F3M = F is the wife of M! !M5K = M is the father of K! !Therefore, F is the mother of K."
+            "explain": "F3M = F는 M의 아내입니다. M5K = M은 K의 아버지입니다. 따라서 F는 K의 어머니입니다."
         },
         {
-            "question": "A $ B means A is the father of B; A # B means A is the sister of B; A * B means A is the daughter of B and A / B means A is the brother of B. Which of the following indicates that M is the wife of Q?",
+            "question": "A $ B는 A가 B의 아버지라는 것을 의미하며, A # B는 A가 B의 자매라는 것을 의미하고, A * B는 A가 B의 딸이라는 것을 의미하며, A / B는 A가 B의 형제라는 것을 의미합니다. 다음 중 어떤 것이 M이 Q의 아내라는 것을 의미하나요?",
             "a": "Q $ R # T / M",
             "b": "Q $ R / T # M",
             "c": "Q $ R * T # M",
@@ -372,65 +372,65 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q $ R = Q is the father of R! !R / T = R is the brother of T! !Hence, Q is the father of T! !T * M = T is the daughter of M! !Hence, M is the mother of T! !Hence, M is the wife of Q."
+            "explain": "Q $ R = Q는 R의 아버지입니다. R / T = R은 T의 형제입니다. 따라서 Q는 T의 아버지입니다. T * M = T는 M의 딸입니다. 따라서 M은 T의 어머니입니다. 따라서 M은 Q의 아내입니다."
         },
         {
-            "question": "If A $ B means A is the brother of B; B * C means B is the son of C; C / D means C is the wife of D and A # D means A is the son of D, how C is related to A?",
-            "a": "Grandmother",
-            "b": "Maternal aunt",
-            "c": "Aunt",
-            "d": "Mother",
+            "question": "A $ B는 A가 B의 형제라는 것을 의미하고, B * C는 B가 C의 아들이라는 것을 의미하며, C / D는 C가 D의 아내라는 것을 의미하고, A # D는 A가 D의 아들이라는 것을 의미합니다. C는 A와 어떤 관계인가요?",
+            "a": "할머니",
+            "b": "이모",
+            "c": "이모",
+            "d": "어머니",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A $ B = A is the brother of B! !B * C = B is the son of C! !Hence, A is the son of C! !C / D = C is the wife of D! !Hence, C is the mother of A."
+            "explain": "A $ B = A는 B의 형제입니다. B * C = B는 C의 아들입니다. 따라서 A는 C의 아들입니다. C / D = C는 D의 아내입니다. 따라서 C는 A의 어머니입니다."
         },
         {
-            "question": "Pointing to a girl Sandeep said, \"She is the daughter of the only sister of my father.\" How is sandeep related to the girl?",
-            "a": "Uncle",
-            "b": "Cousin",
-            "c": "Father",
-            "d": "Grandfather",
+            "question": "한 소녀를 가리키며, Sandeep가 말했습니다: “그녀는 나의 아버지의 유일한 자매의 딸입니다.” Sandeep는 그 소녀와 어떤 관계인가요?",
+            "a": "삼촌",
+            "b": "사촌",
+            "c": "아버지",
+            "d": "할아버지",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the daughter of the sister of Sandeep's father.! !Hence, the girl is the cousin or Sandeep is the cousin of the girl."
+            "explain": "그 소녀는 Sandeep의 아버지의 자매의 딸입니다. 따라서 그 소녀는 사촌이거나 Sandeep이 그 소녀의 사촌입니다."
         },
         {
-            "question": "Pointing to a boy in the photograph Reena said, \"He is the only son of the only child of my grandfather.\" How Reena is related to that boy?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "사진 속 소년을 가리키며, Reena가 말했습니다: “그는 내 할아버지의 유일한 자식의 아들입니다.” Reena는 그 소년과 어떤 관계인가요?",
+            "a": "어머니",
+            "b": "자매",
+            "c": "이모",
+            "d": "이 중에는 없음",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of Reena's grandfather's only son; i.e., the boy is the only son of Reena's father.! !Hence, the boy is the brother of Reena or Reena is the sister of the boy."
+            "explain": "사진 속 소년은 Reena의 할아버지의 외아들의 유일한 아들입니다. 즉, 그 소년은 Reena의 아버지의 유일한 아들입니다. 따라서 그 소년은 Reena의 형제입니다."
         },
         {
-            "question": "A * B means A is the sister of B , A $ B means B is the mother of A , A + B means A is the brother of B , A = B means B is the father of A ; Which of the following means M is the maternal uncle of N?",
+            "question": "A * B는 A가 B의 자매라는 것을 의미하고, A $ B는 B가 A의 어머니라는 것을 의미하며, A + B는 A가 B의 형제라는 것을 의미하고, A = B는 B가 A의 아버지라는 것을 의미합니다. 다음 중 어떤 것이 M이 N의 외삼촌이라는 것을 의미하나요?",
             "a": "M = P + Q * N",
             "b": "N + P = Q * M",
             "c": "N * P $ Q * M",
-            "d": "None of these",
+            "d": "이 중에는 없음",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "이 질문에 대한 설명이 없습니다."
         },
         {
-            "question": "If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N then P % Q + R - T x K indicates which relation of P to K?",
-            "a": "Daughter-in-law",
-            "b": "Sister-in-law",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "M x N은 M이 N의 딸이라는 것을 의미하고, M + N은 M이 N의 아버지라는 것을 의미하며, M % N은 M이 N의 어머니라는 것을 의미하고, M - N은 M이 N의 형제라는 것을 의미합니다. P % Q + R - T x K는 P와 K의 어떤 관계를 나타내나요?",
+            "a": "며느리",
+            "b": "형수",
+            "c": "이모",
+            "d": "이 중에는 없음",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P % Q = P is the mother of Q! !Q + R = Q is the father of R! !R - T = R is the brother of T! !Hence, Q is the father of T! !T x K = T is the daughter of K! !Hence, Q is the husband of K.! !Therefore, P is the mother-in-law of K."
+            "explain": "P % Q = P는 Q의 어머니입니다. Q + R = Q는 R의 아버지입니다. R - T = R은 T의 형제입니다. 따라서 Q는 T의 아버지입니다. T x K = T는 K의 딸입니다. 따라서 Q는 K의 남편입니다. 따라서 P는 K의 시어머니입니다."
         },
         {
-            "question": "If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q, which of the following relations shows that I is the niece of K?",
+            "question": "P + Q는 P가 Q의 형제라는 것을 의미하고, P x Q는 P가 Q의 아버지라는 것을 의미하며, P - Q는 P가 Q의 자매라는 것을 의미합니다. 다음 중 어떤 것이 I가 K의 조카딸이라는 것을 의미하나요?",
             "a": "K + Y + Z - I",
             "b": "K + Y x I - Z",
             "c": "Z - I x Y + K",
@@ -438,7 +438,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "K + Y = K is the brother of Y! !Y x I = Y is the father of I! !Hence, K is the uncle of I! !and I - Z = I is the sister of Z! !Hence, I is the niece of K."
+            "explain": "K + Y = K는 Y의 형제입니다. Y x I = Y는 I의 아버지입니다. 따라서 K는 I의 삼촌입니다. I - Z = I는 Z의 자매입니다. 따라서 I는 K의 조카입니다."
         }
     ]
 }

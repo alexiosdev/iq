@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "question": "Pointing to a photograph of a boy Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Father",
+            "question": "एक लड़के की फोटो की ओर इशारा करते हुए, सुरेश ने कहा: “वह मेरी माँ के एकमात्र पुत्र के पुत्र हैं।” सुरेश उस लड़के से किस रिश्ते में हैं?",
+            "a": "भाई",
+            "b": "चाचा",
+            "c": "कजिन",
+            "d": "पिता",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of the son of Suresh's mother i.e., the son of Suresh.! !Hence, Suresh is the father of boy."
+            "explain": "फोटो में लड़का Suresh की मां के बेटे का एकमात्र बेटा है, यानी Suresh का बेटा। इसलिए, Suresh उस लड़के के पिता हैं।"
         },
         {
-            "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+            "question": "यदि A + B का मतलब है A, B की माँ है; A - B का मतलब है A, B का भाई है; A % B का मतलब है A, B के पिता हैं और A x B का मतलब है A, B की बहन है, तो निम्नलिखित में से कौन सा दिखाता है कि P, Q का मामा है?",
             "a": "Q - N + M x P",
             "b": "P + S x N - Q",
             "c": "P - M + N x Q",
@@ -20,21 +20,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P - M = P is the brother of M! !M + N = M is the mother of N! !N x Q = N is the sister of Q! !Therefore, P is the maternal uncle of Q."
+            "explain": "P - M = P M का भाई है। M + N = M N की मां है। N x Q = N Q की बहन है। इसलिए, P Q का मामा है।"
         },
         {
-            "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-            "a": "Brother",
-            "b": "Sister",
-            "c": "Nephew",
-            "d": "None of these",
+            "question": "यदि A, B का भाई है; B, C की बहन है; और C, D के पिता हैं, तो D, A के साथ किस रिश्ते में है?",
+            "a": "भाई",
+            "b": "बहन",
+            "c": "भतीजा",
+            "d": "इनमें से कोई नहीं",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "If D is Male, the answer is Nephew.! !If D is Female, the answer is Niece.! !As the sex of D is not known, hence, the relation between D and A cannot be determined.! !Note;!   Niece - A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law.!Nephew - A son of one's brother or sister, or of one's brother-in-law or sister-in-law."
+            "explain": "यदि D पुरुष है, तो उत्तर भतीजा है। यदि D महिला है, तो उत्तर भतीजी है। चूंकि D का लिंग ज्ञात नहीं है, इसलिए D और A के बीच के रिश्ते का निर्धारण नहीं किया जा सकता है। नोट: भतीजी - भाई या बहन की बेटी, या देवरानी या भाभी की बेटी। भतीजा - भाई या बहन का बेटा, या देवर या साले का बेटा।"
         },
         {
-            "question": "If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?",
+            "question": "यदि A + B का मतलब है A, B का भाई है; A - B का मतलब है A, B की बहन है और A x B का मतलब है A, B के पिता हैं। निम्नलिखित में से कौन सा दिखाता है कि C, M का बेटा है?",
             "a": "M - N x C + F",
             "b": "F - C + N x M",
             "c": "N + M - F x C",
@@ -42,87 +42,87 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M x N = M is the father of N! !N - C = N is the sister of C! !and C + F = C is the brother of F.! !Hence, M is the father of C or C is the son of M."
+            "explain": "M x N = M N का पिता है। N - C = N C की बहन है। C + F = C F का भाई है। इसलिए, M C का पिता है या C M का बेटा है।"
         },
         {
-            "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
-            "a": "Brother",
-            "b": "Nephew",
-            "c": "Uncle",
-            "d": "Son",
+            "question": "एक लड़के का परिचय देते हुए, एक लड़की ने कहा: “वह मेरे चाचा के पिता की बेटी के बेटे हैं।” उस लड़के का लड़की से क्या संबंध है?",
+            "a": "भाई",
+            "b": "भतीजा",
+            "c": "चाचा",
+            "d": "पुत्र",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The father of the boy's uncle = the grandfather of the boy! !daughter of the grandfather = sister of father."
+            "explain": "लड़के के मामा के पिता = लड़के के दादा! दादा की बेटी = पिता की बहन।"
         },
         {
-            "question": "Pointing to a photograph Lata says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Lata?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Data inadequate",
+            "question": "फोटो की ओर इशारा करते हुए, Lata ने कहा: “वह मेरे दादा के एकमात्र पुत्र के पुत्र हैं।” फोटो में व्यक्ति का Lata से क्या संबंध है?",
+            "a": "भाई",
+            "b": "चाचा",
+            "c": "कजिन",
+            "d": "डेटा अपर्याप्त",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is the son of the only son of Lata's grandfather i.e., the man is the son of Lata's father. Hence, the man is the brother of Lata."
+            "explain": "फोटो में व्यक्ति Lata के दादा के एकमात्र बेटे का बेटा है, यानी Lata के पिता का बेटा। इसलिए, व्यक्ति Lata का भाई है।"
         },
         {
-            "question": "If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?",
+            "question": "यदि A + B का मतलब है A, B का भाई है; A x B का मतलब है A, B का बेटा है; और A % B का मतलब है B, A की बेटी है, तो निम्नलिखित में से कौन सा दिखाता है कि M, N का मामा है?",
             "a": "M + O x N",
             "b": "M % O x N + P",
             "c": "M + O % N",
-            "d": "None of these",
+            "d": "इनमें से कोई नहीं",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Because the sex of O is not known."
+            "explain": "क्योंकि O का लिंग ज्ञात नहीं है।"
         },
         {
-            "question": "Pointing to a photograph. Bajpai said, \"He is the son of the only daughter of the father of my brother.\" How Bajpai is related to the man in the photograph?",
-            "a": "Nephew",
-            "b": "Brother",
-            "c": "Father",
-            "d": "Maternal Uncle",
+            "question": "फोटो की ओर इशारा करते हुए, Bajpai ने कहा: “वह मेरे भाई के पिता की एकमात्र बेटी के पुत्र हैं।” Bajpai का फोटो में व्यक्ति से क्या संबंध है?",
+            "a": "भतीजा",
+            "b": "भाई",
+            "c": "पिता",
+            "d": "मामा",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photo is the son of the sister of Bajpai. Hence, Bajpai is the maternal uncle of the man in the photograph."
+            "explain": "फोटो में व्यक्ति Bajpai की बहन का बेटा है। इसलिए, Bajpai उस व्यक्ति का मामा है।"
         },
         {
-            "question": "Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?",
-            "a": "Son",
-            "b": "Brother",
-            "c": "Cousin",
-            "d": "Brother-in-law",
+            "question": "Deepak ने Nitin से कहा: “वह लड़का जो फुटबॉल खेल रहा है, वह मेरी पिता की पत्नी की बेटी के दो भाइयों में से छोटा है।” फुटबॉल खेल रहा लड़का Deepak से किस रिश्ते में है?",
+            "a": "पुत्र",
+            "b": "भाई",
+            "c": "कजिन",
+            "d": "बहनोई",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father's wife = mother.! !Hence, the daughter of the mother means sister and sister's younger brother means brother.! !Therefore, the boy is the brother of Deepak."
+            "explain": "पिता की पत्नी = माँ। इसलिए, माँ की बेटी बहन है और बहन का छोटे भाई भाई है। इसलिए, लड़का Deepak का भाई है।"
         },
         {
-            "question": "Pointing a photograph X said to his friend Y, \"She is the only daughter of the father of my mother.\" How X is related to the person of photograph?",
-            "a": "Daughter",
-            "b": "Son",
-            "c": "Nephew",
-            "d": "Brother",
+            "question": "फोटो की ओर इशारा करते हुए, X ने अपने दोस्त Y से कहा: “वह मेरी माँ के पिता की एकमात्र बेटी है।” X का फोटो में व्यक्ति से क्या संबंध है?",
+            "a": "बेटी",
+            "b": "पुत्र",
+            "c": "भतीजा",
+            "d": "भाई",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "'The only daughter of the father of X's mother' means mother of X.! !Hence X is the son of the lady in the photograph."
+            "explain": "“X की मां के पिता की एकमात्र बेटी” X की मां है। इसलिए, X फोटो में महिला का बेटा है।"
         },
         {
-            "question": "Veena who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep who is the only brother of Ashok. How Kalyani is related to Ashok?",
-            "a": "Mother-in-law",
-            "b": "Aunt",
-            "c": "Wife",
-            "d": "None of these",
+            "question": "Veena, जो Ashok की भाभी है, Kalyani की बहू है। Dheeraj, Sudeep का पिता है, जो Ashok का एकमात्र भाई है। Kalyani, Ashok की माँ के साथ किस रिश्ते में है?",
+            "a": "सास",
+            "b": "मामी",
+            "c": "पत्नी",
+            "d": "इनमें से कोई नहीं",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ashok is the only brother of Sudeep and Veena is the sister-in-law of Ashok.! !Hence Veena is the wife of Sudeep.! !Kalyani is the mother-in-law of Veena.!Kalyani is the mother of Ashok."
+            "explain": "Ashok Sudeep का एकमात्र भाई है और Veena Ashok की भाभी है। इसलिए, Veena Sudeep की पत्नी है। Kalyani Veena की सास है। Kalyani Ashok की मां है।"
         },
         {
-            "question": "If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?",
+            "question": "यदि A + B का मतलब है A, B की बहन है; A x B का मतलब है A, B की पत्नी है; A % B का मतलब है A, B के पिता हैं और A - B का मतलब है A, B का भाई है, तो निम्नलिखित में से कौन सा दिखाता है कि T, P की बेटी है?",
             "a": "P x Q % R + S - T",
             "b": "P x Q % R - T + S",
             "c": "P x Q % R + T - S",
@@ -130,76 +130,76 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P x Q = P is the wife of Q! !Q % R = Q is the father of R! !R - T = R is the brother of T! !T + S = T is the sister of S.! !Therefore, T is the daughter of P."
+            "explain": "P x Q = P Q की पत्नी है। Q % R = Q R का पिता है। R - T = R T का भाई है। T + S = T S की बहन है। इसलिए, T P की बेटी है।"
         },
         {
-            "question": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Mother-in-law",
-            "d": "Sister",
+            "question": "एक महिला की ओर इशारा करते हुए, Abhijit ने कहा: “उसकी पोती, मेरे भाई की एकमात्र बेटी है।” महिला, Abhijit से किस रिश्ते में है?",
+            "a": "माँ",
+            "b": "दादी",
+            "c": "सास",
+            "d": "बहन",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Daughter of Abhijit's brother = niece of Abhijit.! !Thus the granddaughter of the woman is Abhijit's niece.! !Hence, the woman is the mother of Abhijit."
+            "explain": "Abhijit के भाई की बेटी = Abhijit की भतीजी है। इसलिए, महिला की पोती Abhijit की भतीजी है। इसलिए, महिला Abhijit की मां है।"
         },
         {
-            "question": "Amit said - \"This girl is the wife of the grandson of my mother\". How is Amit related to the girl?",
-            "a": "Brother",
-            "b": "Grandfather",
-            "c": "Father-in-law",
-            "d": "Husband",
+            "question": "Amit ने कहा: “यह लड़की मेरी माँ के पोते की पत्नी है।” Amit का लड़की से क्या संबंध है?",
+            "a": "भाई",
+            "b": "दादा",
+            "c": "ससुर",
+            "d": "पति",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the wife of grandson of Amit's mother i.e., the girl is the wife of son of Amit.! !Hence, Amit is the father-in-law of the girl."
+            "explain": "लड़की Amit की मां के पोते की पत्नी है, यानी Amit के बेटे की पत्नी। इसलिए, Amit लड़की का ससुर है।"
         },
         {
-            "question": "A and B are children of D. Who is the father of A? To answer this question which of the statements (1) and (2) is necessary? (1) C is the brother of A and the son of E.   (2) F is the mother B.",
-            "a": "Only (1)",
-            "b": "Only (2)",
-            "c": "Either (1) or (2)",
-            "d": "(1) and (2) both",
+            "question": "A और B D के बच्चे हैं। A का पिता कौन है? इस प्रश्न का उत्तर देने के लिए निम्नलिखित में से कौन सा कथन (1) और (2) आवश्यक है? (1) C A का भाई है और E का बेटा है। (2) F B की माँ है।",
+            "a": "केवल (1)",
+            "b": "केवल (2)",
+            "c": "या (1) या (2)",
+            "d": "(1) और (2) दोनों",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A and B are children of D.! !From (1), C is the brother B and son of E.! !Since, the sex of D and E are not known. Hence (1) is not sufficient to answer the question.! !From (2). F is the mother of B. Hence, F is also the mother of A. Hence D is the father of A.! !Thus, (2) is sufficient to answer the question."
+            "explain": "A और B D के बच्चे हैं। (1) से, C B का भाई है और E का बेटा है। चूंकि D और E के लिंग ज्ञात नहीं हैं, (1) प्रश्न का उत्तर देने के लिए पर्याप्त नहीं है। (2) से, F B की मां है। इसलिए, F A की भी मां है। इसलिए, D A के पिता हैं। इस प्रकार, (2) प्रश्न का उत्तर देने के लिए पर्याप्त है।"
         },
         {
-            "question": "Pointing towards a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Sister",
-            "d": "Daughter",
+            "question": "एक आदमी की ओर इशारा करते हुए, एक महिला ने कहा, “उसकी माँ मेरी माँ की एकमात्र बेटी है।” महिला और उस आदमी का क्या रिश्ता है?",
+            "a": "माँ",
+            "b": "दादी",
+            "c": "बहन",
+            "d": "बेटी",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Only daughter of my mother = myself.! !Hence, the woman is the mother of the man."
+            "explain": "मेरी मां की एकमात्र बेटी = मैं खुद। इसलिए, महिला उस पुरुष की मां है।"
         },
         {
-            "question": "If P $ Q means P is the brother of Q; P # Q means P is the mother of Q; P * Q means P is the daughter of Q in A # B $ C * D, who is the father?",
+            "question": "यदि P $ Q का मतलब है P Q का भाई है; P # Q का मतलब है P Q की माँ है; P * Q का मतलब है P Q की बेटी है, तो A # B $ C * D में पिता कौन है?",
             "a": "D",
             "b": "B",
             "c": "C",
-            "d": "None of these",
+            "d": "इनमें से कोई नहीं",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A is the mother of B, B is the brother of C and C is the daughter of D.! !Hence, D is the father."
+            "explain": "A B की मां है, B C का भाई है और C D की बेटी है। इसलिए, D पिता है।"
         },
         {
-            "question": "Introducing Sonia, Aamir says, \"She is the wife of only nephew of only brother of my mother.\" How Sonia is related to Aamir?",
-            "a": "Sister-in-law",
-            "b": "Sister",
-            "c": "Wife",
-            "d": "Data is inadequate",
+            "question": "Sonia का परिचय देते हुए, Aamir ने कहा, “वह मेरी माँ के एकमात्र भाई के एकमात्र भतीजे की पत्नी है।” Sonia और Aamir का क्या रिश्ता है?",
+            "a": "भाभी",
+            "b": "बहन",
+            "c": "पत्नी",
+            "d": "डेटा अपर्याप्त है",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of mother means maternal uncle.! !Hence only nephew of Aamir's maternal uncle means Aamir himself.! !Therefore Sonia is the wife of Aamir."
+            "explain": "मां के भाई का मतलब मामा है। इसलिए, Aamir के मामा के एकमात्र भतीजे का मतलब Aamir स्वयं है। इसलिए, Sonia Aamir की पत्नी है।"
         },
         {
-            "question": "If A + B means A is the brother of B; A % B means A is the father of B and A x B means A is the sister of B. Which of the following means M is the uncle of P?",
+            "question": "यदि A + B का मतलब है A B का भाई है; A % B का मतलब है A B का पिता है और A x B का मतलब है A B की बहन है। इनमें से कौन सा मतलब है कि M P का चाचा है?",
             "a": "M % N x P",
             "b": "N x P % M",
             "c": "M + S % R % P",
@@ -207,32 +207,32 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M + K = M is the brother of K! !K % T = K is the father of T! !T x P = T is the sister of P! !Therefore, K is the father of P and M is the uncle of P."
+            "explain": "M + K = M K का भाई है। K % T = K T का पिता है। T x P = T P की बहन है। इसलिए, K P का पिता है और M P का चाचा है।"
         },
         {
-            "question": "Pointing to Varman, Madhav said, \"I am the only son of one of the sons of his father.\" How is Varman related to Madhav?",
-            "a": "Nephew",
-            "b": "Uncle",
-            "c": "Father or Uncle",
-            "d": "Father",
+            "question": "Varman की ओर इशारा करते हुए, Madhav ने कहा, “मैं उसके पिता के बेटों में से एक का एकमात्र बेटा हूँ।” Varman और Madhav का क्या रिश्ता है?",
+            "a": "भतीजा",
+            "b": "चाचा",
+            "c": "पिता या चाचा",
+            "d": "पिता",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Madhav is the only son of one of the sons of Varman's father! !So, Either Varman is the father or uncle of Madhav."
+            "explain": "Madhav Varman के पिता के एक बेटे का एकमात्र बेटा है। इसलिए, Varman Madhav के पिता या चाचा हो सकते हैं।"
         },
         {
-            "question": "Introducing a woman, Shashank said, \"She is the mother of the only daughter of my son.\" How that woman is related to Shashank?",
-            "a": "Daughter",
-            "b": "Sister-in-law",
-            "c": "Wife",
-            "d": "Daughter-in-law",
+            "question": "एक महिला का परिचय देते हुए, Shashank ने कहा, “वह मेरी संतान की एकमात्र बेटी की माँ है।” वह महिला Shashank के साथ कैसे संबंधित है?",
+            "a": "बेटी",
+            "b": "भाभी",
+            "c": "पत्नी",
+            "d": "बहू",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The woman is the mother of Shashank's granddaughter.! !Hence, the woman is the daughter-in-law of Shashank. "
+            "explain": "महिला Shashank की पोती की मां है। इसलिए, महिला Shashank की बहू है।"
         },
         {
-            "question": "If A + B means B is the brother of A; A x B means B is the husband of A; A - B means A is the mother of B and A % B means A is the father of B, which of the following relations shows that Q is the grandmother of T?",
+            "question": "यदि A + B का मतलब है B A का भाई है; A x B का मतलब है B A का पति है; A - B का मतलब है A B की माँ है और A % B का मतलब है A B का पिता है, तो इनमें से कौन सा संबंध दिखाता है कि Q T की दादी है?",
             "a": "Q - P + R % T",
             "b": "P x Q % R - T",
             "c": "P x Q % R + T",
@@ -240,10 +240,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q - P = Q is the mother of P! !P + R = R is the brother of P! !Hence, Q is the mother of R! !R % T = R is the father of T.! !Hence, Q is the grandmother of T."
+            "explain": "Q - P = Q P की मां है। P + R = R P का भाई है। इसलिए, Q R की मां है। R % T = R T का पिता है। इसलिए, Q T की दादी है।"
         },
         {
-            "question": "A3P means A is the mother of P , A4P means A is the brother of P , A9P means A is the husband of P , A5P means A is the daughter of P ; Which of the following means that K is the mother-in-law of M?",
+            "question": "A3P का मतलब है A P की माँ है, A4P का मतलब है A P का भाई है, A9P का मतलब है A P का पति है, A5P का मतलब है A P की बेटी है; इनमें से कौन सा मतलब है कि K M की सास है?",
             "a": "M9N3K4J",
             "b": "M9N5K3J",
             "c": "K5J9M3N",
@@ -251,54 +251,54 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M9N = M is the husband of N! !N5K = N is the daughter of K! !Hence, M is the son-in-law of K! !K3J = K is the mother of J! !Hence, K is a lady! !Hence, K is the mother-in-law of M."
+            "explain": "M9N = M N का पति है। N5K = N K की बेटी है। इसलिए, M K का दामाद है। K3J = K J की मां है। इसलिए, K महिला है। इसलिए, K M की सास है।"
         },
         {
-            "question": "Pointing to a photograph Anjali said, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Anjali?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Son",
-            "d": "Data inadequate",
+            "question": "एक फोटो की ओर इशारा करते हुए, Anjali ने कहा, “वह मेरे दादा के एकमात्र बेटे का बेटा है।” फोटो में आदमी Anjali के साथ कैसे संबंधित है?",
+            "a": "भाई",
+            "b": "चाचा",
+            "c": "पुत्र",
+            "d": "डेटा अपर्याप्त",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is son of Anjali's grandfather's son i.e., the son of Anjali's father.! !Hence, the boy is the brother of Anjali."
+            "explain": "फोटो में आदमी उस महिला की मां के एकमात्र बेटे का बेटा है, यानी महिला के पिता का बेटा। इसलिए, आदमी महिला का भाई है।"
         },
         {
-            "question": "Pointing to a person, Deepak said, \"His only brother is the father of my daughter's father\". How is the person related to Deepak?",
-            "a": "Father",
-            "b": "Grandfather",
-            "c": "Uncle",
-            "d": "Brother-in-law",
+            "question": "एक व्यक्ति की ओर इशारा करते हुए, Deepak ने कहा, “उसका एकमात्र भाई मेरे बेटी के पिता के पिता है।” वह व्यक्ति Deepak के साथ कैसे संबंधित है?",
+            "a": "पिता",
+            "b": "दादा",
+            "c": "चाचा",
+            "d": "बहनोई",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father of Deepak's daughter's father = Deepak's father.! !Hence, the person in the brother of Deepak's father.! !Therefore, the person is the uncle of Deepak."
+            "explain": "Deepak की बेटी के पिता के पिता = Deepak के पिता है। इसलिए, वह व्यक्ति Deepak के पिता के भाई है। इसलिए, वह व्यक्ति Deepak का चाचा है।"
         },
         {
-            "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Aunt",
-            "d": "Data inadequate",
+            "question": "P K की माँ है; K D की बहन है; D J का पिता है। P और J का क्या रिश्ता है?",
+            "a": "माँ",
+            "b": "दादी",
+            "c": "आंटी",
+            "d": "डेटा अपर्याप्त",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P is the mother of K! !K is the sister of D! !D is the father of J.! !Therefore, J is the nephew or niece of K and P is the grandmother of J."
+            "explain": "P K की मां है। K D की बहन है। D J का पिता है। इसलिए, J K का भतीजा या भतीजी है और P J की दादी है।"
         },
         {
-            "question": "If P $ Q means P is the father of Q; P # Q means P is the mother of Q and P * Q means P is the sister of Q, then N # L $ P * Q shows which of the relation of Q to N?",
-            "a": "Grand son",
-            "b": "Grand daughter",
-            "c": "Nephew",
-            "d": "Data is inadequate",
+            "question": "यदि P $ Q का मतलब है P Q का पिता है; P # Q का मतलब है P Q की माँ है और P * Q का मतलब है P Q की बहन है, तो N # L $ P * Q Q और N के बीच क्या रिश्ता दिखाता है?",
+            "a": "पोता",
+            "b": "पोती",
+            "c": "भतीजा",
+            "d": "डेटा अपर्याप्त है",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the sex of Q is not known, hence, data is inadequate."
+            "explain": "Q के लिंग का पता नहीं होने के कारण, डेटा अपर्याप्त है।"
         },
         {
-            "question": "If A $ B means A is the brother of B; A / B means A is the wife of B; A # B means A is the daughter of B and A * B means A is the father of B, which of the following indicates that U is the father-in-law of P?",
+            "question": "यदि A $ B का मतलब है A B का भाई है; A / B का मतलब है A B की पत्नी है; A # B का मतलब है A B की बेटी है और A * B का मतलब है A B का पिता है, तो इनमें से कौन सा मतलब है कि U P का ससुर है?",
             "a": "P / Q $ T # U * W",
             "b": "P / W $ Q * T # U",
             "c": "P / Q $ W * T # U",
@@ -306,54 +306,54 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(1) P / Q = P is the wife of Q! !(2) Q $ T = Q is the brother of T! !T # U = T is the daughter of U! !Hence,!(3)Q is the son of U! !U * W = U is the father of W.! !From (1) and (3), U is the father-in-law of P."
+            "explain": "(1) P / Q = P Q की पत्नी है। (2) Q $ T = Q T का भाई है। T # U = T U की बेटी है। इसलिए, (3) Q U का बेटा है। U * W = U W का पिता है। (1) और (3) से, U P का ससुर है।"
         },
         {
-            "question": "Introducing a man, a woman said, \"He is the only son of the mother of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Niece",
-            "d": "Maternal aunt",
+            "question": "एक आदमी का परिचय देते हुए, एक महिला ने कहा, “वह मेरी माँ की माँ के एकमात्र बेटे का बेटा है।” वह महिला उस आदमी के साथ कैसे संबंधित है?",
+            "a": "माँ",
+            "b": "बहन",
+            "c": "भतीजी",
+            "d": "मौसी",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man is the only son of the mother of the woman.! !Hence, the man is the maternal uncle of the woman.! !So, the woman is the niece of the man."
+            "explain": "वह आदमी उस महिला की मां के एकमात्र बेटे है। इसलिए, वह आदमी उस महिला का मामा है। इसलिए, महिला उस आदमी की भतीजी है।"
         },
         {
-            "question": "Pointing to Gopi, Nalni says, \"I am the daughter of the only son of his grandfather.\" How Nalni is related to Gopi?",
-            "a": "Niece",
-            "b": "Daughter",
-            "c": "Sister",
-            "d": "Aunt",
+            "question": "Gopi की ओर इशारा करते हुए, Nalni कहती है, “मैं उसके दादा के केवल एक बेटे की बेटी हूँ।” Nalni और Gopi के बीच क्या रिश्ता है?",
+            "a": "भतीजी",
+            "b": "बेटी",
+            "c": "बहन",
+            "d": "मौसी",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Nalni is the daughter of the only son of Gopi's grandfather.! !Hence, it's clear that Nalni is the sister of Gopi."
+            "explain": "A और B D के बच्चे हैं। (1) के अनुसार, C B का भाई है और E का बेटा है। चूंकि D और E का लिंग ज्ञात नहीं है, (1) अकेला प्रश्न का उत्तर देने के लिए पर्याप्त नहीं है। (2) के अनुसार, F B की माँ है। इसलिए, F A की भी माँ है। इसलिए, D A के पिता हैं। इसलिए, (2) प्रश्न का उत्तर देने के लिए पर्याप्त है।"
         },
         {
-            "question": "A's son B is married with C whose sister D is married to E the brother of B. How D is related to A?",
-            "a": "Sister",
-            "b": "Daughter's-in-law",
-            "c": "Sister-in-law",
-            "d": "Cousin",
+            "question": "A का बेटा B C से शादी कर चुका है जिसकी बहन D B के भाई E से शादी की हुई है। D और A के बीच क्या रिश्ता है?",
+            "a": "बहन",
+            "b": "बहू",
+            "c": "भाभी",
+            "d": "चचेरा भाई",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Since E is the brother of B! !Therefore, A is the father of E! !but D is the wife of E.! !Hence, D is the daughter-in-law of A."
+            "explain": "मेरी माँ की एकमात्र बेटी = मैं स्वयं। इसलिए, महिला उस पुरुष की माँ है।"
         },
         {
-            "question": "Pointing to a lady a person said, \"The son of her only brother is the brother of my wife.\" How is the lady related to the person?",
-            "a": "Maternal aunt",
-            "b": "Grandmother",
-            "c": "Sister of father-in-law",
-            "d": "None of these",
+            "question": "एक महिला की ओर इशारा करते हुए, एक व्यक्ति ने कहा, “उसके एकमात्र भाई का बेटा मेरी पत्नी का भाई है।” वह महिला उस व्यक्ति के साथ किस प्रकार का रिश्ता रखती है?",
+            "a": "फूफी",
+            "b": "दादी",
+            "c": "ससुर की बहन",
+            "d": "इनमें से कोई नहीं",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of person's wife is brother-in-law of the person.! !Hence, the son of lady's brother is brother-in-law of the person.! !Therefore, the brother of the lady is the father-in-law of the person. Hence, the lady is the sister of the person's father-in-law."
+            "explain": "A B की माँ है, B C का भाई है और C D की बेटी है। इसलिए, D पिता है।"
         },
         {
-            "question": "B5D means B is the father of D , B9D means B is the sister of D , B4D means B is the brother of D , B3D means B is the wife of D ; Which of the following means F is the mother of K?",
+            "question": "B5D का मतलब है कि B D का पिता है, B9D का मतलब है कि B D की बहन है, B4D का मतलब है कि B D का भाई है, और B3D का मतलब है कि B D की पत्नी है। इनमें से कौन सा विकल्प F को K की माँ दर्शाता है?",
             "a": "F3M5K",
             "b": "F5M3K",
             "c": "F9M4N3K",
@@ -361,10 +361,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "F3M = F is the wife of M! !M5K = M is the father of K! !Therefore, F is the mother of K."
+            "explain": "माँ का भाई चाचा होता है। इसलिए, Aamir के चाचा के केवल भतीजे का मतलब Aamir स्वयं है। इसलिए, Sonia Aamir की पत्नी है।"
         },
         {
-            "question": "A $ B means A is the father of B; A # B means A is the sister of B; A * B means A is the daughter of B and A / B means A is the brother of B. Which of the following indicates that M is the wife of Q?",
+            "question": "A $ B का मतलब है कि A B का पिता है; A # B का मतलब है कि A B की बहन है; A * B का मतलब है कि A B की बेटी है और A / B का मतलब है कि A B का भाई है। इनमें से कौन सा विकल्प M को Q की पत्नी दर्शाता है?",
             "a": "Q $ R # T / M",
             "b": "Q $ R / T # M",
             "c": "Q $ R * T # M",
@@ -372,65 +372,65 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q $ R = Q is the father of R! !R / T = R is the brother of T! !Hence, Q is the father of T! !T * M = T is the daughter of M! !Hence, M is the mother of T! !Hence, M is the wife of Q."
+            "explain": "M + K = M K का भाई है। K % T = K T का पिता है। T x P = T P की बहन है। इसलिए, K P का पिता है और M P का चाचा है।"
         },
         {
-            "question": "If A $ B means A is the brother of B; B * C means B is the son of C; C / D means C is the wife of D and A # D means A is the son of D, how C is related to A?",
-            "a": "Grandmother",
-            "b": "Maternal aunt",
-            "c": "Aunt",
-            "d": "Mother",
+            "question": "यदि A $ B का मतलब है कि A B का भाई है; B * C का मतलब है कि B C का बेटा है; C / D का मतलब है कि C D की पत्नी है और A # D का मतलब है कि A D का बेटा है, तो C A के साथ किस प्रकार का रिश्ता रखता है?",
+            "a": "दादी",
+            "b": "माँ",
+            "c": "आंटी",
+            "d": "मां",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A $ B = A is the brother of B! !B * C = B is the son of C! !Hence, A is the son of C! !C / D = C is the wife of D! !Hence, C is the mother of A."
+            "explain": "Madhav Varman के पिता के बेटों में से एक का एकमात्र बेटा है। इसलिए, Varman या तो Madhav का पिता है या चाचा है।"
         },
         {
-            "question": "Pointing to a girl Sandeep said, \"She is the daughter of the only sister of my father.\" How is sandeep related to the girl?",
-            "a": "Uncle",
-            "b": "Cousin",
-            "c": "Father",
-            "d": "Grandfather",
+            "question": "एक लड़की की ओर इशारा करते हुए, Sandeep ने कहा, “वह मेरे पिता की एकमात्र बहन की बेटी है।” Sandeep और उस लड़की के बीच क्या रिश्ता है?",
+            "a": "चाचा",
+            "b": "कजिन",
+            "c": "पिता",
+            "d": "दादा",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the daughter of the sister of Sandeep's father.! !Hence, the girl is the cousin or Sandeep is the cousin of the girl."
+            "explain": "महिला Shashank की पोती की माँ है। इसलिए, महिला Shashank की बहु है।"
         },
         {
-            "question": "Pointing to a boy in the photograph Reena said, \"He is the only son of the only child of my grandfather.\" How Reena is related to that boy?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "एक फोटो में लड़के की ओर इशारा करते हुए, Reena ने कहा, “वह मेरे दादा के एकमात्र बच्चे का बेटा है।” Reena और उस लड़के के बीच क्या रिश्ता है?",
+            "a": "माँ",
+            "b": "बहन",
+            "c": "आंटी",
+            "d": "इनमें से कोई नहीं",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of Reena's grandfather's only son; i.e., the boy is the only son of Reena's father.! !Hence, the boy is the brother of Reena or Reena is the sister of the boy."
+            "explain": "Q - P = Q P की माँ है। P + R = R P का भाई है। इसलिए, Q R की माँ है। R % T = R T का पिता है। इसलिए, Q T की दादी है।"
         },
         {
-            "question": "A * B means A is the sister of B , A $ B means B is the mother of A , A + B means A is the brother of B , A = B means B is the father of A ; Which of the following means M is the maternal uncle of N?",
+            "question": "A * B का मतलब है कि A B की बहन है, A $ B का मतलब है कि B A की माँ है, A + B का मतलब है कि A B का भाई है, और A = B का मतलब है कि B A का पिता है; इनमें से कौन सा विकल्प M को N के मामा दर्शाता है?",
             "a": "M = P + Q * N",
             "b": "N + P = Q * M",
             "c": "N * P $ Q * M",
-            "d": "None of these",
+            "d": "इनमें से कोई नहीं",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "M9N = M N का पति है। N5K = N K की बेटी है। इसलिए, M K का दामाद है। K3J = K J की माँ है। इसलिए, K एक महिला है। इसलिए, K M की सास है।"
         },
         {
-            "question": "If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N then P % Q + R - T x K indicates which relation of P to K?",
-            "a": "Daughter-in-law",
-            "b": "Sister-in-law",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "यदि M x N का मतलब है कि M N की बेटी है; M + N का मतलब है कि M N का पिता है; M % N का मतलब है कि M N की माँ है और M - N का मतलब है कि M N का भाई है, तो P % Q + R - T x K के अनुसार P और K के बीच क्या रिश्ता है?",
+            "a": "बहन",
+            "b": "भाभी",
+            "c": "आंटी",
+            "d": "इनमें से कोई नहीं",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P % Q = P is the mother of Q! !Q + R = Q is the father of R! !R - T = R is the brother of T! !Hence, Q is the father of T! !T x K = T is the daughter of K! !Hence, Q is the husband of K.! !Therefore, P is the mother-in-law of K."
+            "explain": "फोटो में व्यक्ति उस महिला की माँ के एकमात्र बेटे का बेटा है, यानी उस महिला के पिता का बेटा। इसलिए, वह व्यक्ति उस महिला का भाई है।"
         },
         {
-            "question": "If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q, which of the following relations shows that I is the niece of K?",
+            "question": "यदि P + Q का मतलब है कि P Q का भाई है; P x Q का मतलब है कि P Q का पिता है और P - Q का मतलब है कि P Q की बहन है, तो इनमें से कौन सा विकल्प I को K की भतीजी दर्शाता है?",
             "a": "K + Y + Z - I",
             "b": "K + Y x I - Z",
             "c": "Z - I x Y + K",
@@ -438,7 +438,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "K + Y = K is the brother of Y! !Y x I = Y is the father of I! !Hence, K is the uncle of I! !and I - Z = I is the sister of Z! !Hence, I is the niece of K."
+            "explain": "Deepak की बेटी के पिता के पिता = Deepak के पिता। इसलिए, व्यक्ति Deepak के पिता के भाई हैं। इसलिए, व्यक्ति Deepak का चाचा है।"
         }
     ]
 }

@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "question": "Pointing to a photograph of a boy Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Father",
+            "question": "少年の写真を指さしながら、スレシュは言いました。「彼は私の母の一人息子の息子です。」スレシュはその少年とどのような関係ですか？",
+            "a": "兄",
+            "b": "おじさん",
+            "c": "いとこ",
+            "d": "父",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of the son of Suresh's mother i.e., the son of Suresh.! !Hence, Suresh is the father of boy."
+            "explain": "写真の男の子はSureshの母親の息子の一人息子、つまりSureshの息子です。したがって、Sureshはその男の子の父親です。"
         },
         {
-            "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+            "question": "A + BがAがBの母であることを意味し、A - BがAがBの兄であり、A % BがAがBの父であり、A x BがAがBの姉であることを意味する場合、次のうちPがQの叔父であることを示すものはどれですか？",
             "a": "Q - N + M x P",
             "b": "P + S x N - Q",
             "c": "P - M + N x Q",
@@ -20,21 +20,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P - M = P is the brother of M! !M + N = M is the mother of N! !N x Q = N is the sister of Q! !Therefore, P is the maternal uncle of Q."
+            "explain": "P - M = PはMの兄です。M + N = MはNの母親です。N x Q = NはQの姉妹です。したがって、PはQの母方の叔父です。"
         },
         {
-            "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-            "a": "Brother",
-            "b": "Sister",
-            "c": "Nephew",
-            "d": "None of these",
+            "question": "AがBの兄で、BがCの姉で、CがDの父である場合、DはAとどのような関係ですか？",
+            "a": "兄",
+            "b": "姉",
+            "c": "甥",
+            "d": "これらのいずれでもない",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "If D is Male, the answer is Nephew.! !If D is Female, the answer is Niece.! !As the sex of D is not known, hence, the relation between D and A cannot be determined.! !Note;!   Niece - A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law.!Nephew - A son of one's brother or sister, or of one's brother-in-law or sister-in-law."
+            "explain": "Dが男性であれば、答えは甥です。Dが女性であれば、答えは姪です。Dの性別がわからないため、DとAの関係は決定できません。注意: 姪 - 兄弟または姉妹、または義理の兄妹の娘。甥 - 兄弟または姉妹、または義理の兄妹の息子。"
         },
         {
-            "question": "If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?",
+            "question": "A + BがAがBの兄であり、A - BがAがBの姉であり、A x BがAがBの父である場合、次のうちCがMの息子であることを意味するものはどれですか？",
             "a": "M - N x C + F",
             "b": "F - C + N x M",
             "c": "N + M - F x C",
@@ -42,87 +42,87 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M x N = M is the father of N! !N - C = N is the sister of C! !and C + F = C is the brother of F.! !Hence, M is the father of C or C is the son of M."
+            "explain": "M x N = MはNの父親です。N - C = NはCの姉妹です。C + F = CはFの兄です。したがって、MはCの父親であるか、CはMの息子です。"
         },
         {
-            "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
-            "a": "Brother",
-            "b": "Nephew",
-            "c": "Uncle",
-            "d": "Son",
+            "question": "ある少年を紹介しながら、女の子は言いました。「彼は私の叔父の父の娘の息子です。」その少年は女の子とどのような関係ですか？",
+            "a": "兄",
+            "b": "甥",
+            "c": "おじさん",
+            "d": "息子",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The father of the boy's uncle = the grandfather of the boy! !daughter of the grandfather = sister of father."
+            "explain": "少年の叔父の父 = 少年の祖父です！祖父の娘 = 父の姉です。"
         },
         {
-            "question": "Pointing to a photograph Lata says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Lata?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Data inadequate",
+            "question": "Lataが写真を指さしながら言いました。「彼は私の祖父の唯一の息子の息子です。」写真の男性はLataとどのような関係ですか？",
+            "a": "兄",
+            "b": "おじさん",
+            "c": "いとこ",
+            "d": "データ不足",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is the son of the only son of Lata's grandfather i.e., the man is the son of Lata's father. Hence, the man is the brother of Lata."
+            "explain": "写真の男性はLataの祖父の一人息子の息子、つまりLataの父親の息子です。したがって、その男性はLataの兄です。"
         },
         {
-            "question": "If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?",
+            "question": "A + BがAがBの兄であり、A x BがAがBの息子であり、A % BがBがAの娘である場合、次のうちMがNの叔父であることを意味するものはどれですか？",
             "a": "M + O x N",
             "b": "M % O x N + P",
             "c": "M + O % N",
-            "d": "None of these",
+            "d": "これらのいずれでもない",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Because the sex of O is not known."
+            "explain": "Oの性別がわからないため。"
         },
         {
-            "question": "Pointing to a photograph. Bajpai said, \"He is the son of the only daughter of the father of my brother.\" How Bajpai is related to the man in the photograph?",
-            "a": "Nephew",
-            "b": "Brother",
-            "c": "Father",
-            "d": "Maternal Uncle",
+            "question": "写真を指さしながら、Bajpaiは言いました。「彼は私の兄の父の唯一の娘の息子です。」Bajpaiは写真の男性とどのような関係ですか？",
+            "a": "甥",
+            "b": "兄",
+            "c": "父",
+            "d": "おじ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photo is the son of the sister of Bajpai. Hence, Bajpai is the maternal uncle of the man in the photograph."
+            "explain": "写真の男性はBajpaiの姉の息子です。したがって、Bajpaiは写真の男性の母方の叔父です。"
         },
         {
-            "question": "Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?",
-            "a": "Son",
-            "b": "Brother",
-            "c": "Cousin",
-            "d": "Brother-in-law",
+            "question": "DeepakがNitinに言いました。「サッカーをしているその少年は、私の父の妻の娘の二人の兄弟のうちの一人です。」サッカーをしている少年はDeepakとどのような関係ですか？",
+            "a": "息子",
+            "b": "兄",
+            "c": "いとこ",
+            "d": "義兄",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father's wife = mother.! !Hence, the daughter of the mother means sister and sister's younger brother means brother.! !Therefore, the boy is the brother of Deepak."
+            "explain": "父の妻 = 母です。したがって、母の娘は姉で、姉の弟は兄です。したがって、その少年はDeepakの兄です。"
         },
         {
-            "question": "Pointing a photograph X said to his friend Y, \"She is the only daughter of the father of my mother.\" How X is related to the person of photograph?",
-            "a": "Daughter",
-            "b": "Son",
-            "c": "Nephew",
-            "d": "Brother",
+            "question": "写真を指さしながら、Xは友人のYに言いました。「彼女は私の母の父の唯一の娘です。」Xは写真の人物とどのような関係ですか？",
+            "a": "娘",
+            "b": "息子",
+            "c": "甥",
+            "d": "兄",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "'The only daughter of the father of X's mother' means mother of X.! !Hence X is the son of the lady in the photograph."
+            "explain": "「Xの母親の唯一の娘」はXの母親です。したがって、Xは写真の女性の息子です。"
         },
         {
-            "question": "Veena who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep who is the only brother of Ashok. How Kalyani is related to Ashok?",
-            "a": "Mother-in-law",
-            "b": "Aunt",
-            "c": "Wife",
-            "d": "None of these",
+            "question": "VeenaはAshokの義理の姉であり、Kalyaniの嫁です。DheerajはSudeepの父であり、SudeepはAshokの唯一の兄弟です。KalyaniはAshokとどのような関係ですか？",
+            "a": "義母",
+            "b": "叔母",
+            "c": "妻",
+            "d": "これらのいずれでもない",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ashok is the only brother of Sudeep and Veena is the sister-in-law of Ashok.! !Hence Veena is the wife of Sudeep.! !Kalyani is the mother-in-law of Veena.!Kalyani is the mother of Ashok."
+            "explain": "AshokはSudeepの唯一の兄弟で、VeenaはAshokの義姉です。したがって、VeenaはSudeepの妻です。KalyaniはVeenaの義母です。KalyaniはAshokの母親です。"
         },
         {
-            "question": "If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?",
+            "question": "A + BがAがBの姉であり、A x BがAがBの妻であり、A % BがAがBの父であり、A - BがAがBの兄である場合、次のうちTがPの娘であることを意味するものはどれですか？",
             "a": "P x Q % R + S - T",
             "b": "P x Q % R - T + S",
             "c": "P x Q % R + T - S",
@@ -130,76 +130,76 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P x Q = P is the wife of Q! !Q % R = Q is the father of R! !R - T = R is the brother of T! !T + S = T is the sister of S.! !Therefore, T is the daughter of P."
+            "explain": "P x Q = PはQの妻です。Q % R = QはRの父親です。R - T = RはTの兄です。T + S = TはSの姉妹です。したがって、TはPの娘です。"
         },
         {
-            "question": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Mother-in-law",
-            "d": "Sister",
+            "question": "女性を指さしながらAbhijitは言いました。「彼女の孫娘は私の兄の唯一の娘です。」その女性はAbhijitとどのような関係ですか？",
+            "a": "母",
+            "b": "祖母",
+            "c": "義母",
+            "d": "姉妹",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Daughter of Abhijit's brother = niece of Abhijit.! !Thus the granddaughter of the woman is Abhijit's niece.! !Hence, the woman is the mother of Abhijit."
+            "explain": "Abhijitの兄弟の娘 = Abhijitの姪です。したがって、女性の孫はAbhijitの姪です。したがって、女性はAbhijitの母親です。"
         },
         {
-            "question": "Amit said - \"This girl is the wife of the grandson of my mother\". How is Amit related to the girl?",
-            "a": "Brother",
-            "b": "Grandfather",
-            "c": "Father-in-law",
-            "d": "Husband",
+            "question": "Amitは言いました。「この女の子は私の母の孫の妻です。」Amitはその女の子とどのような関係ですか？",
+            "a": "兄",
+            "b": "祖父",
+            "c": "義父",
+            "d": "夫",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the wife of grandson of Amit's mother i.e., the girl is the wife of son of Amit.! !Hence, Amit is the father-in-law of the girl."
+            "explain": "その女の子はAmitの母親の孫の妻、つまりAmitの息子の妻です。したがって、Amitはその女の子の義父です。"
         },
         {
-            "question": "A and B are children of D. Who is the father of A? To answer this question which of the statements (1) and (2) is necessary? (1) C is the brother of A and the son of E.   (2) F is the mother B.",
-            "a": "Only (1)",
-            "b": "Only (2)",
-            "c": "Either (1) or (2)",
-            "d": "(1) and (2) both",
+            "question": "AとBはDの子供です。Aの父親は誰ですか？この質問に答えるためには、次のうちどちらの声明（1）と（2）が必要ですか？（1）CはAの兄弟で、Eの息子です。（2）FはBの母親です。",
+            "a": "のみ (1)",
+            "b": "のみ (2)",
+            "c": "どちらか (1) または (2)",
+            "d": "(1)と(2)の両方",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A and B are children of D.! !From (1), C is the brother B and son of E.! !Since, the sex of D and E are not known. Hence (1) is not sufficient to answer the question.! !From (2). F is the mother of B. Hence, F is also the mother of A. Hence D is the father of A.! !Thus, (2) is sufficient to answer the question."
+            "explain": "AとBはDの子供です。 (1)から、CはBの兄でEの息子です。DとEの性別がわからないので、(1)は質問に答えるには不十分です。 (2)から、FはBの母親です。したがって、FはAの母親でもあります。したがって、DはAの父親です。従って、(2)は質問に答えるには十分です。"
         },
         {
-            "question": "Pointing towards a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Sister",
-            "d": "Daughter",
+            "question": "ある男性を指しながら、女性は言いました：「彼の母親は私の母の唯一の娘です。」その女性は男性とどのような関係にありますか？",
+            "a": "母",
+            "b": "祖母",
+            "c": "姉",
+            "d": "娘",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Only daughter of my mother = myself.! !Hence, the woman is the mother of the man."
+            "explain": "母の唯一の娘 = 自分自身です。したがって、その女性はその男性の母親です。"
         },
         {
-            "question": "If P $ Q means P is the brother of Q; P # Q means P is the mother of Q; P * Q means P is the daughter of Q in A # B $ C * D, who is the father?",
+            "question": "P $ QはPがQの兄弟であることを意味し、P # QはPがQの母親であることを意味し、P * QはPがQの娘であることを意味します。A # B $ C * Dの中で、誰が父親ですか？",
             "a": "D",
             "b": "B",
             "c": "C",
-            "d": "None of these",
+            "d": "これらのいずれでもない",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A is the mother of B, B is the brother of C and C is the daughter of D.! !Hence, D is the father."
+            "explain": "AはBの母親で、BはCの兄で、CはDの娘です。したがって、Dは父親です。"
         },
         {
-            "question": "Introducing Sonia, Aamir says, \"She is the wife of only nephew of only brother of my mother.\" How Sonia is related to Aamir?",
-            "a": "Sister-in-law",
-            "b": "Sister",
-            "c": "Wife",
-            "d": "Data is inadequate",
+            "question": "Soniaを紹介する際、Aamirは「彼女は私の母の唯一の兄弟の唯一の甥の妻です。」SoniaとAamirの関係はどうなりますか？",
+            "a": "義姉",
+            "b": "姉",
+            "c": "妻",
+            "d": "データが不十分",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of mother means maternal uncle.! !Hence only nephew of Aamir's maternal uncle means Aamir himself.! !Therefore Sonia is the wife of Aamir."
+            "explain": "母の兄は母方の叔父です。したがって、Aamirの母方の叔父の唯一の甥はAamir自身です。したがって、SoniaはAamirの妻です。"
         },
         {
-            "question": "If A + B means A is the brother of B; A % B means A is the father of B and A x B means A is the sister of B. Which of the following means M is the uncle of P?",
+            "question": "A + BはAがBの兄弟であることを意味し、A % BはAがBの父親であることを意味し、A x BはAがBの姉妹であることを意味します。次のうちどれがMがPの叔父であることを示していますか？",
             "a": "M % N x P",
             "b": "N x P % M",
             "c": "M + S % R % P",
@@ -207,32 +207,32 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M + K = M is the brother of K! !K % T = K is the father of T! !T x P = T is the sister of P! !Therefore, K is the father of P and M is the uncle of P."
+            "explain": "M + K = MはKの兄です。 K % T = KはTの父親です。 T x P = TはPの姉妹です。したがって、KはPの父親で、MはPの叔父です。"
         },
         {
-            "question": "Pointing to Varman, Madhav said, \"I am the only son of one of the sons of his father.\" How is Varman related to Madhav?",
-            "a": "Nephew",
-            "b": "Uncle",
-            "c": "Father or Uncle",
-            "d": "Father",
+            "question": "Varmanを指しながら、Madhavは「私は彼の父親の息子たちの中で唯一の息子です。」VarmanとMadhavの関係はどうなりますか？",
+            "a": "甥",
+            "b": "おじさん",
+            "c": "父 または おじさん",
+            "d": "父",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Madhav is the only son of one of the sons of Varman's father! !So, Either Varman is the father or uncle of Madhav."
+            "explain": "MadhavはVarmanの父親の息子の唯一の息子です。したがって、VarmanはMadhavの父親または叔父です。"
         },
         {
-            "question": "Introducing a woman, Shashank said, \"She is the mother of the only daughter of my son.\" How that woman is related to Shashank?",
-            "a": "Daughter",
-            "b": "Sister-in-law",
-            "c": "Wife",
-            "d": "Daughter-in-law",
+            "question": "女性を紹介する際、Shashankは「彼女は私の息子の唯一の娘の母親です。」その女性はShashankとどのような関係にありますか？",
+            "a": "娘",
+            "b": "義姉",
+            "c": "妻",
+            "d": "義理の娘",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The woman is the mother of Shashank's granddaughter.! !Hence, the woman is the daughter-in-law of Shashank. "
+            "explain": "その女性はShashankの孫の母親です。したがって、その女性はShashankの嫁です。"
         },
         {
-            "question": "If A + B means B is the brother of A; A x B means B is the husband of A; A - B means A is the mother of B and A % B means A is the father of B, which of the following relations shows that Q is the grandmother of T?",
+            "question": "A + BはBがAの兄弟であることを意味し、A x BはBがAの夫であることを意味し、A - BはAがBの母親であることを意味し、A % BはAがBの父親であることを意味します。次のうちどれがQがTの祖母であることを示していますか？",
             "a": "Q - P + R % T",
             "b": "P x Q % R - T",
             "c": "P x Q % R + T",
@@ -240,10 +240,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q - P = Q is the mother of P! !P + R = R is the brother of P! !Hence, Q is the mother of R! !R % T = R is the father of T.! !Hence, Q is the grandmother of T."
+            "explain": "Q - P = QはPの母親です。 P + R = RはPの兄です。したがって、QはRの母親です。 R % T = RはTの父親です。したがって、QはTの祖母です。"
         },
         {
-            "question": "A3P means A is the mother of P , A4P means A is the brother of P , A9P means A is the husband of P , A5P means A is the daughter of P ; Which of the following means that K is the mother-in-law of M?",
+            "question": "A3PはAがPの母親であることを意味し、A4PはAがPの兄弟であることを意味し、A9PはAがPの夫であることを意味し、A5PはAがPの娘であることを意味します。次のうちどれがKがMの義母であることを示していますか？",
             "a": "M9N3K4J",
             "b": "M9N5K3J",
             "c": "K5J9M3N",
@@ -251,54 +251,54 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M9N = M is the husband of N! !N5K = N is the daughter of K! !Hence, M is the son-in-law of K! !K3J = K is the mother of J! !Hence, K is a lady! !Hence, K is the mother-in-law of M."
+            "explain": "M9N = MはNの夫です。 N5K = NはKの娘です。したがって、MはKの婿です。 K3J = KはJの母親です。したがって、Kは女性です。したがって、KはMの義母です。"
         },
         {
-            "question": "Pointing to a photograph Anjali said, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Anjali?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Son",
-            "d": "Data inadequate",
+            "question": "写真を指しながら、Anjaliは「彼は私の祖父の唯一の息子の息子です。」写真の中の男性はAnjaliとどのような関係にありますか？",
+            "a": "兄",
+            "b": "おじさん",
+            "c": "息子",
+            "d": "データ不足",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is son of Anjali's grandfather's son i.e., the son of Anjali's father.! !Hence, the boy is the brother of Anjali."
+            "explain": "写真の男性はAnjaliの祖父の息子、つまりAnjaliの父親の息子です。したがって、その男の子はAnjaliの兄です。"
         },
         {
-            "question": "Pointing to a person, Deepak said, \"His only brother is the father of my daughter's father\". How is the person related to Deepak?",
-            "a": "Father",
-            "b": "Grandfather",
-            "c": "Uncle",
-            "d": "Brother-in-law",
+            "question": "ある人を指しながら、Deepakは「彼の唯一の兄弟は私の娘の父親の父親です。」その人はDeepakとどのような関係にありますか？",
+            "a": "父",
+            "b": "祖父",
+            "c": "おじさん",
+            "d": "義兄",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father of Deepak's daughter's father = Deepak's father.! !Hence, the person in the brother of Deepak's father.! !Therefore, the person is the uncle of Deepak."
+            "explain": "Deepakの娘の父親の父 = Deepakの父親です。したがって、その人はDeepakの父親の兄弟です。したがって、その人はDeepakの叔父です。"
         },
         {
-            "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Aunt",
-            "d": "Data inadequate",
+            "question": "PはKの母親であり、KはDの姉妹であり、DはJの父親です。PとJの関係はどうなりますか？",
+            "a": "母",
+            "b": "祖母",
+            "c": "おばさん",
+            "d": "データ不足",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P is the mother of K! !K is the sister of D! !D is the father of J.! !Therefore, J is the nephew or niece of K and P is the grandmother of J."
+            "explain": "PはKの母親です。 KはDの姉妹です。 DはJの父親です。したがって、JはKの甥または姪で、PはJの祖母です。"
         },
         {
-            "question": "If P $ Q means P is the father of Q; P # Q means P is the mother of Q and P * Q means P is the sister of Q, then N # L $ P * Q shows which of the relation of Q to N?",
-            "a": "Grand son",
-            "b": "Grand daughter",
-            "c": "Nephew",
-            "d": "Data is inadequate",
+            "question": "P $ QはPがQの父親であり、P # QはPがQの母親であり、P * QはPがQの姉妹であることを意味します。N # L $ P * QはQとNの間のどの関係を示していますか？",
+            "a": "孫",
+            "b": "孫娘",
+            "c": "甥",
+            "d": "データが不十分",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the sex of Q is not known, hence, data is inadequate."
+            "explain": "Qの性別がわからないので、データが不十分です。"
         },
         {
-            "question": "If A $ B means A is the brother of B; A / B means A is the wife of B; A # B means A is the daughter of B and A * B means A is the father of B, which of the following indicates that U is the father-in-law of P?",
+            "question": "A $ BはAがBの兄弟であり、A / BはAがBの妻であり、A # BはAがBの娘であり、A * BはAがBの父親であることを意味します。次のうちどれがUがPの義父であることを示していますか？",
             "a": "P / Q $ T # U * W",
             "b": "P / W $ Q * T # U",
             "c": "P / Q $ W * T # U",
@@ -306,54 +306,54 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(1) P / Q = P is the wife of Q! !(2) Q $ T = Q is the brother of T! !T # U = T is the daughter of U! !Hence,!(3)Q is the son of U! !U * W = U is the father of W.! !From (1) and (3), U is the father-in-law of P."
+            "explain": "(1) P / Q = PはQの妻です。 (2) Q $ T = QはTの兄です。 T # U = TはUの娘です。したがって、(3) QはUの息子です。 U * W = UはWの父親です。 (1)と(3)から、UはPの義父です。"
         },
         {
-            "question": "Introducing a man, a woman said, \"He is the only son of the mother of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Niece",
-            "d": "Maternal aunt",
+            "question": "ある男を紹介する際、女性は「彼は私の母の母親の唯一の息子です。」その女性はその男とどのような関係にありますか？",
+            "a": "母",
+            "b": "姉",
+            "c": "姪",
+            "d": "叔母",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man is the only son of the mother of the woman.! !Hence, the man is the maternal uncle of the woman.! !So, the woman is the niece of the man."
+            "explain": "その男性はその女性の母親の唯一の息子です。したがって、その男性はその女性の母方の叔父です。したがって、その女性はその男性の姪です。"
         },
         {
-            "question": "Pointing to Gopi, Nalni says, \"I am the daughter of the only son of his grandfather.\" How Nalni is related to Gopi?",
-            "a": "Niece",
-            "b": "Daughter",
-            "c": "Sister",
-            "d": "Aunt",
+            "question": "Gopiを指しながら、Nalniは「私は彼の祖父の唯一の息子の娘です。」と述べました。NalniはGopiとどのような関係にありますか？",
+            "a": "姪",
+            "b": "娘",
+            "c": "姉",
+            "d": "叔母",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Nalni is the daughter of the only son of Gopi's grandfather.! !Hence, it's clear that Nalni is the sister of Gopi."
+            "explain": "AとBはDの子供です。 (1)から、CはBの兄で、Eの息子です。DとEの性別が不明なので、(1)だけでは質問に答えるには不十分です。 (2)から、FはBの母親です。したがって、FはAの母親でもあります。したがって、DはAの父親です。したがって、(2)は質問に答えるのに十分です。"
         },
         {
-            "question": "A's son B is married with C whose sister D is married to E the brother of B. How D is related to A?",
-            "a": "Sister",
-            "b": "Daughter's-in-law",
-            "c": "Sister-in-law",
-            "d": "Cousin",
+            "question": "Aの息子BはCと結婚しており、Cの姉妹DはBの兄弟であるEと結婚しています。DはAとどのような関係にありますか？",
+            "a": "姉",
+            "b": "嫁",
+            "c": "義姉",
+            "d": "いとこ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Since E is the brother of B! !Therefore, A is the father of E! !but D is the wife of E.! !Hence, D is the daughter-in-law of A."
+            "explain": "母親の唯一の娘 = 自分自身です。したがって、その女性はその男性の母親です。"
         },
         {
-            "question": "Pointing to a lady a person said, \"The son of her only brother is the brother of my wife.\" How is the lady related to the person?",
-            "a": "Maternal aunt",
-            "b": "Grandmother",
-            "c": "Sister of father-in-law",
-            "d": "None of these",
+            "question": "ある女性を指しながら、ある人は「彼女の唯一の兄弟の息子は私の妻の兄弟です。」と言いました。その女性はその人とどのような関係にありますか？",
+            "a": "叔母",
+            "b": "祖母",
+            "c": "義父の姉",
+            "d": "これらのいずれでもない",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of person's wife is brother-in-law of the person.! !Hence, the son of lady's brother is brother-in-law of the person.! !Therefore, the brother of the lady is the father-in-law of the person. Hence, the lady is the sister of the person's father-in-law."
+            "explain": "AはBの母親で、BはCの兄で、CはDの娘です。したがって、Dは父親です。"
         },
         {
-            "question": "B5D means B is the father of D , B9D means B is the sister of D , B4D means B is the brother of D , B3D means B is the wife of D ; Which of the following means F is the mother of K?",
+            "question": "B5DはBがDの父であることを意味し、B9DはBがDの姉であることを意味し、B4DはBがDの兄であることを意味し、B3DはBがDの妻であることを意味します。次のうちどれがFがKの母であることを示していますか？",
             "a": "F3M5K",
             "b": "F5M3K",
             "c": "F9M4N3K",
@@ -361,10 +361,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "F3M = F is the wife of M! !M5K = M is the father of K! !Therefore, F is the mother of K."
+            "explain": "母親の兄弟はおじさんです。したがって、Aamirのおじさんの唯一の甥はAamir自身です。したがって、SoniaはAamirの妻です。"
         },
         {
-            "question": "A $ B means A is the father of B; A # B means A is the sister of B; A * B means A is the daughter of B and A / B means A is the brother of B. Which of the following indicates that M is the wife of Q?",
+            "question": "A $ BはAがBの父であることを意味し、A # BはAがBの姉であることを意味し、A * BはAがBの娘であることを意味し、A / BはAがBの兄であることを意味します。次のうちどれがMがQの妻であることを示していますか？",
             "a": "Q $ R # T / M",
             "b": "Q $ R / T # M",
             "c": "Q $ R * T # M",
@@ -372,65 +372,65 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q $ R = Q is the father of R! !R / T = R is the brother of T! !Hence, Q is the father of T! !T * M = T is the daughter of M! !Hence, M is the mother of T! !Hence, M is the wife of Q."
+            "explain": "M + K = MはKの兄です。K % T = KはTの父親です。T x P = TはPの妹です。したがって、KはPの父親で、MはPのおじさんです。"
         },
         {
-            "question": "If A $ B means A is the brother of B; B * C means B is the son of C; C / D means C is the wife of D and A # D means A is the son of D, how C is related to A?",
-            "a": "Grandmother",
-            "b": "Maternal aunt",
-            "c": "Aunt",
-            "d": "Mother",
+            "question": "A $ BはAがBの兄であることを意味し、B * CはBがCの息子であることを意味し、C / DはCがDの妻であることを意味し、A # DはAがDの息子であることを意味します。CはAとどのような関係にありますか？",
+            "a": "祖母",
+            "b": "伯母",
+            "c": "おばさん",
+            "d": "母",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A $ B = A is the brother of B! !B * C = B is the son of C! !Hence, A is the son of C! !C / D = C is the wife of D! !Hence, C is the mother of A."
+            "explain": "MadhavはVarmanの父親の息子の中で唯一の息子です。したがって、VarmanはMadhavの父親またはおじさんです。"
         },
         {
-            "question": "Pointing to a girl Sandeep said, \"She is the daughter of the only sister of my father.\" How is sandeep related to the girl?",
-            "a": "Uncle",
-            "b": "Cousin",
-            "c": "Father",
-            "d": "Grandfather",
+            "question": "ある女の子を指しながら、Sandeepは「彼女は私の父の唯一の姉の娘です。」と言いました。Sandeepはその女の子とどのような関係にありますか？",
+            "a": "おじ",
+            "b": "いとこ",
+            "c": "父",
+            "d": "祖父",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the daughter of the sister of Sandeep's father.! !Hence, the girl is the cousin or Sandeep is the cousin of the girl."
+            "explain": "その女性はShashankの孫娘の母親です。したがって、その女性はShashankの嫁です。"
         },
         {
-            "question": "Pointing to a boy in the photograph Reena said, \"He is the only son of the only child of my grandfather.\" How Reena is related to that boy?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "写真の中の男の子を指しながら、Reenaは「彼は私の祖父の唯一の子供の息子です。」と言いました。Reenaはその男の子とどのような関係にありますか？",
+            "a": "母",
+            "b": "姉",
+            "c": "おばさん",
+            "d": "これらのいずれでもない",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of Reena's grandfather's only son; i.e., the boy is the only son of Reena's father.! !Hence, the boy is the brother of Reena or Reena is the sister of the boy."
+            "explain": "Q - P = QはPの母親です。P + R = RはPの兄です。したがって、QはRの母親です。R % T = RはTの父親です。したがって、QはTの祖母です。"
         },
         {
-            "question": "A * B means A is the sister of B , A $ B means B is the mother of A , A + B means A is the brother of B , A = B means B is the father of A ; Which of the following means M is the maternal uncle of N?",
+            "question": "A * BはAがBの姉であることを意味し、A $ BはBがAの母であることを意味し、A + BはAがBの兄であることを意味し、A = BはBがAの父であることを意味します。次のうちどれがMがNの母方の叔父であることを示していますか？",
             "a": "M = P + Q * N",
             "b": "N + P = Q * M",
             "c": "N * P $ Q * M",
-            "d": "None of these",
+            "d": "これらのいずれでもない",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "M9N = MはNの夫です。N5K = NはKの娘です。したがって、MはKの婿です。K3J = KはJの母親です。したがって、Kは女性です。したがって、KはMの義母です。"
         },
         {
-            "question": "If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N then P % Q + R - T x K indicates which relation of P to K?",
-            "a": "Daughter-in-law",
-            "b": "Sister-in-law",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "M x NはMがNの娘であることを意味し、M + NはMがNの父であることを意味し、M % NはMがNの母であることを意味し、M - NはMがNの兄であることを意味します。P % Q + R - T x KはPとKのどのような関係を示していますか？",
+            "a": "嫁",
+            "b": "義姉",
+            "c": "おばさん",
+            "d": "これらのいずれでもない",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P % Q = P is the mother of Q! !Q + R = Q is the father of R! !R - T = R is the brother of T! !Hence, Q is the father of T! !T x K = T is the daughter of K! !Hence, Q is the husband of K.! !Therefore, P is the mother-in-law of K."
+            "explain": "写真の男性はその女性の母親の唯一の息子、つまりその女性の父親の息子です。したがって、その男性はその女性の兄です。"
         },
         {
-            "question": "If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q, which of the following relations shows that I is the niece of K?",
+            "question": "P + QはPがQの兄であることを意味し、P x QはPがQの父であることを意味し、P - QはPがQの姉であることを意味します。次のうちどれがIがKの姪であることを示していますか？",
             "a": "K + Y + Z - I",
             "b": "K + Y x I - Z",
             "c": "Z - I x Y + K",
@@ -438,7 +438,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "K + Y = K is the brother of Y! !Y x I = Y is the father of I! !Hence, K is the uncle of I! !and I - Z = I is the sister of Z! !Hence, I is the niece of K."
+            "explain": "Deepakの娘の父親の父親 = Deepakの父親です。したがって、その人はDeepakの父親の兄弟です。したがって、その人はDeepakの叔父です。"
         }
     ]
 }

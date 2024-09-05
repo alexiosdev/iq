@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "question": "Pointing to a photograph of a boy Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Father",
+            "question": "Chỉ vào bức ảnh của một cậu bé, Suresh nói: “Cậu ấy là con trai của con trai duy nhất của mẹ tôi.” Suresh có quan hệ gì với cậu bé đó?",
+            "a": "Anh trai",
+            "b": "Chú",
+            "c": "Anh họ",
+            "d": "Cha",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of the son of Suresh's mother i.e., the son of Suresh.! !Hence, Suresh is the father of boy."
+            "explain": "Cậu bé trong bức ảnh là con trai duy nhất của con trai mẹ của Suresh, tức là con trai của Suresh. Vì vậy, Suresh là cha của cậu bé."
         },
         {
-            "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+            "question": "Nếu A + B có nghĩa là A là mẹ của B; A - B có nghĩa là A là anh của B; A % B có nghĩa là A là cha của B và A x B có nghĩa là A là chị của B, điều nào sau đây cho thấy P là chú ruột của Q?",
             "a": "Q - N + M x P",
             "b": "P + S x N - Q",
             "c": "P - M + N x Q",
@@ -20,21 +20,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P - M = P is the brother of M! !M + N = M is the mother of N! !N x Q = N is the sister of Q! !Therefore, P is the maternal uncle of Q."
+            "explain": "P - M = P là anh trai của M. M + N = M là mẹ của N. N x Q = N là chị gái của Q. Vì vậy, P là cậu của Q."
         },
         {
-            "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-            "a": "Brother",
-            "b": "Sister",
-            "c": "Nephew",
-            "d": "None of these",
+            "question": "Nếu A là anh của B; B là chị của C; và C là cha của D, D có quan hệ gì với A?",
+            "a": "Anh trai",
+            "b": "Chị",
+            "c": "Cháu trai",
+            "d": "Không có trong số này",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "If D is Male, the answer is Nephew.! !If D is Female, the answer is Niece.! !As the sex of D is not known, hence, the relation between D and A cannot be determined.! !Note;!   Niece - A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law.!Nephew - A son of one's brother or sister, or of one's brother-in-law or sister-in-law."
+            "explain": "Nếu D là nam, câu trả lời là cháu trai. Nếu D là nữ, câu trả lời là cháu gái. Vì giới tính của D không được biết nên mối quan hệ giữa D và A không thể xác định được. Lưu ý: Cháu gái - Con gái của anh chị em, hoặc của em chồng hoặc chị dâu. Cháu trai - Con trai của anh chị em, hoặc của em chồng hoặc chị dâu."
         },
         {
-            "question": "If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?",
+            "question": "Nếu A + B có nghĩa là A là anh của B; A - B có nghĩa là A là chị của B và A x B có nghĩa là A là cha của B. Điều nào sau đây có nghĩa là C là con trai của M?",
             "a": "M - N x C + F",
             "b": "F - C + N x M",
             "c": "N + M - F x C",
@@ -42,87 +42,87 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M x N = M is the father of N! !N - C = N is the sister of C! !and C + F = C is the brother of F.! !Hence, M is the father of C or C is the son of M."
+            "explain": "M x N = M là cha của N. N - C = N là chị gái của C. C + F = C là anh trai của F. Vì vậy, M là cha của C hoặc C là con trai của M."
         },
         {
-            "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
-            "a": "Brother",
-            "b": "Nephew",
-            "c": "Uncle",
-            "d": "Son",
+            "question": "Giới thiệu về một cậu bé, một cô gái nói, “Cậu ấy là con trai của con gái của cha của chú của tôi.” Cậu bé có quan hệ gì với cô gái?",
+            "a": "Anh trai",
+            "b": "Cháu trai",
+            "c": "Chú",
+            "d": "Con trai",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The father of the boy's uncle = the grandfather of the boy! !daughter of the grandfather = sister of father."
+            "explain": "Cha của chú của cậu bé = ông nội của cậu bé! Con gái của ông nội = chị gái của cha."
         },
         {
-            "question": "Pointing to a photograph Lata says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Lata?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Data inadequate",
+            "question": "Chỉ vào bức ảnh, Lata nói, “Cậu ấy là con trai của con trai duy nhất của ông nội tôi.” Người đàn ông trong bức ảnh có quan hệ gì với Lata?",
+            "a": "Anh trai",
+            "b": "Chú",
+            "c": "Anh họ",
+            "d": "Dữ liệu không đầy đủ",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is the son of the only son of Lata's grandfather i.e., the man is the son of Lata's father. Hence, the man is the brother of Lata."
+            "explain": "Người đàn ông trong bức ảnh là con trai của con trai duy nhất của ông nội của Lata, tức là con trai của cha của Lata. Vì vậy, người đàn ông là anh trai của Lata."
         },
         {
-            "question": "If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?",
+            "question": "Nếu A + B có nghĩa là A là anh của B; A x B có nghĩa là A là con trai của B; và A % B có nghĩa là B là con gái của A, thì điều nào sau đây có nghĩa là M là chú ruột của N?",
             "a": "M + O x N",
             "b": "M % O x N + P",
             "c": "M + O % N",
-            "d": "None of these",
+            "d": "Không có trong số này",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Because the sex of O is not known."
+            "explain": "Vì giới tính của O không được biết."
         },
         {
-            "question": "Pointing to a photograph. Bajpai said, \"He is the son of the only daughter of the father of my brother.\" How Bajpai is related to the man in the photograph?",
-            "a": "Nephew",
-            "b": "Brother",
-            "c": "Father",
-            "d": "Maternal Uncle",
+            "question": "Chỉ vào bức ảnh, Bajpai nói, “Cậu ấy là con trai của con gái duy nhất của cha của anh trai tôi.” Bajpai có quan hệ gì với người đàn ông trong bức ảnh?",
+            "a": "Cháu trai",
+            "b": "Anh trai",
+            "c": "Cha",
+            "d": "Cậu",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photo is the son of the sister of Bajpai. Hence, Bajpai is the maternal uncle of the man in the photograph."
+            "explain": "Người đàn ông trong bức ảnh là con trai của chị gái của Bajpai. Vì vậy, Bajpai là chú của người đàn ông trong bức ảnh."
         },
         {
-            "question": "Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?",
-            "a": "Son",
-            "b": "Brother",
-            "c": "Cousin",
-            "d": "Brother-in-law",
+            "question": "Deepak nói với Nitin, “Cậu bé chơi bóng đá là em trai của hai anh em của con gái của vợ cha tôi.” Cậu bé chơi bóng đá có quan hệ gì với Deepak?",
+            "a": "Con trai",
+            "b": "Anh trai",
+            "c": "Anh họ",
+            "d": "Anh rể",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father's wife = mother.! !Hence, the daughter of the mother means sister and sister's younger brother means brother.! !Therefore, the boy is the brother of Deepak."
+            "explain": "Vợ của cha = mẹ. Vì vậy, con gái của mẹ có nghĩa là chị gái và em trai của chị gái có nghĩa là anh trai. Vì vậy, cậu bé là anh trai của Deepak."
         },
         {
-            "question": "Pointing a photograph X said to his friend Y, \"She is the only daughter of the father of my mother.\" How X is related to the person of photograph?",
-            "a": "Daughter",
-            "b": "Son",
-            "c": "Nephew",
-            "d": "Brother",
+            "question": "Chỉ vào bức ảnh, X nói với bạn Y, “Cô ấy là con gái duy nhất của cha của mẹ tôi.” X có quan hệ gì với người trong bức ảnh?",
+            "a": "Con gái",
+            "b": "Con trai",
+            "c": "Cháu trai",
+            "d": "Anh trai",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "'The only daughter of the father of X's mother' means mother of X.! !Hence X is the son of the lady in the photograph."
+            "explain": "Con gái duy nhất của mẹ của X có nghĩa là mẹ của X. Vì vậy, X là con trai của người phụ nữ trong bức ảnh."
         },
         {
-            "question": "Veena who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep who is the only brother of Ashok. How Kalyani is related to Ashok?",
-            "a": "Mother-in-law",
-            "b": "Aunt",
-            "c": "Wife",
-            "d": "None of these",
+            "question": "Veena, người là chị dâu của Ashok, là con dâu của Kalyani. Dheeraj là cha của Sudeep, người là anh trai duy nhất của Ashok. Kalyani có quan hệ gì với Ashok?",
+            "a": "Mẹ chồng",
+            "b": "Dì",
+            "c": "Vợ",
+            "d": "Không có trong số này",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ashok is the only brother of Sudeep and Veena is the sister-in-law of Ashok.! !Hence Veena is the wife of Sudeep.! !Kalyani is the mother-in-law of Veena.!Kalyani is the mother of Ashok."
+            "explain": "Ashok là anh trai duy nhất của Sudeep và Veena là chị dâu của Ashok. Vì vậy, Veena là vợ của Sudeep. Kalyani là mẹ chồng của Veena. Kalyani là mẹ của Ashok."
         },
         {
-            "question": "If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?",
+            "question": "Nếu A + B có nghĩa là A là chị của B; A x B có nghĩa là A là vợ của B; A % B có nghĩa là A là cha của B và A - B có nghĩa là A là anh của B. Điều nào sau đây có nghĩa là T là con gái của P?",
             "a": "P x Q % R + S - T",
             "b": "P x Q % R - T + S",
             "c": "P x Q % R + T - S",
@@ -130,76 +130,76 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P x Q = P is the wife of Q! !Q % R = Q is the father of R! !R - T = R is the brother of T! !T + S = T is the sister of S.! !Therefore, T is the daughter of P."
+            "explain": "P x Q = P là vợ của Q. Q % R = Q là cha của R. R - T = R là anh trai của T. T + S = T là chị gái của S. Vì vậy, T là con gái của P."
         },
         {
-            "question": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Mother-in-law",
-            "d": "Sister",
+            "question": "Chỉ vào một người phụ nữ, Abhijit nói, “Cháu gái của bà ấy là con gái duy nhất của anh trai tôi.” Người phụ nữ có quan hệ gì với Abhijit?",
+            "a": "Mẹ",
+            "b": "Bà nội",
+            "c": "Mẹ chồng",
+            "d": "Chị gái",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Daughter of Abhijit's brother = niece of Abhijit.! !Thus the granddaughter of the woman is Abhijit's niece.! !Hence, the woman is the mother of Abhijit."
+            "explain": "Con gái của anh trai của Abhijit = cháu gái của Abhijit. Vì vậy, cháu gái của người phụ nữ là cháu gái của Abhijit. Vì vậy, người phụ nữ là mẹ của Abhijit."
         },
         {
-            "question": "Amit said - \"This girl is the wife of the grandson of my mother\". How is Amit related to the girl?",
-            "a": "Brother",
-            "b": "Grandfather",
-            "c": "Father-in-law",
-            "d": "Husband",
+            "question": "Amit nói, “Cô gái này là vợ của cháu trai của mẹ tôi.” Amit có quan hệ gì với cô gái?",
+            "a": "Anh trai",
+            "b": "Ông nội",
+            "c": "Cha chồng",
+            "d": "Chồng",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the wife of grandson of Amit's mother i.e., the girl is the wife of son of Amit.! !Hence, Amit is the father-in-law of the girl."
+            "explain": "Cô gái là vợ của cháu trai của mẹ Amit, tức là vợ của con trai Amit. Vì vậy, Amit là cha vợ của cô gái."
         },
         {
-            "question": "A and B are children of D. Who is the father of A? To answer this question which of the statements (1) and (2) is necessary? (1) C is the brother of A and the son of E.   (2) F is the mother B.",
-            "a": "Only (1)",
-            "b": "Only (2)",
-            "c": "Either (1) or (2)",
-            "d": "(1) and (2) both",
+            "question": "A và B là con của D. Ai là cha của A? Để trả lời câu hỏi này, cần các tuyên bố nào sau đây (1) và (2)? (1) C là anh trai của A và là con trai của E. (2) F là mẹ của B.",
+            "a": "Chỉ (1)",
+            "b": "Chỉ (2)",
+            "c": "Hoặc (1) hoặc (2)",
+            "d": "(1) và (2) cả hai",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A and B are children of D.! !From (1), C is the brother B and son of E.! !Since, the sex of D and E are not known. Hence (1) is not sufficient to answer the question.! !From (2). F is the mother of B. Hence, F is also the mother of A. Hence D is the father of A.! !Thus, (2) is sufficient to answer the question."
+            "explain": "A và B là con của D. Từ (1), C là anh trai của B và là con trai của E. Vì giới tính của D và E không được biết, nên (1) không đủ để trả lời câu hỏi. Từ (2), F là mẹ của B. Do đó, F cũng là mẹ của A. Vì vậy, D là cha của A. Do đó, (2) là đủ để trả lời câu hỏi."
         },
         {
-            "question": "Pointing towards a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Sister",
-            "d": "Daughter",
+            "question": "Chỉ vào một người đàn ông, một người phụ nữ nói: “Mẹ của anh ấy là con gái duy nhất của mẹ tôi.” Người phụ nữ và người đàn ông có mối quan hệ như thế nào?",
+            "a": "Mẹ",
+            "b": "Bà nội",
+            "c": "Chị",
+            "d": "Con gái",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Only daughter of my mother = myself.! !Hence, the woman is the mother of the man."
+            "explain": "Con gái duy nhất của mẹ tôi = chính tôi. Do đó, người phụ nữ là mẹ của người đàn ông."
         },
         {
-            "question": "If P $ Q means P is the brother of Q; P # Q means P is the mother of Q; P * Q means P is the daughter of Q in A # B $ C * D, who is the father?",
+            "question": "Nếu P $ Q có nghĩa là P là anh trai của Q; P # Q có nghĩa là P là mẹ của Q; P * Q có nghĩa là P là con gái của Q, thì trong A # B $ C * D, ai là cha?",
             "a": "D",
             "b": "B",
             "c": "C",
-            "d": "None of these",
+            "d": "Không có trong số này",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A is the mother of B, B is the brother of C and C is the daughter of D.! !Hence, D is the father."
+            "explain": "A là mẹ của B, B là anh trai của C và C là con gái của D. Do đó, D là cha."
         },
         {
-            "question": "Introducing Sonia, Aamir says, \"She is the wife of only nephew of only brother of my mother.\" How Sonia is related to Aamir?",
-            "a": "Sister-in-law",
-            "b": "Sister",
-            "c": "Wife",
-            "d": "Data is inadequate",
+            "question": "Khi giới thiệu Sonia, Aamir nói: “Cô ấy là vợ của cháu trai duy nhất của anh trai duy nhất của mẹ tôi.” Sonia và Aamir có mối quan hệ như thế nào?",
+            "a": "Chị dâu",
+            "b": "Chị",
+            "c": "Vợ",
+            "d": "Dữ liệu không đầy đủ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of mother means maternal uncle.! !Hence only nephew of Aamir's maternal uncle means Aamir himself.! !Therefore Sonia is the wife of Aamir."
+            "explain": "Anh trai của mẹ có nghĩa là cậu. Do đó, cháu trai duy nhất của cậu của Aamir có nghĩa là Aamir chính là Aamir. Vì vậy, Sonia là vợ của Aamir."
         },
         {
-            "question": "If A + B means A is the brother of B; A % B means A is the father of B and A x B means A is the sister of B. Which of the following means M is the uncle of P?",
+            "question": "Nếu A + B có nghĩa là A là anh trai của B; A % B có nghĩa là A là cha của B và A x B có nghĩa là A là chị của B. Trong số các lựa chọn sau, cái nào có nghĩa là M là chú của P?",
             "a": "M % N x P",
             "b": "N x P % M",
             "c": "M + S % R % P",
@@ -207,32 +207,32 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M + K = M is the brother of K! !K % T = K is the father of T! !T x P = T is the sister of P! !Therefore, K is the father of P and M is the uncle of P."
+            "explain": "M + K = M là anh trai của K. K % T = K là cha của T. T x P = T là chị gái của P. Do đó, K là cha của P và M là chú của P."
         },
         {
-            "question": "Pointing to Varman, Madhav said, \"I am the only son of one of the sons of his father.\" How is Varman related to Madhav?",
-            "a": "Nephew",
-            "b": "Uncle",
-            "c": "Father or Uncle",
-            "d": "Father",
+            "question": "Chỉ vào Varman, Madhav nói: “Tôi là con trai duy nhất của một trong những con trai của cha anh ấy.” Varman và Madhav có mối quan hệ như thế nào?",
+            "a": "Cháu trai",
+            "b": "Chú",
+            "c": "Cha hoặc Chú",
+            "d": "Cha",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Madhav is the only son of one of the sons of Varman's father! !So, Either Varman is the father or uncle of Madhav."
+            "explain": "Madhav là con trai duy nhất của một trong những con trai của cha của Varman. Do đó, Varman là cha hoặc chú của Madhav."
         },
         {
-            "question": "Introducing a woman, Shashank said, \"She is the mother of the only daughter of my son.\" How that woman is related to Shashank?",
-            "a": "Daughter",
-            "b": "Sister-in-law",
-            "c": "Wife",
-            "d": "Daughter-in-law",
+            "question": "Khi giới thiệu một người phụ nữ, Shashank nói: “Cô ấy là mẹ của con gái duy nhất của con trai tôi.” Người phụ nữ đó và Shashank có mối quan hệ như thế nào?",
+            "a": "Con gái",
+            "b": "Chị dâu",
+            "c": "Vợ",
+            "d": "Con dâu",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The woman is the mother of Shashank's granddaughter.! !Hence, the woman is the daughter-in-law of Shashank. "
+            "explain": "Người phụ nữ là mẹ của cháu gái của Shashank. Do đó, người phụ nữ là con dâu của Shashank."
         },
         {
-            "question": "If A + B means B is the brother of A; A x B means B is the husband of A; A - B means A is the mother of B and A % B means A is the father of B, which of the following relations shows that Q is the grandmother of T?",
+            "question": "Nếu A + B có nghĩa là B là anh trai của A; A x B có nghĩa là B là chồng của A; A - B có nghĩa là A là mẹ của B và A % B có nghĩa là A là cha của B, mối quan hệ nào sau đây cho thấy Q là bà của T?",
             "a": "Q - P + R % T",
             "b": "P x Q % R - T",
             "c": "P x Q % R + T",
@@ -240,10 +240,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q - P = Q is the mother of P! !P + R = R is the brother of P! !Hence, Q is the mother of R! !R % T = R is the father of T.! !Hence, Q is the grandmother of T."
+            "explain": "Q - P = Q là mẹ của P. P + R = R là anh trai của P. Do đó, Q là mẹ của R. R % T = R là cha của T. Do đó, Q là bà của T."
         },
         {
-            "question": "A3P means A is the mother of P , A4P means A is the brother of P , A9P means A is the husband of P , A5P means A is the daughter of P ; Which of the following means that K is the mother-in-law of M?",
+            "question": "A3P có nghĩa là A là mẹ của P, A4P có nghĩa là A là anh trai của P, A9P có nghĩa là A là chồng của P, A5P có nghĩa là A là con gái của P; Trong số các lựa chọn sau, cái nào có nghĩa là K là mẹ chồng của M?",
             "a": "M9N3K4J",
             "b": "M9N5K3J",
             "c": "K5J9M3N",
@@ -251,54 +251,54 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M9N = M is the husband of N! !N5K = N is the daughter of K! !Hence, M is the son-in-law of K! !K3J = K is the mother of J! !Hence, K is a lady! !Hence, K is the mother-in-law of M."
+            "explain": "M9N = M là chồng của N. N5K = N là con gái của K. Do đó, M là rể của K. K3J = K là mẹ của J. Do đó, K là nữ. Do đó, K là mẹ chồng của M."
         },
         {
-            "question": "Pointing to a photograph Anjali said, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Anjali?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Son",
-            "d": "Data inadequate",
+            "question": "Chỉ vào một bức ảnh, Anjali nói: “Anh ấy là con trai của con trai duy nhất của ông nội tôi.” Người đàn ông trong bức ảnh có mối quan hệ như thế nào với Anjali?",
+            "a": "Anh trai",
+            "b": "Chú",
+            "c": "Con trai",
+            "d": "Dữ liệu không đầy đủ",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is son of Anjali's grandfather's son i.e., the son of Anjali's father.! !Hence, the boy is the brother of Anjali."
+            "explain": "Người đàn ông trong bức ảnh là con trai của con trai duy nhất của mẹ của người phụ nữ, tức là con trai của cha của người phụ nữ. Do đó, người đàn ông là anh trai của người phụ nữ."
         },
         {
-            "question": "Pointing to a person, Deepak said, \"His only brother is the father of my daughter's father\". How is the person related to Deepak?",
-            "a": "Father",
-            "b": "Grandfather",
-            "c": "Uncle",
-            "d": "Brother-in-law",
+            "question": "Chỉ vào một người, Deepak nói: “Anh trai duy nhất của anh ấy là cha của cha con gái tôi.” Người đó có mối quan hệ như thế nào với Deepak?",
+            "a": "Cha",
+            "b": "Ông nội",
+            "c": "Chú",
+            "d": "Anh rể",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father of Deepak's daughter's father = Deepak's father.! !Hence, the person in the brother of Deepak's father.! !Therefore, the person is the uncle of Deepak."
+            "explain": "Cha của cha của con gái của Deepak = cha của Deepak. Do đó, người đó là anh trai của cha của Deepak. Do đó, người đó là chú của Deepak."
         },
         {
-            "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Aunt",
-            "d": "Data inadequate",
+            "question": "P là mẹ của K; K là chị của D; D là cha của J. P và J có mối quan hệ như thế nào?",
+            "a": "Mẹ",
+            "b": "Bà nội",
+            "c": "Dì",
+            "d": "Dữ liệu không đầy đủ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P is the mother of K! !K is the sister of D! !D is the father of J.! !Therefore, J is the nephew or niece of K and P is the grandmother of J."
+            "explain": "P là mẹ của K. K là chị của D. D là cha của J. Do đó, J là cháu trai hoặc cháu gái của K và P là bà của J."
         },
         {
-            "question": "If P $ Q means P is the father of Q; P # Q means P is the mother of Q and P * Q means P is the sister of Q, then N # L $ P * Q shows which of the relation of Q to N?",
-            "a": "Grand son",
-            "b": "Grand daughter",
-            "c": "Nephew",
-            "d": "Data is inadequate",
+            "question": "Nếu P $ Q có nghĩa là P là cha của Q; P # Q có nghĩa là P là mẹ của Q và P * Q có nghĩa là P là chị của Q, thì N # L $ P * Q cho thấy mối quan hệ gì giữa Q và N?",
+            "a": "Cháu trai",
+            "b": "Cháu gái",
+            "c": "Cháu trai",
+            "d": "Dữ liệu không đầy đủ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the sex of Q is not known, hence, data is inadequate."
+            "explain": "Vì giới tính của Q không được biết, nên dữ liệu không đầy đủ."
         },
         {
-            "question": "If A $ B means A is the brother of B; A / B means A is the wife of B; A # B means A is the daughter of B and A * B means A is the father of B, which of the following indicates that U is the father-in-law of P?",
+            "question": "Nếu A $ B có nghĩa là A là anh trai của B; A / B có nghĩa là A là vợ của B; A # B có nghĩa là A là con gái của B và A * B có nghĩa là A là cha của B, thì trong số các lựa chọn sau, cái nào cho thấy U là cha chồng của P?",
             "a": "P / Q $ T # U * W",
             "b": "P / W $ Q * T # U",
             "c": "P / Q $ W * T # U",
@@ -306,54 +306,54 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(1) P / Q = P is the wife of Q! !(2) Q $ T = Q is the brother of T! !T # U = T is the daughter of U! !Hence,!(3)Q is the son of U! !U * W = U is the father of W.! !From (1) and (3), U is the father-in-law of P."
+            "explain": "(1) P / Q = P là vợ của Q. (2) Q $ T = Q là anh trai của T. T # U = T là con gái của U. Do đó, (3) Q là con trai của U. U * W = U là cha của W. Từ (1) và (3), U là cha chồng của P."
         },
         {
-            "question": "Introducing a man, a woman said, \"He is the only son of the mother of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Niece",
-            "d": "Maternal aunt",
+            "question": "Khi giới thiệu một người đàn ông, một người phụ nữ nói: “Anh ấy là con trai duy nhất của mẹ của mẹ tôi.” Người phụ nữ đó có mối quan hệ như thế nào với người đàn ông?",
+            "a": "Mẹ",
+            "b": "Chị",
+            "c": "Cháu gái",
+            "d": "Dì",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man is the only son of the mother of the woman.! !Hence, the man is the maternal uncle of the woman.! !So, the woman is the niece of the man."
+            "explain": "Người đàn ông là con trai duy nhất của mẹ của người phụ nữ. Do đó, người đàn ông là chú của người phụ nữ. Vì vậy, người phụ nữ là cháu gái của người đàn ông."
         },
         {
-            "question": "Pointing to Gopi, Nalni says, \"I am the daughter of the only son of his grandfather.\" How Nalni is related to Gopi?",
-            "a": "Niece",
-            "b": "Daughter",
-            "c": "Sister",
-            "d": "Aunt",
+            "question": "Chỉ vào Gopi, Nalni nói: “Tôi là con gái của con trai duy nhất của ông nội của anh ấy.” Nalni có quan hệ gì với Gopi?",
+            "a": "Cháu gái",
+            "b": "Con gái",
+            "c": "Chị",
+            "d": "Dì",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Nalni is the daughter of the only son of Gopi's grandfather.! !Hence, it's clear that Nalni is the sister of Gopi."
+            "explain": "A và B là con của D. Từ (1), C là anh trai của B và là con trai của E. Vì giới tính của D và E không rõ nên (1) không đủ để trả lời câu hỏi. Từ (2), F là mẹ của B. Do đó, F cũng là mẹ của A. Do đó, D là cha của A. Vì vậy, (2) là đủ để trả lời câu hỏi."
         },
         {
-            "question": "A's son B is married with C whose sister D is married to E the brother of B. How D is related to A?",
-            "a": "Sister",
-            "b": "Daughter's-in-law",
-            "c": "Sister-in-law",
-            "d": "Cousin",
+            "question": "Con trai của A là B đã kết hôn với C, người mà chị gái D của cô ấy đã kết hôn với E, anh trai của B. D có quan hệ gì với A?",
+            "a": "Chị",
+            "b": "Con dâu",
+            "c": "Chị dâu",
+            "d": "Anh họ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Since E is the brother of B! !Therefore, A is the father of E! !but D is the wife of E.! !Hence, D is the daughter-in-law of A."
+            "explain": "Con gái duy nhất của mẹ tôi = chính tôi. Do đó, người phụ nữ là mẹ của người đàn ông."
         },
         {
-            "question": "Pointing to a lady a person said, \"The son of her only brother is the brother of my wife.\" How is the lady related to the person?",
-            "a": "Maternal aunt",
-            "b": "Grandmother",
-            "c": "Sister of father-in-law",
-            "d": "None of these",
+            "question": "Chỉ vào một người phụ nữ, một người nói: “Con trai của anh trai duy nhất của cô ấy là anh trai của vợ tôi.” Người phụ nữ đó có quan hệ gì với người đó?",
+            "a": "Dì",
+            "b": "Bà nội",
+            "c": "Chị chồng",
+            "d": "Không có trong số này",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of person's wife is brother-in-law of the person.! !Hence, the son of lady's brother is brother-in-law of the person.! !Therefore, the brother of the lady is the father-in-law of the person. Hence, the lady is the sister of the person's father-in-law."
+            "explain": "A là mẹ của B, B là anh trai của C và C là con gái của D. Do đó, D là cha."
         },
         {
-            "question": "B5D means B is the father of D , B9D means B is the sister of D , B4D means B is the brother of D , B3D means B is the wife of D ; Which of the following means F is the mother of K?",
+            "question": "B5D có nghĩa là B là cha của D, B9D có nghĩa là B là chị gái của D, B4D có nghĩa là B là anh trai của D, B3D có nghĩa là B là vợ của D; Trong các lựa chọn sau, lựa chọn nào có nghĩa là F là mẹ của K?",
             "a": "F3M5K",
             "b": "F5M3K",
             "c": "F9M4N3K",
@@ -361,10 +361,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "F3M = F is the wife of M! !M5K = M is the father of K! !Therefore, F is the mother of K."
+            "explain": "Anh trai của mẹ nghĩa là chú. Do đó, cháu trai duy nhất của chú Aamir là chính Aamir. Do đó, Sonia là vợ của Aamir."
         },
         {
-            "question": "A $ B means A is the father of B; A # B means A is the sister of B; A * B means A is the daughter of B and A / B means A is the brother of B. Which of the following indicates that M is the wife of Q?",
+            "question": "A $ B có nghĩa là A là cha của B; A # B có nghĩa là A là chị gái của B; A * B có nghĩa là A là con gái của B và A / B có nghĩa là A là anh trai của B. Trong các lựa chọn sau, lựa chọn nào cho thấy M là vợ của Q?",
             "a": "Q $ R # T / M",
             "b": "Q $ R / T # M",
             "c": "Q $ R * T # M",
@@ -372,65 +372,65 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q $ R = Q is the father of R! !R / T = R is the brother of T! !Hence, Q is the father of T! !T * M = T is the daughter of M! !Hence, M is the mother of T! !Hence, M is the wife of Q."
+            "explain": "M + K = M là anh trai của K. K % T = K là cha của T. T x P = T là em gái của P. Do đó, K là cha của P và M là chú của P."
         },
         {
-            "question": "If A $ B means A is the brother of B; B * C means B is the son of C; C / D means C is the wife of D and A # D means A is the son of D, how C is related to A?",
-            "a": "Grandmother",
-            "b": "Maternal aunt",
-            "c": "Aunt",
-            "d": "Mother",
+            "question": "Nếu A $ B có nghĩa là A là anh trai của B; B * C có nghĩa là B là con trai của C; C / D có nghĩa là C là vợ của D và A # D có nghĩa là A là con trai của D, thì C có quan hệ gì với A?",
+            "a": "Bà nội",
+            "b": "Dì",
+            "c": "Dì",
+            "d": "Mẹ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A $ B = A is the brother of B! !B * C = B is the son of C! !Hence, A is the son of C! !C / D = C is the wife of D! !Hence, C is the mother of A."
+            "explain": "Madhav là con trai duy nhất của một trong những con trai của cha Varman. Do đó, Varman là cha hoặc chú của Madhav."
         },
         {
-            "question": "Pointing to a girl Sandeep said, \"She is the daughter of the only sister of my father.\" How is sandeep related to the girl?",
-            "a": "Uncle",
-            "b": "Cousin",
-            "c": "Father",
-            "d": "Grandfather",
+            "question": "Chỉ vào một cô gái, Sandeep nói: “Cô ấy là con gái của chị gái duy nhất của cha tôi.” Sandeep có quan hệ gì với cô gái?",
+            "a": "Chú",
+            "b": "Anh họ",
+            "c": "Cha",
+            "d": "Ông nội",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the daughter of the sister of Sandeep's father.! !Hence, the girl is the cousin or Sandeep is the cousin of the girl."
+            "explain": "Người phụ nữ là mẹ của cháu gái của Shashank. Do đó, người phụ nữ là con dâu của Shashank."
         },
         {
-            "question": "Pointing to a boy in the photograph Reena said, \"He is the only son of the only child of my grandfather.\" How Reena is related to that boy?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "Chỉ vào một cậu bé trong bức ảnh, Reena nói: “Cậu ấy là con trai duy nhất của đứa con duy nhất của ông nội tôi.” Reena có quan hệ gì với cậu bé đó?",
+            "a": "Mẹ",
+            "b": "Chị",
+            "c": "Dì",
+            "d": "Không có trong số này",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of Reena's grandfather's only son; i.e., the boy is the only son of Reena's father.! !Hence, the boy is the brother of Reena or Reena is the sister of the boy."
+            "explain": "Q - P = Q là mẹ của P. P + R = R là anh trai của P. Do đó, Q là mẹ của R. R % T = R là cha của T. Do đó, Q là bà của T."
         },
         {
-            "question": "A * B means A is the sister of B , A $ B means B is the mother of A , A + B means A is the brother of B , A = B means B is the father of A ; Which of the following means M is the maternal uncle of N?",
+            "question": "A * B có nghĩa là A là chị gái của B, A $ B có nghĩa là B là mẹ của A, A + B có nghĩa là A là anh trai của B, A = B có nghĩa là B là cha của A; Trong các lựa chọn sau, lựa chọn nào cho thấy M là chú ruột của N?",
             "a": "M = P + Q * N",
             "b": "N + P = Q * M",
             "c": "N * P $ Q * M",
-            "d": "None of these",
+            "d": "Không có trong số này",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "M9N = M là chồng của N. N5K = N là con gái của K. Do đó, M là con rể của K. K3J = K là mẹ của J. Do đó, K là phụ nữ. Do đó, K là mẹ chồng của M."
         },
         {
-            "question": "If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N then P % Q + R - T x K indicates which relation of P to K?",
-            "a": "Daughter-in-law",
-            "b": "Sister-in-law",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "Nếu M x N có nghĩa là M là con gái của N; M + N có nghĩa là M là cha của N; M % N có nghĩa là M là mẹ của N và M - N có nghĩa là M là anh trai của N, thì P % Q + R - T x K chỉ ra mối quan hệ gì giữa P và K?",
+            "a": "Con dâu",
+            "b": "Chị dâu",
+            "c": "Dì",
+            "d": "Không có trong số này",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P % Q = P is the mother of Q! !Q + R = Q is the father of R! !R - T = R is the brother of T! !Hence, Q is the father of T! !T x K = T is the daughter of K! !Hence, Q is the husband of K.! !Therefore, P is the mother-in-law of K."
+            "explain": "Người đàn ông trong bức tranh là con trai duy nhất của mẹ của người phụ nữ, tức là con trai của cha của người phụ nữ. Do đó, người đàn ông là anh trai của người phụ nữ."
         },
         {
-            "question": "If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q, which of the following relations shows that I is the niece of K?",
+            "question": "Nếu P + Q có nghĩa là P là anh trai của Q; P x Q có nghĩa là P là cha của Q và P - Q có nghĩa là P là chị gái của Q, thì mối quan hệ nào cho thấy I là cháu gái của K?",
             "a": "K + Y + Z - I",
             "b": "K + Y x I - Z",
             "c": "Z - I x Y + K",
@@ -438,7 +438,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "K + Y = K is the brother of Y! !Y x I = Y is the father of I! !Hence, K is the uncle of I! !and I - Z = I is the sister of Z! !Hence, I is the niece of K."
+            "explain": "Cha của cha của con gái Deepak = cha của Deepak. Do đó, người đó là anh trai của cha Deepak. Do đó, người đó là chú của Deepak."
         }
     ]
 }
