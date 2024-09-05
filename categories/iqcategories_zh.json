@@ -49,30 +49,6 @@
          "image":"clockandcanlender.jpg"
       },
       {
-        "name_en": "Logical reasoning",
-        "name_vn": "Câu hỏi về tư duy",
-        "name_de": "Logisches Denken",
-        "name_fr": "Raisonnement logique",
-        "name_hi": "तार्किक तर्क",
-        "name_jp": "論理的推論",
-        "name_ko": "논리적 추리",
-        "name_zh": "逻辑推理",
-         "key":"logical_reasoning",
-         "image":"logicalreasoning.jpg"
-      },
-      {
-        "name_en": "Mental arithmetic",
-        "name_vn": "Câu hỏi về tính nhẩm",
-        "name_de": "Kopfrechnen",
-        "name_fr": "Calcul mental",
-        "name_hi": "मानसिक गणना",
-        "name_jp": "心算",
-        "name_ko": "암산",
-        "name_zh": "心算",
-         "key":"mental_arithmetic",
-         "image":"mentalarithmetic.jpg"
-      },
-      {
         "name_en": "Number sequence",
         "name_vn": "Câu hỏi về dãy số",
         "name_de": "Zahlenfolge",
@@ -83,42 +59,6 @@
         "name_zh": "数列",
          "key":"number_sequence_test",
          "image":"numbersequancetest.png"
-      },
-      {
-        "name_en": "Train and boat problems",
-        "name_vn": "Câu hỏi vật lý",
-        "name_de": "Zug- und Bootsprobleme",
-        "name_fr": "Problèmes de train et de bateau",
-        "name_hi": "ट्रेन और नाव की समस्याएँ",
-        "name_jp": "電車とボートの問題",
-        "name_ko": "기차와 보트 문제",
-        "name_zh": "火车和船问题",
-         "key":"train_and_boat_problems",
-         "image":"trainandboatprolems.png"
-      },
-      {
-        "name_en": "Verbal aptitude",
-        "name_vn": "Câu hỏi về ngôn ngữ",
-        "name_de": "Sprachliche Eignung",
-        "name_fr": "Aptitude verbale",
-        "name_hi": "मौखिक योग्यता",
-        "name_jp": "言語適性",
-        "name_ko": "언어 능력",
-        "name_zh": "言语能力",
-         "key":"verbal_aptitude_test",
-         "image":"verbalaptitudetest.png"
-      },
-      {
-        "name_en": "Work profit",
-        "name_vn": "Câu hỏi về hiệu quả công việc",
-        "name_de": "Arbeitsgewinn",
-        "name_fr": "Bénéfice du travail",
-        "name_hi": "कार्य लाभ",
-        "name_jp": "仕事の利益",
-        "name_ko": "작업 이익",
-        "name_zh": "工作利润",
-        "key":"workprofit",
-        "image":"workprofit.png"
       }
    ]
 }
