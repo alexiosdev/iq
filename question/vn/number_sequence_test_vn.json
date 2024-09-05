@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "0 ,  1 ,  4 ,  9 ,  16 ,  25 ,  36 ,  49 ,  ?",
+            "question": "0, 1, 4, 9, 16, 25, 36, 49, ?",
             "a": "64",
             "b": "67",
             "c": "62",
@@ -9,10 +9,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 1, 3, 5, 7, etc."
+            "explain": "Thêm 1, 3, 5, 7, v.v.!",
         },
         {
-            "question": "Which number is the odd one out,    8, 27, 64, 100, 125, 216, 343",
+            "question": "Số nào là số lẻ, 8, 27, 64, 100, 125, 216, 343",
             "a": "27",
             "b": "100",
             "c": "125",
@@ -20,10 +20,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All others are perfect cube of any number but 100 is not the perfect cube of any number."
+            "explain": "Tất cả các số khác đều là số mũ hoàn hảo của một số nhưng 100 không phải là mũ hoàn hảo của bất kỳ số nào.!",
         },
         {
-            "question": "100 ,  96.75 ,  93.5 ,  90.25 ,  87 ,  ?",
+            "question": "100, 96.75, 93.5, 90.25, 87, ?",
             "a": "81",
             "b": "50.4",
             "c": "62",
@@ -31,10 +31,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Deduct 3.25 each time."
+            "explain": "Trừ 3.25 mỗi lần.!",
         },
         {
-            "question": "0 ,  100 ,  6 ,  94 ,  12 ,  88 ,  18 ,  82 ,  ? ,  ?",
+            "question": "0, 100, 6, 94, 12, 88, 18, 82, ?, ?",
             "a": "22, 64",
             "b": "24, 76",
             "c": "32, 40",
@@ -42,10 +42,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two sequences interwoven.! !Add 6 starting at 0 and deduct 6 starting at 100."
+            "explain": "Có hai chuỗi xen kẽ.! !Thêm 6 bắt đầu từ 0 và trừ 6 bắt đầu từ 100.!",
         },
         {
-            "question": "Which number is the odd one out,    10, 25, 45, 54, 60, 75, 80",
+            "question": "Số nào là số lẻ, 10, 25, 45, 54, 60, 75, 80",
             "a": "10",
             "b": "45",
             "c": "54",
@@ -53,10 +53,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers except 54 is multiple of 5."
+            "explain": "Mỗi số ngoại trừ 54 đều là bội số của 5.!",
         },
         {
-            "question": "1 ,  1 ,  2 ,  ? ,  24 ,  120 ,  720",
+            "question": "1, 1, 2, ?, 24, 120, 720",
             "a": "18",
             "b": "12",
             "c": "48",
@@ -64,10 +64,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply by 1, 2, 3 and so on..."
+            "explain": "Nhân với 1, 2, 3, v.v.!",
         },
         {
-            "question": "7964325  is to  6975234 ,  5822139  is to  2859312  as  7469851  is to ?",
+            "question": "7964325 tương ứng với 6975234, 5822139 tương ứng với 2859312 như 7469851 tương ứng với ?",
             "a": "6132798",
             "b": "3572612",
             "c": "6471589",
@@ -75,10 +75,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Reverse the first three digits then reverse the last four digits."
+            "explain": "Đảo ngược ba chữ số đầu tiên rồi đảo ngược bốn chữ số cuối cùng.!",
         },
         {
-            "question": "1.5 ,  3 ,  5.5 ,  9 ,  13.5 ,  ?",
+            "question": "1.5, 3, 5.5, 9, 13.5, ?",
             "a": "23",
             "b": "19",
             "c": "21",
@@ -86,10 +86,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 1.5, 2.5, 3.5, 4.5, 5.5"
+            "explain": "Thêm 1.5, 2.5, 3.5, 4.5, 5.5.!",
         },
         {
-            "question": "100 ,  50 ,  200 ,  25 ,  400 ,  ?",
+            "question": "100, 50, 200, 25, 400, ?",
             "a": "14.5",
             "b": "12",
             "c": "13",
@@ -97,10 +97,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences.! ! Multiply 2 starting at 100 and devide by 2 starting at 50."
+            "explain": "Có hai chuỗi xen kẽ.! !Nhân với 2 bắt đầu từ 100 và chia cho 2 bắt đầu từ 50.!",
         },
         {
-            "question": "Which number is the odd one out,    6, 9, 15, 21, 24, 28, 30",
+            "question": "Số nào là số lẻ, 6, 9, 15, 21, 24, 28, 30",
             "a": "28",
             "b": "21",
             "c": "24",
@@ -108,10 +108,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers except 28, is a multiple of 3."
+            "explain": "Mỗi số ngoại trừ 28 là bội số của 3.!",
         },
         {
-            "question": "100 ,  1 ,  97.5 ,  3.5 ,  92.5 ,  8.5 ,  85 ,  16 ,  ? ,  ?",
+            "question": "100, 1, 97.5, 3.5, 92.5, 8.5, 85, 16, ?, ?",
             "a": "70, 26",
             "b": "75, 26",
             "c": "75, 24",
@@ -119,10 +119,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences.! ! subtract 2.5, 5, 7.5 starting at 100 and Add 2.5, 5, 7.5 starting at 1."
+            "explain": "Có hai chuỗi xen kẽ.! !Trừ 2.5, 5, 7.5 bắt đầu từ 100 và Thêm 2.5, 5, 7.5 bắt đầu từ 1.!",
         },
         {
-            "question": "110 ,  ? ,  99 ,  81 ,  72 ,  63 ,  54 ,  45",
+            "question": "110, ?, 99, 81, 72, 63, 54, 45",
             "a": "108",
             "b": "98",
             "c": "110",
@@ -130,10 +130,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Deduct the sum of the digits of the previous number each time."
+            "explain": "Trừ tổng các chữ số của số trước mỗi lần.!",
         },
         {
-            "question": "1 ,  2 ,  3 ,  5 ,  7 ,  10 ,  13 ,  17 ,  21 ,  ? ,  ?",
+            "question": "1, 2, 3, 5, 7, 10, 13, 17, 21, ?, ?",
             "a": "27, 32",
             "b": "26, 32",
             "c": "25, 31",
@@ -141,10 +141,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "+1, +1, +2, +2, +3, +3, +4, +4, +5, +5"
+            "explain": "+1, +1, +2, +2, +3, +3, +4, +4, +5, +5.!",
         },
         {
-            "question": "5 ,  26 ,  131 ,  656 ,  ?",
+            "question": "5, 26, 131, 656, ?",
             "a": "3298",
             "b": "3260",
             "c": "3200",
@@ -152,10 +152,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply by 5 and add 1 each time."
+            "explain": "Nhân với 5 và thêm 1 mỗi lần.!",
         },
         {
-            "question": "Which number is the odd one out,    10, 14, 16, 18, 21, 24, 26",
+            "question": "Số nào là số lẻ, 10, 14, 16, 18, 21, 24, 26",
             "a": "26",
             "b": "24",
             "c": "21",
@@ -163,10 +163,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All numbers are even except 21."
+            "explain": "Tất cả các số đều là số chẵn ngoại trừ 21.!",
         },
         {
-            "question": "1 ,  1 ,  3 ,  15 ,  105 ,  ?",
+            "question": "1, 1, 3, 15, 105, ?",
             "a": "945",
             "b": "954",
             "c": "943",
@@ -174,10 +174,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply by 1, 3, 5, 7, 9"
+            "explain": "Nhân với 1, 3, 5, 7, 9.!",
         },
         {
-            "question": "36 ,  72 ,  ? ,  144 ,  180 ,  216 ,  252",
+            "question": "36, 72, ?, 144, 180, 216, 252",
             "a": "106",
             "b": "108",
             "c": "110",
@@ -185,10 +185,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 36 each time."
+            "explain": "Thêm 36 mỗi lần.!",
         },
         {
-            "question": "Which number is the odd one out,    835, 734, 642, 751, 853, 981, 532",
+            "question": "Số nào là số lẻ, 835, 734, 642, 751, 853, 981, 532",
             "a": "751",
             "b": "853",
             "c": "981",
@@ -196,10 +196,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In each number except 751, the difference of third and first digit is the middle one."
+            "explain": "Trong mỗi số ngoại trừ 751, sự khác biệt giữa chữ số thứ ba và chữ số đầu tiên là chữ số ở giữa.!",
         },
         {
-            "question": "1 ,  4 ,  2 ,  5 ,  3 ,  6 ,  4 ,  ?",
+            "question": "1, 4, 2, 5, 3, 6, 4, ?",
             "a": "9",
             "b": "6",
             "c": "7",
@@ -207,10 +207,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences.! !First starts with 1 and second with 4!Add 1 in both series"
+            "explain": "Có hai chuỗi xen kẽ.! !Chuỗi đầu tiên bắt đầu với 1 và chuỗi thứ hai bắt đầu với 4!Thêm 1 vào cả hai chuỗi.!",
         },
         {
-            "question": "14 ,  16 ,  28 ,  32 ,  42 ,  48 ,  56 ,  64 ,  ? ,  ?",
+            "question": "14, 16, 28, 32, 42, 48, 56, 64, ?, ?",
             "a": "50, 80",
             "b": "70, 80",
             "c": "50, 60",
@@ -218,10 +218,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences, add 14 starting at 14 and add 16 starting at 16."
+            "explain": "Có hai chuỗi xen kẽ, thêm 14 bắt đầu từ 14 và thêm 16 bắt đầu từ 16.!",
         },
         {
-            "question": "Find the odd man out,    3, 5, 11, 14, 17, 21",
+            "question": "Tìm số lẻ, 3, 5, 11, 14, 17, 21",
             "a": "21",
             "b": "17",
             "c": "14",
@@ -229,10 +229,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers except 14 is an odd number.! !The number '14' is the only EVEN number."
+            "explain": "Mỗi số ngoại trừ 14 là số lẻ.! !Số ‘14’ là số CHẴN duy nhất.!",
         },
         {
-            "question": "9 ,  18 ,  27 ,  ? ,  45 ,  ? ,  63",
+            "question": "9, 18, 27, ?, 45, ?, 63",
             "a": "45, 60",
             "b": "62, 72",
             "c": "36, 54",
@@ -240,10 +240,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 9 each time."
+            "explain": "Thêm 9 mỗi lần.!",
         },
         {
-            "question": "17 ,  34 ,  51 ,  68 ,  ?",
+            "question": "17, 34, 51, 68, ?",
             "a": "90",
             "b": "67",
             "c": "85",
@@ -251,10 +251,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 17 each time."
+            "explain": "Thêm 17 mỗi lần.!",
         },
         {
-            "question": "Which number is the odd one out,    396, 462, 572, 427, 671, 264",
+            "question": "Số nào là số lẻ, 396, 462, 572, 427, 671, 264",
             "a": "396",
             "b": "427",
             "c": "671",
@@ -262,10 +262,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In each number except 427, the middle digit is the sum of other two."
+            "explain": "Trong mỗi số ngoại trừ 427, chữ số ở giữa là tổng của hai chữ số còn lại.!",
         },
         {
-            "question": "2 ,  5.75 ,  ? ,  13.25 ,  17 ,  20.75",
+            "question": "2, 5.75, ?, 13.25, 17, 20.75",
             "a": "9",
             "b": "8",
             "c": "9.5",
@@ -273,10 +273,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 3.75 each time."
+            "explain": "Thêm 3.75 mỗi lần.!",
         },
         {
-            "question": "Which number is the odd one out,     1, 4, 9, 16, 23, 25, 36",
+            "question": "Số nào là số lẻ, 1, 4, 9, 16, 23, 25, 36",
             "a": "9",
             "b": "23",
             "c": "25",
@@ -284,10 +284,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers except 23, is perfect square."
+            "explain": "Mỗi số ngoại trừ 23 là số chính phương.!",
         },
         {
-            "question": "100 ,  98 ,  94 ,  88 ,  80 ,  70 ,  ?",
+            "question": "100, 98, 94, 88, 80, 70, ?",
             "a": "58",
             "b": "66",
             "c": "72",
@@ -295,10 +295,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Deduct 2, 4, 6, 8, 10, 12"
+            "explain": "Trừ 2, 4, 6, 8, 10, 12.!",
         },
         {
-            "question": "9 ,  16 ,  13 ,  13 ,  17 ,  10 ,  21 ,  7 ,  ?",
+            "question": "9, 16, 13, 13, 17, 10, 21, 7, ?",
             "a": "4",
             "b": "25",
             "c": "24",
@@ -306,10 +306,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences! !Add 4 starting with 9! !and subtract 3 starting with 16."
+            "explain": "Có hai chuỗi xen kẽ.! !Thêm 4 bắt đầu từ 9! !và trừ 3 bắt đầu từ 16.!",
         },
         {
-            "question": "64521  is to  41256  as  38297  is to..",
+            "question": "64521 tương ứng với 41256 như 38297 tương ứng với..",
             "a": "92837",
             "b": "29873",
             "c": "89732",
@@ -317,10 +317,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A  B  C  D  E!6  4  5  2  1! !B  E  D  C  A!4  1  2  5  6! !A  B  C  D  E!3  8  2  9  7! !B  E  D  C  A!8  7  9  2  3"
+            "explain": "A B C D E!6 4 5 2 1! !B E D C A!4 1 2 5 6! !A B C D E!3 8 2 9 7! !B E D C A!8 7 9 2 3!",
         },
         {
-            "question": "1 ,  2 ,  4 ,  8 ,  ?",
+            "question": "1, 2, 4, 8, ?",
             "a": "16",
             "b": "24",
             "c": "32",
@@ -328,10 +328,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 1 first and then add double of previously added number."
+            "explain": "Thêm 1 trước rồi thêm gấp đôi số đã thêm trước đó.!",
         },
         {
-            "question": "100 ,  97 ,  91 , 82 ,  ?",
+            "question": "100, 97, 91, 82, ?",
             "a": "72.5",
             "b": "70",
             "c": "75",
@@ -339,10 +339,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "-3 , -6 , -9 , -12!(Multiples of 3 are subtracted)"
+            "explain": "-3 , -6 , -9 , -12!(Các bội số của 3 bị trừ)",
         },
         {
-            "question": "1 ,  2.65 ,  4.3 ,  5.95 ,  7.6 ,  ?",
+            "question": "1, 2.65, 4.3, 5.95, 7.6, ?",
             "a": "10",
             "b": "11.3",
             "c": "9.25",
@@ -350,10 +350,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "1.65 is adding in each term."
+            "explain": "1.65 được thêm vào mỗi số.!",
         },
         {
-            "question": "78214 and 292 ,  38421 and 459 ,  69517 and ?",
+            "question": "78214 và 292, 38421 và 459, 69517 và ?",
             "a": "712",
             "b": "586",
             "c": "58987",
@@ -361,10 +361,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "78 + 214 = 292!38 + 421 = 459! !So, 69 + 517 = 586"
+            "explain": "78 + 214 = 292!38 + 421 = 459! !Vì vậy, 69 + 517 = 586!",
         },
         {
-            "question": "3925 and 277 ,  4697 and 2416 ,  6257 and ?",
+            "question": "3925 và 277, 4697 và 2416, 6257 và ?",
             "a": "1212",
             "b": "409",
             "c": "32509",
@@ -372,10 +372,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "3 * 9 = 27! 5 + 2 = 7!(277).! !4 * 6 = 24!and 9 + 7 = 16!(2416)! !Similarly,!6 * 2 = 12!and 5 + 7 = 12!(1212)"
+            "explain": "3 * 9 = 27! 5 + 2 = 7!(277).! !4 * 6 = 24!và 9 + 7 = 16!(2416)! !Tương tự,!6 * 2 = 12!và 5 + 7 = 12!(1212)!",
         },
         {
-            "question": "25 ,  50 ,  27 ,  46 ,  31 ,  38 ,  39 ,  ?",
+            "question": "25, 50, 27, 46, 31, 38, 39, ?",
             "a": "27",
             "b": "55",
             "c": "43",
@@ -383,10 +383,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences.!Add 2, 4 and 8 from the sequence starting with 25!and subtract 4, 8 and 16 from the sequence starting with 50"
+            "explain": "Có hai chuỗi xen kẽ.!Thêm 2, 4 và 8 từ chuỗi bắt đầu với 25!và trừ 4, 8 và 16 từ chuỗi bắt đầu với 50!",
         },
         {
-            "question": "759 ,  675 ,  335 ,  165 ,  ?",
+            "question": "759, 675, 335, 165, ?",
             "a": "125",
             "b": "113",
             "c": "150",
@@ -394,10 +394,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each number is formed by multiplying the number formed by the first two digits of the previous number by its third digit.! !So, 16 * 5 = 80"
+            "explain": "Mỗi số được hình thành bằng cách nhân số được tạo bởi hai chữ số đầu của số trước với chữ số thứ ba của nó.! !Vì vậy, 16 * 5 = 80!",
         },
         {
-            "question": "Which number is the odd one out,   159,  248,  963,  357,  951,  852 ?",
+            "question": "Số nào là số lẻ, 159, 248, 963, 357, 951, 852 ?",
             "a": "248",
             "b": "852",
             "c": "159",
@@ -405,10 +405,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In the rest there is the same difference between each digit! eg 8 (-3) 5 (-3) 2"
+            "explain": "Trong phần còn lại có sự khác biệt giống nhau giữa mỗi chữ số! Ví dụ 8 (-3) 5 (-3) 2",
         },
         {
-            "question": "What four-digit number should replace the question mark? 4342 (3176) 1726,  7995 (7516) 2162,  8418 (????) 1725",
+            "question": "Số bốn chữ số nào nên thay thế dấu hỏi chấm? 4342 (3176) 1726, 7995 (7516) 2162, 8418 (????) 1725",
             "a": "6748",
             "b": "4725",
             "c": "9797",
@@ -416,10 +416,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Delete the digits outside the brackets that appear twice, and insert the remaining digits in the brackets in the same order that they appear outside the brackets!8418 (4725) 1725"
+            "explain": "Xóa các chữ số ngoài ngoặc xuất hiện hai lần, và chèn các chữ số còn lại trong ngoặc theo thứ tự mà chúng xuất hiện bên ngoài ngoặc!8418 (4725) 1725",
         },
         {
-            "question": "Which is the odd number out,  9421 ,  7532 ,  9854 ,  8612 ,  6531 ,  8541 ?",
+            "question": "Số nào là số lẻ, 9421, 7532, 9854, 8612, 6531, 8541 ?",
             "a": "8612",
             "b": "6531",
             "c": "7532",
@@ -427,821 +427,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All the other numbers have their digits in descending order."
-        },
-        {
-            "question": "Which two letters come next in the sequence A ,  D ,  I ,  P ,  Y ,  CF ,  DI ,  FD , ?",
-            "a": "HA",
-            "b": "GK",
-            "c": "JB",
-            "d": "RA",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "take the numerical position of each letter in the alphabet to reveal the sequence of consecutive square numbers 1, 4, 9, 16, 25, 36, 49, 64, 81"
-        },
-        {
-            "question": "0.67 ,  0.69 ,  0.48 ,  0.88 ,  0.29 ,  1.07 ,  ?",
-            "a": "0.92",
-            "b": "0.10",
-            "c": "0.32",
-            "d": "2.17",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "There are two series!Subtract 0.19 from the series starting with 0.67 and add 0.19 from the series starting with 0.69."
-        },
-        {
-            "question": "492 ,  366 ,  189 ,  810 ,  ?",
-            "a": "1260",
-            "b": "675",
-            "c": "88",
-            "d": "1015",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "8 * 1 = 8, 8 + 0 = 8"
-        },
-        {
-            "question": "Which number is the odd one out,    1, 4, 9, 16, 20, 36, 49",
-            "a": "1",
-            "b": "9",
-            "c": "20",
-            "d": "49",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "All other numbers are perfect square of numbers but 20 is not perfect square of any number."
-        },
-        {
-            "question": "Which number is the odd one out,    2, 5, 10, 17, 26, 37, 50, 64",
-            "a": "50",
-            "b": "26",
-            "c": "37",
-            "d": "64",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "(1*1)+1 , (2*2)+1 , (3*3)+1 , (4*4)+1 , (5*5)+1 , (6*6)+1 , (7*7)+1 , (8*8)+1! !But, 64 is out of pattern."
-        },
-        {
-            "question": "1000 ,  971.4 ,  942.8 ,  914.2 ,  885.6 ,  ?",
-            "a": "847",
-            "b": "853",
-            "c": "857",
-            "d": "872",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Deduct 28.6 each time."
-        },
-        {
-            "question": "Which number is the odd one out,    16, 25, 36, 72, 144, 196, 225",
-            "a": "36",
-            "b": "72",
-            "c": "196",
-            "d": "225",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Each of the numbers except 72 is a perfect square."
-        },
-        {
-            "question": "Which number is the odd one out,    331, 482, 551, 263, 383, 362, 284",
-            "a": "263",
-            "b": "383",
-            "c": "331",
-            "d": "551",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "In each number except 383, the product of first and third digits is the middle one."
-        },
-        {
-            "question": "1 ,  1 ,  2.5 ,  3.5 ,  4 ,  6 ,  5.5 ,  8.5 ,  ? ,  ?",
-            "a": "9, 15",
-            "b": "11, 9",
-            "c": "7, 13",
-            "d": "7, 11",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "There are two interwoven sequences.! !+1.5 starting at the first 1, and +2.5 starting at the second 1."
-        },
-        {
-            "question": "Which number is the odd one out,    41, 43, 47, 53, 61, 71, 73, 81",
-            "a": "61",
-            "b": "71",
-            "c": "73",
-            "d": "81",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Each of the numbers except 81 is a prime number."
-        },
-        {
-            "question": "Which number is the odd one out,    3, 5, 7, 12, 17, 19",
-            "a": "19",
-            "b": "17",
-            "c": "5",
-            "d": "12",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Each of the numbers is a prime number except 12."
-        },
-        {
-            "question": "8 ,  16 ,  32 ,  64 ,  128 ,  ?",
-            "a": "512",
-            "b": "312",
-            "c": "256",
-            "d": "196",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply previous term with 2 to find next term."
-        },
-        {
-            "question": "1/32 ,  1/16 ,  1/4 ,  1/2 ,  2 ,  4 ,  ?",
-            "a": "16",
-            "b": "1/8",
-            "c": "8",
-            "d": "12",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply with 2 and 4 alternatively"
-        },
-        {
-            "question": "180 ,  140 ,  179 ,  138 ,  177 ,  134 ,  ?",
-            "a": "176",
-            "b": "128",
-            "c": "126",
-            "d": "174",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Two parallel series, one with subtracting 1,2,3,... and other with subtracting 2,4,6,..."
-        },
-        {
-            "question": "5 ,  2.5 ,  1.25 ,  0.625 ,  ?",
-            "a": "0.213",
-            "b": "0.3125",
-            "c": "0.425",
-            "d": "0.1",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Divide previous term with 2 to find next term."
-        },
-        {
-            "question": "20 ,  30 ,  45 ,  ?",
-            "a": "70.5",
-            "b": "60",
-            "c": "67.5",
-            "d": "61.5",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply previous term with 1.5 to find next term."
-        },
-        {
-            "question": "B ,  D ,  F ,  H ,  J ,  L ,  ?",
-            "a": "N",
-            "b": "M",
-            "c": "O",
-            "d": "P",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip one alphabet."
-        },
-        {
-            "question": "E ,  H ,  K ,  N ,  Q ,  T ,  ?",
-            "a": "R",
-            "b": "W",
-            "c": "X",
-            "d": "Y",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip two alphabets."
-        },
-        {
-            "question": "A ,  Y ,  W ,  U ,  S ,  Q ,  ?",
-            "a": "O",
-            "b": "D",
-            "c": "Z",
-            "d": "P",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip one alphabet in reverse order."
-        },
-        {
-            "question": "F ,  G ,  I ,  L ,  P ,  ?",
-            "a": "S",
-            "b": "T",
-            "c": "U",
-            "d": "V",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip alphabets 0,1,2,..."
-        },
-        {
-            "question": "A ,  E ,  X ,  H ,  U ,  ?",
-            "a": "R",
-            "b": "K",
-            "c": "S",
-            "d": "J",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Two parallel series, one with skipping two alphabets in reverse order and other with skipping two alphabets in forward order"
-        },
-        {
-            "question": "B ,  L ,  R ,  T ,  ?",
-            "a": "Z",
-            "b": "V",
-            "c": "U",
-            "d": "R",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip alphabets 10 , 6 , 2 , -2 , -6,..."
-        },
-        {
-            "question": "3 ,  6 ,  9 ,  12 ,  15 ,  ?",
-            "a": "21",
-            "b": "18",
-            "c": "24",
-            "d": "19",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 3 in previous term to find next term."
-        },
-        {
-            "question": "17 ,  20 ,  19 ,  22 ,  21 ,  24 ,  23 ,  ?",
-            "a": "26",
-            "b": "25",
-            "c": "28",
-            "d": "27",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 3 and subtract 1 alternatively."
-        },
-        {
-            "question": "F ,  I ,  M ,  P ,  T ,  W ,  ?",
-            "a": "Z",
-            "b": "K",
-            "c": "Y",
-            "d": "A",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip 2 and 3 alphabets alternatively."
-        },
-        {
-            "question": "6 ,  8 ,  10 ,  14 ,  18 ,  26 ,  34 ,  50 ,  66 ,  ?",
-            "a": "86",
-            "b": "98",
-            "c": "70",
-            "d": "112",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 2, 4, 4, 8, 8, 16,  16,..."
-        },
-        {
-            "question": "B ,  C ,  E ,  G ,  K ,  ?",
-            "a": "M",
-            "b": "Q",
-            "c": "O",
-            "d": "X",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Prime numbers 2, 3 , 5 , 7 , 11 , 13,..."
-        },
-        {
-            "question": "3 ,  10 ,  33 ,  104 ,  ?",
-            "a": "219",
-            "b": "319",
-            "c": "619",
-            "d": "1019",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply with 3 and add 1, 3, 5, 7,..."
-        },
-        {
-            "question": "6 ,  H ,  9 ,  K ,  11 ,  M ,  14 ,  P ,  16 ,  R ,  19 ,  U ,  21 ,  ?",
-            "a": "W",
-            "b": "X",
-            "c": "Y",
-            "d": "Z",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 3 and 2 alternatively in number series and skip 2 and 1 alphabets alternatively"
-        },
-        {
-            "question": "M ,  F ,  N ,  G ,  R ,  I ,  S ,  L ,  W ,  P ,  ?",
-            "a": "X",
-            "b": "A",
-            "c": "B",
-            "d": "Z",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Two parallel series one with skipping 0 and 3 alphabets alternatively and other with skipping 0 , 1 , 2,..."
-        },
-        {
-            "question": "7 ,  12 ,  19 ,  28 ,  ?",
-            "a": "41",
-            "b": "37",
-            "c": "35",
-            "d": "39",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "add 5 , 7 , 9 , 11,..."
-        },
-        {
-            "question": "O ,  R ,  M ,  T ,  K ,  V ,  I ,  ?",
-            "a": "K",
-            "b": "O",
-            "c": "X",
-            "d": "Z",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Two parallel series one with skipping one alphabet in reverse order and other with skipping one alphabet in forward order."
-        },
-        {
-            "question": "2 ,  5 ,  10 ,  17 ,  26 ,  ?",
-            "a": "41",
-            "b": "39",
-            "c": "37",
-            "d": "35",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "add 3 , 5 , 7 ,  9 , 11,..."
-        },
-        {
-            "question": "0 ,  7 ,  15 ,  24 ,  34 ,  ?",
-            "a": "43",
-            "b": "45",
-            "c": "53",
-            "d": "55",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "add 7 , 8 , 9 , 10 , 11,..."
-        },
-        {
-            "question": "C ,  F ,  K ,  R ,  ?",
-            "a": "A",
-            "b": "Y",
-            "c": "Z",
-            "d": "B",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip 2 , 4 , 6 , 8,... alphabets"
-        },
-        {
-            "question": "3 ,  7 , 2 ,  47 ,  ?",
-            "a": "137",
-            "b": "-43",
-            "c": "-137",
-            "d": "43",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "3^2 - 7 = 2!7^2 - 2 = 47!In the same way!2^2 - 47 = -43"
-        },
-        {
-            "question": "2 ,  6 ,  18 ,  54 ,  162 ,  ?",
-            "a": "324",
-            "b": "648",
-            "c": "486",
-            "d": "238",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply previous term with 2 to find next term."
-        },
-        {
-            "question": "2 ,  6 ,  15 ,  34 ,  73 ,  ?",
-            "a": "146",
-            "b": "98",
-            "c": "186",
-            "d": "152",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply with 2 and add 2 , 3 , 4 , 5 , 6,..."
-        },
-        {
-            "question": "C ,  G ,  L ,  R ,  ?",
-            "a": "Y",
-            "b": "W",
-            "c": "U",
-            "d": "Z",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip 3 , 4 , 5,... alphabets."
-        },
-        {
-            "question": "N ,  N ,  P ,  L ,  S ,  I ,  W ,  ?",
-            "a": "A",
-            "b": "E",
-            "c": "I",
-            "d": "O",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Two parallel series. One with skipping 1 , 2 , 3,... alphabets in forward order and other with skipping same alphabets in reverse order."
-        },
-        {
-            "question": "1/3 ,  3/7 ,  6/13 ,  10/21 ,  15/31 ,  ?",
-            "a": "21/41",
-            "b": "23/45",
-            "c": "21/43",
-            "d": "30/62",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 2 , 3 , 4,... in numerator and add 4 , 6 , 8,... in denominator."
-        },
-        {
-            "question": "2 ,  7 ,  5 ,  5 ,  8 ,  3 ,  11 ,  ?",
-            "a": "14",
-            "b": "7",
-            "c": "2",
-            "d": "1",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Two parallel series one with adding 3 and other with subtracting 2."
-        },
-        {
-            "question": "87 ,  102 ,  119 ,  138 ,  159 ,  ?",
-            "a": "182",
-            "b": "180",
-            "c": "178",
-            "d": "176",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Adding 15 , 17 , 19,..."
-        },
-        {
-            "question": "0 ,  3 ,  8 ,  15 ,  ?",
-            "a": "22",
-            "b": "24",
-            "c": "27",
-            "d": "21",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 3 , 5 , 7,..."
-        },
-        {
-            "question": "4 ,  7 ,  15 ,  29 ,  59 ,  117 ,  ?",
-            "a": "233",
-            "b": "234",
-            "c": "235",
-            "d": "236",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply with 2 and subtract and add 1 alternatively."
-        },
-        {
-            "question": "B ,  D ,  G ,  K ,  P ,  ?",
-            "a": "A",
-            "b": "L",
-            "c": "X",
-            "d": "V",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip 1 , 2 , 3,... alphabets."
-        },
-        {
-            "question": "3.4 ,  6.3 ,  9.2 ,  12.1 ,  15 ,  ?",
-            "a": "17.9",
-            "b": "19.0",
-            "c": "16.9",
-            "d": "17.0",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 2.9 in previous term to find next term."
-        },
-        {
-            "question": "T ,  Q ,  M ,  H ,  ?",
-            "a": "N",
-            "b": "B",
-            "c": "A",
-            "d": "D",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip 2 , 3 , 4,... alphabets in reverse order."
-        },
-        {
-            "question": "63 ,  35 ,  15 ,  3 ,  ?",
-            "a": "10",
-            "b": "3",
-            "c": "-1",
-            "d": "-3",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "8^2 - 1 = 63!and!6^2 - 1 = 35!and!4^2 - 1 = 15!and!2^2 - 1 = 3!in the same way!0^2 - 1 = -1"
-        },
-        {
-            "question": "71 ,  25 ,  83 ,  37 ,  95 ,  49 ,  ?",
-            "a": "105",
-            "b": "62",
-            "c": "121",
-            "d": "107",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Two parallel series both with adding 12."
-        },
-        {
-            "question": "5 ,  5 ,  3 ,  -1 ,  -7 ,  ?",
-            "a": "-15",
-            "b": "15",
-            "c": "-13",
-            "d": "13",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Subtract 0 ,2 , 4,..."
-        },
-        {
-            "question": "-6 ,  9 ,  -27/2 ,  81/4 ,  -243/8 ,  ?",
-            "a": "16",
-            "b": "729/16",
-            "c": "12",
-            "d": "523/24",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply previous term with -3/2 to find next term."
-        },
-        {
-            "question": "2 ,  -1 ,  2 ,  -1 ,  2 ,  ?",
-            "a": "2",
-            "b": "-3",
-            "c": "-1",
-            "d": "3",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Subtract and add 3 alternatively."
-        },
-        {
-            "question": "B ,  W ,  F ,  P ,  M ,  E ,  ?",
-            "a": "B",
-            "b": "W",
-            "c": "F",
-            "d": "Y",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Two parallel series one with skipping 3 , 6,... alphabets and other with skipping 6 , 12,... alphabets."
-        },
-        {
-            "question": "C ,  F ,  J ,  O ,  ?",
-            "a": "C",
-            "b": "O",
-            "c": "U",
-            "d": "I",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip 2 , 3 , 4,... alphabets."
-        },
-        {
-            "question": "O ,  P ,  R ,  U ,  ?",
-            "a": "W",
-            "b": "X",
-            "c": "Y",
-            "d": "Z",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip 0 , 1 , 2 , 3,... alphabets."
-        },
-        {
-            "question": "1 ,  4 ,  9 ,  61 ,  52 ,  ?",
-            "a": "1023",
-            "b": "968",
-            "c": "319",
-            "d": "63",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Square 1 , 2 , 3,... and change the sequence of digits."
-        },
-        {
-            "question": "3/81 ,  4/256 ,  5/625 ,  ?",
-            "a": "6/1024",
-            "b": "6/1296",
-            "c": "6/1828",
-            "d": "6/868",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 1 in numerator and in denominator!(3*3)^2 = 81!(4*4)^2 = 256!(5*5)^2 = 625!in the same way!(6*6)^2 = 1296"
-        },
-        {
-            "question": "12 ,  14 ,  34 ,  36 ,  56 ,  58 ,  78 ,  ?",
-            "a": "98",
-            "b": "88",
-            "c": "80",
-            "d": "82",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 2 and 20 alternatively."
-        },
-        {
-            "question": "7 ,  13 ,  24 ,  45 ,  86 ,  ?",
-            "a": "123",
-            "b": "223",
-            "c": "267",
-            "d": "167",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply previous term with 2 and subtract 1 , 2 , 3,... to find next term."
-        },
-        {
-            "question": "156 ,  76 ,  36 ,  16 ,  ?",
-            "a": "6",
-            "b": "8",
-            "c": "-6",
-            "d": "-8",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Subtract 4 from previous term and then divide it with 2 to find next term."
-        },
-        {
-            "question": "6 ,  10 ,  18 ,  34 ,  66 ,  ?",
-            "a": "108",
-            "b": "130",
-            "c": "144",
-            "d": "156",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 4 , 8 , 16 , 32,..."
-        },
-        {
-            "question": "2 ,  14 ,  32 ,  56 ,  86 ,  ?",
-            "a": "108",
-            "b": "114",
-            "c": "122",
-            "d": "128",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 12 , 18 , 24 , 30 , 36,..."
-        },
-        {
-            "question": "108 ,  189 ,  216 ,  225 ,  ?",
-            "a": "512",
-            "b": "413",
-            "c": "124",
-            "d": "228",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 81 , 27 , 9 , 3,..."
-        },
-        {
-            "question": "7 ,  10 ,  25 ,  94 ,  463 ,  ?",
-            "a": "2770",
-            "b": "2110",
-            "c": "1440",
-            "d": "822",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "7*2 - 4 = 10!and!10*3 - 5 = 25!and!25*4 - 6 = 94!and!94*5 - 7 = 463!In the same way!463*6 - 8 = 2770"
-        },
-        {
-            "question": "A ,  B ,  D ,  I ,  ?",
-            "a": "O",
-            "b": "S",
-            "c": "W",
-            "d": "Z",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply position of previous alphabet with 3 and subtract 1 , 2 , 3,... respectively."
-        },
-        {
-            "question": "9 ,  11 ,  17 ,  35 ,  ?",
-            "a": "108",
-            "b": "99",
-            "c": "114",
-            "d": "89",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 2 , 6 , 18 , 54,...!here!6 = 2*3!18 = 6*3!and!54 = 18*3"
-        },
-        {
-            "question": "F ,  O ,  T ,  W ,  ?",
-            "a": "Y",
-            "b": "Z",
-            "c": "A",
-            "d": "B",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip 8 , 4 , 2 , 1 alphabets."
-        },
-        {
-            "question": "X ,  U ,  Q ,  N ,  J ,  G ,  ?",
-            "a": "A",
-            "b": "C",
-            "c": "E",
-            "d": "G",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip 2 and 3 alphabets alternatively in reverse."
-        },
-        {
-            "question": "7/2 ,  4 ,  7 ,  14 ,  ?",
-            "a": "31",
-            "b": "37",
-            "c": "49",
-            "d": "67",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multiply previous 2 numbers and divide by 2."
-        },
-        {
-            "question": "2 ,  20 ,  42 ,  68 ,  98 ,  ?",
-            "a": "132",
-            "b": "232",
-            "c": "332",
-            "d": "432",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Add 18 , 22 , 26 , 30 , 34,..."
-        },
-        {
-            "question": "BZ ,  EW ,  HT ,  KQ ,  ?",
-            "a": "OP",
-            "b": "JJ",
-            "c": "NN",
-            "d": "AZ",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Skip 2 alphabets in forward order to find first alphabet and skip 2 alphabets in reverse order to find 2nd alphabet."
-        },
-        {
-            "question": "XYZ ,  WVV ,  VSR ,  UPN ,  ?",
-            "a": "NSG",
-            "b": "ZPO",
-            "c": "BOX",
-            "d": "TMJ",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Subtract 1 from first 3 from second and 4 from third character."
-        },
-        {
-            "question": "AZ ,  DX ,  HU ,  MQ ,  ?",
-            "a": "SL",
-            "b": "ZA",
-            "c": "VT",
-            "d": "PW",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "skip 2 , 3 , 4,... alphabets to find first character and subtract 1 , 2 , 3,... alphabets to find second character."
+            "explain": "Tất cả các số khác có các chữ số theo thứ tự giảm dần.",
         }
     ]
 }
