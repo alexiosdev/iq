@@ -92,7 +92,7 @@
             "question": "A trẻ hơn B và lớn hơn C. Nếu tổng tuổi của B và C là 50 tuổi, thì chênh lệch tuổi giữa B và A là bao nhiêu?",
             "a": "Dữ liệu không đủ",
             "b": "3 năm",
-            "c": "",
+            "c": "2 năm",
             "d": "5 năm",
             "answer": "a",
             "numAnswer": 4,

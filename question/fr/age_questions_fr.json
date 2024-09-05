@@ -92,7 +92,7 @@
             "question": "A est plus jeune que B et plus âgé que C. Si la somme des âges de B et C est de 50 ans, quelle est la différence entre les âges de B et A ?",
             "a": "Données insuffisantes",
             "b": "3 ans",
-            "c": "",
+            "c": "2 ans",
             "d": "5 ans",
             "answer": "a",
             "numAnswer": 4,
