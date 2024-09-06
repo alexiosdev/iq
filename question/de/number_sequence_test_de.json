@@ -9,7 +9,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Fügen Sie 1, 3, 5, 7 usw. hinzu.!",
+            "explain": "Fügen Sie 1, 3, 5, 7 usw. hinzu.!"
         },
         {
             "question": "Welche Zahl ist die Ausnahme, 8, 27, 64, 100, 125, 216, 343",
@@ -20,7 +20,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Alle anderen sind perfekte Kuben einer Zahl, aber 100 ist kein perfekter Kubus einer Zahl.!",
+            "explain": "Alle anderen sind perfekte Kuben einer Zahl, aber 100 ist kein perfekter Kubus einer Zahl.!"
         },
         {
             "question": "100, 96.75, 93.5, 90.25, 87, ?",
@@ -31,7 +31,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Jedes Mal 3,25 abziehen.!",
+            "explain": "Jedes Mal 3,25 abziehen.!"
         },
         {
             "question": "0, 100, 6, 94, 12, 88, 18, 82, ?, ?",
@@ -42,7 +42,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Es gibt zwei ineinander verwobene Sequenzen.! !Fügen Sie 6 beginnend bei 0 hinzu und ziehen Sie 6 beginnend bei 100 ab.!",
+            "explain": "Es gibt zwei ineinander verwobene Sequenzen.! !Fügen Sie 6 beginnend bei 0 hinzu und ziehen Sie 6 beginnend bei 100 ab.!"
         },
         {
             "question": "Welche Zahl ist die Ausnahme, 10, 25, 45, 54, 60, 75, 80",
@@ -53,7 +53,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Jede Zahl außer 54 ist ein Vielfaches von 5.!",
+            "explain": "Jede Zahl außer 54 ist ein Vielfaches von 5.!"
         },
         {
             "question": "1, 1, 2, ?, 24, 120, 720",
@@ -64,7 +64,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multipliziere mit 1, 2, 3 und so weiter.!",
+            "explain": "Multipliziere mit 1, 2, 3 und so weiter.!"
         },
         {
             "question": "7964325 entspricht 6975234, 5822139 entspricht 2859312, wie entspricht 7469851 ?",
@@ -75,7 +75,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Die ersten drei Ziffern umkehren und dann die letzten vier Ziffern umkehren.!",
+            "explain": "Die ersten drei Ziffern umkehren und dann die letzten vier Ziffern umkehren.!"
         },
         {
             "question": "1.5, 3, 5.5, 9, 13.5, ?",
@@ -86,7 +86,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Füge 1,5, 2,5, 3,5, 4,5, 5,5 hinzu.!",
+            "explain": "Füge 1,5, 2,5, 3,5, 4,5, 5,5 hinzu.!"
         },
         {
             "question": "100, 50, 200, 25, 400, ?",
@@ -97,7 +97,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Es gibt zwei ineinander verwobene Folgen.! !Multipliziere mit 2 ab 100 und teile durch 2 ab 50.!",
+            "explain": "Es gibt zwei ineinander verwobene Folgen.! !Multipliziere mit 2 ab 100 und teile durch 2 ab 50.!"
         },
         {
             "question": "Welche Zahl ist die Ausnahme, 6, 9, 15, 21, 24, 28, 30",
@@ -108,7 +108,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Jede Zahl außer 28 ist ein Vielfaches von 3.!",
+            "explain": "Jede Zahl außer 28 ist ein Vielfaches von 3.!"
         },
         {
             "question": "100, 1, 97.5, 3.5, 92.5, 8.5, 85, 16, ?, ?",
@@ -119,7 +119,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Es gibt zwei ineinander verwobene Folgen.! !Subtrahiere 2,5, 5, 7,5 ab 100 und füge 2,5, 5, 7,5 ab 1 hinzu.!",
+            "explain": "Es gibt zwei ineinander verwobene Folgen.! !Subtrahiere 2,5, 5, 7,5 ab 100 und füge 2,5, 5, 7,5 ab 1 hinzu.!"
         },
         {
             "question": "110, ?, 99, 81, 72, 63, 54, 45",
@@ -130,7 +130,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ziehe die Summe der Ziffern der vorherigen Zahl jedes Mal ab.!",
+            "explain": "Ziehe die Summe der Ziffern der vorherigen Zahl jedes Mal ab.!"
         },
         {
             "question": "1, 2, 3, 5, 7, 10, 13, 17, 21, ?, ?",
@@ -141,7 +141,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "+1, +1, +2, +2, +3, +3, +4, +4, +5, +8",
+            "explain": "+1, +1, +2, +2, +3, +3, +4, +4, +5, +8"
         },
         {
             "question": "5, 26, 131, 656, ?",
@@ -152,7 +152,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multipliziere jede Zahl mit 5 und füge 1 hinzu.!",
+            "explain": "Multipliziere jede Zahl mit 5 und füge 1 hinzu.!"
         },
         {
             "question": "Welche Zahl ist die Ausnahme, 10, 14, 16, 18, 21, 24, 26",
@@ -163,7 +163,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Alle Zahlen sind gerade, außer 21.!",
+            "explain": "Alle Zahlen sind gerade, außer 21.!"
         },
         {
             "question": "1, 1, 3, 15, 105, ?",
@@ -174,7 +174,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multipliziere mit 1, 3, 5, 7, 9.!",
+            "explain": "Multipliziere mit 1, 3, 5, 7, 9.!"
         },
         {
             "question": "36, 72, ?, 144, 180, 216, 252",
@@ -185,7 +185,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Füge jede Zahl 36 hinzu.!",
+            "explain": "Füge jede Zahl 36 hinzu.!"
         },
         {
             "question": "Welche Zahl ist die Ausnahme, 835, 734, 642, 751, 853, 981, 532",
@@ -196,7 +196,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In jeder Zahl außer 751 ist die Differenz zwischen der dritten und der ersten Ziffer die mittlere Ziffer.!",
+            "explain": "In jeder Zahl außer 751 ist die Differenz zwischen der dritten und der ersten Ziffer die mittlere Ziffer.!"
         },
         {
             "question": "1, 4, 2, 5, 3, 6, 4, ?",
@@ -207,7 +207,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Es gibt zwei ineinander verwobene Folgen.! !Die erste beginnt mit 1 und die zweite mit 4!Füge 1 zu beiden Reihen hinzu.!",
+            "explain": "Es gibt zwei ineinander verwobene Folgen.! !Die erste beginnt mit 1 und die zweite mit 4!Füge 1 zu beiden Reihen hinzu.!"
         },
         {
             "question": "14, 16, 28, 32, 42, 48, 56, 64, ?, ?",
@@ -218,7 +218,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Es gibt zwei ineinander verwobene Folgen, füge 14 ab 14 und 16 ab 16 hinzu.!",
+            "explain": "Es gibt zwei ineinander verwobene Folgen, füge 14 ab 14 und 16 ab 16 hinzu.!"
         },
         {
             "question": "Finde die Ausnahme, 3, 5, 11, 14, 17, 21",
@@ -229,7 +229,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Jede Zahl außer 14 ist eine ungerade Zahl.! !Die Zahl ‘14’ ist die einzige gerade Zahl.!",
+            "explain": "Jede Zahl außer 14 ist eine ungerade Zahl.! !Die Zahl ‘14’ ist die einzige gerade Zahl.!"
         },
         {
             "question": "9, 18, 27, ?, 45, ?, 63",
@@ -240,7 +240,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Füge jede Zahl 9 hinzu.!",
+            "explain": "Füge jede Zahl 9 hinzu.!"
         },
         {
             "question": "17, 34, 51, 68, ?",
@@ -251,7 +251,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Füge jede Zahl 17 hinzu.!",
+            "explain": "Füge jede Zahl 17 hinzu.!"
         },
         {
             "question": "Welche Zahl ist die Ausnahme, 396, 462, 572, 427, 671, 264",
@@ -262,7 +262,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In jeder Zahl außer 427 ist die mittlere Ziffer die Summe der anderen beiden.!",
+            "explain": "In jeder Zahl außer 427 ist die mittlere Ziffer die Summe der anderen beiden.!"
         },
         {
             "question": "2, 5.75, ?, 13.25, 17, 20.75",
@@ -273,7 +273,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Füge jede Zahl 3,75 hinzu.!",
+            "explain": "Füge jede Zahl 3,75 hinzu.!"
         },
         {
             "question": "Welche Zahl ist die Ausnahme, 1, 4, 9, 16, 23, 25, 36",
@@ -284,7 +284,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Jede Zahl außer 23 ist eine perfekte Quadrat.!",
+            "explain": "Jede Zahl außer 23 ist eine perfekte Quadrat.!"
         },
         {
             "question": "100, 98, 94, 88, 80, 70, ?",
@@ -295,7 +295,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ziehe 2, 4, 6, 8, 10, 12 ab.!",
+            "explain": "Ziehe 2, 4, 6, 8, 10, 12 ab.!"
         },
         {
             "question": "9, 16, 13, 13, 17, 10, 21, 7, ?",
@@ -306,7 +306,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Es gibt zwei ineinander verwobene Folgen.! !Füge 4 ab 9 hinzu! !und ziehe 3 ab 16 ab.!",
+            "explain": "Es gibt zwei ineinander verwobene Folgen.! !Füge 4 ab 9 hinzu! !und ziehe 3 ab 16 ab.!"
         },
         {
             "question": "64521 entspricht 41256, wie entspricht 38297..",
@@ -317,7 +317,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A B C D E!6 4 5 2 1! !B E D C A!4 1 2 5 6! !A B C D E!3 8 2 9 7! !B E D C A!8 7 9 2 3!",
+            "explain": "A B C D E!6 4 5 2 1! !B E D C A!4 1 2 5 6! !A B C D E!3 8 2 9 7! !B E D C A!8 7 9 2 3!"
         },
         {
             "question": "1, 2, 4, 8, ?",
@@ -328,7 +328,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Füge zuerst 1 hinzu und dann das Doppelte der vorher hinzugefügten Zahl.!",
+            "explain": "Füge zuerst 1 hinzu und dann das Doppelte der vorher hinzugefügten Zahl.!"
         },
         {
             "question": "100, 97, 91, 82, ?",
@@ -339,7 +339,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "-3 , -6 , -9 , -12!(Vielfache von 3 werden subtrahiert)",
+            "explain": "-3 , -6 , -9 , -12!(Vielfache von 3 werden subtrahiert)"
         },
         {
             "question": "1, 2.65, 4.3, 5.95, 7.6, ?",
@@ -350,7 +350,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Füge jede Zahl 1,65 hinzu.!",
+            "explain": "Füge jede Zahl 1,65 hinzu.!"
         },
         {
             "question": "78214 und 292, 38421 und 459, 69517 und ?",
@@ -361,7 +361,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "78 + 214 = 292!38 + 421 = 459! !Also, 69 + 517 = 586!",
+            "explain": "78 + 214 = 292!38 + 421 = 459! !Also, 69 + 517 = 586!"
         },
         {
             "question": "3925 und 277, 4697 und 2416, 6257 und ?",
@@ -372,7 +372,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "3 * 9 = 27! 5 + 2 = 7!(277).! !4 * 6 = 24!und 9 + 7 = 16!(2416)! !Ähnlich,!6 * 2 = 12!und 5 + 7 = 12!(1212)!",
+            "explain": "3 * 9 = 27! 5 + 2 = 7!(277).! !4 * 6 = 24!und 9 + 7 = 16!(2416)! !Ähnlich,!6 * 2 = 12!und 5 + 7 = 12!(1212)!"
         },
         {
             "question": "25, 50, 27, 46, 31, 38, 39, ?",
@@ -383,7 +383,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Es gibt zwei ineinander verwobene Folgen.!Füge 2, 4 und 8 von der Folge beginnend bei 25 hinzu!und ziehe 4, 8 und 16 von der Folge beginnend bei 50 ab.!",
+            "explain": "Es gibt zwei ineinander verwobene Folgen.!Füge 2, 4 und 8 von der Folge beginnend bei 25 hinzu!und ziehe 4, 8 und 16 von der Folge beginnend bei 50 ab.!"
         },
         {
             "question": "759, 675, 335, 165, ?",
@@ -394,7 +394,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Jede Zahl wird gebildet, indem die Zahl, die sich aus den ersten beiden Ziffern der vorherigen Zahl ergibt, mit der dritten Ziffer multipliziert wird.! !Also, 16 * 5 = 80!",
+            "explain": "Jede Zahl wird gebildet, indem die Zahl, die sich aus den ersten beiden Ziffern der vorherigen Zahl ergibt, mit der dritten Ziffer multipliziert wird.! !Also, 16 * 5 = 80!"
         },
         {
             "question": "Welche Zahl ist die Ausnahme, 159, 248, 963, 357, 951, 852 ?",
@@ -405,7 +405,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In den anderen gibt es den gleichen Unterschied zwischen jeder Ziffer! z.B. 8 (-3) 5 (-3) 2",
+            "explain": "In den anderen gibt es den gleichen Unterschied zwischen jeder Ziffer! z.B. 8 (-3) 5 (-3) 2"
         },
         {
             "question": "Welche vierstellige Zahl sollte das Fragezeichen ersetzen? 4342 (3176) 1726, 7995 (7516) 2162, 8418 (????) 1725",
@@ -416,7 +416,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Lösche die Ziffern außerhalb der Klammern, die zweimal erscheinen, und füge die verbleibenden Ziffern in derselben Reihenfolge wie außerhalb der Klammern in die Klammern ein!8418 (4725) 1725",
+            "explain": "Lösche die Ziffern außerhalb der Klammern, die zweimal erscheinen, und füge die verbleibenden Ziffern in derselben Reihenfolge wie außerhalb der Klammern in die Klammern ein!8418 (4725) 1725"
         },
         {
             "question": "Welche Zahl ist die Ausnahme, 9421, 7532, 9854, 8612, 6531, 8541 ?",
@@ -427,7 +427,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Alle anderen Zahlen haben die Ziffern in absteigender Reihenfolge.",
+            "explain": "Alle anderen Zahlen haben die Ziffern in absteigender Reihenfolge."
         }
     ]
 }
