@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "question": "1, 1, 2, ?, 24, 120, 720",
+            "a": "18",
+            "b": "12",
+            "c": "48",
+            "d": "6",
+            "answer": "d",
+            "numAnswer": 4,
+            "shapeQuestion": false,
+            "explain": "1, 2, 3, … で掛け算する！"
+        },
+        {
             "question": "aaq1",
             "a": "aaq1opt1",
             "b": "aaq1opt2",
@@ -188,17 +199,6 @@
             "explain": "(73 + 25) / 2 = 51"
         },
         {
-            "question": "aaq18",
-            "a": "aaq18opt1",
-            "b": "aaq18opt2",
-            "c": "aaq18opt3",
-            "d": "aaq18opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "最初の3つの正方形で同じ位置に3回現れる線だけが最終的な正方形に引き継がれます"
-        },
-        {
             "question": "aaq19",
             "a": "aaq19opt1",
             "b": "aaq19opt2",
@@ -208,17 +208,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "各アークに対して、時計回りに1/4円を追加します"
-        },
-        {
-            "question": "aaq20",
-            "a": "aaq20opt1",
-            "b": "aaq20opt2",
-            "c": "aaq20opt3",
-            "d": "aaq20opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "6 * 9 = 54（中央の2つのブロックを下から読む）"
         },
         {
             "question": "aaq21",
@@ -252,17 +241,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "各3桁の数字の桁を加算して2桁の数字を取得します"
-        },
-        {
-            "question": "aaq24",
-            "a": "aaq24opt1",
-            "b": "aaq24opt2",
-            "c": "aaq24opt3",
-            "d": "aaq24opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "各行と列で、最初の2つの正方形に共通する線だけが最終的な正方形に引き継がれます"
         },
         {
             "question": "aaq25",
@@ -320,17 +298,6 @@
             "explain": "横を見ると外側の円が取り除かれ、縦を見ると外側の円が追加されます"
         },
         {
-            "question": "aaq30",
-            "a": "aaq30opt1",
-            "b": "aaq30opt2",
-            "c": "aaq30opt3",
-            "d": "aaq30opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "横を見ると、左上の四分の一の点が反対の角に移動し、右上の四分の一の点が各ステージで1つの角を反時計回りに移動し、左下の四分の一の点が上の2つの角の間を移動し、右下の四分の一の点が各ステージで1つの角を時計回りに移動します"
-        },
-        {
             "question": "aaq31",
             "a": "aaq31opt1",
             "b": "aaq31opt2",
@@ -362,28 +329,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "(6 + 7) – (4 + 5) = 6"
-        },
-        {
-            "question": "aaq34",
-            "a": "aaq34opt1",
-            "b": "aaq34opt2",
-            "c": "aaq34opt3",
-            "d": "aaq34opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "大きな長方形は反時計回りに半面ずつ解体されています! 小さな長方形は時計回りに半面ずつ構築されています"
-        },
-        {
-            "question": "aaq35",
-            "a": "aaq35opt1",
-            "b": "aaq35opt2",
-            "c": "aaq35opt3",
-            "d": "aaq35opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "三角形、正方形、円の数字が33になるようにします"
         },
         {
             "question": "aaq36",
@@ -452,17 +397,6 @@
             "explain": "(6 + 8) – 9 = 7"
         },
         {
-            "question": "aaq42",
-            "a": "aaq42opt1",
-            "b": "aaq42opt2",
-            "c": "aaq42opt3",
-            "d": "aaq42opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "正方形がダイヤモンドの中に入り、ダイヤモンドはさらに五角形の中に入り、五角形はその底に置かれます"
-        },
-        {
             "question": "aaq43",
             "a": "aaq43opt1",
             "b": "aaq43opt2",
@@ -472,28 +406,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "横に見ると、点は各段階で45度時計回りに移動しますが、縦に見ると45度反時計回りに移動します"
-        },
-        {
-            "question": "aaq44",
-            "a": "aaq44opt1",
-            "b": "aaq44opt2",
-            "c": "aaq44opt3",
-            "d": "aaq44opt4",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "点は角/面を反時計回りに移動し、直線と曲線の両方が角から角へ時計回りに移動します"
-        },
-        {
-            "question": "aaq45",
-            "a": "aaq45opt1",
-            "b": "aaq45opt2",
-            "c": "aaq45opt3",
-            "d": "aaq45opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "左から始まる長方形は、各段階で一度に一つずつ左から右に移動しています"
         },
         {
             "question": "aaq46",
@@ -527,17 +439,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "横に見ると、文字はアルファベットで+2、+3のジャンプをします！ 例えば！ AbCdeF! 縦に見ると、文字は+4、+5の進行をします！ 例えば！ AbcdEfghiJ."
-        },
-        {
-            "question": "aaq49",
-            "a": "aaq49opt1",
-            "b": "aaq49opt2",
-            "c": "aaq49opt3",
-            "d": "aaq49opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "円は四角形に変わり、4つの白い四角形は白い円になります。"
         },
         {
             "question": "aaq50",

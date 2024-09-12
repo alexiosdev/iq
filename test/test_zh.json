@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "question": "1, 1, 2, ?, 24, 120, 720",
+            "a": "18",
+            "b": "12",
+            "c": "48",
+            "d": "6",
+            "answer": "d",
+            "numAnswer": 4,
+            "shapeQuestion": false,
+            "explain": "依次乘以1、2、3等！"
+        },
+        {
             "question": "aaq1",
             "a": "aaq1opt1",
             "b": "aaq1opt2",
@@ -188,17 +199,6 @@
             "explain": "(73 + 25) / 2 = 54"
         },
         {
-            "question": "aaq18",
-            "a": "aaq18opt1",
-            "b": "aaq18opt2",
-            "c": "aaq18opt3",
-            "d": "aaq18opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "只有在前三个正方形中三次出现在同一位置的线才会传递到最终正方形"
-        },
-        {
             "question": "aaq19",
             "a": "aaq19opt1",
             "b": "aaq19opt2",
@@ -208,17 +208,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "每个弧上加上一个顺时针的四分之一圆"
-        },
-        {
-            "question": "aaq20",
-            "a": "aaq20opt1",
-            "b": "aaq20opt2",
-            "c": "aaq20opt3",
-            "d": "aaq20opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "6 * 9 = 54（从中间的两个块向下阅读）"
         },
         {
             "question": "aaq21",
@@ -252,17 +241,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "将每个三位数的数字相加以获得两位数"
-        },
-        {
-            "question": "aaq24",
-            "a": "aaq24opt1",
-            "b": "aaq24opt2",
-            "c": "aaq24opt3",
-            "d": "aaq24opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "在每一行和每一列中，只有在前两个正方形中共有的线才会传递到最终正方形"
         },
         {
             "question": "aaq25",
@@ -320,17 +298,6 @@
             "explain": "横向看，外部圆圈被移除，纵向看，外部圆圈被添加"
         },
         {
-            "question": "aaq30",
-            "a": "aaq30opt1",
-            "b": "aaq30opt2",
-            "c": "aaq30opt3",
-            "d": "aaq30opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "横向看，左上角的点移动到对角线的角落，右上角的点在每个阶段顺时针移动一个角落，左下角的点在上面的两个角落之间移动，右下角的点在每个阶段顺时针移动一个角落"
-        },
-        {
             "question": "aaq31",
             "a": "aaq31opt1",
             "b": "aaq31opt2",
@@ -362,28 +329,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "(6 + 7) – (4 + 5) = 9"
-        },
-        {
-            "question": "aaq34",
-            "a": "aaq34opt1",
-            "b": "aaq34opt2",
-            "c": "aaq34opt3",
-            "d": "aaq34opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "大长方形正在被拆除，每次拆除半边，方向是逆时针！ 小长方形则每次构建半边，方向是顺时针"
-        },
-        {
-            "question": "aaq35",
-            "a": "aaq35opt1",
-            "b": "aaq35opt2",
-            "c": "aaq35opt3",
-            "d": "aaq35opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "使得三角形、正方形和圆中的数字总和为33"
         },
         {
             "question": "aaq36",
@@ -452,17 +397,6 @@
             "explain": "(6 + 8) – 9 = 10"
         },
         {
-            "question": "aaq42",
-            "a": "aaq42opt1",
-            "b": "aaq42opt2",
-            "c": "aaq42opt3",
-            "d": "aaq42opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "正方形进入菱形内部，菱形又进入五边形内部，五边形则旋转到其底部"
-        },
-        {
             "question": "aaq43",
             "a": "aaq43opt1",
             "b": "aaq43opt2",
@@ -472,28 +406,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "横向看时，点在每个阶段顺时针移动45度，但纵向看时则逆时针移动45度"
-        },
-        {
-            "question": "aaq44",
-            "a": "aaq44opt1",
-            "b": "aaq44opt2",
-            "c": "aaq44opt3",
-            "d": "aaq44opt4",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "点在角/边上逆时针移动，直线和曲线都沿顺时针方向从角到角移动"
-        },
-        {
-            "question": "aaq45",
-            "a": "aaq45opt1",
-            "b": "aaq45opt2",
-            "c": "aaq45opt3",
-            "d": "aaq45opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "从左侧开始的矩形在每个阶段一次向右移动一个位置"
         },
         {
             "question": "aaq46",
@@ -527,17 +439,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "横向查看时，字母在字母表中跳跃 +2, +3！例如！AbCdeF！纵向查看时，它们按 +4, +5 进展！例如！AbcdEfghiJ。"
-        },
-        {
-            "question": "aaq49",
-            "a": "aaq49opt1",
-            "b": "aaq49opt2",
-            "c": "aaq49opt3",
-            "d": "aaq49opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "圆形变成正方形，四个白色正方形变成白色圆形。"
         },
         {
             "question": "aaq50",

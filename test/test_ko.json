@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "question": "1, 1, 2, ?, 24, 120, 720",
+            "a": "18",
+            "b": "12",
+            "c": "48",
+            "d": "6",
+            "answer": "d",
+            "numAnswer": 4,
+            "shapeQuestion": false,
+            "explain": "1, 2, 3, …로 곱하기!"
+        },
+        {
             "question": "aaq1",
             "a": "aaq1opt1",
             "b": "aaq1opt2",
@@ -188,17 +199,6 @@
             "explain": "(73 + 25) / 2 = 50"
         },
         {
-            "question": "aaq18",
-            "a": "aaq18opt1",
-            "b": "aaq18opt2",
-            "c": "aaq18opt3",
-            "d": "aaq18opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "세 개의 첫 번째 정사각형에서 같은 위치에 세 번 나타나는 선만 최종 정사각형으로 전달됩니다"
-        },
-        {
             "question": "aaq19",
             "a": "aaq19opt1",
             "b": "aaq19opt2",
@@ -208,17 +208,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "각 호에 대해, 시계 방향으로 1/4 원을 추가합니다"
-        },
-        {
-            "question": "aaq20",
-            "a": "aaq20opt1",
-            "b": "aaq20opt2",
-            "c": "aaq20opt3",
-            "d": "aaq20opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "6 * 9 = 54 (가운데 두 블록을 아래에서 읽기)"
         },
         {
             "question": "aaq21",
@@ -252,17 +241,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "각 3자리 숫자의 숫자를 더하여 2자리 숫자를 얻습니다"
-        },
-        {
-            "question": "aaq24",
-            "a": "aaq24opt1",
-            "b": "aaq24opt2",
-            "c": "aaq24opt3",
-            "d": "aaq24opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "각 행과 열에서 첫 번째 두 정사각형에서 공통된 선만 최종 정사각형으로 전달됩니다"
         },
         {
             "question": "aaq25",
@@ -320,17 +298,6 @@
             "explain": "가로를 보면 외부 원이 제거되고, 세로를 보면 외부 원이 추가됩니다"
         },
         {
-            "question": "aaq30",
-            "a": "aaq30opt1",
-            "b": "aaq30opt2",
-            "c": "aaq30opt3",
-            "d": "aaq30opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "가로를 보면, 왼쪽 상단 사분면의 점이 반대 코너로 이동하고, 오른쪽 상단 사분면의 점이 각 단계에서 시계 반대 방향으로 하나의 코너 이동하며, 왼쪽 하단 사분면의 점이 상단 두 코너 사이를 이동하고, 오른쪽 하단 사분면의 점이 각 단계에서 시계 방향으로 하나의 코너 이동합니다"
-        },
-        {
             "question": "aaq31",
             "a": "aaq31opt1",
             "b": "aaq31opt2",
@@ -362,28 +329,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "(6 + 7) – (4 + 5) = 5"
-        },
-        {
-            "question": "aaq34",
-            "a": "aaq34opt1",
-            "b": "aaq34opt2",
-            "c": "aaq34opt3",
-            "d": "aaq34opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "큰 직사각형은 시계 반대 방향으로 한 면씩 분해되고 있습니다! 작은 직사각형은 시계 방향으로 한 면씩 구성되고 있습니다."
-        },
-        {
-            "question": "aaq35",
-            "a": "aaq35opt1",
-            "b": "aaq35opt2",
-            "c": "aaq35opt3",
-            "d": "aaq35opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "삼각형, 정사각형, 원의 숫자가 33이 되도록 합니다"
         },
         {
             "question": "aaq36",
@@ -452,17 +397,6 @@
             "explain": "(6 + 8) – 9 = 6"
         },
         {
-            "question": "aaq42",
-            "a": "aaq42opt1",
-            "b": "aaq42opt2",
-            "c": "aaq42opt3",
-            "d": "aaq42opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "정사각형이 다이아몬드 안으로 들어가고, 다이아몬드는 다시 오각형 안으로 들어가며, 오각형은 바닥에 놓입니다"
-        },
-        {
             "question": "aaq43",
             "a": "aaq43opt1",
             "b": "aaq43opt2",
@@ -472,28 +406,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "가로로 볼 때, 점은 각 단계에서 45도 시계 방향으로 이동하지만, 세로로 볼 때는 45도 반시계 방향으로 이동합니다"
-        },
-        {
-            "question": "aaq44",
-            "a": "aaq44opt1",
-            "b": "aaq44opt2",
-            "c": "aaq44opt3",
-            "d": "aaq44opt4",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "점은 모서리/면을 반시계 방향으로 이동하며, 직선과 곡선 모두 모서리에서 모서리로 시계 방향으로 이동합니다"
-        },
-        {
-            "question": "aaq45",
-            "a": "aaq45opt1",
-            "b": "aaq45opt2",
-            "c": "aaq45opt3",
-            "d": "aaq45opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "왼쪽에서 시작한 직사각형이 각 단계에서 한 번에 하나씩 왼쪽에서 오른쪽으로 이동합니다"
         },
         {
             "question": "aaq46",
@@ -527,17 +439,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "가로로 볼 때, 문자들이 알파벳에서 +2, +3만큼 이동합니다! 예를 들어! AbCdeF! 세로로 볼 때, 문자들은 +4, +5만큼 진행합니다! 예를 들어! AbcdEfghiJ."
-        },
-        {
-            "question": "aaq49",
-            "a": "aaq49opt1",
-            "b": "aaq49opt2",
-            "c": "aaq49opt3",
-            "d": "aaq49opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "원은 정사각형이 되고, 네 개의 흰색 정사각형은 흰색 원이 됩니다."
         },
         {
             "question": "aaq50",

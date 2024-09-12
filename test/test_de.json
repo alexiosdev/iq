@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "question": "1, 1, 2, ?, 24, 120, 720",
+            "a": "18",
+            "b": "12",
+            "c": "48",
+            "d": "6",
+            "answer": "d",
+            "numAnswer": 4,
+            "shapeQuestion": false,
+            "explain": "Multipliziere mit 1, 2, 3 und so weiter.!"
+        },
+        {
             "question": "aaq1",
             "a": "aaq1opt1",
             "b": "aaq1opt2",
@@ -188,17 +199,6 @@
             "explain": "(73 + 25) / 2 = 52"
         },
         {
-            "question": "aaq18",
-            "a": "aaq18opt1",
-            "b": "aaq18opt2",
-            "c": "aaq18opt3",
-            "d": "aaq18opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Nur Linien, die in den ersten drei Quadraten an derselben Position dreimal erscheinen, werden in das letzte Quadrat übernommen"
-        },
-        {
             "question": "aaq19",
             "a": "aaq19opt1",
             "b": "aaq19opt2",
@@ -208,17 +208,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "Zu jedem Bogen wird ein Viertelkreis im Uhrzeigersinn hinzugefügt"
-        },
-        {
-            "question": "aaq20",
-            "a": "aaq20opt1",
-            "b": "aaq20opt2",
-            "c": "aaq20opt3",
-            "d": "aaq20opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "6 * 9 = 54 (die mittleren zwei Blöcke von unten lesen)"
         },
         {
             "question": "aaq21",
@@ -252,17 +241,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "Die Ziffern jeder dreistelligen Zahl addieren sich, um die zweistelligen Zahlen zu erhalten"
-        },
-        {
-            "question": "aaq24",
-            "a": "aaq24opt1",
-            "b": "aaq24opt2",
-            "c": "aaq24opt3",
-            "d": "aaq24opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "In jeder Reihe und Spalte werden nur Linien, die in den ersten beiden Quadraten gemeinsam sind, in das letzte Quadrat übernommen"
         },
         {
             "question": "aaq25",
@@ -320,17 +298,6 @@
             "explain": "Querblicken wird ein äußerer Kreis entfernt, beim Senkrechtblicken wird ein äußerer Kreis hinzugefügt"
         },
         {
-            "question": "aaq30",
-            "a": "aaq30opt1",
-            "b": "aaq30opt2",
-            "c": "aaq30opt3",
-            "d": "aaq30opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Querblickend, der Punkt im oberen linken Viertel bewegt sich zur gegenüberliegenden Ecke, der Punkt im oberen rechten Viertel bewegt sich bei jedem Schritt um eine Ecke gegen den Uhrzeigersinn, der Punkt im unteren linken Viertel bewegt sich zwischen den oberen beiden Ecken, und der Punkt im unteren rechten Viertel bewegt sich bei jedem Schritt um eine Ecke im Uhrzeigersinn"
-        },
-        {
             "question": "aaq31",
             "a": "aaq31opt1",
             "b": "aaq31opt2",
@@ -362,28 +329,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "(6 + 7) – (4 + 5) = 7"
-        },
-        {
-            "question": "aaq34",
-            "a": "aaq34opt1",
-            "b": "aaq34opt2",
-            "c": "aaq34opt3",
-            "d": "aaq34opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Das große Rechteck wird gegen den Uhrzeigersinn, Seite für Seite, abgebaut! Das kleine Rechteck wird im Uhrzeigersinn, Seite für Seite, aufgebaut."
-        },
-        {
-            "question": "aaq35",
-            "a": "aaq35opt1",
-            "b": "aaq35opt2",
-            "c": "aaq35opt3",
-            "d": "aaq35opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Damit die Zahlen in den Dreiecken, Quadraten und Kreisen sich auf 33 addieren"
         },
         {
             "question": "aaq36",
@@ -452,17 +397,6 @@
             "explain": "(6 + 8) – 9 = 8"
         },
         {
-            "question": "aaq42",
-            "a": "aaq42opt1",
-            "b": "aaq42opt2",
-            "c": "aaq42opt3",
-            "d": "aaq42opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Das Quadrat geht in das Diamant hinein, und der Diamant geht wiederum in das Pentagon, das sich auf die Basis dreht"
-        },
-        {
             "question": "aaq43",
             "a": "aaq43opt1",
             "b": "aaq43opt2",
@@ -472,28 +406,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "Wenn man quer schaut, bewegt sich der Punkt in jedem Schritt 45 Grad im Uhrzeigersinn, aber beim Herunterschauen bewegt er sich 45 Grad gegen den Uhrzeigersinn"
-        },
-        {
-            "question": "aaq44",
-            "a": "aaq44opt1",
-            "b": "aaq44opt2",
-            "c": "aaq44opt3",
-            "d": "aaq44opt4",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Der Punkt bewegt sich am Rand/Seite gegen den Uhrzeigersinn, die gerade Linie und die gekrümmte Linie bewegen sich beide von Ecke zu Ecke im Uhrzeigersinn"
-        },
-        {
-            "question": "aaq45",
-            "a": "aaq45opt1",
-            "b": "aaq45opt2",
-            "c": "aaq45opt3",
-            "d": "aaq45opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Das auf der linken Seite beginnende Rechteck bewegt sich in jeder Phase einmal von links nach rechts"
         },
         {
             "question": "aaq46",
@@ -527,17 +439,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "Beim horizontalen Blick springen die Buchstaben um +2, +3 im Alphabet! Zum Beispiel! AbCdeF! Beim vertikalen Blick bewegen sie sich um +4, +5! Zum Beispiel! AbcdEfghiJ."
-        },
-        {
-            "question": "aaq49",
-            "a": "aaq49opt1",
-            "b": "aaq49opt2",
-            "c": "aaq49opt3",
-            "d": "aaq49opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Der Kreis wird zu einem Quadrat und die vier weißen Quadrate werden zu weißen Kreisen."
         },
         {
             "question": "aaq50",

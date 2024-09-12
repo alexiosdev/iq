@@ -199,17 +199,6 @@
             "explain": "(73 + 25) / 2 = 48"
         },
         {
-            "question": "aaq18",
-            "a": "aaq18opt1",
-            "b": "aaq18opt2",
-            "c": "aaq18opt3",
-            "d": "aaq18opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Chỉ các đường xuất hiện ba lần ở cùng một vị trí trong ba ô vuông đầu tiên mới được đưa vào ô vuông cuối cùng"
-        },
-        {
             "question": "aaq19",
             "a": "aaq19opt1",
             "b": "aaq19opt2",
@@ -219,17 +208,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "Thêm một phần tư vòng tròn theo chiều kim đồng hồ vào mỗi cung"
-        },
-        {
-            "question": "aaq20",
-            "a": "aaq20opt1",
-            "b": "aaq20opt2",
-            "c": "aaq20opt3",
-            "d": "aaq20opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "6 * 9 = 54 (đọc từ hai khối giữa từ dưới lên)"
         },
         {
             "question": "aaq21",
@@ -263,17 +241,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "Cộng các chữ số của mỗi số ba chữ số để có được các số hai chữ số"
-        },
-        {
-            "question": "aaq24",
-            "a": "aaq24opt1",
-            "b": "aaq24opt2",
-            "c": "aaq24opt3",
-            "d": "aaq24opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Trong mỗi hàng và cột, chỉ các đường chung với hai ô vuông đầu tiên mới được đưa vào ô vuông cuối cùng"
         },
         {
             "question": "aaq25",
@@ -331,17 +298,6 @@
             "explain": "Nhìn qua, một vòng tròn bên ngoài bị loại bỏ, nhìn xuống, một vòng tròn bên ngoài được thêm vào"
         },
         {
-            "question": "aaq30",
-            "a": "aaq30opt1",
-            "b": "aaq30opt2",
-            "c": "aaq30opt3",
-            "d": "aaq30opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Nhìn qua, điểm ở góc trên bên trái di chuyển đến góc đối diện, điểm ở góc trên bên phải di chuyển một góc theo chiều ngược kim đồng hồ ở mỗi giai đoạn, điểm ở góc dưới bên trái di chuyển giữa hai góc trên, và điểm ở góc dưới bên phải di chuyển một góc theo chiều kim đồng hồ ở mỗi giai đoạn"
-        },
-        {
             "question": "aaq31",
             "a": "aaq31opt1",
             "b": "aaq31opt2",
@@ -373,28 +329,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "(6 + 7) – (4 + 5) = 3"
-        },
-        {
-            "question": "aaq34",
-            "a": "aaq34opt1",
-            "b": "aaq34opt2",
-            "c": "aaq34opt3",
-            "d": "aaq34opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Hình chữ nhật lớn đang được tháo dỡ, nửa cạnh một lần theo chiều ngược kim đồng hồ! Hình chữ nhật nhỏ đang được xây dựng, nửa cạnh một lần theo chiều kim đồng hồ"
-        },
-        {
-            "question": "aaq35",
-            "a": "aaq35opt1",
-            "b": "aaq35opt2",
-            "c": "aaq35opt3",
-            "d": "aaq35opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Để các số trong các hình tam giác, hình vuông và hình tròn tổng cộng là 33"
         },
         {
             "question": "aaq36",
@@ -463,17 +397,6 @@
             "explain": "(6 + 8) – 9 = 4"
         },
         {
-            "question": "aaq42",
-            "a": "aaq42opt1",
-            "b": "aaq42opt2",
-            "c": "aaq42opt3",
-            "d": "aaq42opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Hình vuông đi vào bên trong hình thoi, và hình thoi lại đi vào bên trong hình ngũ giác, mà hình ngũ giác thì quay lên đáy của nó"
-        },
-        {
             "question": "aaq43",
             "a": "aaq43opt1",
             "b": "aaq43opt2",
@@ -483,28 +406,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "Khi nhìn qua, chấm di chuyển 45 độ theo chiều kim đồng hồ ở mỗi giai đoạn, nhưng khi nhìn xuống thì di chuyển 45 độ ngược chiều kim đồng hồ"
-        },
-        {
-            "question": "aaq44",
-            "a": "aaq44opt1",
-            "b": "aaq44opt2",
-            "c": "aaq44opt3",
-            "d": "aaq44opt4",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Chấm di chuyển ở góc/điểm theo chiều ngược kim đồng hồ, đường thẳng và đường cong đều di chuyển từ góc này đến góc kia theo chiều kim đồng hồ"
-        },
-        {
-            "question": "aaq45",
-            "a": "aaq45opt1",
-            "b": "aaq45opt2",
-            "c": "aaq45opt3",
-            "d": "aaq45opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Hình chữ nhật bắt đầu từ bên trái di chuyển từ trái sang phải từng bước một ở mỗi giai đoạn"
         },
         {
             "question": "aaq46",
@@ -538,17 +439,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "Khi nhìn qua, các chữ cái nhảy +2, +3 trong bảng chữ cái! Ví dụ! AbCdeF! Khi nhìn xuống, chúng tiến lên +4, +5! Ví dụ AbcdEfghiJ."
-        },
-        {
-            "question": "aaq49",
-            "a": "aaq49opt1",
-            "b": "aaq49opt2",
-            "c": "aaq49opt3",
-            "d": "aaq49opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Hình tròn trở thành hình vuông và bốn hình vuông trắng trở thành các hình tròn trắng."
         },
         {
             "question": "aaq50",

@@ -56,17 +56,6 @@
             "explain": "Jede Zahl außer 54 ist ein Vielfaches von 5.!"
         },
         {
-            "question": "1, 1, 2, ?, 24, 120, 720",
-            "a": "18",
-            "b": "12",
-            "c": "48",
-            "d": "6",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": false,
-            "explain": "Multipliziere mit 1, 2, 3 und so weiter.!"
-        },
-        {
             "question": "7964325 entspricht 6975234, 5822139 entspricht 2859312, wie entspricht 7469851 ?",
             "a": "6132798",
             "b": "3572612",

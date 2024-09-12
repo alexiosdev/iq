@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "question": "1, 1, 2, ?, 24, 120, 720",
+            "a": "18",
+            "b": "12",
+            "c": "48",
+            "d": "6",
+            "answer": "d",
+            "numAnswer": 4,
+            "shapeQuestion": false,
+            "explain": "1, 2, 3 आदि से गुणा करें!"
+        },
+        {
             "question": "aaq1",
             "a": "aaq1opt1",
             "b": "aaq1opt2",
@@ -188,17 +199,6 @@
             "explain": "(73 + 25) / 2 = 55"
         },
         {
-            "question": "aaq18",
-            "a": "aaq18opt1",
-            "b": "aaq18opt2",
-            "c": "aaq18opt3",
-            "d": "aaq18opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "पहले तीन वर्गों में उसी स्थिति में तीन बार दिखाई देने वाली रेखाएँ ही अंतिम वर्ग में ले जाई जाती हैं"
-        },
-        {
             "question": "aaq19",
             "a": "aaq19opt1",
             "b": "aaq19opt2",
@@ -208,17 +208,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "प्रत्येक आर्क में, एक चौथाई सर्कल को घड़ी की दिशा में जोड़ें"
-        },
-        {
-            "question": "aaq20",
-            "a": "aaq20opt1",
-            "b": "aaq20opt2",
-            "c": "aaq20opt3",
-            "d": "aaq20opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "6 * 9 = 54 (मध्य दो ब्लॉकों को नीचे से पढ़ना)"
         },
         {
             "question": "aaq21",
@@ -252,17 +241,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "प्रत्येक तीन अंकों की संख्या के अंकों को जोड़ें ताकि दो अंकों की संख्या प्राप्त की जा सके"
-        },
-        {
-            "question": "aaq24",
-            "a": "aaq24opt1",
-            "b": "aaq24opt2",
-            "c": "aaq24opt3",
-            "d": "aaq24opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "प्रत्येक पंक्ति और स्तंभ में, केवल वे रेखाएँ जो पहले दो वर्गों में सामान्य हैं, अंतिम वर्ग में ले जाई जाती हैं"
         },
         {
             "question": "aaq25",
@@ -320,17 +298,6 @@
             "explain": "देखते समय एक बाहरी सर्कल हटा दिया जाता है, नीचे देखते समय एक बाहरी सर्कल जोड़ा जाता है"
         },
         {
-            "question": "aaq30",
-            "a": "aaq30opt1",
-            "b": "aaq30opt2",
-            "c": "aaq30opt3",
-            "d": "aaq30opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "देखते समय, बाईं ओर ऊपर के चौथाई बिंदु विपरीत कोने पर जाता है, दाईं ओर ऊपर के चौथाई बिंदु प्रत्येक चरण में एक कोने को एंटी-क्लॉकवाइज ले जाता है, बाईं ओर नीचे के चौथाई बिंदु ऊपर के दो कोनों के बीच चलता है, और दाईं ओर नीचे के चौथाई बिंदु प्रत्येक चरण में एक कोने को घड़ी की दिशा में ले जाता है"
-        },
-        {
             "question": "aaq31",
             "a": "aaq31opt1",
             "b": "aaq31opt2",
@@ -362,28 +329,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "(6 + 7) – (4 + 5) = 10"
-        },
-        {
-            "question": "aaq34",
-            "a": "aaq34opt1",
-            "b": "aaq34opt2",
-            "c": "aaq34opt3",
-            "d": "aaq34opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "बड़ा आयताकार रूपांतरित हो रहा है, एक बार में आधे साइड को एंटी-क्लॉकवाइज! छोटा आयताकार रूपांतरित हो रहा है, एक बार में आधे साइड को क्लॉकवाइज"
-        },
-        {
-            "question": "aaq35",
-            "a": "aaq35opt1",
-            "b": "aaq35opt2",
-            "c": "aaq35opt3",
-            "d": "aaq35opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "ताकि त्रिकोणों, वर्गों और वृत्तों में संख्याएँ मिलकर 33 हो जाएं"
         },
         {
             "question": "aaq36",
@@ -452,17 +397,6 @@
             "explain": "(6 + 8) – 9 = 11"
         },
         {
-            "question": "aaq42",
-            "a": "aaq42opt1",
-            "b": "aaq42opt2",
-            "c": "aaq42opt3",
-            "d": "aaq42opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "वर्ग हीरा के अंदर जा रहा है, और हीरा फिर से पेंटागन के अंदर जा रहा है, जो अपने आधार पर घुमता है"
-        },
-        {
             "question": "aaq43",
             "a": "aaq43opt1",
             "b": "aaq43opt2",
@@ -472,28 +406,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "क्षैतिज रूप से देखने पर, बिंदु प्रत्येक चरण में 45 डिग्री की दिशा में घुमता है, लेकिन ऊर्ध्वाधर रूप से देखने पर, यह 45 डिग्री की दिशा में उलटता है"
-        },
-        {
-            "question": "aaq44",
-            "a": "aaq44opt1",
-            "b": "aaq44opt2",
-            "c": "aaq44opt3",
-            "d": "aaq44opt4",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "बिंदु कोने/साइड को उलट दिशा में चलता है, सीधी रेखा और वक्र रेखा दोनों कोने से कोने की दिशा में चलते हैं"
-        },
-        {
-            "question": "aaq45",
-            "a": "aaq45opt1",
-            "b": "aaq45opt2",
-            "c": "aaq45opt3",
-            "d": "aaq45opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "बाएं से शुरू होने वाला आयत प्रत्येक चरण में एक समय में एक स्थान से दाएं की ओर चलता है"
         },
         {
             "question": "aaq46",
@@ -527,17 +439,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "आड़ा देखने पर, अक्षर अल्फाबेट में +2, +3 की छलांग लगाते हैं! उदाहरण के लिए! AbCdeF! लंबवत देखने पर, वे +4, +5 की प्रगति करते हैं! उदाहरण के लिए! AbcdEfghiJ."
-        },
-        {
-            "question": "aaq49",
-            "a": "aaq49opt1",
-            "b": "aaq49opt2",
-            "c": "aaq49opt3",
-            "d": "aaq49opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "वृत्त एक वर्ग में बदल जाता है और चार सफेद वर्ग सफेद वृत्त में बदल जाते हैं।"
         },
         {
             "question": "aaq50",

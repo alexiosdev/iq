@@ -1,6 +1,17 @@
 {
     "data": [
         {
+            "question": "1, 1, 2, ?, 24, 120, 720",
+            "a": "18",
+            "b": "12",
+            "c": "48",
+            "d": "6",
+            "answer": "d",
+            "numAnswer": 4,
+            "shapeQuestion": false,
+            "explain": "Multipliez par 1, 2, 3, etc.!"
+        },
+        {
             "question": "aaq1",
             "a": "aaq1opt1",
             "b": "aaq1opt2",
@@ -188,17 +199,6 @@
             "explain": "(73 + 25) / 2 = 53"
         },
         {
-            "question": "aaq18",
-            "a": "aaq18opt1",
-            "b": "aaq18opt2",
-            "c": "aaq18opt3",
-            "d": "aaq18opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Seules les lignes qui apparaissent trois fois à la même position dans les trois premiers carrés sont reportées au carré final"
-        },
-        {
             "question": "aaq19",
             "a": "aaq19opt1",
             "b": "aaq19opt2",
@@ -208,17 +208,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "À chaque arc, ajoutez un quart de cercle dans le sens des aiguilles d’une montre"
-        },
-        {
-            "question": "aaq20",
-            "a": "aaq20opt1",
-            "b": "aaq20opt2",
-            "c": "aaq20opt3",
-            "d": "aaq20opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "6 * 9 = 54 (en lisant les deux blocs du milieu de bas en haut)"
         },
         {
             "question": "aaq21",
@@ -252,17 +241,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "Additionnez les chiffres de chaque nombre à trois chiffres pour obtenir les nombres à deux chiffres"
-        },
-        {
-            "question": "aaq24",
-            "a": "aaq24opt1",
-            "b": "aaq24opt2",
-            "c": "aaq24opt3",
-            "d": "aaq24opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Dans chaque ligne et colonne, seules les lignes communes aux deux premiers carrés sont reportées au carré final"
         },
         {
             "question": "aaq25",
@@ -320,17 +298,6 @@
             "explain": "En regardant à travers, un cercle extérieur est retiré, en regardant vers le bas, un cercle extérieur est ajouté"
         },
         {
-            "question": "aaq30",
-            "a": "aaq30opt1",
-            "b": "aaq30opt2",
-            "c": "aaq30opt3",
-            "d": "aaq30opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "En regardant à travers, le point dans le quart supérieur gauche se déplace vers le coin opposé, le point dans le quart supérieur droit se déplace d’un coin dans le sens antihoraire à chaque étape, le point dans le quart inférieur gauche se déplace entre les deux coins supérieurs, et le point dans le quart inférieur droit se déplace d’un coin dans le sens des aiguilles d’une montre à chaque étape"
-        },
-        {
             "question": "aaq31",
             "a": "aaq31opt1",
             "b": "aaq31opt2",
@@ -362,28 +329,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "(6 + 7) – (4 + 5) = 8"
-        },
-        {
-            "question": "aaq34",
-            "a": "aaq34opt1",
-            "b": "aaq34opt2",
-            "c": "aaq34opt3",
-            "d": "aaq34opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Le grand rectangle est en cours de démontage, un côté à la fois dans le sens antihoraire! Le petit rectangle est en cours de construction, un côté à la fois dans le sens horaire"
-        },
-        {
-            "question": "aaq35",
-            "a": "aaq35opt1",
-            "b": "aaq35opt2",
-            "c": "aaq35opt3",
-            "d": "aaq35opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "De manière à ce que les nombres dans les triangles, carrés et cercles totalisent 33"
         },
         {
             "question": "aaq36",
@@ -452,17 +397,6 @@
             "explain": "(6 + 8) – 9 = 9"
         },
         {
-            "question": "aaq42",
-            "a": "aaq42opt1",
-            "b": "aaq42opt2",
-            "c": "aaq42opt3",
-            "d": "aaq42opt4",
-            "answer": "a",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Le carré va à l’intérieur du diamant, et le diamant va à son tour à l’intérieur du pentagone, qui est ensuite posé sur sa base"
-        },
-        {
             "question": "aaq43",
             "a": "aaq43opt1",
             "b": "aaq43opt2",
@@ -472,28 +406,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "En regardant horizontalement, le point se déplace de 45 degrés dans le sens des aiguilles d’une montre à chaque étape, mais en regardant vers le bas, il se déplace de 45 degrés dans le sens inverse des aiguilles d’une montre"
-        },
-        {
-            "question": "aaq44",
-            "a": "aaq44opt1",
-            "b": "aaq44opt2",
-            "c": "aaq44opt3",
-            "d": "aaq44opt4",
-            "answer": "b",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Le point se déplace de coin/face dans le sens inverse des aiguilles d’une montre, la ligne droite et la ligne courbe se déplacent toutes deux de coin à coin dans le sens des aiguilles d’une montre"
-        },
-        {
-            "question": "aaq45",
-            "a": "aaq45opt1",
-            "b": "aaq45opt2",
-            "c": "aaq45opt3",
-            "d": "aaq45opt4",
-            "answer": "c",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Le rectangle commençant à gauche se déplace de gauche à droite, un endroit à la fois à chaque étape"
         },
         {
             "question": "aaq46",
@@ -527,17 +439,6 @@
             "numAnswer": 4,
             "shapeQuestion": true,
             "explain": "En regardant horizontalement, les lettres sautent de +2, +3 dans l’alphabet ! Par exemple ! AbCdeF ! En regardant verticalement, elles progressent de +4, +5 ! Par exemple ! AbcdEfghiJ."
-        },
-        {
-            "question": "aaq49",
-            "a": "aaq49opt1",
-            "b": "aaq49opt2",
-            "c": "aaq49opt3",
-            "d": "aaq49opt4",
-            "answer": "d",
-            "numAnswer": 4,
-            "shapeQuestion": true,
-            "explain": "Le cercle devient un carré et les quatre carrés blancs deviennent des cercles blancs."
         },
         {
             "question": "aaq50",
