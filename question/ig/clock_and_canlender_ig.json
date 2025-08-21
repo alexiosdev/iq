@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "question": "The reflex angle between the hands of a clock at 10:25 is",
-            "a": "180 degree",
-            "b": "192.5 degree",
-            "c": "197.5 degree",
-            "d": "195 degree",
+            "question": "Akuku ntụgharị n'etiti aka elekere na 10:25 bụ",
+            "a": "180 ogo",
+            "b": "192.5 ogo",
+            "c": "197.5 ogo",
+            "d": "195 ogo",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 125/12 hrs = (360/12 * 125/12) = 625/2 degree! !Angle traced by minute hand in 25 min = (360/60 * 25) = 150 degree! !So, Reflex angle = 360 - (625/2 - 150) = 197.5 degree"
+            "explain": "Akuku nke aka awa chọtara na 125/12 awa = (360/12 * 125/12) = 625/2 ogo! !Akuku nke aka nkeji chọtara na nkeji 25 = (360/60 * 25) = 150 ogo! !Yabụ, Akuku ntụgharị = 360 - (625/2 - 150) = 197.5 ogo"
         },
         {
-            "question": "On 8th Dec, 2007 Saturday falls.What day of the week was it on 8th Dec, 2006?",
+            "question": "Na 8th Dec, 2007 Saturday dara. Kedu ụbọchị nke izu ọ bụ na 8th Dec, 2006?",
             "a": "Sunday",
             "b": "Thursday",
             "c": "Tuesday",
@@ -20,10 +20,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2006 is an ordinary year. So, it has 1 odd day.! !So, the day on 8th Dec, 2007 will be 1 day beyond the day on 8th Dec, 2006.! !But, 8th Dec, 2007 is Saturday.! !Hence, 8th Dec, 2006 is Friday."
+            "explain": "Afọ 2006 bụ afọ nkịtị. Yabụ, o nwere 1 ụbọchị na-adịghị mma.! !Yabụ, ụbọchị na 8th Dec, 2007 ga-abụ 1 ụbọchị gafere ụbọchị na 8th Dec, 2006.! !Mana, 8th Dec, 2007 bụ Saturday.! !Yabụ, 8th Dec, 2006 bụ Friday."
         },
         {
-            "question": "January 1, 2008 is Tuesday.What day of the week lies on Jan 1, 2009?",
+            "question": "January 1, 2008 bụ Tuesday. Kedu ụbọchị nke izu dị na Jan 1, 2009?",
             "a": "Monday",
             "b": "Wednesday",
             "c": "Thursday",
@@ -31,32 +31,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2008 is a leap year. So, it has 2 odd days.! !1st day of the year 2008 is Tuesday (Given)! !So, 1st day of the year 2009 is 2 days beyond Tuesday.! !Hence, it will be Thursday."
+            "explain": "Afọ 2008 bụ afọ mwụli elu. Yabụ, o nwere ụbọchị 2 na-adịghị mma.! !Ụbọchị mbụ nke afọ 2008 bụ Tuesday (E nyere)! !Yabụ, ụbọchị mbụ nke afọ 2009 bụ ụbọchị 2 gafere Tuesday.! !Yabụ, ọ ga-abụ Thursday."
         },
         {
-            "question": "At what angle the hands of a clock are inclined at 15 minutes past 5?",
-            "a": "58.5 degree",
-            "b": "64 degree",
-            "c": "67.5 degree",
-            "d": "72.5 degree",
+            "question": "N'akuku ole ka aka elekere na-adabere na nkeji 15 gafere 5?",
+            "a": "58.5 ogo",
+            "b": "64 ogo",
+            "c": "67.5 ogo",
+            "d": "72.5 ogo",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 21/4 hrs = (360/12 * 21/4) = 157.5 degree! !Angle traced by minute hand in 15 min = (360/60 * 15) = 90 degree! !So, required angle = (157.5 - 90) = 67.5 degree"
+            "explain": "Akuku nke aka awa chọtara na 21/4 awa = (360/12 * 21/4) = 157.5 ogo! !Akuku nke aka nkeji chọtara na nkeji 15 = (360/60 * 15) = 90 ogo! !Yabụ, akuku achọrọ = (157.5 - 90) = 67.5 ogo"
         },
         {
-            "question": "At 3:40, the hour hand and the minute hand of a clock form an angle of ...",
-            "a": "120 degree",
-            "b": "125 degree",
-            "c": "130 degree",
-            "d": "135 degree",
+            "question": "Na 3:40, aka awa na aka nkeji nke elekere na-etolite akuku nke ...",
+            "a": "120 ogo",
+            "b": "125 ogo",
+            "c": "130 ogo",
+            "d": "135 ogo",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 12 hrs = 360 degree! !Angle traced by it in 11/3 hrs = (360/12 * 11/3) = 110 degree! !Angle traced by minute hand in 60 min. = 360 degree! !Angle traced by it in 40 min = (360/60 * 40) = 240 degree! ! So, Required angle (240 - 110) = 130 degree"
+            "explain": "Akuku nke aka awa chọtara na awa 12 = 360 ogo! !Akuku nke ọ chọtara na 11/3 awa = (360/12 * 11/3) = 110 ogo! !Akuku nke aka nkeji chọtara na nkeji 60. = 360 ogo! !Akuku nke ọ chọtara na nkeji 40 = (360/60 * 40) = 240 ogo! ! Yabụ, Akuku achọrọ (240 - 110) = 130 ogo"
         },
         {
-            "question": "How many times are the hands of a clock at right angle in a day?",
+            "question": "Ugboro ole ka aka elekere dị n'akuku aka nri n'otu ụbọchị?",
             "a": "22",
             "b": "24",
             "c": "44",
@@ -64,21 +64,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In 12 hours, they are at right angles 22 times! !So, In 24 hours, they are at right angles 44 times."
+            "explain": "N'ime awa 12, ha nọ n'akuku aka nri ugboro 22! !Yabụ, N'ime awa 24, ha nọ n'akuku aka nri ugboro 44."
         },
         {
-            "question": "The angle between the minute hand and the hour hand of a clock when the time is 8:30, is ?",
-            "a": "80 degree",
-            "b": "75 degree",
-            "c": "60 degree",
-            "d": "105 degree",
+            "question": "Akuku dị n'etiti aka nkeji na aka awa nke elekere mgbe oge bụ 8:30, bụ?",
+            "a": "80 ogo",
+            "b": "75 ogo",
+            "c": "60 ogo",
+            "d": "105 ogo",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 17/2 hrs = (360/12 * 17/2) = 255 degree! !Angle traced by minute hand in 30 min = (360/60 * 30) = 180 degree! !So, Required angle = (255 - 180) = 75 degree"
+            "explain": "Akuku nke aka awa chọtara na 17/2 awa = (360/12 * 17/2) = 255 ogo! !Akuku nke aka nkeji chọtara na nkeji 30 = (360/60 * 30) = 180 ogo! !Yabụ, Akuku achọrọ = (255 - 180) = 75 ogo"
         },
         {
-            "question": "How many times in a day, are the hands of a clock in straight line but opposite in direction?",
+            "question": "Ugboro ole n'otu ụbọchị, aka elekere nọ n'ahịrị kwụ ọtọ mana n'akụkụ dị iche?",
             "a": "24",
             "b": "4",
             "c": "22",
@@ -86,10 +86,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The hands of a clock point in opposite directions (in the same straight line) 11 times in every 12 hours. (Because between 5 and 7 they point in opposite directions at 6 o'clcok only).! !So, in a day, the hands point in the opposite directions 22 times."
+            "explain": "Aka elekere na-atụ aka n'akụkụ dị iche (n'otu ahịrị kwụ ọtọ) ugboro 11 n'ime awa 12 ọ bụla. (N'ihi na n'etiti 5 na 7 ha na-atụ aka n'akụkụ dị iche na elekere 6 naanị).! !Yabụ, n'otu ụbọchị, aka na-atụ aka n'akụkụ dị iche ugboro 22."
         },
         {
-            "question": "Which of the following is not a leap year?",
+            "question": "Kedu n'ime ihe ndị a abụghị afọ mwụli elu?",
             "a": "700",
             "b": "800",
             "c": "1200",
@@ -97,10 +97,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The century divisible by 400 is a leap year.! !So, The year 700 is not a leap year."
+            "explain": "Narị afọ nke 400 na-ekewa bụ afọ mwụli elu.! !Yabụ, Afọ 700 abụghị afọ mwụli elu."
         },
         {
-            "question": "How many times in a day, the hands of a clock are straight?",
+            "question": "Ugboro ole n'otu ụbọchị, aka elekere na-agbatị?",
             "a": "22",
             "b": "24",
             "c": "44",
@@ -108,10 +108,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In 12 hours, the hands coincide or are in opposite direction 22 times.! !So,  In 24 hours, the hands coincide or are in opposite direction 44 times a day."
+            "explain": "N'ime awa 12, aka na-adaba ma ọ bụ n'akụkụ dị iche ugboro 22.! !Yabụ, N'ime awa 24, aka na-adaba ma ọ bụ n'akụkụ dị iche ugboro 44 n'otu ụbọchị."
         },
         {
-            "question": "It was Sunday on Jan 1, 2006.What was the day of the week Jan 1, 2010?",
+            "question": "Ọ bụ Sunday na Jan 1, 2006. Kedu ụbọchị nke izu Jan 1, 2010?",
             "a": "Sunday",
             "b": "Saturday",
             "c": "Friday",
@@ -119,10 +119,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "On 31st December, 2005 it was Saturday.!Number of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.! !So, On 31st December 2009, it was Thursday.! !Thus, on 1st Jan, 2010 it is Friday."
+            "explain": "Na 31st December, 2005 ọ bụ Saturday.!Ọnụ ọgụgụ ụbọchị na-adịghị mma site na afọ 2006 ruo afọ 2009 = (1 + 1 + 2 + 1) = ụbọchị 5.! !Yabụ, Na 31st December 2009, ọ bụ Thursday.! !Yabụ, na 1st Jan, 2010 ọ bụ Friday."
         },
         {
-            "question": "What was the day of the week on 28th May, 2006?",
+            "question": "Kedu ụbọchị nke izu na 28th May, 2006?",
             "a": "Thursday",
             "b": "Friday",
             "c": "Saturday",
@@ -130,10 +130,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "28 May, 2006 = (2005 years + Period from 1.1.2006 to 28.5.2006)! !Odd days in 1600 years = 0! !Odd days in 400 years = 0! !5 years = (4 ordinary years + 1 leap year) = (4 x 1 + 1 x 2) = 6 odd days! !From January to 28 May (31 +  28  +  31   +   30   +   28 ) = 148 days! !So, 148 days = (21 weeks + 1 day) = 1 odd day.! !Total number of odd days = (0 + 0 + 6 + 1) = 7 = 0 odd day.! !Hence Given day is Sunday"
+            "explain": "28 May, 2006 = (afọ 2005 + Oge site na 1.1.2006 ruo 28.5.2006)! !Ụbọchị na-adịghị mma n'ime afọ 1600 = 0! !Ụbọchị na-adịghị mma n'ime afọ 400 = 0! !Afọ 5 = (afọ 4 nkịtị + 1 afọ mwụli elu) = (4 x 1 + 1 x 2) = ụbọchị 6 na-adịghị mma! !Site na Jenụwarị ruo 28 Mee (31 + 28 + 31 + 30 + 28) = ụbọchị 148! !Yabụ, ụbọchị 148 = (izu 21 + 1 ụbọchị) = 1 ụbọchị na-adịghị mma.! !Ngụkọta ọnụ ọgụgụ ụbọchị na-adịghị mma = (0 + 0 + 6 + 1) = 7 = 0 ụbọchị na-adịghị mma.! !Yabụ ụbọchị enyere bụ Sunday"
         },
         {
-            "question": "What was the day of the week on 17th June, 1998?",
+            "question": "Kedu ụbọchị nke izu na 17th June, 1998?",
             "a": "Monday",
             "b": "Tuesday",
             "c": "Wednesday",
@@ -141,10 +141,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "17th June, 1998 = (1997 years + Period from 1.1.1998 to 17.6.1998)! !Odd days in 1600 years = 0! !Odd days in 300 years = (5 x 3) = 1! !97 years has 24 leap years + 73 ordinary years.! !Number of odd days in 97 years ( 24 x 2 + 73) = 121 = 2 odd days.! !From January to 17 June (31 +  28  +  31   +   30   +   31   +   17) = 168 days! !168 days = 24 weeks = 0 odd day.! !Total number of odd days = (0 + 1 + 2 + 0) = 3.! !Hence Given day is Wednesday."
+            "explain": "17th June, 1998 = (afọ 1997 + Oge site na 1.1.1998 ruo 17.6.1998)! !Ụbọchị na-adịghị mma n'ime afọ 1600 = 0! !Ụbọchị na-adịghị mma n'ime afọ 300 = (5 x 3) = 1! !Afọ 97 nwere afọ mwụli elu 24 + afọ 73 nkịtị.! !Ọnụ ọgụgụ ụbọchị na-adịghị mma n'ime afọ 97 (24 x 2 + 73) = 121 = ụbọchị 2 na-adịghị mma.! !Site na Jenụwarị ruo 17 June (31 + 28 + 31 + 30 + 31 + 17) = ụbọchị 168! !Ụbọchị 168 = izu 24 = 0 ụbọchị na-adịghị mma.! !Ngụkọta ọnụ ọgụgụ ụbọchị na-adịghị mma = (0 + 1 + 2 + 0) = 3.! !Yabụ ụbọchị enyere bụ Wednesday."
         },
         {
-            "question": "What will be the day of the week 15th August, 2010?",
+            "question": "Kedu ụbọchị nke izu ga-abụ 15th August, 2010?",
             "a": "Sunday",
             "b": "Monday",
             "c": "Tuesday",
@@ -152,10 +152,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "15th August, 2010 = (2009 years + Period 1.1.2010 to 15.8.2010)! !Odd days in 1600 years = 0! !Odd days in 400 years = 0! !9 years = (2 leap years + 7 ordinary years) = (2 x 2 + 7 x 1) = 11 odd days = 4 odd days.! !From January to 15 August (31 +  28  +  31   +   30   +  31  + 30  + 31  + 15) = 227 days! !227 days = (32 weeks + 3 days) = 3 odd days.! !Total number of odd days = (0 + 0 + 4 + 3) = 7.! !Hence, Given day is Sunday."
+            "explain": "15th August, 2010 = (afọ 2009 + Oge 1.1.2010 ruo 15.8.2010)! !Ụbọchị na-adịghị mma n'ime afọ 1600 = 0! !Ụbọchị na-adịghị mma n'ime afọ 400 = 0! !Afọ 9 = (afọ mwụli elu 2 + afọ 7 nkịtị) = (2 x 2 + 7 x 1) = ụbọchị 11 na-adịghị mma = ụbọchị 4 na-adịghị mma.! !Site na Jenụwarị ruo 15 August (31 + 28 + 31 + 30 + 31 + 30 + 31 + 15) = ụbọchị 227! !Ụbọchị 227 = (izu 32 + ụbọchị 3) = ụbọchị 3 na-adịghị mma.! !Ngụkọta ọnụ ọgụgụ ụbọchị na-adịghị mma = (0 + 0 + 4 + 3) = 7.! !Yabụ, ụbọchị enyere bụ Sunday."
         },
         {
-            "question": "Today is Monday.After 61 days, it will be ...",
+            "question": "Taa bụ Monday. Mgbe ụbọchị 61 gachara, ọ ga-abụ ...",
             "a": "Wednesday",
             "b": "Saturday",
             "c": "Tuesday",
@@ -163,10 +163,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each day of the week is repeated after 7 days.! !So, after 63 days, it will be Monday.! !Hence After 61 days, it will be Saturday."
+            "explain": "A na-emegharị ụbọchị ọ bụla n'izu mgbe ụbọchị 7 gachara.! !Yabụ, mgbe ụbọchị 63 gachara, ọ ga-abụ Monday.! !Yabụ Mgbe ụbọchị 61 gachara, ọ ga-abụ Saturday."
         },
         {
-            "question": "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
+            "question": "Ọ bụrụ na 6th March, 2005 bụ Monday, kedu ụbọchị nke izu na 6th March, 2004?",
             "a": "Sunday",
             "b": "Saturday",
             "c": "Tuesday",
@@ -174,10 +174,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2004 is a leap year. So, it has 2 odd days.! !But, Feb 2004 not included because we are calculating from March 2004 to March 2005. So it has 1 odd day only.! !So, the day on 6th March, 2005 will be 1 day beyond the day on 6th March, 2004.! !Given that, 6th March, 2005 is Monday.! !Hence 6th March, 2004 is Sunday."
+            "explain": "Afọ 2004 bụ afọ mwụli elu. Yabụ, o nwere ụbọchị 2 na-adịghị mma.! !Mana, Feb 2004 agụnyeghị n'ihi na anyị na-agbakọ site na March 2004 ruo March 2005. Yabụ o nwere naanị 1 ụbọchị na-adịghị mma.! !Yabụ, ụbọchị na 6th March, 2005 ga-abụ 1 ụbọchị gafere ụbọchị na 6th March, 2004.! !Nyere na, 6th March, 2005 bụ Monday.! !Yabụ 6th March, 2004 bụ Sunday."
         },
         {
-            "question": "The last day of a century cannot be ...",
+            "question": "Ụbọchị ikpeazụ nke narị afọ enweghị ike ịbụ ...",
             "a": "Monday",
             "b": "Wednesday",
             "c": "Tuesday",
@@ -185,10 +185,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "100 years contain 5 odd days.! !So, last day of 1st century is Friday.! !200 years contain (5 x 2) = 3 odd days.! !So, Last day of 2nd century is Wednesday.! !300 years contain (5 x 3) = 15 = 1 odd day.! !So, Last day of 3rd century is Monday.! !400 years contain 0 odd day.! !So, Last day of 4th century is Sunday.! !This cycle is repeated.!Hence Last day of a century cannot be Tuesday or Thursday or Saturday."
+            "explain": "Afọ 100 nwere ụbọchị 5 na-adịghị mma.! !Yabụ, ụbọchị ikpeazụ nke narị afọ mbụ bụ Friday.! !Afọ 200 nwere (5 x 2) = ụbọchị 3 na-adịghị mma.! !Yabụ, ụbọchị ikpeazụ nke narị afọ nke abụọ bụ Wednesday.! !Afọ 300 nwere (5 x 3) = 15 = 1 ụbọchị na-adịghị mma.! !Yabụ, ụbọchị ikpeazụ nke narị afọ nke atọ bụ Monday.! !Afọ 400 nwere 0 ụbọchị na-adịghị mma.! !Yabụ, ụbọchị ikpeazụ nke narị afọ nke anọ bụ Sunday.! !A na-emegharị okirikiri a.!Yabụ ụbọchị ikpeazụ nke narị afọ enweghị ike ịbụ Tuesday ma ọ bụ Thursday ma ọ bụ Saturday."
         },
         {
-            "question": "On 8th Feb, 2005 it was Tuesday.What was the day of the week on 8th Feb, 2004?",
+            "question": "Na 8th Feb, 2005 ọ bụ Tuesday. Kedu ụbọchị nke izu na 8th Feb, 2004?",
             "a": "Tuesday",
             "b": "Monday",
             "c": "Sunday",
@@ -196,10 +196,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2004 is a leap year. It has 2 odd days.! !So, The day on 8th Feb, 2004 is 2 days before the day on 8th Feb, 2005.! !Hence, this day is Sunday."
+            "explain": "Afọ 2004 bụ afọ mwụli elu. O nwere ụbọchị 2 na-adịghị mma.! !Yabụ, ụbọchị na 8th Feb, 2004 bụ ụbọchị 2 tupu ụbọchị na 8th Feb, 2005.! !Yabụ, ụbọchị a bụ Sunday."
         },
         {
-            "question": "The calendar for the year 2007 will be the same for the year ...",
+            "question": "Kalenda maka afọ 2007 ga-abụ otu maka afọ ...",
             "a": "2014",
             "b": "2016",
             "c": "2017",
@@ -207,10 +207,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Count the number of odd days from the year 2007 onwards to get the sum equal to 0 odd day.! !Year 2007 has 1 odd day!2008 has 2 odd day!2009 has 1 odd day!2010 has 1 odd day!2011 has 1 odd day!2012 has 2 odd day!2013 has 1 odd day!2014 has 1 odd day!2015 has 1 odd day!2016 has 2 odd day!2017 has 1 odd day! !Sum = 14 odd days = 0 odd days.! !Hence, Calendar for the year 2018 will be the same as for the year 2007."
+            "explain": "Gụọ ọnụ ọgụgụ ụbọchị na-adịghị mma site na afọ 2007 gaa n'ihu iji nweta nchikota hà 0 ụbọchị na-adịghị mma.! !Afọ 2007 nwere 1 ụbọchị na-adịghị mma!2008 nwere 2 ụbọchị na-adịghị mma!2009 nwere 1 ụbọchị na-adịghị mma!2010 nwere 1 ụbọchị na-adịghị mma!2011 nwere 1 ụbọchị na-adịghị mma!2012 nwere 2 ụbọchị na-adịghị mma!2013 nwere 1 ụbọchị na-adịghị mma!2014 nwere 1 ụbọchị na-adịghị mma!2015 nwere 1 ụbọchị na-adịghị mma!2016 nwere 2 ụbọchị na-adịghị mma!2017 nwere 1 ụbọchị na-adịghị mma! !Sum = ụbọchị 14 na-adịghị mma = 0 ụbọchị na-adịghị mma.! !Yabụ, Kalenda maka afọ 2018 ga-abụ otu ihe ahụ maka afọ 2007."
         },
         {
-            "question": "How many times do the hands of a clock coincide in a day?",
+            "question": "Ugboro ole ka aka elekere na-adaba n'otu ụbọchị?",
             "a": "20",
             "b": "21",
             "c": "22",
@@ -218,32 +218,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The hands of a clock coincide 11 times in every 12 hours (Since between 11 and 1, they coincide only once, i.e., at 12 o'clock).! !The hands overlap about every 65 minutes, not every 60 minutes. So, the hands coincide 22 times in a day."
+            "explain": "Aka elekere na-adaba ugboro 11 n'ime awa 12 ọ bụla (Ebe ọ bụ na n'etiti 11 na 1, ha na-adaba naanị otu ugboro, ya bụ, na elekere 12).! !Aka na-ekpuchi ihe dị ka nkeji 65 ọ bụla, ọ bụghị nkeji 60 ọ bụla. Yabụ, aka na-adaba ugboro 22 n'otu ụbọchị."
         },
         {
-            "question": "A clock is started at noon.By 10 minutes past 5, the hour hand has turned through ...",
-            "a": "145 degree",
-            "b": "150 degree",
-            "c": "155 degree",
-            "d": "160 degree",
+            "question": "A na-amalite elekere n'ehihie. Site na nkeji 10 gafere 5, aka awa atụgharịala site na ...",
+            "a": "145 ogo",
+            "b": "150 ogo",
+            "c": "155 ogo",
+            "d": "160 ogo",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 12 hrs = 360 degree! !Angle traced by hour hand in 5 hrs 10 min. i.e.,! 31/6 hrs = (360/12 * 31/6) = 155 degree"
+            "explain": "Akuku nke aka awa chọtara na awa 12 = 360 ogo! !Akuku nke aka awa chọtara na awa 5 nkeji 10. ya bụ,! 31/6 awa = (360/12 * 31/6) = 155 ogo"
         },
         {
-            "question": "The angle between the minute hand and the hour hand of a clock when the time is 4:20, is ?",
-            "a": "0 degree",
-            "b": "10 degree",
-            "c": "5 degree",
-            "d": "20 degree",
+            "question": "Akuku dị n'etiti aka nkeji na aka awa nke elekere mgbe oge bụ 4:20, bụ?",
+            "a": "0 ogo",
+            "b": "10 ogo",
+            "c": "5 ogo",
+            "d": "20 ogo",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 13/3 hrs = (360/12 * 13/3) = 130 degree! !Angle traced by minute hand in 20 min = (360/60 * 20) = 120 degree! !So, required angle = 130 - 120 = 10 degree"
+            "explain": "Akuku nke aka awa chọtara na 13/3 awa = (360/12 * 13/3) = 130 ogo! !Akuku nke aka nkeji chọtara na nkeji 20 = (360/60 * 20) = 120 ogo! !Yabụ, akuku achọrọ = 130 - 120 = 10 ogo"
         },
         {
-            "question": "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
+            "question": "Jenụwarị 1, 2007 bụ Mọnde. Kedu ụbọchị nke izu dị na Jenụwarị 1, 2008?",
             "a": "Monday",
             "b": "Tuesday",
             "c": "Wednesday",
@@ -251,21 +251,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2007 is an ordinary year. So, it has 1 odd day.! !1st day of the year 2007 was Monday.! !1st day of the year 2008 will be 1 day beyond Monday.! !Hence, it will be Tuesday."
+            "explain": "Afọ 2007 bụ afọ nkịtị. Yabụ, o nwere 1 ụbọchị na-adịghị mma.! !Ụbọchị mbụ nke afọ 2007 bụ Mọnde.! !Ụbọchị mbụ nke afọ 2008 ga-abụ ụbọchị 1 gafere Mọnde.! !Yabụ, ọ ga-abụ Tuesday."
         },
         {
-            "question": "A clock is started at noon. By 10 minutes past 5, the hour hand has turned through",
-            "a": "155 degree",
-            "b": "145 degree",
-            "c": "152 degree",
-            "d": "140 degree",
+            "question": "A na-amalite elekere n'ehihie. Site na nkeji 10 gafere 5, aka awa atụgharịala site na",
+            "a": "155 ogo",
+            "b": "145 ogo",
+            "c": "152 ogo",
+            "d": "140 ogo",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 12 hrs = 360 degree! !Angle traced by hour hand in 5 hrs 10 min. i.e., 31/6 hrs = (360/12 * 31/6) = 155 degree"
+            "explain": "Akuku nke aka awa chọtara na awa 12 = 360 ogo! !Akuku nke aka awa chọtara na awa 5 nkeji 10. ya bụ, 31/6 awa = (360/12 * 31/6) = 155 ogo"
         },
         {
-            "question": "By how many degrees does the minute hand move in the same time, in which the hour hand move by 280?",
+            "question": "Site na ogo ole ka aka nkeji na-agagharị n'otu oge ahụ, nke aka awa na-agagharị site na 280?",
             "a": "168",
             "b": "336",
             "c": "196",
@@ -273,10 +273,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "28 * 2 * 6 = 336 degree"
+            "explain": "28 * 2 * 6 = 336 ogo"
         },
         {
-            "question": "How many degrees will the minute hand move, in the same time in which the second hand move 4800",
+            "question": "Ogo ole ka aka nkeji ga-agagharị, n'otu oge ahụ nke aka nke abụọ na-agagharị 4800",
             "a": "60",
             "b": "90",
             "c": "40",
@@ -284,10 +284,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Minute hand covers 480/60= 80"
+            "explain": "Aka nkeji na-ekpuchi 480/60= 80"
         },
         {
-            "question": "How many years have 29 days in February from 2001 to 2100.",
+            "question": "Afọ ole nwere ụbọchị 29 na Febụwarị site na 2001 ruo 2100.",
             "a": "26",
             "b": "25",
             "c": "23",
@@ -295,10 +295,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "100th year is not a leap year.!So 24 February's has 29 days."
+            "explain": "Afọ nke 100 abụghị afọ mwụli elu.!Yabụ Febụwarị 24 nwere ụbọchị 29."
         },
         {
-            "question": "2012 January 1st is Sunday,then which day is the Indian Independence day of the same year.",
+            "question": "2012 Jenụwarị 1 bụ Sọnde, mgbe ahụ kedu ụbọchị bụ ụbọchị nnwere onwe India nke otu afọ ahụ.",
             "a": "Saturday",
             "b": "Wednesday",
             "c": "Thursday",
@@ -306,10 +306,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "30+ 29+ 31 + 30 + 31 + 30 + 31+15 = 227/7 = reminder = 3! !So, Independence day is Wednesday."
+            "explain": "30+ 29+ 31 + 30 + 31 + 30 + 31+15 = 227/7 = ihe ncheta = 3! !Yabụ, ụbọchị nnwere onwe bụ Wenezde."
         },
         {
-            "question": "Which year has the same calendar as 1700 ?",
+            "question": "Kedu afọ nwere otu kalenda dị ka 1700?",
             "a": "1705",
             "b": "1706",
             "c": "1707",
@@ -317,54 +317,54 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Year 1700 has 1 odd day!1701 has 1 odd day!1702 has 1 odd day!1703 has 1 odd day!1704 has 2 odd day!1705 has 1 odd day! !Hence, 1706 will has same calender."
+            "explain": "Afọ 1700 nwere 1 ụbọchị na-adịghị mma!1701 nwere 1 ụbọchị na-adịghị mma!1702 nwere 1 ụbọchị na-adịghị mma!1703 nwere 1 ụbọchị na-adịghị mma!1704 nwere 2 ụbọchị na-adịghị mma!1705 nwere 1 ụbọchị na-adịghị mma! !Yabụ, 1706 ga-enwe otu kalenda."
         },
         {
-            "question": "March 1st  is Wednesday. Which month of the same year starts with the same day?",
+            "question": "Machị 1 bụ Wenezde. Kedu ọnwa nke otu afọ na-amalite n'otu ụbọchị ahụ?",
             "a": "October",
             "b": "November",
             "c": "December",
-            "d": "None",
+            "d": "Ọ dịghị",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "March has 3 odd days!April has 2 odd days!May has 3 odd days!June has 2 odd days!July has 3 odd days!August has 3 odd days!September has 2 odd days!October has 3 odd days! !Total 21 odd days. 21/7 = 0. So November has start with the same day."
+            "explain": "Machị nwere ụbọchị 3 na-adịghị mma!Eprel nwere ụbọchị 2 na-adịghị mma!Mee nwere ụbọchị 3 na-adịghị mma!June nwere ụbọchị 2 na-adịghị mma!Julaị nwere ụbọchị 3 na-adịghị mma!Ọgọst nwere ụbọchị 3 na-adịghị mma!Septemba nwere ụbọchị 2 na-adịghị mma!Ọktoba nwere ụbọchị 3 na-adịghị mma! !Ngụkọta ụbọchị 21 na-adịghị mma. 21/7 = 0. Yabụ Nọvemba ga-amalite n'otu ụbọchị ahụ."
         },
         {
-            "question": "What is the angle between the two hands of a clock when the time shown by the clock is 5:30 p.m. ?",
-            "a": "0 degree",
-            "b": "5 degree",
-            "c": "3 degree",
-            "d": "15 degree",
+            "question": "Kedu akuku dị n'etiti aka abụọ nke elekere mgbe oge elekere gosipụtara bụ 5:30 p.m. ?",
+            "a": "0 ogo",
+            "b": "5 ogo",
+            "c": "3 ogo",
+            "d": "15 ogo",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "q = 11/2 m ñ 30h = 11/2 *30  - 30 *5 = 165-150 = 15 degree! ! "
+            "explain": "q = 11/2 m ñ 30h = 11/2 *30 - 30 *5 = 165-150 = 15 ogo! ! "
         },
         {
-            "question": "By how many degrees does the minute hand move in the same time, in which the hour hand move by 18 degree?",
-            "a": "168 degree",
-            "b": "216 degree",
-            "c": "196 degree",
-            "d": "276 degree",
+            "question": "Site na ogo ole ka aka nkeji na-agagharị n'otu oge ahụ, nke aka awa na-agagharị site na 18 ogo?",
+            "a": "168 ogo",
+            "b": "216 ogo",
+            "c": "196 ogo",
+            "d": "276 ogo",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "18*2 *6 = 216 degree! ! "
+            "explain": "18*2 *6 = 216 ogo! ! "
         },
         {
-            "question": "In the time in which the second hand covers 3960 degrees, how many degrees does the hour hand move?",
-            "a": "11 degree",
-            "b": "5.5 degree",
-            "c": "3/4 degree",
-            "d": "55 degree",
+            "question": "N'oge nke aka nke abụọ na-ekpuchi ogo 3960, ogo ole ka aka awa na-agagharị?",
+            "a": "11 ogo",
+            "b": "5.5 ogo",
+            "c": "3/4 ogo",
+            "d": "55 ogo",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "3960/(360*2) = 5.5 degree! ! "
+            "explain": "3960/(360*2) = 5.5 ogo! ! "
         },
         {
-            "question": "March 1st  is Wednesday. Which month of the same year has the same calendar?",
+            "question": "Machị 1 bụ Wenezde. Kedu ọnwa nke otu afọ nwere otu kalenda ahụ?",
             "a": "July",
             "b": "November",
             "c": "December",
@@ -372,10 +372,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Odd days from March to October! !3 + 2 +3 +2 +3 +3 +2 +3 = 21/7 = 0.! !If odd day is 0 then next month has the same calendar.! !Hence, November will have same calender as March."
+            "explain": "Ụbọchị na-adịghị mma site na Machị ruo Ọktoba! !3 + 2 +3 +2 +3 +3 +2 +3 = 21/7 = 0.! !Ọ bụrụ na ụbọchị na-adịghị mma bụ 0 mgbe ahụ ọnwa na-esote nwere otu kalenda ahụ.! !Yabụ, Nọvemba ga-enwe otu kalenda dị ka Machị."
         },
         {
-            "question": "If a light flashes every 6 seconds, how many times will it flash in 3/4 of an hour?",
+            "question": "Ọ bụrụ na ọkụ na-enwu kwa sekọnd 6, ugboro ole ka ọ ga-enwu na 3/4 nke otu awa?",
             "a": "450",
             "b": "451",
             "c": "350",
@@ -383,10 +383,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "3/4 of an hour = 3/4 * 60 * 60 = 2700! !Light will flash in 6 seconds = 2700/6 = 450 times"
+            "explain": "3/4 nke otu awa = 3/4 * 60 * 60 = 2700! !Ọkụ ga-enwu na sekọnd 6 = 2700/6 = ugboro 450"
         },
         {
-            "question": "How many non-leap years are there from 1801 to 1900?",
+            "question": "Afọ ole na-abụghị afọ mwụli elu dị site na 1801 ruo 1900?",
             "a": "74",
             "b": "75",
             "c": "76",
@@ -394,21 +394,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Leap year comes after 4 years!In one century there will be 24 leap years! !Hence, there will be 76 non leap years from 1801 to 1900."
+            "explain": "Afọ mwụli elu na-abịa mgbe afọ 4 gachara!N'ime otu narị afọ a ga-enwe afọ mwụli elu 24! !Yabụ, a ga-enwe afọ 76 na-abụghị afọ mwụli elu site na 1801 ruo 1900."
         },
         {
-            "question": "The time in a clock is 20 minute past 2. Find the angle between the hands of the clock.",
-            "a": "90 degree",
-            "b": "120 degree",
-            "c": "45 degree",
-            "d": "50 degree",
+            "question": "Oge n'ime elekere bụ nkeji 20 gafere 2. Chọta akuku dị n'etiti aka elekere.",
+            "a": "90 ogo",
+            "b": "120 ogo",
+            "c": "45 ogo",
+            "d": "50 ogo",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Time is 2.20.!Hour hand at 2 (nearly) and minute hand at 4.! !Angle between 2 and 4 is 60 degrees [(360/12) * (4-2)]! !Angle made by the hour hand in 20 minutes is 10 degrees, since it turns through 1/2 degrees in a minute.! !Therefore, angle between the hands is 60 degrees - 10 degrees = 50 degrees"
+            "explain": "Oge bụ 2.20.!Aka awa na 2 (ihe fọrọ nke nta ka ọ bụrụ) na aka nkeji na 4.! !Akuku dị n'etiti 2 na 4 bụ ogo 60 [(360/12) * (4-2)]! !Akuku nke aka awa mere na nkeji 20 bụ ogo 10, ebe ọ na-atụgharị site na ogo 1/2 n'otu nkeji.! !Yabụ, akuku dị n'etiti aka bụ ogo 60 - ogo 10 = ogo 50"
         },
         {
-            "question": "Given that on 27th February 2003 is Thursday.What was the day on 27th February 1603?",
+            "question": "Nyere na na 27th Febụwarị 2003 bụ Tọzdee. Kedu ụbọchị na 27th Febụwarị 1603?",
             "a": "Monday",
             "b": "Thursday",
             "c": "Sunday",
@@ -416,21 +416,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "After every 400 years, the same day occurs.! !Thus, if 27th February 2003 is Thursday, before 400 years i.e., on 27th February 1603 has to be Thursday."
+            "explain": "Mgbe afọ 400 ọ bụla gasịrị, otu ụbọchị ahụ na-eme.! !Yabụ, ọ bụrụ na 27th Febụwarị 2003 bụ Tọzdee, tupu afọ 400 ya bụ, na 27th Febụwarị 1603 ga-abụrịrị Tọzdee."
         },
         {
-            "question": "What is the angle between the minute hand and the hour hand when the time is 1540 hours?",
-            "a": "150 degree",
-            "b": "160 degree",
-            "c": "140 degree",
-            "d": "130 degree",
+            "question": "Kedu akuku dị n'etiti aka nkeji na aka awa mgbe oge bụ awa 1540?",
+            "a": "150 ogo",
+            "b": "160 ogo",
+            "c": "140 ogo",
+            "d": "130 ogo",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Hour hand is nearly at 3!Minute hand is at 8! !Angle between 3 and 8 is 150 degree.! !In 40 Minutes hour hand will move 1/2 * 40 = 20 degree! !Hence, Angle between hands is 150 - 20 = 130 degree"
+            "explain": "Aka awa fọrọ nke nta ka ọ bụrụ na 3!Aka nkeji dị na 8! !Akuku dị n'etiti 3 na 8 bụ ogo 150.! !N'ime nkeji 40 aka awa ga-agagharị 1/2 * 40 = 20 ogo! !Yabụ, Akuku dị n'etiti aka bụ 150 - 20 = 130 ogo"
         },
         {
-            "question": "Which of the following is not a leap year?",
+            "question": "Kedu n'ime ihe ndị a abụghị afọ mwụli elu?",
             "a": "600",
             "b": "1600",
             "c": "2400",
@@ -438,10 +438,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The century divisible by 400 is a leap year.! !So, The year 600 is not a leap year."
+            "explain": "Narị afọ nke 400 na-ekewa bụ afọ mwụli elu.! !Yabụ, Afọ 600 abụghị afọ mwụli elu."
         },
         {
-            "question": "11th of April falls on Tuesday, what day will the last day of the month April occurs.",
+            "question": "11th nke Eprel dara na Tuesday, kedu ụbọchị ụbọchị ikpeazụ nke ọnwa Eprel ga-eme.",
             "a": "Thursday",
             "b": "Saturday",
             "c": "Sunday",
@@ -449,10 +449,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Tuesday will be on 11, 18 and 25 then 30th April will be on Sunday."
+            "explain": "Tuesday ga-adị na 11, 18 na 25 mgbe ahụ 30th Eprel ga-adị na Sunday."
         },
         {
-            "question": "If 7th of the month falls two days after Wednesday. What day of the week will precede the 18th of month?",
+            "question": "Ọ bụrụ na 7th nke ọnwa dara ụbọchị abụọ mgbe Wednesday gasịrị. Kedu ụbọchị nke izu ga-ebute 18th nke ọnwa?",
             "a": "Monday",
             "b": "Tuesday",
             "c": "Wednesday",
@@ -460,10 +460,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "On 7th the day is Friday. On 17 (day before 18) there will be Monday"
+            "explain": "Na 7th ụbọchị bụ Friday. Na 17 (ụbọchị tupu 18) a ga-enwe Monday"
         },
         {
-            "question": "The day that will come two days after tomorrow will be Thursday. What was the day that Dawned two days before yesterday.",
+            "question": "Ụbọchị ga-abịa ụbọchị abụọ mgbe echi gasịrị ga-abụ Tọzdee. Kedu ụbọchị nke malitere ụbọchị abụọ tupu ụnyaahụ.",
             "a": "Wednesday",
             "b": "Thursday",
             "c": "Friday",
@@ -471,10 +471,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the day, two days after tomorrow is Thursday so tomorrow is Tuesday and today is Monday and yesterday was Sunday. Hence the day two days before yesterday was Friday."
+            "explain": "Dị ka ụbọchị, ụbọchị abụọ mgbe echi gasịrị bụ Tọzdee yabụ echi bụ Tuesday na taa bụ Mọnde na ụnyaahụ bụ Sọnde. Yabụ ụbọchị abụọ tupu ụnyaahụ bụ Fraịde."
         },
         {
-            "question": "It would be Tuesday two days after tomorrow. What was two days before yesterday?",
+            "question": "Ọ ga-abụ Tuesday ụbọchị abụọ mgbe echi gasịrị. Kedu ihe bụ ụbọchị abụọ tupu ụnyaahụ?",
             "a": "Saturday",
             "b": "Monday",
             "c": "Friday",
@@ -482,10 +482,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the day, two days after tomorrow is Tuesday so tomorrow is Sunday and today is Saturday and yesterday was Friday. Hence the day two days before yesterday was Wednesday."
+            "explain": "Dị ka ụbọchị, ụbọchị abụọ mgbe echi gasịrị bụ Tuesday yabụ echi bụ Sunday na taa bụ Saturday na ụnyaahụ bụ Friday. Yabụ ụbọchị abụọ tupu ụnyaahụ bụ Wednesday."
         },
         {
-            "question": "The 15th of the month falls on the day preceding Sunday, on what day will the 6th of the month fall?",
+            "question": "15th nke ọnwa dara n'ụbọchị bu ụzọ Sunday, n'ụbọchị ole ka 6th nke ọnwa ga-ada?",
             "a": "Friday",
             "b": "Saturday",
             "c": "Thursday",
@@ -493,10 +493,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As on 15th of the month day is Saturday so on 8th the day will also Saturday. Hence on 6th of the month day will be Thursday(Two days before Saturday)."
+            "explain": "Dị ka na 15th nke ọnwa ụbọchị bụ Saturday yabụ na 8th ụbọchị ga-abụkwa Saturday. Yabụ na 6th nke ọnwa ụbọchị ga-abụ Thursday (ụbọchị abụọ tupu Saturday)."
         },
         {
-            "question": "If 20th of February of a leap year falls on Thursday, what day of the week will be on 3rd of next March?",
+            "question": "Ọ bụrụ na 20th nke Febụwarị nke afọ mwụli elu dara na Tọzdee, kedu ụbọchị nke izu ga-adị na 3rd nke Machị na-esote?",
             "a": "Tuesday",
             "b": "Wednesday",
             "c": "Friday",
@@ -504,10 +504,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "On 27th February there will be Thursday and by counting 4 days after it Monday falls on 3rd of March."
+            "explain": "Na 27th Febụwarị a ga-enwe Tọzdee na site n'ịgụ ụbọchị 4 mgbe ọ gasịrị Mọnde dara na 3rd nke Machị."
         },
         {
-            "question": "Reaching a party day before yesterday, I found myself two days late. If day after tomorrow is Friday. On what day was the party scheduled to be held?",
+            "question": "Mgbe m rutere oriri n'ụbọchị tupu ụnyaahụ, achọpụtara m na m bịara n'oge awa abụọ. Ọ bụrụ na ụbọchị mgbe echi gasịrị bụ Fraịde. N'ụbọchị ole ka a haziri oriri ahụ?",
             "a": "Sunday",
             "b": "Monday",
             "c": "Thursday",
@@ -515,10 +515,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As day after tomorrow is Friday so tomorrow is Thursday, today is Wednesday, yesterday was Tuesday and day before yesterday was Monday. Today before the day before yesterday was Saturday. Hence party was scheduled on Saturday."
+            "explain": "Dị ka ụbọchị mgbe echi gasịrị bụ Fraịde yabụ echi bụ Tọzdee, taa bụ Wenezde, ụnyaahụ bụ Tuesday na ụbọchị tupu ụnyaahụ bụ Mọnde. Taa tupu ụbọchị tupu ụnyaahụ bụ Satọde. Yabụ a haziri oriri na Satọde."
         },
         {
-            "question": "If 14th August falls on Monday, then what will be the day on 14th September.",
+            "question": "Ọ bụrụ na 14th August dara na Mọnde, mgbe ahụ kedu ụbọchị ga-adị na 14th Septemba.",
             "a": "Sunday",
             "b": "Monday",
             "c": "Thursday",
@@ -526,21 +526,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Monday will fall on 14, 21 and 28th August. By taking into account that August has 31 days 1st September will be fall on Friday. So, 7th and 14th September will be on Friday."
+            "explain": "Mọnde ga-ada na 14, 21 na 28th August. Site n'iburu n'uche na August nwere ụbọchị 31 1st Septemba ga-ada na Fraịde. Yabụ, 7th na 14th Septemba ga-adị na Fraịde."
         },
         {
-            "question": "Our teacher has come out with another puzzle for her students. It is, \"If three days ago was the day before Friday, What day will be after tomorrow?\"",
+            "question": "Onye nkuzi anyị ewepụtala ihe mgbagwoju anya ọzọ maka ụmụ akwụkwọ ya. Ọ bụ, \"Ọ bụrụ na ụbọchị atọ gara aga bụ ụbọchị tupu Fraịde, Kedu ụbọchị ga-abụ mgbe echi gasịrị?\"",
             "a": "Wednesday",
             "b": "Monday",
             "c": "Tuesday",
-            "d": "None",
+            "d": "Ọ dịghị",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Three days ago was Thursday and today is Sunday, so the day after tomorrow will be Tuesday."
+            "explain": "Ụbọchị atọ gara aga bụ Tọzdee na taa bụ Sọnde, yabụ ụbọchị mgbe echi gasịrị ga-abụ Tuesday."
         },
         {
-            "question": "Seen through a mirror, the arms of a clock show 9:30 what is the actual time?",
+            "question": "A na-ahụ ya site na enyo, ogwe aka elekere na-egosi 9:30 kedu oge n'ezie?",
             "a": "3:30",
             "b": "6:30",
             "c": "6:10",
@@ -548,10 +548,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Which of the following is a leap year?",
+            "question": "Kedu n'ime ihe ndị a bụ afọ mwụli elu?",
             "a": "700",
             "b": "800",
             "c": "900",
@@ -559,21 +559,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The century divisible by 400 is a leap year.! !So, The year 800 is a leap year."
+            "explain": "Narị afọ nke 400 na-ekewa bụ afọ mwụli elu.! !Yabụ, Afọ 800 bụ afọ mwụli elu."
         },
         {
-            "question": "An accurate clock shows 8 o'clock in the morning. Through how many degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
-            "a": "144 degree",
-            "b": "150 degree",
-            "c": "168 degree",
-            "d": "180 degree",
+            "question": "Elekere ziri ezi na-egosi elekere 8 nke ụtụtụ. Site na ogo ole ka aka awa ga-atụgharị mgbe elekere gosipụtara elekere 2 nke ehihie?",
+            "a": "144 ogo",
+            "b": "150 ogo",
+            "c": "168 ogo",
+            "d": "180 ogo",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by the hour hand in 6 hours = (360/12)*6 = 180 degree"
+            "explain": "Akuku nke aka awa chọtara n'ime awa 6 = (360/12)*6 = 180 ogo"
         },
         {
-            "question": "What is the angle between the hands of a clock at 1 o'clock?",
+            "question": "Kedu akuku dị n'etiti aka elekere na elekere 1?",
             "a": "30",
             "b": "60",
             "c": "15",
@@ -581,84 +581,84 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 1 o'clock the minute hand points to the 12 and the hour hand points to the 1.! !So we need to find the angle between the 12 and the 1.! !There are 12 total numbers on the clock and total angle on complete turn of the clock is 360 degree, so each one must be 360/12 = 30 degree.! !So the angle between the hands of a clock at 1 o'clock is 30 degree."
+            "explain": "N'elekere 1 aka nkeji na-atụ aka na 12 na aka awa na-atụ aka na 1.! !Yabụ anyị kwesịrị ịchọta akuku dị n'etiti 12 na 1.! !Enwere ngụkọta ọnụọgụ 12 na elekere na ngụkọta akuku na ntụgharị zuru oke nke elekere bụ ogo 360, yabụ nke ọ bụla ga-abụrịrị 360/12 = 30 ogo.! !Yabụ akuku dị n'etiti aka elekere na elekere 1 bụ ogo 30."
         },
         {
-            "question": "What is the angle between the hands of a clock at 2:30?",
-            "a": "120 degree",
-            "b": "115 degree",
-            "c": "105 degree",
-            "d": "125 degree",
+            "question": "Kedu akuku dị n'etiti aka elekere na 2:30?",
+            "a": "120 ogo",
+            "b": "115 ogo",
+            "c": "105 ogo",
+            "d": "125 ogo",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Hour hand is nearly at 2!Minute hand is at 6! !Angle between 2 and 6 is 120 degree.! !Hour hand move 1/2 degree in one minute.! !In 30 Minutes hour hand will move 1/2 * 30 = 15 degree! !Hence, Angle between hands is 120 - 15 = 105 degree"
+            "explain": "Aka awa fọrọ nke nta ka ọ bụrụ na 2!Aka nkeji dị na 6! !Akuku dị n'etiti 2 na 6 bụ ogo 120.! !Aka awa na-agagharị 1/2 ogo n'otu nkeji.! !N'ime nkeji 30 aka awa ga-agagharị 1/2 * 30 = 15 ogo! !Yabụ, Akuku dị n'etiti aka bụ 120 - 15 = 105 ogo"
         },
         {
-            "question": "What is the angle between the hands of a clock at 7 o'clock?",
-            "a": "130 degree",
-            "b": "160 degree",
-            "c": "120 degree",
-            "d": "150 degree",
+            "question": "Kedu akuku dị n'etiti aka elekere na elekere 7?",
+            "a": "130 ogo",
+            "b": "160 ogo",
+            "c": "120 ogo",
+            "d": "150 ogo",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 7 o'clock the minute hand points to 12 and hour hand points to 7.! !Angle between 7 and 12 is 150 degree."
+            "explain": "N'elekere 7 aka nkeji na-atụ aka na 12 na aka awa na-atụ aka na 7.! !Akuku dị n'etiti 7 na 12 bụ ogo 150."
         },
         {
-            "question": "What is the angle between the hands of a clock at 7:05 am?",
-            "a": "182.5 degree",
-            "b": "180 degree",
-            "c": "177.5 degree",
-            "d": "181.5 degree",
+            "question": "Kedu akuku dị n'etiti aka elekere na 7:05 am?",
+            "a": "182.5 ogo",
+            "b": "180 ogo",
+            "c": "177.5 ogo",
+            "d": "181.5 ogo",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 7:05 hour hand is nearly at 7!Minute hand is at 1! !Angle between 7 and 1 is 180 degree.! !Hour hand move 1/2 degree in one minute.! !In 5 Minutes hour hand will move 1/2 * 5 = 2.5 degree! !Hence, Angle between hands is 180 - 2.5 = 177.5 degree"
+            "explain": "Na 7:05 aka awa fọrọ nke nta ka ọ bụrụ na 7!Aka nkeji dị na 1! !Akuku dị n'etiti 7 na 1 bụ ogo 180.! !Aka awa na-agagharị 1/2 ogo n'otu nkeji.! !N'ime nkeji 5 aka awa ga-agagharị 1/2 * 5 = 2.5 ogo! !Yabụ, Akuku dị n'etiti aka bụ 180 - 2.5 = 177.5 ogo"
         },
         {
-            "question": "What is the angle between the hands of a clock at 9 o'clock?",
-            "a": "45 degree",
-            "b": "90 degree",
-            "c": "105 degree",
-            "d": "75 degree",
+            "question": "Kedu akuku dị n'etiti aka elekere na elekere 9?",
+            "a": "45 ogo",
+            "b": "90 ogo",
+            "c": "105 ogo",
+            "d": "75 ogo",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 9 o'clock the minute hand points to 12 and hour hand points to 9.! !Angle between 9 and 12 at the clock is 90 degree."
+            "explain": "N'elekere 9 aka nkeji na-atụ aka na 12 na aka awa na-atụ aka na 9.! !Akuku dị n'etiti 9 na 12 na elekere bụ ogo 90."
         },
         {
-            "question": "What is the angle between the hands of a clock at 3:35 pm?",
-            "a": "75 degree",
-            "b": "45 degree",
-            "c": "102.5 degree",
-            "d": "88.5 degree",
+            "question": "Kedu akuku dị n'etiti aka elekere na 3:35 pm?",
+            "a": "75 ogo",
+            "b": "45 ogo",
+            "c": "102.5 ogo",
+            "d": "88.5 ogo",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 3:35 hour hand is nearly at 3!Minute hand is at 7! !Angle between 3 and 7 is 120 degree.! !Hour hand move 1/2 degree in one minute.! !In 35 Minutes hour hand will move 1/2 * 35 = 17.5 degree! !Hence, Angle between hands is 120 - 17.5 = 102.5 degree"
+            "explain": "Na 3:35 aka awa fọrọ nke nta ka ọ bụrụ na 3!Aka nkeji dị na 7! !Akuku dị n'etiti 3 na 7 bụ ogo 120.! !Aka awa na-agagharị 1/2 ogo n'otu nkeji.! !N'ime nkeji 35 aka awa ga-agagharị 1/2 * 35 = 17.5 ogo! !Yabụ, Akuku dị n'etiti aka bụ 120 - 17.5 = 102.5 ogo"
         },
         {
-            "question": "What is the angle between the hands of a clock at 8:50 am?",
-            "a": "45 degree",
-            "b": "25 degree",
-            "c": "65 degree",
-            "d": "35 degree",
+            "question": "Kedu akuku dị n'etiti aka elekere na 8:50 am?",
+            "a": "45 ogo",
+            "b": "25 ogo",
+            "c": "65 ogo",
+            "d": "35 ogo",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 8:50 hour hand is nearly at 8!Minute hand is at 10! !Angle between 8 and 10 is 60 degree.! !Hour hand move 1/2 degree in one minute.! !In 50 Minutes hour hand will move 1/2 * 50 = 25 degree! !Hence, Angle between hands is 60 - 25 = 35 degree"
+            "explain": "Na 8:50 aka awa fọrọ nke nta ka ọ bụrụ na 8!Aka nkeji dị na 10! !Akuku dị n'etiti 8 na 10 bụ ogo 60.! !Aka awa na-agagharị 1/2 ogo n'otu nkeji.! !N'ime nkeji 50 aka awa ga-agagharị 1/2 * 50 = 25 ogo! !Yabụ, Akuku dị n'etiti aka bụ 60 - 25 = 35 ogo"
         },
         {
-            "question": "What is the angle between the hands of a clock at 4:20 pm?",
-            "a": "0 degree",
-            "b": "10 degree",
-            "c": "20 degree",
-            "d": "30 degree",
+            "question": "Kedu akuku dị n'etiti aka elekere na 4:20 pm?",
+            "a": "0 ogo",
+            "b": "10 ogo",
+            "c": "20 ogo",
+            "d": "30 ogo",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 4:20 hour hand is nearly at 4 but not perfectly at 4.!Minute hand is at 4! !If both hands are at 4 then angle is 0 degree.! !Hour hand move 1/2 degree in one minute.! !In 20 Minutes hour hand will move 1/2 * 20 = 10 degree! !Hence, Angle between hands is 0 + 10 = 10 degree"
+            "explain": "Na 4:20 aka awa fọrọ nke nta ka ọ bụrụ na 4 mana ọ bụghị nke ọma na 4.!Aka nkeji dị na 4! !Ọ bụrụ na aka abụọ dị na 4 mgbe ahụ akuku bụ 0 ogo.! !Aka awa na-agagharị 1/2 ogo n'otu nkeji.! !N'ime nkeji 20 aka awa ga-agagharị 1/2 * 20 = 10 ogo! !Yabụ, Akuku dị n'etiti aka bụ 0 + 10 = 10 ogo"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "Ten years ago, P was half of Q in age. If the ratio of their present ages is 3/4, what will be the total of their present ages?",
+            "question": "Kymmenen vuotta sitten P oli puolet Q:n iästä. Jos heidän nykyisten ikiensä suhde on 3/4, mikä on heidän nykyisten ikiensä summa?",
             "a": "45",
             "b": "40",
             "c": "35",
@@ -9,32 +9,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of P and Q be 3x and 4x respectively.! !Ten years ago, P was half of Q in age.! !(3x - 10) = 1/2 * (4x - 10)!6x - 20 = 4x - 10!2x = 10!x = 5! !total of their present ages!= 3x + 4x = 7x = 7 * 5!= 35"
+            "explain": "Olkoon P:n ja Q:n nykyiset iät 3x ja 4x.! !Kymmenen vuotta sitten P oli puolet Q:n iästä.! !(3x - 10) = 1/2 * (4x - 10)!6x - 20 = 4x - 10!2x = 10!x = 5! !heidän nykyisten ikiensä summa!= 3x + 4x = 7x = 7 * 5!= 35"
         },
         {
-            "question": "A man is 24 years older than his son. In two years, his age will be twice the age of his son. What is the present age of his son?",
-            "a": "23 years",
-            "b": "22 years",
-            "c": "21 years",
-            "d": "20 years",
+            "question": "Mies on 24 vuotta poikaansa vanhempi. Kahden vuoden kuluttua hänen ikänsä on kaksinkertainen poikansa ikään nähden. Mikä on hänen poikansa nykyinen ikä?",
+            "a": "23 vuotta",
+            "b": "22 vuotta",
+            "c": "21 vuotta",
+            "d": "20 vuotta",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of the son = x years! !Then present age the man = (x+24) years! !Given that in 2 years, man's age will be twice the age of his son! !(x+24) +2 = 2(x+2)!x = 22"
+            "explain": "Olkoon pojan nykyinen ikä = x vuotta! !Silloin miehen nykyinen ikä = (x+24) vuotta! !Olettaen, että 2 vuoden kuluttua miehen ikä on kaksinkertainen poikansa ikään nähden! !(x+24) +2 = 2(x+2)!x = 22"
         },
         {
-            "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. Find out the age of the youngest child?",
-            "a": "6 years",
-            "b": "5 years",
-            "c": "4 years",
-            "d": "3 years",
+            "question": "Viiden lapsen, jotka ovat syntyneet 3 vuoden välein, ikien summa on 50 vuotta. Selvitä nuorimman lapsen ikä?",
+            "a": "6 vuotta",
+            "b": "5 vuotta",
+            "c": "4 vuotta",
+            "d": "3 vuotta",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the youngest child = x! !Then the ages of 5 children can be written as x, (x+3), (x+6),(x+9) and (x+12).! !Then,!X + (x+3) + (x+6) + (x+9) + (x+12) = 50!5x + 30 =50!5x = 20!x = 20/5 = 4"
+            "explain": "Olkoon nuorimman lapsen ikä = x! !Silloin 5 lapsen iät voidaan kirjoittaa x, (x+3), (x+6),(x+9) ja (x+12).! !Sitten,!X + (x+3) + (x+6) + (x+9) + (x+12) = 50!5x + 30 =50!5x = 20!x = 20/5 = 4"
         },
         {
-            "question": "A is two years older than B who is twice as old as C. The total of the ages of A, B and C is 27. How old is B?",
+            "question": "A on kaksi vuotta vanhempi kuin B, joka on kaksi kertaa niin vanha kuin C. A:n, B:n ja C:n ikien summa on 27. Kuinka vanha B on?",
             "a": "10",
             "b": "9",
             "c": "8",
@@ -42,10 +42,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of C = x.! !Then! !Age of B = 2x! !Age of A = 2 + 2x! !The total age of A,B and C =27! !(2+2x) + 2x + x = 27!5x = 25!B's age = 2x = 2 * 5 = 10"
+            "explain": "Olkoon C:n ikä = x.! !Sitten! !B:n ikä = 2x! !A:n ikä = 2 + 2x! !A:n, B:n ja C:n ikien summa = 27! !(2+2x) + 2x + x = 27!5x = 25!B:n ikä = 2x = 2 * 5 = 10"
         },
         {
-            "question": "The Average age of a class of 22 subjects in 21 years. The average increased by 1 when the teacher's age also included. What is the age of the teacher?",
+            "question": "22 oppilaan luokan keski-ikä on 21 vuotta. Keski-ikä nousi yhdellä, kun opettajan ikä otettiin mukaan. Mikä on opettajan ikä?",
             "a": "48",
             "b": "45",
             "c": "43",
@@ -53,21 +53,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Total age of all students = 22 * 21 = 462! !Total age of all students + age of the teacher = 23 * 22 = 506! !Age of the teacher = 506 - 462 = 44"
+            "explain": "Kaikkien oppilaiden ikien summa = 22 * 21 = 462! !Kaikkien oppilaiden ikien summa + opettajan ikä = 23 * 22 = 506! !Opettajan ikä = 506 - 462 = 44"
         },
         {
-            "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, what was the son's age five years back?",
-            "a": "20 years",
-            "b": "18 years",
-            "c": "14 years",
-            "d": "22 years",
+            "question": "Isä sanoi pojalleen: \"Olin syntymäsi aikaan yhtä vanha kuin sinä olet nyt\". Jos isän ikä on nyt 38 vuotta, mikä oli pojan ikä viisi vuotta sitten?",
+            "a": "20 vuotta",
+            "b": "18 vuotta",
+            "c": "14 vuotta",
+            "d": "22 vuotta",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the son's present age be x years.! !Then! (38 - x) = x! !2x = 38!x = 38/2 = 19! !Son's age 5 years back = 19-5 = 14 years"
+            "explain": "Olkoon pojan nykyinen ikä x vuotta.! !Sitten! (38 - x) = x! !2x = 38!x = 38/2 = 19! !Pojan ikä 5 vuotta sitten = 19-5 = 14 vuotta"
         },
         {
-            "question": "Kiran is younger than Bineesh by 7 years and their ages are in the respective ratio of 7 / 9, how old is Kiran?",
+            "question": "Kiran on 7 vuotta nuorempi kuin Bineesh ja heidän ikiensä suhde on 7/9, kuinka vanha Kiran on?",
             "a": "25",
             "b": "24.5",
             "c": "24",
@@ -75,10 +75,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of Kiran and Bineesh are 7x and 9x respectively! !7x = 9x-7!x = 7/2 = 3.5! !Kiran's age = 7x!= 7 * 3.5 = 24.5"
+            "explain": "Olkoon Kiranin ja Bineeshin iät 7x ja 9x.! !7x = 9x-7!x = 7/2 = 3.5! !Kiranin ikä = 7x!= 7 * 3.5 = 24.5"
         },
         {
-            "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. What is the present age of the mother?",
+            "question": "Henkilön nykyinen ikä on kaksi viidesosaa hänen äitinsä iästä. 8 vuoden kuluttua hän on puolet äitinsä iästä. Mikä on äidin nykyinen ikä?",
             "a": "60",
             "b": "50",
             "c": "40",
@@ -86,21 +86,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of the person = x! !Then present age of the mother = 5x/2! !Given that , after 8 years, the person will be one-half of the age of his mother.! !(x + 8) = (1/2)(5x/2 + 8)!2x + 16 = 5x/2 + 8!x/2 = 8!x = 16! !Present age of the mother = 5x/2!= 5 * 16/2 = 40"
+            "explain": "Olkoon henkilön nykyinen ikä = x! !Silloin äidin nykyinen ikä = 5x/2! !Olettaen, että 8 vuoden kuluttua henkilö on puolet äitinsä iästä.! !(x + 8) = (1/2)(5x/2 + 8)!2x + 16 = 5x/2 + 8!x/2 = 8!x = 16! !Äidin nykyinen ikä = 5x/2!= 5 * 16/2 = 40"
         },
         {
-            "question": "A is as much younger than B and he is older than C. If the sum of the ages of B and C is 50 years, what is definitely the difference between B and A's age?",
-            "a": "Data inadequate",
-            "b": "3 years",
-            "c": "2 years",
-            "d": "5 years",
+            "question": "A on yhtä paljon nuorempi kuin B ja hän on vanhempi kuin C. Jos B:n ja C:n ikien summa on 50 vuotta, mikä on ehdottomasti B:n ja A:n ikäero?",
+            "a": "Tiedot riittämättömät",
+            "b": "3 vuotta",
+            "c": "2 vuotta",
+            "d": "5 vuotta",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Age of C < Age of A < Age of B! !Given that sum of the ages of B and C is 50 years.! !Let's take B's age = x and C's age = 50-x! !Now we need to find out B's age - A's age.!But we cannot find out this with the given data."
+            "explain": "C:n ikä < A:n ikä < B:n ikä! !Olettaen, että B:n ja C:n ikien summa on 50 vuotta.! !Otetaan B:n iäksi x ja C:n iäksi 50-x! !Nyt meidän on selvitettävä B:n ikä - A:n ikä.!Mutta emme voi selvittää sitä annetuilla tiedoilla."
         },
         {
-            "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. What is the ratio of their present ages?",
+            "question": "Isän ikä 10 vuotta sitten oli kolminkertainen poikansa ikään nähden. Kymmenen vuoden kuluttua isän ikä on kaksinkertainen poikansa ikään nähden. Mikä on heidän nykyisten ikiensä suhde?",
             "a": "7/3",
             "b": "3/7",
             "c": "9/4",
@@ -108,10 +108,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the son before 10 years = x!and age of the father before 10 years = 3x! !Now we can write as (3x + 20) = 2(x + 20)!x = 20! !Age of Father the son at present = x + 10!= 20 + 10 = 30! !Age of the father at present = 3x + 10!= 3 * 20 + 10 = 70! !Required ratio = 70/30 = 7/3"
+            "explain": "Olkoon pojan ikä 10 vuotta sitten = x!ja isän ikä 10 vuotta sitten = 3x! !Nyt voimme kirjoittaa (3x + 20) = 2(x + 20)!x = 20! !Isän pojan ikä tällä hetkellä = x + 10!= 20 + 10 = 30! !Isän ikä tällä hetkellä = 3x + 10!= 3 * 20 + 10 = 70! !Vaadittu suhde = 70/30 = 7/3"
         },
         {
-            "question": "The ages of two persons differ by 16 years. 6 years ago, the elder one was 3 times as old as the younger one. What are their present ages of the elder person?",
+            "question": "Kahden henkilön ikäero on 16 vuotta. 6 vuotta sitten vanhempi oli 3 kertaa niin vanha kuin nuorempi. Mitkä ovat vanhemman henkilön nykyiset iät?",
             "a": "10",
             "b": "20",
             "c": "30",
@@ -119,21 +119,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let's take the present age of the elder person = x! !and the present age of the younger person = x - 16! !(x - 6) = 3 (x-16-6)!x - 6 = 3x - 66!2x = 60!x = 60/2 = 30"
+            "explain": "Otetaan vanhemman henkilön nykyiseksi iäksi = x! !ja nuoremman henkilön nykyiseksi iäksi = x - 16! !(x - 6) = 3 (x-16-6)!x - 6 = 3x - 66!2x = 60!x = 60/2 = 30"
         },
         {
-            "question": "Kamal was 4 times as old as his son 8 years ago. After 8 years, Kamal will be twice as old as his son. Find out the present age of Kamal.",
-            "a": "40 years",
-            "b": "38 years",
-            "c": "42 years",
-            "d": "36 years",
+            "question": "Kamal oli 8 vuotta sitten 4 kertaa niin vanha kuin poikansa. 8 vuoden kuluttua Kamal on kaksi kertaa niin vanha kuin poikansa. Selvitä Kamalin nykyinen ikä.",
+            "a": "40 vuotta",
+            "b": "38 vuotta",
+            "c": "42 vuotta",
+            "d": "36 vuotta",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the son before 8 years = x! !Then age of Kamal before 8 years ago = 4x! !After 8 years, Kamal will be twice as old as his son! !4x + 16 = 2(x + 16)!x = 8! !Present age of Kamal = 4x + 8 = (4*8) + 8 = 40"
+            "explain": "Olkoon pojan ikä 8 vuotta sitten = x! !Silloin Kamalin ikä 8 vuotta sitten = 4x! !8 vuoden kuluttua Kamal on kaksi kertaa niin vanha kuin poikansa! !4x + 16 = 2(x + 16)!x = 8! !Kamalin nykyinen ikä = 4x + 8 = (4*8) + 8 = 40"
         },
         {
-            "question": "One year ago, the ratio of Sooraj's and Vimal's age was 6/7 respectively. Four years hence, this ratio would become 7/8. How old is Vimal?",
+            "question": "Vuosi sitten Soorajin ja Vimalin ikien suhde oli 6/7. Neljän vuoden kuluttua tämä suhde olisi 7/8. Kuinka vanha Vimal on?",
             "a": "32",
             "b": "34",
             "c": "36",
@@ -141,10 +141,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let take the age of Sooraj and Vimal, 1 year ago as 6x and 7x respectively.! !Given that, four years hence, this ratio would become 7/8.! !(6x + 5)/(7x + 5) = 7/8!48x + 40 = 49x + 35!x = 5! !Vimal's present age = 7x + 1 = 7*5 + 1 = 36"
+            "explain": "Otetaan Soorajin ja Vimalin iäksi 1 vuosi sitten 6x ja 7x.! !Olettaen, että neljän vuoden kuluttua tämä suhde olisi 7/8.! !(6x + 5)/(7x + 5) = 7/8!48x + 40 = 49x + 35!x = 5! !Vimalin nykyinen ikä = 7x + 1 = 7*5 + 1 = 36"
         },
         {
-            "question": "The total age of A and B is 12 years more than the total age of B and C. C is how many year younger than A?",
+            "question": "A:n ja B:n ikien summa on 12 vuotta enemmän kuin B:n ja C:n ikien summa. Kuinka monta vuotta C on nuorempi kuin A?",
             "a": "10",
             "b": "11",
             "c": "12",
@@ -152,54 +152,54 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that A+B = 12 + B + C! !A - C = 12 + B - B = 12! !C is younger than A by 12 years."
+            "explain": "Olettaen, että A+B = 12 + B + C! !A - C = 12 + B - B = 12! !C on 12 vuotta nuorempi kuin A."
         },
         {
-            "question": "Sachin's age after 15 years will be 5 times his age 5 years back. Find out the present age of Sachin?",
-            "a": "10 years",
-            "b": "11 years",
-            "c": "12 years",
-            "d": "13 years",
+            "question": "Sachinin ikä 15 vuoden kuluttua on 5 kertaa hänen ikänsä 5 vuotta sitten. Selvitä Sachinin nykyinen ikä?",
+            "a": "10 vuotta",
+            "b": "11 vuotta",
+            "c": "12 vuotta",
+            "d": "13 vuotta",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of Sachin = x! !Then (x+15) = 5(x-5)!4x = 40!x = 10"
+            "explain": "Olkoon Sachinin nykyinen ikä = x! !Sitten (x+15) = 5(x-5)!4x = 40!x = 10"
         },
         {
-            "question": "Sandeep's age after six years will be three-seventh of his father's age. Ten years ago the ratio of their ages was 1/5. What is Sandeep's father's age at present?",
-            "a": "30 years",
-            "b": "40 years",
-            "c": "50 years",
-            "d": "60 years",
+            "question": "Sandeepin ikä kuuden vuoden kuluttua on kolme seitsemäsosaa hänen isänsä iästä. Kymmenen vuotta sitten heidän ikiensä suhde oli 1/5. Mikä on Sandeepin isän nykyinen ikä?",
+            "a": "30 vuotta",
+            "b": "40 vuotta",
+            "c": "50 vuotta",
+            "d": "60 vuotta",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of Sandeep and his father before 10 years be x and 5x respectively.! !Given that Sandeep's age after six years will be three-seventh of his father's age! !x + 16 = (3/7)(5x + 16)!7x + 112 = 15x + 48!8x = 64!x = 8! !Sandeep's father's present age = 5x + 10!= 5*8 + 10 = 50"
+            "explain": "Olkoon Sandeepin ja hänen isänsä iät 10 vuotta sitten x ja 5x.! !Olettaen, että Sandeepin ikä kuuden vuoden kuluttua on kolme seitsemäsosaa hänen isänsä iästä! !x + 16 = (3/7)(5x + 16)!7x + 112 = 15x + 48!8x = 64!x = 8! !Sandeepin isän nykyinen ikä = 5x + 10!= 5*8 + 10 = 50"
         },
         {
-            "question": "Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
-            "a": "2 times",
-            "b": "1 time",
-            "c": "4 times",
-            "d": "6 times",
+            "question": "Isä on kolme kertaa vanhempi kuin poikansa Ronit. 8 vuoden kuluttua hän on kaksi ja puoli kertaa Ronitin ikäinen. Kuinka monta kertaa hän on Ronitin ikäinen vielä 8 vuoden kuluttua?",
+            "a": "2 kertaa",
+            "b": "1 kerta",
+            "c": "4 kertaa",
+            "d": "6 kertaa",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Ronit's present age be x years. Then, father's present age =(x + 3x) years!= 4x years.! !(4x + 8) = 5/2 (x+8)!8x + 16 = 5x + 40!3x = 24!x = 8! !Hence, required ratio = (4x+16)/(x+160)!= 48/24 = 2"
+            "explain": "Olkoon Ronitin nykyinen ikä x vuotta. Silloin isän nykyinen ikä = (x + 3x) vuotta!= 4x vuotta.! !(4x + 8) = 5/2 (x+8)!8x + 16 = 5x + 40!3x = 24!x = 8! !Siksi vaadittu suhde = (4x+16)/(x+160)!= 48/24 = 2"
         },
         {
-            "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was?",
-            "a": "14 years",
-            "b": "19 years",
-            "c": "33 years",
-            "d": "38 years",
+            "question": "Isä sanoi pojalleen: \"Olin syntymäsi aikaan yhtä vanha kuin sinä olet nyt\". Jos isän ikä on nyt 38 vuotta, pojan ikä viisi vuotta sitten oli?",
+            "a": "14 vuotta",
+            "b": "19 vuotta",
+            "c": "33 vuotta",
+            "d": "38 vuotta",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the son's present age be x years. Then, (38 - x) = x! !2x = 38!x = 19! !Hence, Son's age 5 years back (19 - 5) = 14 years."
+            "explain": "Olkoon pojan nykyinen ikä x vuotta. Silloin (38 - x) = x! !2x = 38!x = 19! !Siksi pojan ikä 5 vuotta sitten (19 - 5) = 14 vuotta."
         },
         {
-            "question": "Present ages of Sameer and Anand are in the ratio of 5/4 respectively. Three years hence, the ratio of their ages will become 11/9 respectively. What is Anand's present age in years?",
+            "question": "Sameerin ja Anandin nykyiset iät ovat suhteessa 5/4. Kolmen vuoden kuluttua heidän ikiensä suhde on 11/9. Mikä on Anandin nykyinen ikä vuosina?",
             "a": "24",
             "b": "27",
             "c": "40",
@@ -207,76 +207,76 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of Sameer and Anand be 5x years and 4x years respectively.! !Then,!(5x+3)/(4x+3) = 11/9!9(5x + 3) = 11(4x + 3)!45x + 27 = 44x + 33!45x - 44x = 33 - 27!x = 6! !nand's present age = 4x = 24 years"
+            "explain": "Olkoon Sameerin ja Anandin nykyiset iät 5x vuotta ja 4x vuotta.! !Sitten,!(5x+3)/(4x+3) = 11/9!9(5x + 3) = 11(4x + 3)!45x + 27 = 44x + 33!45x - 44x = 33 - 27!x = 6! !nandin nykyinen ikä = 4x = 24 vuotta"
         },
         {
-            "question": "Six years ago, the ratio of the ages of Kunal and Sagar was 6/5. Four years hence, the ratio of their ages will be 11/10. What is Sagar's age at present?",
-            "a": "16 years",
-            "b": "18 years",
-            "c": "20 years",
-            "d": "None of these",
+            "question": "Kuusi vuotta sitten Kunalin ja Sagarin ikien suhde oli 6/5. Neljän vuoden kuluttua heidän ikiensä suhde on 11/10. Mikä on Sagarin nykyinen ikä?",
+            "a": "16 vuotta",
+            "b": "18 vuotta",
+            "c": "20 vuotta",
+            "d": "Ei mikään näistä",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of Kunal and Sagar 6 years ago be 6x and 5x years respectively.! !Then,![(6x + 6) + 4]/[(5x + 6) + 4] = 11/10!10(6x + 10) = 11(5x + 10)!5x = 10!x = 2! !Hence, Sagar's present age = (5x + 6) = 16 years."
+            "explain": "Olkoon Kunalin ja Sagarin iät 6 vuotta sitten 6x ja 5x vuotta.! !Sitten,![(6x + 6) + 4]/[(5x + 6) + 4] = 11/10!10(6x + 10) = 11(5x + 10)!5x = 10!x = 2! !Siksi Sagarin nykyinen ikä = (5x + 6) = 16 vuotta."
         },
         {
-            "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, father's age was five times the age of the son. After 6 years, son's age will be",
-            "a": "12 years",
-            "b": "14 years",
-            "c": "18 years",
-            "d": "20 years",
+            "question": "Isän ja hänen poikansa nykyisten ikien summa on 60 vuotta. Kuusi vuotta sitten isän ikä oli viisi kertaa pojan ikä. 6 vuoden kuluttua pojan ikä on",
+            "a": "12 vuotta",
+            "b": "14 vuotta",
+            "c": "18 vuotta",
+            "d": "20 vuotta",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of son and father be x and (60 -x) years respectively.! !Then,!(60 - x) - 6 = 5(x - 6)!54 - x = 5x - 30!6x = 84!x = 14! !Hence, Son's age after 6 years = (x+ 6)!= 20 years"
+            "explain": "Olkoon pojan ja isän nykyiset iät x ja (60 -x) vuotta.! !Sitten,!(60 - x) - 6 = 5(x - 6)!54 - x = 5x - 30!6x = 84!x = 14! !Siksi pojan ikä 6 vuoden kuluttua = (x+ 6)!= 20 vuotta"
         },
         {
-            "question": "At present, the ratio between the ages of Arun and Deepak is 4/3. After 6 years, Arun's age will be 26 years. What is the age of Deepak at present ?",
-            "a": "12 years",
-            "b": "15 years",
-            "c": "19 and half",
-            "d": "21 years",
+            "question": "Tällä hetkellä Arunin ja Deepakin ikien suhde on 4/3. 6 vuoden kuluttua Arunin ikä on 26 vuotta. Mikä on Deepakin nykyinen ikä?",
+            "a": "12 vuotta",
+            "b": "15 vuotta",
+            "c": "19 ja puoli",
+            "d": "21 vuotta",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of Arun and Deepak be 4x years and 3x years respectively.! !Then,!4x + 6 = 26!4x = 20!x = 5! !Hence, Deepak's age = 3x = 15 years."
+            "explain": "Olkoon Arunin ja Deepakin nykyiset iät 4x vuotta ja 3x vuotta.! !Sitten,!4x + 6 = 26!4x = 20!x = 5! !Siksi Deepakin ikä = 3x = 15 vuotta."
         },
         {
-            "question": "Sachin is younger than Rahul by 7 years. If their ages are in the respective ratio of 7/9, how old is Sachin?",
-            "a": "16 years",
-            "b": "18 years",
-            "c": "28 years",
-            "d": "24.5 years",
+            "question": "Sachin on 7 vuotta nuorempi kuin Rahul. Jos heidän ikiensä suhde on 7/9, kuinka vanha Sachin on?",
+            "a": "16 vuotta",
+            "b": "18 vuotta",
+            "c": "28 vuotta",
+            "d": "24,5 vuotta",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Rahul's age be x years.! !Then,!Sachin's age = (x - 7) years.! !(x-7)/x = 7/9!9x - 63 = 7x!2x = 63!x = 31.5! !Hence, Sachin's age =(x - 7)= 24.5 years"
+            "explain": "Olkoon Rahulin ikä x vuotta.! !Sitten,!Sachinin ikä = (x - 7) vuotta.! !(x-7)/x = 7/9!9x - 63 = 7x!2x = 63!x = 31.5! !Siksi Sachinin ikä = (x - 7) = 24,5 vuotta"
         },
         {
-            "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present?",
-            "a": "32 years",
-            "b": "36 years",
-            "c": "40 years",
-            "d": "48 years",
+            "question": "Henkilön nykyinen ikä on kaksi viidesosaa hänen äitinsä iästä. 8 vuoden kuluttua hän on puolet äitinsä iästä. Kuinka vanha äiti on tällä hetkellä?",
+            "a": "32 vuotta",
+            "b": "36 vuotta",
+            "c": "40 vuotta",
+            "d": "48 vuotta",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the mother's present age be x years.! !Then,! the person's present age = (2/5)x years.! !(2/5)x + 8 = (1/2)(x + 8)!2(2x + 40) = 5(x + 8)!x = 40!"
+            "explain": "Olkoon äidin nykyinen ikä x vuotta.! !Sitten,! henkilön nykyinen ikä = (2/5)x vuotta.! !(2/5)x + 8 = (1/2)(x + 8)!2(2x + 40) = 5(x + 8)!x = 40!"
         },
         {
-            "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. Find out the age of the youngest child?",
-            "a": "6 years",
-            "b": "5 years",
-            "c": "4 years",
-            "d": "3 years",
+            "question": "Viiden lapsen, jotka ovat syntyneet 3 vuoden välein, ikien summa on 50 vuotta. Selvitä nuorimman lapsen ikä?",
+            "a": "6 vuotta",
+            "b": "5 vuotta",
+            "c": "4 vuotta",
+            "d": "3 vuotta",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of children be x, (x + 3), (x + 6), (x + 9) and (x + 12) years.! !Then,!x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 50!5x = 20!x = 4! !Hence, Age of the youngest child = x = 4 years"
+            "explain": "Olkoon lasten iät x, (x + 3), (x + 6), (x + 9) ja (x + 12) vuotta.! !Sitten,!x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 50!5x = 20!x = 4! !Siksi nuorimman lapsen ikä = x = 4 vuotta"
         },
         {
-            "question": "A is two years older than B who is twice as old as C. The total of the ages of A, B and C is 27.How old is B?",
+            "question": "A on kaksi vuotta vanhempi kuin B, joka on kaksi kertaa niin vanha kuin C. A:n, B:n ja C:n ikien summa on 27. Kuinka vanha B on?",
             "a": "10",
             "b": "9",
             "c": "8",
@@ -284,10 +284,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let C's age be x years. Then, B's age = 2x years. A's age = (2x + 2) years.! !So, (2x + 2) + 2x + x = 27!5x = 25!x = 5! !Hence, B's age = 2x = 10 years"
+            "explain": "Olkoon C:n ikä x vuotta. Silloin B:n ikä = 2x vuotta. A:n ikä = (2x + 2) vuotta.! !Joten, (2x + 2) + 2x + x = 27!5x = 25!x = 5! !Siksi B:n ikä = 2x = 10 vuotta"
         },
         {
-            "question": "The Average age of a class of 22 students is 21 years.The average increased by 1 when the teacher's age also included.What is the age of the teacher?",
+            "question": "22 oppilaan luokan keski-ikä on 21 vuotta. Keski-ikä nousi yhdellä, kun opettajan ikä otettiin mukaan. Mikä on opettajan ikä?",
             "a": "48",
             "b": "45",
             "c": "43",
@@ -295,21 +295,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Tähän kysymykseen ei ole vastausta."
         },
         {
-            "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
-            "a": "1 year",
-            "b": "2 years",
-            "c": "25 years",
-            "d": "Data inadequate",
+            "question": "Q on yhtä paljon nuorempi kuin R kuin hän on vanhempi kuin T. Jos R:n ja T:n ikien summa on 50 vuotta, mikä on ehdottomasti R:n ja Q:n ikäero?",
+            "a": "1 vuosi",
+            "b": "2 vuotta",
+            "c": "25 vuotta",
+            "d": "Tiedot riittämättömät",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that! !(i)The difference of age b/w R and Q = The difference of age b/w Q and T!(ii) (R + T) = 50! !So,R - Q = Q - T! !(R + T) = 2Q! !Now given that, (R + T) = 50! !So, 50 = 2Q and therefore Q = 25! !Question is (R - Q) = ?! !Here we know the value(age) of Q (25), but we don't know the age of R.! !Therefore, (R-Q) cannot be determined."
+            "explain": "Olettaen, että! !(i)Ikäero R:n ja Q:n välillä = Ikäero Q:n ja T:n välillä!(ii) (R + T) = 50! !Joten, R - Q = Q - T! !(R + T) = 2Q! !Nyt olettaen, että (R + T) = 50! !Joten, 50 = 2Q ja siksi Q = 25! !Kysymys on (R - Q) = ?! !Tässä tiedämme Q:n arvon (iän) (25), mutta emme tiedä R:n ikää.! !Siksi (R-Q) ei voida määrittää."
         },
         {
-            "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is",
+            "question": "Isän ikä 10 vuotta sitten oli kolminkertainen poikansa ikään nähden. Kymmenen vuoden kuluttua isän ikä on kaksinkertainen poikansa ikään nähden. Heidän nykyisten ikiensä suhde on",
             "a": "5/2",
             "b": "7/3",
             "c": "9/2",
@@ -317,43 +317,43 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of father and son 10 years ago be 3x and x years respectively.! !Then,!(3x + 10) + 10 = 2[(x + 10) + 10]!3x + 20 = 2x + 40!x = 20!So, 3x + 10 = 70!and x + 10 = 30! !Hence, ratio is 70/30 = 7/3."
+            "explain": "Olkoon isän ja pojan iät 10 vuotta sitten 3x ja x vuotta.! !Sitten,!(3x + 10) + 10 = 2[(x + 10) + 10]!3x + 20 = 2x + 40!x = 20!Joten, 3x + 10 = 70!ja x + 10 = 30! !Siksi suhde on 70/30 = 7/3."
         },
         {
-            "question": "A is as much younger than B and he is older than C. If the sum of the ages of B and C is 50 years, what is definitely the difference between B and A's age?",
-            "a": "Data inadequate",
-            "b": "3 years",
-            "c": "2 years",
-            "d": "5 years",
+            "question": "A on yhtä paljon nuorempi kuin B ja hän on vanhempi kuin C. Jos B:n ja C:n ikien summa on 50 vuotta, mikä on ehdottomasti B:n ja A:n ikäero?",
+            "a": "Tiedot riittämättömät",
+            "b": "3 vuotta",
+            "c": "2 vuotta",
+            "d": "5 vuotta",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Tähän kysymykseen ei ole vastausta."
         },
         {
-            "question": "A man's age is three times his son's. In 15 years it will be double that of his son's. How old is the son now?",
+            "question": "Miehen ikä on kolme kertaa hänen poikansa ikä. 15 vuoden kuluttua se on kaksinkertainen hänen poikansa ikään nähden. Kuinka vanha poika on nyt?",
             "a": "30",
             "b": "15",
             "c": "45",
-            "d": "none",
+            "d": "ei mitään",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Son's age is x!Mans Age = 3x! !Given that!3x+15 = 2(x+15)!3x+15 = 2x+30!3x-2x = 30-15! !x = 15! !Hence son is 15 years old."
+            "explain": "Olkoon pojan ikä x!Miehen ikä = 3x! !Olettaen, että!3x+15 = 2(x+15)!3x+15 = 2x+30!3x-2x = 30-15! !x = 15! !Siksi poika on 15-vuotias."
         },
         {
-            "question": "The sum of the present ages of a mother and daughter is 63. Three years back if the age of the mother was double that of the daughter, then the present age of the daughter is",
-            "a": "21 years",
-            "b": "24 years",
-            "c": "22 years",
-            "d": "15 years",
+            "question": "Äidin ja tyttären nykyisten ikien summa on 63. Kolme vuotta sitten, jos äidin ikä oli kaksinkertainen tyttären ikään nähden, niin tyttären nykyinen ikä on",
+            "a": "21 vuotta",
+            "b": "24 vuotta",
+            "c": "22 vuotta",
+            "d": "15 vuotta",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let mother's present age is x and daughters present age is y! !Given that!x+y = 63 ...(1)!and! !x-3 = 2(y-3)!x-3 = 2y-6!x-2y = -6+3!x-2y = -3 ...(2)! !By simultaneously solving equation(1) and equation(2) We'll find!y = 22! !Hence present age of the daughter is 22 years."
+            "explain": "Olkoon äidin nykyinen ikä x ja tyttären nykyinen ikä y! !Olettaen, että!x+y = 63 ...(1)!ja! !x-3 = 2(y-3)!x-3 = 2y-6!x-2y = -6+3!x-2y = -3 ...(2)! !Ratkaisemalla samanaikaisesti yhtälön (1) ja yhtälön (2) saamme!y = 22! !Siksi tyttären nykyinen ikä on 22 vuotta."
         },
         {
-            "question": "The product of the ages of two class fellows is 24. If the greater fellow is 3/2 times the smaller one, then the age of the smaller fellow is",
+            "question": "Kahden luokkatoverin ikien tulo on 24. Jos vanhempi toveri on 3/2 kertaa nuorempi, niin nuoremman toverin ikä on",
             "a": "8",
             "b": "6",
             "c": "4",
@@ -361,10 +361,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of the greater fellow is x and present age of smaller fellow is y.! !Given that xy = 24 ...(1)!and! !x = (3/2)y!Put value of x in equation(1).! !(3/2)y^2 = 24!y^2 = 24*(2/3)!y^2 = 16!y = 4! !Hence age of smaller fellow is 4 years."
+            "explain": "Olkoon vanhemman toverin nykyinen ikä x ja nuoremman toverin nykyinen ikä y.! !Olettaen, että xy = 24 ...(1)!ja! !x = (3/2)y!Aseta x:n arvo yhtälöön (1).! !(3/2)y^2 = 24!y^2 = 24*(2/3)!y^2 = 16!y = 4! !Siksi nuoremman toverin ikä on 4 vuotta."
         },
         {
-            "question": "Meena is thrice as old as Sheraz. Fatima will be twice as old as Meena 6 years hence. Six years ago Sheraz was five years old. What is Fatima's present age?",
+            "question": "Meena on kolme kertaa niin vanha kuin Sheraz. Fatima on kaksi kertaa niin vanha kuin Meena 6 vuoden kuluttua. Kuusi vuotta sitten Sheraz oli viisi vuotta vanha. Mikä on Fatiman nykyinen ikä?",
             "a": "65",
             "b": "70",
             "c": "68",
@@ -372,10 +372,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of Sheraz is x and present age of Fatima is y.! !So,!Meena's age = 3x! !Given that!y+6 = 2(3x+6) ...(1)!and!x-6 = 5!x = 11! !Put value of x in equation(1)! !y+6 = 2(33+6)!y+6 = 78!y = 72! !Hence Fatima's present age is 72 years."
+            "explain": "Olkoon Sherazin nykyinen ikä x ja Fatiman nykyinen ikä y.! !Joten,!Meenan ikä = 3x! !Olettaen, että!y+6 = 2(3x+6) ...(1)!ja!x-6 = 5!x = 11! !Aseta x:n arvo yhtälöön (1)! !y+6 = 2(33+6)!y+6 = 78!y = 72! !Siksi Fatiman nykyinen ikä on 72 vuotta."
         },
         {
-            "question": "C's mother was four times as old as C ten years ago. After 10 years she will be twice as old as C is now. How old C is now?",
+            "question": "C:n äiti oli kymmenen vuotta sitten neljä kertaa niin vanha kuin C. 10 vuoden kuluttua hän on kaksi kertaa niin vanha kuin C on nyt. Kuinka vanha C on nyt?",
             "a": "15",
             "b": "30",
             "c": "20",
@@ -383,10 +383,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let C's present age is x and his mother's age is y.! !Given that!y = 4(x-10)!y = 4x-40!4x-y = 40 ...(1)! !and!y+10 = 2x!2x-y = 10 ...(2).! !By simultaneously solving equation(1) and equation(2) we find! x = 15! !Hence C is 15 years old."
+            "explain": "Olkoon C:n nykyinen ikä x ja hänen äitinsä ikä y.! !Olettaen, että!y = 4(x-10)!y = 4x-40!4x-y = 40 ...(1)! !ja!y+10 = 2x!2x-y = 10 ...(2).! !Ratkaisemalla samanaikaisesti yhtälön (1) ja yhtälön (2) saamme! x = 15! !Siksi C on 15-vuotias."
         },
         {
-            "question": "A mother's age after 5 years, will be twice the age of her daughter. The difference of their ages is 19. What is the age of mother?",
+            "question": "Äidin ikä 5 vuoden kuluttua on kaksinkertainen hänen tyttärensä ikään nähden. Heidän ikäeronsa on 19. Mikä on äidin ikä?",
             "a": "13",
             "b": "33",
             "c": "15",
@@ -394,10 +394,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of daughter is x and present age of mother is y.! !Given that!y+5 = 2(x+5)!y+5 = 2x+10!5-10 = 2x-y!y-2x = 5 ...(1)! !and also given that!y-x = 19 ...(2)! !By simultaneously solving equation(1) and equation(2) we can find!y = 33! !Hence mothers present age is 33 years."
+            "explain": "Olkoon tyttären nykyinen ikä x ja äidin nykyinen ikä y.! !Olettaen, että!y+5 = 2(x+5)!y+5 = 2x+10!5-10 = 2x-y!y-2x = 5 ...(1)! !ja myös olettaen, että!y-x = 19 ...(2)! !Ratkaisemalla samanaikaisesti yhtälön (1) ja yhtälön (2) voimme löytää!y = 33! !Siksi äidin nykyinen ikä on 33 vuotta."
         },
         {
-            "question": "The ages of X and Y are in the ratio 7/4. If the sum of their present ages is 55, then the age of X is",
+            "question": "X:n ja Y:n ikien suhde on 7/4. Jos heidän nykyisten ikiensä summa on 55, niin X:n ikä on",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -405,10 +405,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!x/y = 7/4 ...(1)! !and!x+y = 55 ...(2)! !From equation(1)!4x = 7y!y = (4/7)x! !Put value of y in equation(2)!x + (4/7)x = 55!(7x+4x)/7 = 55!11x = 385!x = 35! !Hence the age of x is 35 years."
+            "explain": "Olettaen, että!x/y = 7/4 ...(1)! !ja!x+y = 55 ...(2)! !Yhtälöstä (1)!4x = 7y!y = (4/7)x! !Aseta y:n arvo yhtälöön (2)!x + (4/7)x = 55!(7x+4x)/7 = 55!11x = 385!x = 35! !Siksi x:n ikä on 35 vuotta."
         },
         {
-            "question": "The sum of the ages of a son and a father is 64. After 4 years the age of father will be three times that of his son's. The age of father is",
+            "question": "Pojan ja isän ikien summa on 64. 4 vuoden kuluttua isän ikä on kolme kertaa hänen poikansa ikä. Isän ikä on",
             "a": "46",
             "b": "50",
             "c": "44",
@@ -416,10 +416,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!x+y = 64 ...(1)! !and!y+4 = 3(x+4)!y+4 = 3x + 12!y-3x = 8 ...(2)! !Put value of x from equation(1) in equation(2)! !y-3(64-y) = 8!y-192+3y = 8!4y = 200!y = 50! !Hence present age of the father is 50 years."
+            "explain": "Olkoon pojan nykyinen ikä x ja isän nykyinen ikä y.! !Olettaen, että!x+y = 64 ...(1)! !ja!y+4 = 3(x+4)!y+4 = 3x + 12!y-3x = 8 ...(2)! !Aseta x:n arvo yhtälöstä (1) yhtälöön (2)! !y-3(64-y) = 8!y-192+3y = 8!4y = 200!y = 50! !Siksi isän nykyinen ikä on 50 vuotta."
         },
         {
-            "question": "Ages of A and B are in ratio 8/7. 27 years ago their ages were in the ratio 5/4. The age of B is",
+            "question": "A:n ja B:n ikien suhde on 8/7. 27 vuotta sitten heidän ikiensä suhde oli 5/4. B:n ikä on",
             "a": "63",
             "b": "65",
             "c": "68",
@@ -427,10 +427,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A/B = 8/7 ...(1)! !and!(A-27)/(B-27) = 5/4!5B-135 = 4A-108 ...(2)! !From equation(1) we have!A = (8/7)B! !Put value of A in equation(2)!5B-135 = 4*[(8/7)B]-108!5B-27 = (32/7)B!5B-(32/7)B = 27!(35B-32B)/7 = 27!3B = 189!B = 63! !Hence the age of B is 63 years."
+            "explain": "Olettaen, että!A/B = 8/7 ...(1)! !ja!(A-27)/(B-27) = 5/4!5B-135 = 4A-108 ...(2)! !Yhtälöstä (1) meillä on!A = (8/7)B! !Aseta A:n arvo yhtälöön (2)!5B-135 = 4*[(8/7)B]-108!5B-27 = (32/7)B!5B-(32/7)B = 27!(35B-32B)/7 = 27!3B = 189!B = 63! !Siksi B:n ikä on 63 vuotta."
         },
         {
-            "question": "A father is 15 times as old as his son. however, 18 years later, he will be only thrice as old as the son. What is the father's present age?",
+            "question": "Isä on 15 kertaa niin vanha kuin poikansa. 18 vuoden kuluttua hän on kuitenkin vain kolme kertaa niin vanha kuin poika. Mikä on isän nykyinen ikä?",
             "a": "21",
             "b": "25",
             "c": "45",
@@ -438,10 +438,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of the son is x and present age of Father is y.! !Given that!y = 15x!15x-y = 0 ...(1)! !and also given that!y+18 = 3(x+18)!y+18 = 3x+54!y-3x = 36 ...(2)! !By simultaneously solving equation(1) and equation(2)!y = 45! !Hence father's present age is 45 years."
+            "explain": "Olkoon pojan nykyinen ikä x ja isän nykyinen ikä y.! !Olettaen, että!y = 15x!15x-y = 0 ...(1)! !ja myös olettaen, että!y+18 = 3(x+18)!y+18 = 3x+54!y-3x = 36 ...(2)! !Ratkaisemalla samanaikaisesti yhtälön (1) ja yhtälön (2)!y = 45! !Siksi isän nykyinen ikä on 45 vuotta."
         },
         {
-            "question": "Ten years ago a father was seven times as old as his son, two years hence, twice his age will be equal to five times his son's. What is the present age of son?",
+            "question": "Kymmenen vuotta sitten isä oli seitsemän kertaa niin vanha kuin poikansa, kahden vuoden kuluttua hänen ikänsä on kaksi kertaa viisi kertaa hänen poikansa ikä. Mikä on pojan nykyinen ikä?",
             "a": "14",
             "b": "20",
             "c": "16",
@@ -449,10 +449,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!y-10 = 7(x-10)!y-10 = 7x-70!y-7x = -70+10!7x-y = 60 ...(1)! ! and also given that!2(y+2) = 5(x+2)!2y+4 = 5x+10!2y-5x = 6 ...(2)By simultaneously soving equation(1) and equation(2)!x = 14! !Hence present age of son is 14 years."
+            "explain": "Olkoon pojan nykyinen ikä x ja isän nykyinen ikä y.! !Olettaen, että!y-10 = 7(x-10)!y-10 = 7x-70!y-7x = -70+10!7x-y = 60 ...(1)! ! ja myös olettaen, että!2(y+2) = 5(x+2)!2y+4 = 5x+10!2y-5x = 6 ...(2)Ratkaisemalla samanaikaisesti yhtälön (1) ja yhtälön (2)!x = 14! !Siksi pojan nykyinen ikä on 14 vuotta."
         },
         {
-            "question": "Ten years ago Akram was thrice as old as Aslam was, but 10 years hence, he will be only twice as old. What is Akram's present age?",
+            "question": "Kymmenen vuotta sitten Akram oli kolme kertaa niin vanha kuin Aslam, mutta 10 vuoden kuluttua hän on vain kaksi kertaa niin vanha. Mikä on Akramin nykyinen ikä?",
             "a": "30",
             "b": "50",
             "c": "60",
@@ -460,10 +460,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Aslam's present age is x and Akram's present age is y.! !Given that!y-10 = 3(x-10)!y-10 = 3x-30!y-3x = -20!3x-y = 20 ...(1)! !and also given that!y+10 = 2(x+10)!y+10 = 2x+20!y-2x = 10 ...(2)! !By simultaneously solving equation(1) and equation(2)!y=70! !Hence Akram's present age is 70 years."
+            "explain": "Olkoon Aslamin nykyinen ikä x ja Akramin nykyinen ikä y.! !Olettaen, että!y-10 = 3(x-10)!y-10 = 3x-30!y-3x = -20!3x-y = 20 ...(1)! !ja myös olettaen, että!y+10 = 2(x+10)!y+10 = 2x+20!y-2x = 10 ...(2)! !Ratkaisemalla samanaikaisesti yhtälön (1) ja yhtälön (2)!y=70! !Siksi Akramin nykyinen ikä on 70 vuotta."
         },
         {
-            "question": "20 years ago my age was 1/3 of what it is now. What is my present age?",
+            "question": "20 vuotta sitten ikäni oli 1/3 siitä, mitä se on nyt. Mikä on nykyinen ikäni?",
             "a": "30",
             "b": "33",
             "c": "36",
@@ -471,10 +471,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let my present age is x.! !Given that!x-20 = (1/3)x!3x-60 = x!2x = 60!x = 30! !Hence my present age is 30 years."
+            "explain": "Olkoon nykyinen ikäni x.! !Olettaen, että!x-20 = (1/3)x!3x-60 = x!2x = 60!x = 30! !Siksi nykyinen ikäni on 30 vuotta."
         },
         {
-            "question": "The average age of A and B is 20. If C were to replace A, the average would be 19, and if B was replaced by C, the average would be 21. The age of C is",
+            "question": "A:n ja B:n keski-ikä on 20. Jos C korvaisi A:n, keski-ikä olisi 19, ja jos B korvattaisiin C:llä, keski-ikä olisi 21. C:n ikä on",
             "a": "18",
             "b": "19",
             "c": "20",
@@ -482,10 +482,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!(A+B)/2 = 20!A+B = 40 ...(1)! !and!(C+B)/2 = 19!C+B = 38 ...(2)! !and!(A+C)/2 = 21!A+C = 42 ...(3)! !Put value of A from equation(1) in equation(3)!(40-B)+C = 42!C-B = 2 ...(4)! !By simultaneously solving equation(2) and equation(4)!C = 20! !Hence C is 20 years old."
+            "explain": "Olettaen, että!(A+B)/2 = 20!A+B = 40 ...(1)! !ja!(C+B)/2 = 19!C+B = 38 ...(2)! !ja!(A+C)/2 = 21!A+C = 42 ...(3)! !Aseta A:n arvo yhtälöstä (1) yhtälöön (3)!(40-B)+C = 42!C-B = 2 ...(4)! !Ratkaisemalla samanaikaisesti yhtälön (2) ja yhtälön (4)!C = 20! !Siksi C on 20-vuotias."
         },
         {
-            "question": "The ratio of the ages of two friends A and B is 3/2. However if the age of A is decreased by 10 and that of B is increased by 10 then the original ratio is reversed. Age of A is",
+            "question": "Kahden ystävän A ja B ikien suhde on 3/2. Jos kuitenkin A:n ikää pienennetään 10:llä ja B:n ikää kasvatetaan 10:llä, alkuperäinen suhde kääntyy. A:n ikä on",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -493,10 +493,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A/B = 3/2!2A = 3B!2A-3B = 0 ...(1)! !and also given that!(A-10)/(B+10) = 2/3!3A-30 = 2B+20!3A-2B = 50 ...(2)! !By simultaneously solving equation(1) and equation(2)!A = 30! !Hence age of A is 30 years."
+            "explain": "Olettaen, että!A/B = 3/2!2A = 3B!2A-3B = 0 ...(1)! !ja myös olettaen, että!(A-10)/(B+10) = 2/3!3A-30 = 2B+20!3A-2B = 50 ...(2)! !Ratkaisemalla samanaikaisesti yhtälön (1) ja yhtälön (2)!A = 30! !Siksi A:n ikä on 30 vuotta."
         },
         {
-            "question": "The sum of the ages of two children is 12  and their product is 32. The age of elder one is",
+            "question": "Kahden lapsen ikien summa on 12 ja niiden tulo on 32. Vanhemman ikä on",
             "a": "2",
             "b": "3",
             "c": "4",
@@ -504,10 +504,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let age of younger child is x and age of elder child is y.! !Given that!x+y = 12 ...(1)! !and!xy = 32!x = 32/y! !Put value of x in equation(1)!(32/y)+y = 12!32+(y^2) = 12y!(y^2)-12y+32 = 0!(y^2)-8y-4y+32 = 0!y(y-8)+4(y-8) = 0!(y-8)(y+4) = 0!y = -4 (impossible)!or!y = 8! !Hence age of elder child is 8 years."
+            "explain": "Olkoon nuoremman lapsen ikä x ja vanhemman lapsen ikä y.! !Olettaen, että!x+y = 12 ...(1)! !ja!xy = 32!x = 32/y! !Aseta x:n arvo yhtälöön (1)!(32/y)+y = 12!32+(y^2) = 12y!(y^2)-12y+32 = 0!(y^2)-8y-4y+32 = 0!y(y-8)+4(y-8) = 0!(y-8)(y+4) = 0!y = -4 (mahdotonta)!tai!y = 8! !Siksi vanhemman lapsen ikä on 8 vuotta."
         },
         {
-            "question": "The ratio of A's age and B's age is 3/7, and the difference of their ages is 16 years. Find the age of B.",
+            "question": "A:n ja B:n ikien suhde on 3/7, ja heidän ikäeronsa on 16 vuotta. Selvitä B:n ikä.",
             "a": "25",
             "b": "26",
             "c": "27",
@@ -515,12 +515,12 @@
             "answer": "",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "We can simply check it from options. If John's cousins age is 7 then John's age is 42!and!1/6 0f 42 = 7!Hence 7 fulfills the required condition.",
+            "explain": "Voimme yksinkertaisesti tarkistaa sen vaihtoehdoista. Jos Johnin serkun ikä on 7, niin Johnin ikä on 42!ja!1/6 0f 42 = 7!Siksi 7 täyttää vaaditun ehdon.",
             "e": "28",
-            "f": "Given that!A/B = 3/7 ...(1)! !and!B-A = 16 ...(2)!Put value of A from equation(1) in equation(2)!B-(3/7)B = 16!(7B-3B)/7 = 16!4B = 112!B = 28! !Hence Age of B is 28 years."
+            "f": "Olettaen, että!A/B = 3/7 ...(1)! !ja!B-A = 16 ...(2)!Aseta A:n arvo yhtälöstä (1) yhtälöön (2)!B-(3/7)B = 16!(7B-3B)/7 = 16!4B = 112!B = 28! !Siksi B:n ikä on 28 vuotta."
         },
         {
-            "question": "Tina is twice as old as David. 15 years ago, Tina's age was 5 times the age of David. What is the present age of Tina?",
+            "question": "Tina on kaksi kertaa niin vanha kuin David. 15 vuotta sitten Tinan ikä oli 5 kertaa Davidin ikä. Mikä on Tinan nykyinen ikä?",
             "a": "20",
             "b": "35",
             "c": "40",
@@ -528,10 +528,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let David's age is x and Tina's age is y.! !Given that!y = 2x!y-2x = 0 ...(1)! !and also given that!y-15 = 5(x-15)!y-15 = 5x-75!y-5x = -60 ...(2)! !By simultaneously solving equation(1) and equation(2)!y = 40! !Hence Tina's present age is 40 years."
+            "explain": "Olkoon Davidin ikä x ja Tinan ikä y.! !Olettaen, että!y = 2x!y-2x = 0 ...(1)! !ja myös olettaen, että!y-15 = 5(x-15)!y-15 = 5x-75!y-5x = -60 ...(2)! !Ratkaisemalla samanaikaisesti yhtälön (1) ja yhtälön (2)!y = 40! !Siksi Tinan nykyinen ikä on 40 vuotta."
         },
         {
-            "question": "The present age of A is 45 yeras. 5 years ago the age of A was 5 times the age of his son B. How old is B now?",
+            "question": "A:n nykyinen ikä on 45 vuotta. 5 vuotta sitten A:n ikä oli 5 kertaa hänen poikansa B:n ikä. Kuinka vanha B on nyt?",
             "a": "5",
             "b": "15",
             "c": "13",
@@ -539,10 +539,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A = 45! !and!A-5 = 5(B-5)!40 = 5B-25!65 = 5B!B = 13! !Hence B is 13 years old now."
+            "explain": "Olettaen, että!A = 45! !ja!A-5 = 5(B-5)!40 = 5B-25!65 = 5B!B = 13! !Siksi B on nyt 13-vuotias."
         },
         {
-            "question": "A's age is 3/4 of that of B's. Two years ago A's age was 1/2 of what B will be in 4 years. How old is A now?",
+            "question": "A:n ikä on 3/4 B:n iästä. Kaksi vuotta sitten A:n ikä oli 1/2 siitä, mitä B on 4 vuoden kuluttua. Kuinka vanha A on nyt?",
             "a": "17",
             "b": "12",
             "c": "20",
@@ -550,10 +550,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A = (3/4)B ...(1)! !and!A-2 = (1/2)(B+4)!2A-4 = B+4!2A-B = 8! !Put value of B from equation(1)!2A-(4/3)A = 8!6A-4A = 24!2A = 24!A = 12! !Hence A is 12 years old now."
+            "explain": "Olettaen, että!A = (3/4)B ...(1)! !ja!A-2 = (1/2)(B+4)!2A-4 = B+4!2A-B = 8! !Aseta B:n arvo yhtälöstä (1)!2A-(4/3)A = 8!6A-4A = 24!2A = 24!A = 12! !Siksi A on nyt 12-vuotias."
         },
         {
-            "question": "A father is 3 years older than 3 times the age of his son. If the sum of their ages is 31 years, how old was father 3 years ago?",
+            "question": "Isä on 3 vuotta vanhempi kuin 3 kertaa poikansa ikä. Jos heidän ikiensä summa on 31 vuotta, kuinka vanha isä oli 3 vuotta sitten?",
             "a": "21",
             "b": "18",
             "c": "14",
@@ -561,10 +561,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!y = 3x+3 ...(1)! !and!x+y = 31!x = 31-y! !Put value of x in equation(1)!y = 3(31-y)+3!y = 93-3y+3!4y = 96!y = 24! !Three years ago!y = 24-3!y = 21! !Hence father was 21 years old 3 years ago."
+            "explain": "Olkoon pojan nykyinen ikä x ja isän nykyinen ikä y.! !Olettaen, että!y = 3x+3 ...(1)! !ja!x+y = 31!x = 31-y! !Aseta x:n arvo yhtälöön (1)!y = 3(31-y)+3!y = 93-3y+3!4y = 96!y = 24! !Kolme vuotta sitten!y = 24-3!y = 21! !Siksi isä oli 21-vuotias 3 vuotta sitten."
         },
         {
-            "question": "X is 4 times as old as y. 4 years ago, X was 10 times as old as Y. What will be the ratio of their ages 6 years hence?",
+            "question": "X on 4 kertaa niin vanha kuin y. 4 vuotta sitten X oli 10 kertaa niin vanha kuin Y. Mikä on heidän ikiensä suhde 6 vuoden kuluttua?",
             "a": "5/2",
             "b": "3/5",
             "c": "5/4",
@@ -572,10 +572,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!X = 4Y ...(1)! !and!X-4 = 10(Y-4)!X-4 = 10Y-40!X-10Y = -36!10Y-X = 36 ...(2)! !Put value of X from equation(1) in equation(2)!10Y-4Y = 36!6Y = 36!Y = 6! !Put value of Y in equation(1)!X = 4*6!X = 24! !After 6 years!Y = 24+6!Y = 30!and!X = 6+6!X = 12! !Ratio between X and Y is!30/12 = 5/2! !Hence after 6 years ratio between ages of X and Y will be 5/2."
+            "explain": "Olettaen, että!X = 4Y ...(1)! !ja!X-4 = 10(Y-4)!X-4 = 10Y-40!X-10Y = -36!10Y-X = 36 ...(2)! !Aseta X:n arvo yhtälöstä (1) yhtälöön (2)!10Y-4Y = 36!6Y = 36!Y = 6! !Aseta Y:n arvo yhtälöön (1)!X = 4*6!X = 24! !6 vuoden kuluttua!Y = 24+6!Y = 30!ja!X = 6+6!X = 12! !Suhde X:n ja Y:n välillä on!30/12 = 5/2! !Siksi 6 vuoden kuluttua X:n ja Y:n ikien suhde on 5/2."
         },
         {
-            "question": "The ages of C and D are in 6/11 and E is 6 years younger than D. If the sum of ages is 134, then what is the age of D?",
+            "question": "C:n ja D:n iät ovat 6/11 ja E on 6 vuotta nuorempi kuin D. Jos ikien summa on 134, niin mikä on D:n ikä?",
             "a": "65",
             "b": "70",
             "c": "35",
@@ -583,10 +583,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!C/D = 6/11!C = (6/11)D ...(1)! !and!C+D+E = 134! !As E is 6 years younger from D so we can put D-6 instead of D!C+D+D-6 = 134!C+2D = 140!Put value of C from equation(1)!(6/11)D+2D = 140!6D+22D = 140!28D = 1540!D = 55! !Hence D is 55 years old."
+            "explain": "Olettaen, että!C/D = 6/11!C = (6/11)D ...(1)! !ja!C+D+E = 134! !Koska E on 6 vuotta nuorempi kuin D, voimme laittaa D-6 D:n sijaan!C+D+D-6 = 134!C+2D = 140!Aseta C:n arvo yhtälöstä (1)!(6/11)D+2D = 140!6D+22D = 140!28D = 1540!D = 55! !Siksi D on 55-vuotias."
         },
         {
-            "question": "Kamal's age is 1/6 of his father's age. If kamal's 8th birthday was celebrated 2 years ago, what is father's present age?",
+            "question": "Kamalin ikä on 1/6 hänen isänsä iästä. Jos Kamalin 8. syntymäpäivää juhlittiin 2 vuotta sitten, mikä on isän nykyinen ikä?",
             "a": "2",
             "b": "3",
             "c": "6",
@@ -594,10 +594,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Kamal's present age is x and his father's present age is y.! !Given that!y = 6x ...(1)! !and!x-2 = 8!x = 10! !Put value of x in equation(1)!y = 6*10!y = 60! !Hence father's present age is 60 years."
+            "explain": "Olkoon Kamalin nykyinen ikä x ja hänen isänsä nykyinen ikä y.! !Olettaen, että!y = 6x ...(1)! !ja!x-2 = 8!x = 10! !Aseta x:n arvo yhtälöön (1)!y = 6*10!y = 60! !Siksi isän nykyinen ikä on 60 vuotta."
         },
         {
-            "question": "3 years ago, the average age of C and D was 18 years. With E joining them, the average becomes 22 years. How old is E now?",
+            "question": "3 vuotta sitten C:n ja D:n keski-ikä oli 18 vuotta. Kun E liittyy heihin, keski-ikä on 22 vuotta. Kuinka vanha E on nyt?",
             "a": "24",
             "b": "27",
             "c": "28",
@@ -605,10 +605,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that![(C-3)+(D-3)]/2 = 18!C-3+D-3 = 36!C+D = 42 ...(1)! !and also given that!(C+D+E)/3 = 22!C+D+E = 66! !Put value of C+D from equation(1)!42+E = 66!E = 66-42!E = 24! !Hence E is 24 years old now."
+            "explain": "Olettaen, että![(C-3)+(D-3)]/2 = 18!C-3+D-3 = 36!C+D = 42 ...(1)! !ja myös olettaen, että!(C+D+E)/3 = 22!C+D+E = 66! !Aseta C+D:n arvo yhtälöstä (1)!42+E = 66!E = 66-42!E = 24! !Siksi E on nyt 24-vuotias."
         },
         {
-            "question": "Bill's age is 1/3 of Mike's age, who is 60% of James' age. Tom is twice as old as Mike. What is the ratio of Bill's age to Tom's age?",
+            "question": "Billin ikä on 1/3 Miken iästä, joka on 60 % Jamesin iästä. Tom on kaksi kertaa niin vanha kuin Mike. Mikä on Billin ja Tomin ikien suhde?",
             "a": "1/6",
             "b": "1/3",
             "c": "3/1",
@@ -616,10 +616,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Bill's age is Z, Mike's age is Y and Tom's age is X.! !Given that!Z = (1/3)Y!and!Y = (60/100)X!Y = (6/10)X! !Tom's Age is double of Mike's age mean his age is 2y.!Now Bill's age is (1/3)Y and Tom's age is 2Y and ratio between them is![(1/3)Y] / 2Y!(1/3)*(1/2) = 1/6! !Hence ratio between Bill's and Tom's age is 1/6."
+            "explain": "Olkoon Billin ikä Z, Miken ikä Y ja Tomin ikä X.! !Olettaen, että!Z = (1/3)Y!ja!Y = (60/100)X!Y = (6/10)X! !Tomin ikä on kaksinkertainen Miken ikään nähden, eli hänen ikänsä on 2y.!Nyt Billin ikä on (1/3)Y ja Tomin ikä on 2Y ja niiden välinen suhde on![(1/3)Y] / 2Y!(1/3)*(1/2) = 1/6! !Siksi Billin ja Tomin ikien suhde on 1/6."
         },
         {
-            "question": "In 1975, A was thrice as old as B but in 1979, A was only twice as old as B was. How old was A in 1985?",
+            "question": "Vuonna 1975 A oli kolme kertaa niin vanha kuin B, mutta vuonna 1979 A oli vain kaksi kertaa niin vanha kuin B. Kuinka vanha A oli vuonna 1985?",
             "a": "25",
             "b": "20",
             "c": "15",
@@ -627,10 +627,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let A's age in 1985 was X.! !Given that!X-10 = 3(B-10)!X-10 = 3B-30!3B-X = 20 ...(1)! !and!X-6 = 2(B-6)!X-6 = 2B-12!2B-X = 6 ...(2)! !By simultaneously solving equation(1) and (2) we have!X = 22! !Hence A's age in 1985 was 22 years."
+            "explain": "Olkoon A:n ikä vuonna 1985 X.! !Olettaen, että!X-10 = 3(B-10)!X-10 = 3B-30!3B-X = 20 ...(1)! !ja!X-6 = 2(B-6)!X-6 = 2B-12!2B-X = 6 ...(2)! !Ratkaisemalla samanaikaisesti yhtälön (1) ja (2) meillä on!X = 22! !Siksi A:n ikä vuonna 1985 oli 22 vuotta."
         },
         {
-            "question": "If 1/2 x year ago A was 12 and 1/2 x years from now he will be 2x years old, how old will he be 3x years from now?",
+            "question": "Jos 1/2 x vuotta sitten A oli 12 ja 1/2 x vuoden kuluttua hän on 2x-vuotias, kuinka vanha hän on 3x vuoden kuluttua?",
             "a": "18",
             "b": "24",
             "c": "30",
@@ -638,10 +638,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A-(1/2)x = 12!2A-x = 24 ...(1)!and!A+(1/2)x = 2x!A+(1/2)x-2x = 0!A+(x-4x)/2 = 0!A-(3/2)x = 0!2A-3x = 0 ...(2)!By simultaneously solving equation(1) and (2) we have!x = 12!and!A = 18! !Now!3x = 3*12 = 36! !After 3x years A will be!18+36 = 54 years old"
+            "explain": "Olettaen, että!A-(1/2)x = 12!2A-x = 24 ...(1)!ja!A+(1/2)x = 2x!A+(1/2)x-2x = 0!A+(x-4x)/2 = 0!A-(3/2)x = 0!2A-3x = 0 ...(2)!Ratkaisemalla samanaikaisesti yhtälön (1) ja (2) meillä on!x = 12!ja!A = 18! !Nyt!3x = 3*12 = 36! !3x vuoden kuluttua A on!18+36 = 54-vuotias"
         },
         {
-            "question": "The difference of the ages of two brothers is 2 and the difference of the square of their ages is 16. The age of smaller one is?",
+            "question": "Kahden veljen ikäero on 2 ja heidän ikiensä neliöiden erotus on 16. Nuoremman ikä on?",
             "a": "4",
             "b": "5",
             "c": "2",
@@ -649,7 +649,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of elder brother is y and present age of younger brother is x.! !Given that!y-x = 2 ...(1)! !and!(y^2)-(x^2) = 16!(y+x)(y-x) = 16! !Put value of (y-x) from equation(1)!2(y+x) = 16!y+x = 8 ...(2)! !By simultaneously solving equation(1) and equation(2) we have!y = 5!and!x = 3! !Hence present age of younger brother is 3 years."
+            "explain": "Olkoon vanhemman veljen nykyinen ikä y ja nuoremman veljen nykyinen ikä x.! !Olettaen, että!y-x = 2 ...(1)! !ja!(y^2)-(x^2) = 16!(y+x)(y-x) = 16! !Aseta (y-x):n arvo yhtälöstä (1)!2(y+x) = 16!y+x = 8 ...(2)! !Ratkaisemalla samanaikaisesti yhtälön (1) ja yhtälön (2) meillä on!y = 5!ja!x = 3! !Siksi nuoremman veljen nykyinen ikä on 3 vuotta."
         }
     ]
 }

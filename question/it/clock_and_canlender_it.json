@@ -1,62 +1,62 @@
 {
     "data": [
         {
-            "question": "The reflex angle between the hands of a clock at 10:25 is",
-            "a": "180 degree",
-            "b": "192.5 degree",
-            "c": "197.5 degree",
-            "d": "195 degree",
+            "question": "L'angolo riflesso tra le lancette di un orologio alle 10:25 è",
+            "a": "180 gradi",
+            "b": "192,5 gradi",
+            "c": "197,5 gradi",
+            "d": "195 gradi",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 125/12 hrs = (360/12 * 125/12) = 625/2 degree! !Angle traced by minute hand in 25 min = (360/60 * 25) = 150 degree! !So, Reflex angle = 360 - (625/2 - 150) = 197.5 degree"
+            "explain": "Angolo tracciato dalla lancetta delle ore in 125/12 ore = (360/12 * 125/12) = 625/2 gradi! !Angolo tracciato dalla lancetta dei minuti in 25 min = (360/60 * 25) = 150 gradi! !Quindi, angolo riflesso = 360 - (625/2 - 150) = 197,5 gradi"
         },
         {
-            "question": "On 8th Dec, 2007 Saturday falls.What day of the week was it on 8th Dec, 2006?",
-            "a": "Sunday",
-            "b": "Thursday",
-            "c": "Tuesday",
-            "d": "Friday",
+            "question": "L'8 dicembre 2007 cade di sabato. Che giorno della settimana era l'8 dicembre 2006?",
+            "a": "Domenica",
+            "b": "Giovedì",
+            "c": "Martedì",
+            "d": "Venerdì",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2006 is an ordinary year. So, it has 1 odd day.! !So, the day on 8th Dec, 2007 will be 1 day beyond the day on 8th Dec, 2006.! !But, 8th Dec, 2007 is Saturday.! !Hence, 8th Dec, 2006 is Friday."
+            "explain": "L'anno 2006 è un anno ordinario. Quindi, ha 1 giorno dispari.! !Quindi, il giorno dell'8 dicembre 2007 sarà 1 giorno oltre il giorno dell'8 dicembre 2006.! !Ma l'8 dicembre 2007 è sabato.! !Quindi, l'8 dicembre 2006 è venerdì."
         },
         {
-            "question": "January 1, 2008 is Tuesday.What day of the week lies on Jan 1, 2009?",
-            "a": "Monday",
-            "b": "Wednesday",
-            "c": "Thursday",
-            "d": "Sunday",
+            "question": "Il 1 gennaio 2008 è martedì. Che giorno della settimana cade il 1 gennaio 2009?",
+            "a": "Lunedì",
+            "b": "Mercoledì",
+            "c": "Giovedì",
+            "d": "Domenica",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2008 is a leap year. So, it has 2 odd days.! !1st day of the year 2008 is Tuesday (Given)! !So, 1st day of the year 2009 is 2 days beyond Tuesday.! !Hence, it will be Thursday."
+            "explain": "L'anno 2008 è un anno bisestile. Quindi, ha 2 giorni dispari.! !Il primo giorno dell'anno 2008 è martedì (dato)! !Quindi, il primo giorno dell'anno 2009 è 2 giorni dopo martedì.! !Quindi, sarà giovedì."
         },
         {
-            "question": "At what angle the hands of a clock are inclined at 15 minutes past 5?",
-            "a": "58.5 degree",
-            "b": "64 degree",
-            "c": "67.5 degree",
-            "d": "72.5 degree",
+            "question": "A che angolo sono inclinate le lancette di un orologio alle 5 e 15 minuti?",
+            "a": "58,5 gradi",
+            "b": "64 gradi",
+            "c": "67,5 gradi",
+            "d": "72,5 gradi",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 21/4 hrs = (360/12 * 21/4) = 157.5 degree! !Angle traced by minute hand in 15 min = (360/60 * 15) = 90 degree! !So, required angle = (157.5 - 90) = 67.5 degree"
+            "explain": "Angolo tracciato dalla lancetta delle ore in 21/4 ore = (360/12 * 21/4) = 157,5 gradi! !Angolo tracciato dalla lancetta dei minuti in 15 min = (360/60 * 15) = 90 gradi! !Quindi, angolo richiesto = (157,5 - 90) = 67,5 gradi"
         },
         {
-            "question": "At 3:40, the hour hand and the minute hand of a clock form an angle of ...",
-            "a": "120 degree",
-            "b": "125 degree",
-            "c": "130 degree",
-            "d": "135 degree",
+            "question": "Alle 3:40, la lancetta delle ore e la lancetta dei minuti di un orologio formano un angolo di ...",
+            "a": "120 gradi",
+            "b": "125 gradi",
+            "c": "130 gradi",
+            "d": "135 gradi",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 12 hrs = 360 degree! !Angle traced by it in 11/3 hrs = (360/12 * 11/3) = 110 degree! !Angle traced by minute hand in 60 min. = 360 degree! !Angle traced by it in 40 min = (360/60 * 40) = 240 degree! ! So, Required angle (240 - 110) = 130 degree"
+            "explain": "Angolo tracciato dalla lancetta delle ore in 12 ore = 360 gradi! !Angolo tracciato da essa in 11/3 ore = (360/12 * 11/3) = 110 gradi! !Angolo tracciato dalla lancetta dei minuti in 60 min. = 360 gradi! !Angolo tracciato da essa in 40 min = (360/60 * 40) = 240 gradi! ! Quindi, angolo richiesto (240 - 110) = 130 gradi"
         },
         {
-            "question": "How many times are the hands of a clock at right angle in a day?",
+            "question": "Quante volte le lancette di un orologio sono ad angolo retto in un giorno?",
             "a": "22",
             "b": "24",
             "c": "44",
@@ -64,21 +64,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In 12 hours, they are at right angles 22 times! !So, In 24 hours, they are at right angles 44 times."
+            "explain": "In 12 ore, sono ad angolo retto 22 volte! !Quindi, in 24 ore, sono ad angolo retto 44 volte."
         },
         {
-            "question": "The angle between the minute hand and the hour hand of a clock when the time is 8:30, is ?",
-            "a": "80 degree",
-            "b": "75 degree",
-            "c": "60 degree",
-            "d": "105 degree",
+            "question": "L'angolo tra la lancetta dei minuti e la lancetta delle ore di un orologio quando l'ora è 8:30, è?",
+            "a": "80 gradi",
+            "b": "75 gradi",
+            "c": "60 gradi",
+            "d": "105 gradi",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 17/2 hrs = (360/12 * 17/2) = 255 degree! !Angle traced by minute hand in 30 min = (360/60 * 30) = 180 degree! !So, Required angle = (255 - 180) = 75 degree"
+            "explain": "Angolo tracciato dalla lancetta delle ore in 17/2 ore = (360/12 * 17/2) = 255 gradi! !Angolo tracciato dalla lancetta dei minuti in 30 min = (360/60 * 30) = 180 gradi! !Quindi, angolo richiesto = (255 - 180) = 75 gradi"
         },
         {
-            "question": "How many times in a day, are the hands of a clock in straight line but opposite in direction?",
+            "question": "Quante volte in un giorno le lancette di un orologio sono in linea retta ma in direzioni opposte?",
             "a": "24",
             "b": "4",
             "c": "22",
@@ -86,10 +86,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The hands of a clock point in opposite directions (in the same straight line) 11 times in every 12 hours. (Because between 5 and 7 they point in opposite directions at 6 o'clcok only).! !So, in a day, the hands point in the opposite directions 22 times."
+            "explain": "Le lancette di un orologio puntano in direzioni opposte (nella stessa linea retta) 11 volte ogni 12 ore. (Perché tra le 5 e le 7 puntano in direzioni opposte solo alle 6 in punto).! !Quindi, in un giorno, le lancette puntano in direzioni opposte 22 volte."
         },
         {
-            "question": "Which of the following is not a leap year?",
+            "question": "Quale dei seguenti non è un anno bisestile?",
             "a": "700",
             "b": "800",
             "c": "1200",
@@ -97,10 +97,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The century divisible by 400 is a leap year.! !So, The year 700 is not a leap year."
+            "explain": "Il secolo divisibile per 400 è un anno bisestile.! !Quindi, l'anno 700 non è un anno bisestile."
         },
         {
-            "question": "How many times in a day, the hands of a clock are straight?",
+            "question": "Quante volte in un giorno le lancette di un orologio sono dritte?",
             "a": "22",
             "b": "24",
             "c": "44",
@@ -108,98 +108,98 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In 12 hours, the hands coincide or are in opposite direction 22 times.! !So,  In 24 hours, the hands coincide or are in opposite direction 44 times a day."
+            "explain": "In 12 ore, le lancette coincidono o sono in direzione opposta 22 volte.! !Quindi, in 24 ore, le lancette coincidono o sono in direzione opposta 44 volte al giorno."
         },
         {
-            "question": "It was Sunday on Jan 1, 2006.What was the day of the week Jan 1, 2010?",
-            "a": "Sunday",
-            "b": "Saturday",
-            "c": "Friday",
-            "d": "Wednesday",
+            "question": "Era domenica il 1 gennaio 2006. Che giorno della settimana era il 1 gennaio 2010?",
+            "a": "Domenica",
+            "b": "Sabato",
+            "c": "Venerdì",
+            "d": "Mercoledì",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "On 31st December, 2005 it was Saturday.!Number of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.! !So, On 31st December 2009, it was Thursday.! !Thus, on 1st Jan, 2010 it is Friday."
+            "explain": "Il 31 dicembre 2005 era sabato.!Numero di giorni dispari dall'anno 2006 all'anno 2009 = (1 + 1 + 2 + 1) = 5 giorni.! !Quindi, il 31 dicembre 2009 era giovedì.! !Quindi, il 1 gennaio 2010 è venerdì."
         },
         {
-            "question": "What was the day of the week on 28th May, 2006?",
-            "a": "Thursday",
-            "b": "Friday",
-            "c": "Saturday",
-            "d": "Sunday",
+            "question": "Che giorno della settimana era il 28 maggio 2006?",
+            "a": "Giovedì",
+            "b": "Venerdì",
+            "c": "Sabato",
+            "d": "Domenica",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "28 May, 2006 = (2005 years + Period from 1.1.2006 to 28.5.2006)! !Odd days in 1600 years = 0! !Odd days in 400 years = 0! !5 years = (4 ordinary years + 1 leap year) = (4 x 1 + 1 x 2) = 6 odd days! !From January to 28 May (31 +  28  +  31   +   30   +   28 ) = 148 days! !So, 148 days = (21 weeks + 1 day) = 1 odd day.! !Total number of odd days = (0 + 0 + 6 + 1) = 7 = 0 odd day.! !Hence Given day is Sunday"
+            "explain": "28 maggio 2006 = (2005 anni + Periodo dal 1.1.2006 al 28.5.2006)! !Giorni dispari in 1600 anni = 0! !Giorni dispari in 400 anni = 0! !5 anni = (4 anni ordinari + 1 anno bisestile) = (4 x 1 + 1 x 2) = 6 giorni dispari! !Da gennaio al 28 maggio (31 + 28 + 31 + 30 + 28) = 148 giorni! !Quindi, 148 giorni = (21 settimane + 1 giorno) = 1 giorno dispari.! !Numero totale di giorni dispari = (0 + 0 + 6 + 1) = 7 = 0 giorni dispari.! !Quindi il giorno dato è domenica"
         },
         {
-            "question": "What was the day of the week on 17th June, 1998?",
-            "a": "Monday",
-            "b": "Tuesday",
-            "c": "Wednesday",
-            "d": "Thursday",
+            "question": "Che giorno della settimana era il 17 giugno 1998?",
+            "a": "Lunedì",
+            "b": "Martedì",
+            "c": "Mercoledì",
+            "d": "Giovedì",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "17th June, 1998 = (1997 years + Period from 1.1.1998 to 17.6.1998)! !Odd days in 1600 years = 0! !Odd days in 300 years = (5 x 3) = 1! !97 years has 24 leap years + 73 ordinary years.! !Number of odd days in 97 years ( 24 x 2 + 73) = 121 = 2 odd days.! !From January to 17 June (31 +  28  +  31   +   30   +   31   +   17) = 168 days! !168 days = 24 weeks = 0 odd day.! !Total number of odd days = (0 + 1 + 2 + 0) = 3.! !Hence Given day is Wednesday."
+            "explain": "17 giugno 1998 = (1997 anni + Periodo dal 1.1.1998 al 17.6.1998)! !Giorni dispari in 1600 anni = 0! !Giorni dispari in 300 anni = (5 x 3) = 1! !97 anni ha 24 anni bisestili + 73 anni ordinari.! !Numero di giorni dispari in 97 anni (24 x 2 + 73) = 121 = 2 giorni dispari.! !Da gennaio al 17 giugno (31 + 28 + 31 + 30 + 31 + 17) = 168 giorni! !168 giorni = 24 settimane = 0 giorni dispari.! !Numero totale di giorni dispari = (0 + 1 + 2 + 0) = 3.! !Quindi il giorno dato è mercoledì."
         },
         {
-            "question": "What will be the day of the week 15th August, 2010?",
-            "a": "Sunday",
-            "b": "Monday",
-            "c": "Tuesday",
-            "d": "Friday",
+            "question": "Quale sarà il giorno della settimana il 15 agosto 2010?",
+            "a": "Domenica",
+            "b": "Lunedì",
+            "c": "Martedì",
+            "d": "Venerdì",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "15th August, 2010 = (2009 years + Period 1.1.2010 to 15.8.2010)! !Odd days in 1600 years = 0! !Odd days in 400 years = 0! !9 years = (2 leap years + 7 ordinary years) = (2 x 2 + 7 x 1) = 11 odd days = 4 odd days.! !From January to 15 August (31 +  28  +  31   +   30   +  31  + 30  + 31  + 15) = 227 days! !227 days = (32 weeks + 3 days) = 3 odd days.! !Total number of odd days = (0 + 0 + 4 + 3) = 7.! !Hence, Given day is Sunday."
+            "explain": "15 agosto 2010 = (2009 anni + Periodo 1.1.2010 al 15.8.2010)! !Giorni dispari in 1600 anni = 0! !Giorni dispari in 400 anni = 0! !9 anni = (2 anni bisestili + 7 anni ordinari) = (2 x 2 + 7 x 1) = 11 giorni dispari = 4 giorni dispari.! !Da gennaio al 15 agosto (31 + 28 + 31 + 30 + 31 + 30 + 31 + 15) = 227 giorni! !227 giorni = (32 settimane + 3 giorni) = 3 giorni dispari.! !Numero totale di giorni dispari = (0 + 0 + 4 + 3) = 7.! !Quindi, il giorno dato è domenica."
         },
         {
-            "question": "Today is Monday.After 61 days, it will be ...",
-            "a": "Wednesday",
-            "b": "Saturday",
-            "c": "Tuesday",
-            "d": "Thursday",
+            "question": "Oggi è lunedì. Dopo 61 giorni, sarà ...",
+            "a": "Mercoledì",
+            "b": "Sabato",
+            "c": "Martedì",
+            "d": "Giovedì",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each day of the week is repeated after 7 days.! !So, after 63 days, it will be Monday.! !Hence After 61 days, it will be Saturday."
+            "explain": "Ogni giorno della settimana si ripete dopo 7 giorni.! !Quindi, dopo 63 giorni, sarà lunedì.! !Quindi dopo 61 giorni, sarà sabato."
         },
         {
-            "question": "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
-            "a": "Sunday",
-            "b": "Saturday",
-            "c": "Tuesday",
-            "d": "Wednesday",
+            "question": "Se il 6 marzo 2005 è lunedì, che giorno della settimana era il 6 marzo 2004?",
+            "a": "Domenica",
+            "b": "Sabato",
+            "c": "Martedì",
+            "d": "Mercoledì",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2004 is a leap year. So, it has 2 odd days.! !But, Feb 2004 not included because we are calculating from March 2004 to March 2005. So it has 1 odd day only.! !So, the day on 6th March, 2005 will be 1 day beyond the day on 6th March, 2004.! !Given that, 6th March, 2005 is Monday.! !Hence 6th March, 2004 is Sunday."
+            "explain": "L'anno 2004 è un anno bisestile. Quindi, ha 2 giorni dispari.! !Ma, febbraio 2004 non è incluso perché stiamo calcolando da marzo 2004 a marzo 2005. Quindi ha solo 1 giorno dispari.! !Quindi, il giorno del 6 marzo 2005 sarà 1 giorno oltre il giorno del 6 marzo 2004.! !Dato che, il 6 marzo 2005 è lunedì.! !Quindi il 6 marzo 2004 è domenica."
         },
         {
-            "question": "The last day of a century cannot be ...",
-            "a": "Monday",
-            "b": "Wednesday",
-            "c": "Tuesday",
-            "d": "Friday",
+            "question": "L'ultimo giorno di un secolo non può essere ...",
+            "a": "Lunedì",
+            "b": "Mercoledì",
+            "c": "Martedì",
+            "d": "Venerdì",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "100 years contain 5 odd days.! !So, last day of 1st century is Friday.! !200 years contain (5 x 2) = 3 odd days.! !So, Last day of 2nd century is Wednesday.! !300 years contain (5 x 3) = 15 = 1 odd day.! !So, Last day of 3rd century is Monday.! !400 years contain 0 odd day.! !So, Last day of 4th century is Sunday.! !This cycle is repeated.!Hence Last day of a century cannot be Tuesday or Thursday or Saturday."
+            "explain": "100 anni contengono 5 giorni dispari.! !Quindi, l'ultimo giorno del 1° secolo è venerdì.! !200 anni contengono (5 x 2) = 3 giorni dispari.! !Quindi, l'ultimo giorno del 2° secolo è mercoledì.! !300 anni contengono (5 x 3) = 15 = 1 giorno dispari.! !Quindi, l'ultimo giorno del 3° secolo è lunedì.! !400 anni contengono 0 giorni dispari.! !Quindi, l'ultimo giorno del 4° secolo è domenica.! !Questo ciclo si ripete.!Quindi l'ultimo giorno di un secolo non può essere martedì o giovedì o sabato."
         },
         {
-            "question": "On 8th Feb, 2005 it was Tuesday.What was the day of the week on 8th Feb, 2004?",
-            "a": "Tuesday",
-            "b": "Monday",
-            "c": "Sunday",
-            "d": "Wednesday",
+            "question": "L'8 febbraio 2005 era martedì. Che giorno della settimana era l'8 febbraio 2004?",
+            "a": "Martedì",
+            "b": "Lunedì",
+            "c": "Domenica",
+            "d": "Mercoledì",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2004 is a leap year. It has 2 odd days.! !So, The day on 8th Feb, 2004 is 2 days before the day on 8th Feb, 2005.! !Hence, this day is Sunday."
+            "explain": "L'anno 2004 è un anno bisestile. Ha 2 giorni dispari.! !Quindi, il giorno dell'8 febbraio 2004 è 2 giorni prima del giorno dell'8 febbraio 2005.! !Quindi, questo giorno è domenica."
         },
         {
-            "question": "The calendar for the year 2007 will be the same for the year ...",
+            "question": "Il calendario per l'anno 2007 sarà lo stesso per l'anno ...",
             "a": "2014",
             "b": "2016",
             "c": "2017",
@@ -207,10 +207,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Count the number of odd days from the year 2007 onwards to get the sum equal to 0 odd day.! !Year 2007 has 1 odd day!2008 has 2 odd day!2009 has 1 odd day!2010 has 1 odd day!2011 has 1 odd day!2012 has 2 odd day!2013 has 1 odd day!2014 has 1 odd day!2015 has 1 odd day!2016 has 2 odd day!2017 has 1 odd day! !Sum = 14 odd days = 0 odd days.! !Hence, Calendar for the year 2018 will be the same as for the year 2007."
+            "explain": "Conta il numero di giorni dispari dall'anno 2007 in poi per ottenere la somma uguale a 0 giorni dispari.! !L'anno 2007 ha 1 giorno dispari!Il 2008 ha 2 giorni dispari!Il 2009 ha 1 giorno dispari!Il 2010 ha 1 giorno dispari!Il 2011 ha 1 giorno dispari!Il 2012 ha 2 giorni dispari!Il 2013 ha 1 giorno dispari!Il 2014 ha 1 giorno dispari!Il 2015 ha 1 giorno dispari!Il 2016 ha 2 giorni dispari!Il 2017 ha 1 giorno dispari! !Somma = 14 giorni dispari = 0 giorni dispari.! !Quindi, il calendario per l'anno 2018 sarà lo stesso dell'anno 2007."
         },
         {
-            "question": "How many times do the hands of a clock coincide in a day?",
+            "question": "Quante volte le lancette di un orologio coincidono in un giorno?",
             "a": "20",
             "b": "21",
             "c": "22",
@@ -218,54 +218,54 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The hands of a clock coincide 11 times in every 12 hours (Since between 11 and 1, they coincide only once, i.e., at 12 o'clock).! !The hands overlap about every 65 minutes, not every 60 minutes. So, the hands coincide 22 times in a day."
+            "explain": "Le lancette di un orologio coincidono 11 volte ogni 12 ore (poiché tra le 11 e l'1 coincidono solo una volta, cioè alle 12 in punto).! !Le lancette si sovrappongono circa ogni 65 minuti, non ogni 60 minuti. Quindi, le lancette coincidono 22 volte in un giorno."
         },
         {
-            "question": "A clock is started at noon.By 10 minutes past 5, the hour hand has turned through ...",
-            "a": "145 degree",
-            "b": "150 degree",
-            "c": "155 degree",
-            "d": "160 degree",
+            "question": "Un orologio viene avviato a mezzogiorno. Alle 5 e 10 minuti, la lancetta delle ore ha girato di ...",
+            "a": "145 gradi",
+            "b": "150 gradi",
+            "c": "155 gradi",
+            "d": "160 gradi",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 12 hrs = 360 degree! !Angle traced by hour hand in 5 hrs 10 min. i.e.,! 31/6 hrs = (360/12 * 31/6) = 155 degree"
+            "explain": "Angolo tracciato dalla lancetta delle ore in 12 ore = 360 gradi! !Angolo tracciato dalla lancetta delle ore in 5 ore e 10 min. cioè,! 31/6 ore = (360/12 * 31/6) = 155 gradi"
         },
         {
-            "question": "The angle between the minute hand and the hour hand of a clock when the time is 4:20, is ?",
-            "a": "0 degree",
-            "b": "10 degree",
-            "c": "5 degree",
-            "d": "20 degree",
+            "question": "L'angolo tra la lancetta dei minuti e la lancetta delle ore di un orologio quando l'ora è 4:20, è?",
+            "a": "0 gradi",
+            "b": "10 gradi",
+            "c": "5 gradi",
+            "d": "20 gradi",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 13/3 hrs = (360/12 * 13/3) = 130 degree! !Angle traced by minute hand in 20 min = (360/60 * 20) = 120 degree! !So, required angle = 130 - 120 = 10 degree"
+            "explain": "Angolo tracciato dalla lancetta delle ore in 13/3 ore = (360/12 * 13/3) = 130 gradi! !Angolo tracciato dalla lancetta dei minuti in 20 min = (360/60 * 20) = 120 gradi! !Quindi, angolo richiesto = 130 - 120 = 10 gradi"
         },
         {
-            "question": "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
-            "a": "Monday",
-            "b": "Tuesday",
-            "c": "Wednesday",
-            "d": "Sunday",
+            "question": "Il 1 gennaio 2007 era lunedì. Che giorno della settimana cade il 1 gennaio 2008?",
+            "a": "Lunedì",
+            "b": "Martedì",
+            "c": "Mercoledì",
+            "d": "Domenica",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2007 is an ordinary year. So, it has 1 odd day.! !1st day of the year 2007 was Monday.! !1st day of the year 2008 will be 1 day beyond Monday.! !Hence, it will be Tuesday."
+            "explain": "L'anno 2007 è un anno ordinario. Quindi, ha 1 giorno dispari.! !Il primo giorno dell'anno 2007 era lunedì.! !Il primo giorno dell'anno 2008 sarà 1 giorno dopo lunedì.! !Quindi, sarà martedì."
         },
         {
-            "question": "A clock is started at noon. By 10 minutes past 5, the hour hand has turned through",
-            "a": "155 degree",
-            "b": "145 degree",
-            "c": "152 degree",
-            "d": "140 degree",
+            "question": "Un orologio viene avviato a mezzogiorno. Alle 5 e 10 minuti, la lancetta delle ore ha girato di",
+            "a": "155 gradi",
+            "b": "145 gradi",
+            "c": "152 gradi",
+            "d": "140 gradi",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 12 hrs = 360 degree! !Angle traced by hour hand in 5 hrs 10 min. i.e., 31/6 hrs = (360/12 * 31/6) = 155 degree"
+            "explain": "Angolo tracciato dalla lancetta delle ore in 12 ore = 360 gradi! !Angolo tracciato dalla lancetta delle ore in 5 ore e 10 min. cioè, 31/6 ore = (360/12 * 31/6) = 155 gradi"
         },
         {
-            "question": "By how many degrees does the minute hand move in the same time, in which the hour hand move by 280?",
+            "question": "Di quanti gradi si muove la lancetta dei minuti nello stesso tempo in cui la lancetta delle ore si muove di 280?",
             "a": "168",
             "b": "336",
             "c": "196",
@@ -273,10 +273,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "28 * 2 * 6 = 336 degree"
+            "explain": "28 * 2 * 6 = 336 gradi"
         },
         {
-            "question": "How many degrees will the minute hand move, in the same time in which the second hand move 4800",
+            "question": "Quanti gradi si muoverà la lancetta dei minuti, nello stesso tempo in cui la lancetta dei secondi si muove di 4800",
             "a": "60",
             "b": "90",
             "c": "40",
@@ -284,10 +284,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Minute hand covers 480/60= 80"
+            "explain": "La lancetta dei minuti copre 480/60 = 80"
         },
         {
-            "question": "How many years have 29 days in February from 2001 to 2100.",
+            "question": "Quanti anni hanno 29 giorni a febbraio dal 2001 al 2100.",
             "a": "26",
             "b": "25",
             "c": "23",
@@ -295,21 +295,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "100th year is not a leap year.!So 24 February's has 29 days."
+            "explain": "Il 100° anno non è un anno bisestile.!Quindi 24 febbraio ha 29 giorni."
         },
         {
-            "question": "2012 January 1st is Sunday,then which day is the Indian Independence day of the same year.",
-            "a": "Saturday",
-            "b": "Wednesday",
-            "c": "Thursday",
-            "d": "Friday",
+            "question": "Il 1° gennaio 2012 è domenica, quindi quale giorno è il giorno dell'indipendenza indiana dello stesso anno.",
+            "a": "Sabato",
+            "b": "Mercoledì",
+            "c": "Giovedì",
+            "d": "Venerdì",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "30+ 29+ 31 + 30 + 31 + 30 + 31+15 = 227/7 = reminder = 3! !So, Independence day is Wednesday."
+            "explain": "30+ 29+ 31 + 30 + 31 + 30 + 31+15 = 227/7 = resto = 3! !Quindi, il giorno dell'indipendenza è mercoledì."
         },
         {
-            "question": "Which year has the same calendar as 1700 ?",
+            "question": "Quale anno ha lo stesso calendario del 1700?",
             "a": "1705",
             "b": "1706",
             "c": "1707",
@@ -317,65 +317,65 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Year 1700 has 1 odd day!1701 has 1 odd day!1702 has 1 odd day!1703 has 1 odd day!1704 has 2 odd day!1705 has 1 odd day! !Hence, 1706 will has same calender."
+            "explain": "L'anno 1700 ha 1 giorno dispari!Il 1701 ha 1 giorno dispari!Il 1702 ha 1 giorno dispari!Il 1703 ha 1 giorno dispari!Il 1704 ha 2 giorni dispari!Il 1705 ha 1 giorno dispari! !Quindi, il 1706 avrà lo stesso calendario."
         },
         {
-            "question": "March 1st  is Wednesday. Which month of the same year starts with the same day?",
-            "a": "October",
-            "b": "November",
-            "c": "December",
-            "d": "None",
+            "question": "Il 1° marzo è mercoledì. Quale mese dello stesso anno inizia con lo stesso giorno?",
+            "a": "Ottobre",
+            "b": "Novembre",
+            "c": "Dicembre",
+            "d": "Nessuno",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "March has 3 odd days!April has 2 odd days!May has 3 odd days!June has 2 odd days!July has 3 odd days!August has 3 odd days!September has 2 odd days!October has 3 odd days! !Total 21 odd days. 21/7 = 0. So November has start with the same day."
+            "explain": "Marzo ha 3 giorni dispari!Aprile ha 2 giorni dispari!Maggio ha 3 giorni dispari!Giugno ha 2 giorni dispari!Luglio ha 3 giorni dispari!Agosto ha 3 giorni dispari!Settembre ha 2 giorni dispari!Ottobre ha 3 giorni dispari! !Totale 21 giorni dispari. 21/7 = 0. Quindi novembre inizierà con lo stesso giorno."
         },
         {
-            "question": "What is the angle between the two hands of a clock when the time shown by the clock is 5:30 p.m. ?",
-            "a": "0 degree",
-            "b": "5 degree",
-            "c": "3 degree",
-            "d": "15 degree",
+            "question": "Qual è l'angolo tra le due lancette di un orologio quando l'ora indicata dall'orologio è le 17:30?",
+            "a": "0 gradi",
+            "b": "5 gradi",
+            "c": "3 gradi",
+            "d": "15 gradi",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "q = 11/2 m ñ 30h = 11/2 *30  - 30 *5 = 165-150 = 15 degree! ! "
+            "explain": "q = 11/2 m ñ 30h = 11/2 *30 - 30 *5 = 165-150 = 15 gradi! ! "
         },
         {
-            "question": "By how many degrees does the minute hand move in the same time, in which the hour hand move by 18 degree?",
-            "a": "168 degree",
-            "b": "216 degree",
-            "c": "196 degree",
-            "d": "276 degree",
+            "question": "Di quanti gradi si muove la lancetta dei minuti nello stesso tempo in cui la lancetta delle ore si muove di 18 gradi?",
+            "a": "168 gradi",
+            "b": "216 gradi",
+            "c": "196 gradi",
+            "d": "276 gradi",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "18*2 *6 = 216 degree! ! "
+            "explain": "18*2 *6 = 216 gradi! ! "
         },
         {
-            "question": "In the time in which the second hand covers 3960 degrees, how many degrees does the hour hand move?",
-            "a": "11 degree",
-            "b": "5.5 degree",
-            "c": "3/4 degree",
-            "d": "55 degree",
+            "question": "Nel tempo in cui la lancetta dei secondi copre 3960 gradi, di quanti gradi si muove la lancetta delle ore?",
+            "a": "11 gradi",
+            "b": "5,5 gradi",
+            "c": "3/4 di grado",
+            "d": "55 gradi",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "3960/(360*2) = 5.5 degree! ! "
+            "explain": "3960/(360*2) = 5,5 gradi! ! "
         },
         {
-            "question": "March 1st  is Wednesday. Which month of the same year has the same calendar?",
-            "a": "July",
-            "b": "November",
-            "c": "December",
-            "d": "October",
+            "question": "Il 1° marzo è mercoledì. Quale mese dello stesso anno ha lo stesso calendario?",
+            "a": "Luglio",
+            "b": "Novembre",
+            "c": "Dicembre",
+            "d": "Ottobre",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Odd days from March to October! !3 + 2 +3 +2 +3 +3 +2 +3 = 21/7 = 0.! !If odd day is 0 then next month has the same calendar.! !Hence, November will have same calender as March."
+            "explain": "Giorni dispari da marzo a ottobre! !3 + 2 +3 +2 +3 +3 +2 +3 = 21/7 = 0.! !Se il giorno dispari è 0, il mese successivo ha lo stesso calendario.! !Quindi, novembre avrà lo stesso calendario di marzo."
         },
         {
-            "question": "If a light flashes every 6 seconds, how many times will it flash in 3/4 of an hour?",
+            "question": "Se una luce lampeggia ogni 6 secondi, quante volte lampeggerà in 3/4 di ora?",
             "a": "450",
             "b": "451",
             "c": "350",
@@ -383,10 +383,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "3/4 of an hour = 3/4 * 60 * 60 = 2700! !Light will flash in 6 seconds = 2700/6 = 450 times"
+            "explain": "3/4 di ora = 3/4 * 60 * 60 = 2700! !La luce lampeggerà in 6 secondi = 2700/6 = 450 volte"
         },
         {
-            "question": "How many non-leap years are there from 1801 to 1900?",
+            "question": "Quanti anni non bisestili ci sono dal 1801 al 1900?",
             "a": "74",
             "b": "75",
             "c": "76",
@@ -394,43 +394,43 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Leap year comes after 4 years!In one century there will be 24 leap years! !Hence, there will be 76 non leap years from 1801 to 1900."
+            "explain": "L'anno bisestile arriva dopo 4 anni!In un secolo ci saranno 24 anni bisestili! !Quindi, ci saranno 76 anni non bisestili dal 1801 al 1900."
         },
         {
-            "question": "The time in a clock is 20 minute past 2. Find the angle between the hands of the clock.",
-            "a": "90 degree",
-            "b": "120 degree",
-            "c": "45 degree",
-            "d": "50 degree",
+            "question": "L'ora in un orologio è 20 minuti dopo le 2. Trova l'angolo tra le lancette dell'orologio.",
+            "a": "90 gradi",
+            "b": "120 gradi",
+            "c": "45 gradi",
+            "d": "50 gradi",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Time is 2.20.!Hour hand at 2 (nearly) and minute hand at 4.! !Angle between 2 and 4 is 60 degrees [(360/12) * (4-2)]! !Angle made by the hour hand in 20 minutes is 10 degrees, since it turns through 1/2 degrees in a minute.! !Therefore, angle between the hands is 60 degrees - 10 degrees = 50 degrees"
+            "explain": "L'ora è 2.20.!La lancetta delle ore è alle 2 (quasi) e la lancetta dei minuti è alle 4.! !L'angolo tra 2 e 4 è di 60 gradi [(360/12) * (4-2)]! !L'angolo fatto dalla lancetta delle ore in 20 minuti è di 10 gradi, poiché gira di 1/2 grado in un minuto.! !Pertanto, l'angolo tra le lancette è di 60 gradi - 10 gradi = 50 gradi"
         },
         {
-            "question": "Given that on 27th February 2003 is Thursday.What was the day on 27th February 1603?",
-            "a": "Monday",
-            "b": "Thursday",
-            "c": "Sunday",
-            "d": "Tuesday",
+            "question": "Dato che il 27 febbraio 2003 è giovedì. Che giorno era il 27 febbraio 1603?",
+            "a": "Lunedì",
+            "b": "Giovedì",
+            "c": "Domenica",
+            "d": "Martedì",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "After every 400 years, the same day occurs.! !Thus, if 27th February 2003 is Thursday, before 400 years i.e., on 27th February 1603 has to be Thursday."
+            "explain": "Dopo ogni 400 anni, si verifica lo stesso giorno.! !Quindi, se il 27 febbraio 2003 è giovedì, 400 anni prima, cioè il 27 febbraio 1603, doveva essere giovedì."
         },
         {
-            "question": "What is the angle between the minute hand and the hour hand when the time is 1540 hours?",
-            "a": "150 degree",
-            "b": "160 degree",
-            "c": "140 degree",
-            "d": "130 degree",
+            "question": "Qual è l'angolo tra la lancetta dei minuti e la lancetta delle ore quando l'ora è 1540 ore?",
+            "a": "150 gradi",
+            "b": "160 gradi",
+            "c": "140 gradi",
+            "d": "130 gradi",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Hour hand is nearly at 3!Minute hand is at 8! !Angle between 3 and 8 is 150 degree.! !In 40 Minutes hour hand will move 1/2 * 40 = 20 degree! !Hence, Angle between hands is 150 - 20 = 130 degree"
+            "explain": "La lancetta delle ore è quasi alle 3!La lancetta dei minuti è alle 8! !L'angolo tra 3 e 8 è di 150 gradi.! !In 40 minuti la lancetta delle ore si muoverà di 1/2 * 40 = 20 gradi! !Quindi, l'angolo tra le lancette è 150 - 20 = 130 gradi"
         },
         {
-            "question": "Which of the following is not a leap year?",
+            "question": "Quale dei seguenti non è un anno bisestile?",
             "a": "600",
             "b": "1600",
             "c": "2400",
@@ -438,109 +438,109 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The century divisible by 400 is a leap year.! !So, The year 600 is not a leap year."
+            "explain": "Il secolo divisibile per 400 è un anno bisestile.! !Quindi, l'anno 600 non è un anno bisestile."
         },
         {
-            "question": "11th of April falls on Tuesday, what day will the last day of the month April occurs.",
-            "a": "Thursday",
-            "b": "Saturday",
-            "c": "Sunday",
-            "d": "Monday",
+            "question": "L'11 aprile cade di martedì, in quale giorno cadrà l'ultimo giorno del mese di aprile.",
+            "a": "Giovedì",
+            "b": "Sabato",
+            "c": "Domenica",
+            "d": "Lunedì",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Tuesday will be on 11, 18 and 25 then 30th April will be on Sunday."
+            "explain": "Martedì sarà l'11, il 18 e il 25, quindi il 30 aprile sarà di domenica."
         },
         {
-            "question": "If 7th of the month falls two days after Wednesday. What day of the week will precede the 18th of month?",
-            "a": "Monday",
-            "b": "Tuesday",
-            "c": "Wednesday",
-            "d": "Friday",
+            "question": "Se il 7 del mese cade due giorni dopo mercoledì. Che giorno della settimana precederà il 18 del mese?",
+            "a": "Lunedì",
+            "b": "Martedì",
+            "c": "Mercoledì",
+            "d": "Venerdì",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "On 7th the day is Friday. On 17 (day before 18) there will be Monday"
+            "explain": "Il 7 il giorno è venerdì. Il 17 (giorno prima del 18) ci sarà lunedì"
         },
         {
-            "question": "The day that will come two days after tomorrow will be Thursday. What was the day that Dawned two days before yesterday.",
-            "a": "Wednesday",
-            "b": "Thursday",
-            "c": "Friday",
-            "d": "Monday",
+            "question": "Il giorno che verrà due giorni dopo domani sarà giovedì. Qual era il giorno che è sorto due giorni prima di ieri.",
+            "a": "Mercoledì",
+            "b": "Giovedì",
+            "c": "Venerdì",
+            "d": "Lunedì",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the day, two days after tomorrow is Thursday so tomorrow is Tuesday and today is Monday and yesterday was Sunday. Hence the day two days before yesterday was Friday."
+            "explain": "Poiché il giorno, due giorni dopo domani è giovedì, quindi domani è martedì e oggi è lunedì e ieri era domenica. Quindi il giorno due giorni prima di ieri era venerdì."
         },
         {
-            "question": "It would be Tuesday two days after tomorrow. What was two days before yesterday?",
-            "a": "Saturday",
-            "b": "Monday",
-            "c": "Friday",
-            "d": "Wednesday",
+            "question": "Sarebbe martedì due giorni dopo domani. Cos'era due giorni prima di ieri?",
+            "a": "Sabato",
+            "b": "Lunedì",
+            "c": "Venerdì",
+            "d": "Mercoledì",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the day, two days after tomorrow is Tuesday so tomorrow is Sunday and today is Saturday and yesterday was Friday. Hence the day two days before yesterday was Wednesday."
+            "explain": "Poiché il giorno, due giorni dopo domani è martedì, quindi domani è domenica e oggi è sabato e ieri era venerdì. Quindi il giorno due giorni prima di ieri era mercoledì."
         },
         {
-            "question": "The 15th of the month falls on the day preceding Sunday, on what day will the 6th of the month fall?",
-            "a": "Friday",
-            "b": "Saturday",
-            "c": "Thursday",
-            "d": "Sunday",
+            "question": "Il 15 del mese cade il giorno precedente la domenica, in quale giorno cadrà il 6 del mese?",
+            "a": "Venerdì",
+            "b": "Sabato",
+            "c": "Giovedì",
+            "d": "Domenica",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As on 15th of the month day is Saturday so on 8th the day will also Saturday. Hence on 6th of the month day will be Thursday(Two days before Saturday)."
+            "explain": "Poiché il 15 del mese il giorno è sabato, quindi l'8 il giorno sarà anche sabato. Quindi il 6 del mese il giorno sarà giovedì (due giorni prima di sabato)."
         },
         {
-            "question": "If 20th of February of a leap year falls on Thursday, what day of the week will be on 3rd of next March?",
-            "a": "Tuesday",
-            "b": "Wednesday",
-            "c": "Friday",
-            "d": "Monday",
+            "question": "Se il 20 febbraio di un anno bisestile cade di giovedì, che giorno della settimana sarà il 3 del prossimo marzo?",
+            "a": "Martedì",
+            "b": "Mercoledì",
+            "c": "Venerdì",
+            "d": "Lunedì",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "On 27th February there will be Thursday and by counting 4 days after it Monday falls on 3rd of March."
+            "explain": "Il 27 febbraio ci sarà giovedì e contando 4 giorni dopo lunedì cade il 3 marzo."
         },
         {
-            "question": "Reaching a party day before yesterday, I found myself two days late. If day after tomorrow is Friday. On what day was the party scheduled to be held?",
-            "a": "Sunday",
-            "b": "Monday",
-            "c": "Thursday",
-            "d": "Saturday",
+            "question": "Arrivando a una festa l'altro ieri, mi sono trovato in ritardo di due giorni. Se dopodomani è venerdì. In quale giorno era prevista la festa?",
+            "a": "Domenica",
+            "b": "Lunedì",
+            "c": "Giovedì",
+            "d": "Sabato",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As day after tomorrow is Friday so tomorrow is Thursday, today is Wednesday, yesterday was Tuesday and day before yesterday was Monday. Today before the day before yesterday was Saturday. Hence party was scheduled on Saturday."
+            "explain": "Poiché dopodomani è venerdì, quindi domani è giovedì, oggi è mercoledì, ieri era martedì e l'altro ieri era lunedì. Oggi prima dell'altro ieri era sabato. Quindi la festa era prevista per sabato."
         },
         {
-            "question": "If 14th August falls on Monday, then what will be the day on 14th September.",
-            "a": "Sunday",
-            "b": "Monday",
-            "c": "Thursday",
-            "d": "Friday",
+            "question": "Se il 14 agosto cade di lunedì, quale sarà il giorno del 14 settembre.",
+            "a": "Domenica",
+            "b": "Lunedì",
+            "c": "Giovedì",
+            "d": "Venerdì",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Monday will fall on 14, 21 and 28th August. By taking into account that August has 31 days 1st September will be fall on Friday. So, 7th and 14th September will be on Friday."
+            "explain": "Lunedì cadrà il 14, 21 e 28 agosto. Tenendo conto che agosto ha 31 giorni, il 1 settembre cadrà di venerdì. Quindi, il 7 e il 14 settembre saranno di venerdì."
         },
         {
-            "question": "Our teacher has come out with another puzzle for her students. It is, \"If three days ago was the day before Friday, What day will be after tomorrow?\"",
-            "a": "Wednesday",
-            "b": "Monday",
-            "c": "Tuesday",
-            "d": "None",
+            "question": "La nostra insegnante ha escogitato un altro indovinello per i suoi studenti. È: \"Se tre giorni fa era il giorno prima di venerdì, che giorno sarà dopodomani?\"",
+            "a": "Mercoledì",
+            "b": "Lunedì",
+            "c": "Martedì",
+            "d": "Nessuno",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Three days ago was Thursday and today is Sunday, so the day after tomorrow will be Tuesday."
+            "explain": "Tre giorni fa era giovedì e oggi è domenica, quindi dopodomani sarà martedì."
         },
         {
-            "question": "Seen through a mirror, the arms of a clock show 9:30 what is the actual time?",
+            "question": "Visto attraverso uno specchio, le braccia di un orologio segnano le 9:30 qual è l'ora esatta?",
             "a": "3:30",
             "b": "6:30",
             "c": "6:10",
@@ -548,10 +548,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Nessuna descrizione della risposta disponibile per questa domanda."
         },
         {
-            "question": "Which of the following is a leap year?",
+            "question": "Quale dei seguenti è un anno bisestile?",
             "a": "700",
             "b": "800",
             "c": "900",
@@ -559,21 +559,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The century divisible by 400 is a leap year.! !So, The year 800 is a leap year."
+            "explain": "Il secolo divisibile per 400 è un anno bisestile.! !Quindi, l'anno 800 è un anno bisestile."
         },
         {
-            "question": "An accurate clock shows 8 o'clock in the morning. Through how many degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
-            "a": "144 degree",
-            "b": "150 degree",
-            "c": "168 degree",
-            "d": "180 degree",
+            "question": "Un orologio preciso segna le 8 del mattino. Di quanti gradi ruoterà la lancetta delle ore quando l'orologio segnerà le 2 del pomeriggio?",
+            "a": "144 gradi",
+            "b": "150 gradi",
+            "c": "168 gradi",
+            "d": "180 gradi",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by the hour hand in 6 hours = (360/12)*6 = 180 degree"
+            "explain": "Angolo tracciato dalla lancetta delle ore in 6 ore = (360/12)*6 = 180 gradi"
         },
         {
-            "question": "What is the angle between the hands of a clock at 1 o'clock?",
+            "question": "Qual è l'angolo tra le lancette di un orologio all'una?",
             "a": "30",
             "b": "60",
             "c": "15",
@@ -581,84 +581,84 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 1 o'clock the minute hand points to the 12 and the hour hand points to the 1.! !So we need to find the angle between the 12 and the 1.! !There are 12 total numbers on the clock and total angle on complete turn of the clock is 360 degree, so each one must be 360/12 = 30 degree.! !So the angle between the hands of a clock at 1 o'clock is 30 degree."
+            "explain": "All'una la lancetta dei minuti punta al 12 e la lancetta delle ore punta all'1.! !Quindi dobbiamo trovare l'angolo tra il 12 e l'1.! !Ci sono 12 numeri totali sull'orologio e l'angolo totale al giro completo dell'orologio è di 360 gradi, quindi ognuno deve essere 360/12 = 30 gradi.! !Quindi l'angolo tra le lancette di un orologio all'una è di 30 gradi."
         },
         {
-            "question": "What is the angle between the hands of a clock at 2:30?",
-            "a": "120 degree",
-            "b": "115 degree",
-            "c": "105 degree",
-            "d": "125 degree",
+            "question": "Qual è l'angolo tra le lancette di un orologio alle 2:30?",
+            "a": "120 gradi",
+            "b": "115 gradi",
+            "c": "105 gradi",
+            "d": "125 gradi",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Hour hand is nearly at 2!Minute hand is at 6! !Angle between 2 and 6 is 120 degree.! !Hour hand move 1/2 degree in one minute.! !In 30 Minutes hour hand will move 1/2 * 30 = 15 degree! !Hence, Angle between hands is 120 - 15 = 105 degree"
+            "explain": "La lancetta delle ore è quasi alle 2!La lancetta dei minuti è alle 6! !L'angolo tra 2 e 6 è di 120 gradi.! !La lancetta delle ore si muove di 1/2 grado in un minuto.! !In 30 minuti la lancetta delle ore si muoverà di 1/2 * 30 = 15 gradi! !Quindi, l'angolo tra le lancette è 120 - 15 = 105 gradi"
         },
         {
-            "question": "What is the angle between the hands of a clock at 7 o'clock?",
-            "a": "130 degree",
-            "b": "160 degree",
-            "c": "120 degree",
-            "d": "150 degree",
+            "question": "Qual è l'angolo tra le lancette di un orologio alle 7?",
+            "a": "130 gradi",
+            "b": "160 gradi",
+            "c": "120 gradi",
+            "d": "150 gradi",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 7 o'clock the minute hand points to 12 and hour hand points to 7.! !Angle between 7 and 12 is 150 degree."
+            "explain": "Alle 7 la lancetta dei minuti punta a 12 e la lancetta delle ore punta a 7.! !L'angolo tra 7 e 12 è di 150 gradi."
         },
         {
-            "question": "What is the angle between the hands of a clock at 7:05 am?",
-            "a": "182.5 degree",
-            "b": "180 degree",
-            "c": "177.5 degree",
-            "d": "181.5 degree",
+            "question": "Qual è l'angolo tra le lancette di un orologio alle 7:05 del mattino?",
+            "a": "182,5 gradi",
+            "b": "180 gradi",
+            "c": "177,5 gradi",
+            "d": "181,5 gradi",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 7:05 hour hand is nearly at 7!Minute hand is at 1! !Angle between 7 and 1 is 180 degree.! !Hour hand move 1/2 degree in one minute.! !In 5 Minutes hour hand will move 1/2 * 5 = 2.5 degree! !Hence, Angle between hands is 180 - 2.5 = 177.5 degree"
+            "explain": "Alle 7:05 la lancetta delle ore è quasi alle 7!La lancetta dei minuti è all'1! !L'angolo tra 7 e 1 è di 180 gradi.! !La lancetta delle ore si muove di 1/2 grado in un minuto.! !In 5 minuti la lancetta delle ore si muoverà di 1/2 * 5 = 2,5 gradi! !Quindi, l'angolo tra le lancette è 180 - 2,5 = 177,5 gradi"
         },
         {
-            "question": "What is the angle between the hands of a clock at 9 o'clock?",
-            "a": "45 degree",
-            "b": "90 degree",
-            "c": "105 degree",
-            "d": "75 degree",
+            "question": "Qual è l'angolo tra le lancette di un orologio alle 9?",
+            "a": "45 gradi",
+            "b": "90 gradi",
+            "c": "105 gradi",
+            "d": "75 gradi",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 9 o'clock the minute hand points to 12 and hour hand points to 9.! !Angle between 9 and 12 at the clock is 90 degree."
+            "explain": "Alle 9 la lancetta dei minuti punta a 12 e la lancetta delle ore punta a 9.! !L'angolo tra 9 e 12 sull'orologio è di 90 gradi."
         },
         {
-            "question": "What is the angle between the hands of a clock at 3:35 pm?",
-            "a": "75 degree",
-            "b": "45 degree",
-            "c": "102.5 degree",
-            "d": "88.5 degree",
+            "question": "Qual è l'angolo tra le lancette di un orologio alle 15:35?",
+            "a": "75 gradi",
+            "b": "45 gradi",
+            "c": "102,5 gradi",
+            "d": "88,5 gradi",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 3:35 hour hand is nearly at 3!Minute hand is at 7! !Angle between 3 and 7 is 120 degree.! !Hour hand move 1/2 degree in one minute.! !In 35 Minutes hour hand will move 1/2 * 35 = 17.5 degree! !Hence, Angle between hands is 120 - 17.5 = 102.5 degree"
+            "explain": "Alle 3:35 la lancetta delle ore è quasi alle 3!La lancetta dei minuti è alle 7! !L'angolo tra 3 e 7 è di 120 gradi.! !La lancetta delle ore si muove di 1/2 grado in un minuto.! !In 35 minuti la lancetta delle ore si muoverà di 1/2 * 35 = 17,5 gradi! !Quindi, l'angolo tra le lancette è 120 - 17,5 = 102,5 gradi"
         },
         {
-            "question": "What is the angle between the hands of a clock at 8:50 am?",
-            "a": "45 degree",
-            "b": "25 degree",
-            "c": "65 degree",
-            "d": "35 degree",
+            "question": "Qual è l'angolo tra le lancette di un orologio alle 8:50 del mattino?",
+            "a": "45 gradi",
+            "b": "25 gradi",
+            "c": "65 gradi",
+            "d": "35 gradi",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 8:50 hour hand is nearly at 8!Minute hand is at 10! !Angle between 8 and 10 is 60 degree.! !Hour hand move 1/2 degree in one minute.! !In 50 Minutes hour hand will move 1/2 * 50 = 25 degree! !Hence, Angle between hands is 60 - 25 = 35 degree"
+            "explain": "Alle 8:50 la lancetta delle ore è quasi alle 8!La lancetta dei minuti è alle 10! !L'angolo tra 8 e 10 è di 60 gradi.! !La lancetta delle ore si muove di 1/2 grado in un minuto.! !In 50 minuti la lancetta delle ore si muoverà di 1/2 * 50 = 25 gradi! !Quindi, l'angolo tra le lancette è 60 - 25 = 35 gradi"
         },
         {
-            "question": "What is the angle between the hands of a clock at 4:20 pm?",
-            "a": "0 degree",
-            "b": "10 degree",
-            "c": "20 degree",
-            "d": "30 degree",
+            "question": "Qual è l'angolo tra le lancette di un orologio alle 16:20?",
+            "a": "0 gradi",
+            "b": "10 gradi",
+            "c": "20 gradi",
+            "d": "30 gradi",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 4:20 hour hand is nearly at 4 but not perfectly at 4.!Minute hand is at 4! !If both hands are at 4 then angle is 0 degree.! !Hour hand move 1/2 degree in one minute.! !In 20 Minutes hour hand will move 1/2 * 20 = 10 degree! !Hence, Angle between hands is 0 + 10 = 10 degree"
+            "explain": "Alle 4:20 la lancetta delle ore è quasi alle 4 ma non perfettamente alle 4.!La lancetta dei minuti è alle 4! !Se entrambe le lancette sono alle 4, l'angolo è di 0 gradi.! !La lancetta delle ore si muove di 1/2 grado in un minuto.! !In 20 minuti la lancetta delle ore si muoverà di 1/2 * 20 = 10 gradi! !Quindi, l'angolo tra le lancette è 0 + 10 = 10 gradi"
         }
     ]
 }

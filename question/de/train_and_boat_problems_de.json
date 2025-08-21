@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds.What is the length of the train?",
+            "question": "Ein Zug, der mit einer Geschwindigkeit von 60 km/h fährt, überquert einen Mast in 9 Sekunden. Wie lang ist der Zug?",
             "a": "120 m",
             "b": "180 m",
             "c": "324 m",
@@ -9,54 +9,54 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 60 * (5/18) = 50/3 m/sec! !Length of the train = (Speed x Time) = (50/3) * 9 = 150 meters"
+            "explain": "Geschwindigkeit = 60 * (5/18) = 50/3 m/s! !Länge des Zuges = (Geschwindigkeit x Zeit) = (50/3) * 9 = 150 Meter"
         },
         {
-            "question": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",
-            "a": "2 hours",
-            "b": "3 hours",
-            "c": "4 hours",
-            "d": "5 hours",
+            "question": "Ein Boot kann mit einer Geschwindigkeit von 13 km/h in stillem Wasser fahren. Wenn die Geschwindigkeit des Stroms 4 km/h beträgt, finden Sie die Zeit, die das Boot benötigt, um 68 km stromabwärts zu fahren.",
+            "a": "2 Stunden",
+            "b": "3 Stunden",
+            "c": "4 Stunden",
+            "d": "5 Stunden",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed downstream = (13 + 4) km/hr = 17 km/hr! !Time taken to travel 68 km downstream = (68/17)hrs!= 4 hours"
+            "explain": "Geschwindigkeit stromabwärts = (13 + 4) km/h = 17 km/h! !Zeit, um 68 km stromabwärts zu fahren = (68/17) Stunden! = 4 Stunden"
         },
         {
-            "question": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is",
-            "a": "8.5 km/hr",
-            "b": "9 km/hr",
-            "c": "10 km/hr",
-            "d": "12.5 km/hr",
+            "question": "Die Geschwindigkeit eines Mannes mit dem Strom beträgt 15 km/h und die Geschwindigkeit des Stroms beträgt 2,5 km/h. Die Geschwindigkeit des Mannes gegen den Strom beträgt",
+            "a": "8.5 km/h",
+            "b": "9 km/h",
+            "c": "10 km/h",
+            "d": "12.5 km/h",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Man's rate in still water = (15 - 2.5) km/hr!= 12.5 km/hr! !Man's rate against the current = (12.5 - 2.5) km/hr!= 10 km/hr"
+            "explain": "Geschwindigkeit des Mannes in stillem Wasser = (15 - 2.5) km/h! = 12.5 km/h! !Geschwindigkeit des Mannes gegen den Strom = (12.5 - 2.5) km/h! = 10 km/h"
         },
         {
-            "question": "A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
-            "a": "65 sec",
-            "b": "89 sec",
-            "c": "100 sec",
-            "d": "150 sec",
+            "question": "Ein 240 m langer Zug überquert einen Mast in 24 Sekunden. Wie lange wird er brauchen, um eine 650 m lange Plattform zu überqueren?",
+            "a": "65 sek",
+            "b": "89 sek",
+            "c": "100 sek",
+            "d": "150 sek",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = (240/24) = 10m/s! !Hence, Required time = (240+650)/10!= 89 seconds"
+            "explain": "Geschwindigkeit = (240/24) = 10m/s! !Daher, benötigte Zeit = (240+650)/10! = 89 Sekunden"
         },
         {
-            "question": "A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?",
-            "a": "40 sec",
-            "b": "42 sec",
-            "c": "45 sec",
-            "d": "48 sec",
+            "question": "Ein 360 m langer Zug fährt mit einer Geschwindigkeit von 45 km/h. In welcher Zeit wird er eine 140 m lange Brücke überqueren?",
+            "a": "40 sek",
+            "b": "42 sek",
+            "c": "45 sek",
+            "d": "48 sek",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Formula for converting from km/hr to m/s is!X km/hr = x * (5/18)m/s! !Therefore,!Speed = 45 * (5/18) = 25/2 m/s! !Total distance to be covered = (360 + 140) m = 500 m! !Formula for finding Time = (Distance/Speed)! !Hence, Required time = (500*2)/25!= 40 seconds"
+            "explain": "Formel zur Umrechnung von km/h in m/s ist!X km/h = x * (5/18)m/s! !Daher,!Geschwindigkeit = 45 * (5/18) = 25/2 m/s! !Gesamtstrecke, die zurückgelegt werden muss = (360 + 140) m = 500 m! !Formel zur Zeitberechnung = (Strecke/Geschwindigkeit)! !Daher, benötigte Zeit = (500*2)/25! = 40 Sekunden"
         },
         {
-            "question": "A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?",
+            "question": "Ein Güterzug fährt mit einer Geschwindigkeit von 72 km/h und überquert eine 250 m lange Plattform in 26 Sekunden. Wie lang ist der Güterzug?",
             "a": "230 m",
             "b": "240 m",
             "c": "260 m",
@@ -64,10 +64,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 72 * (5/18)m/s!= 20 m/s! !Time = 26 sec! !Let,!the length of the train be x metres! !Then,!(x+250)/26 = 20! !x + 250 = 520!x = 270"
+            "explain": "Geschwindigkeit = 72 * (5/18)m/s! = 20 m/s! !Zeit = 26 sek! !Sei,!die Länge des Zuges x Meter! !Dann,!(x+250)/26 = 20! !x + 250 = 520!x = 270"
         },
         {
-            "question": "A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is",
+            "question": "Ein Motorboot, dessen Geschwindigkeit in stillem Wasser 15 km/h beträgt, fährt 30 km stromabwärts und kommt in insgesamt 4 Stunden und 30 Minuten zurück. Die Geschwindigkeit des Stroms (in km/h) beträgt",
             "a": "4",
             "b": "5",
             "c": "6",
@@ -75,10 +75,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the stream be x km/hr.! !Then,!Speed downstream = (15 + x) km/hr! !Speed upstream = (15 - x) km/hr! !So, [30/(15 + x)] + [30/(15 - x)] = 9/2!900/(225 - x*x) = 9/2! !x = 5 km/hr"
+            "explain": "Sei die Geschwindigkeit des Stroms x km/h.! !Dann,!Geschwindigkeit stromabwärts = (15 + x) km/h! !Geschwindigkeit stromaufwärts = (15 - x) km/h! !Also, [30/(15 + x)] + [30/(15 - x)] = 9/2!900/(225 - x*x) = 9/2! !x = 5 km/h"
         },
         {
-            "question": "A train 800 metres long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, then the length of the tunnel (in meters) is",
+            "question": "Ein 800 Meter langer Zug fährt mit einer Geschwindigkeit von 78 km/h. Wenn er einen Tunnel in 1 Minute durchquert, dann ist die Länge des Tunnels (in Metern)",
             "a": "130",
             "b": "360",
             "c": "500",
@@ -86,10 +86,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 78 * (5/18) = 65/3 m/s! !Time = 1 minute = 60 seconds! !Let the length of the tunnel be x metres! !Then,!(800+x)/60 = 65/3!3(800 + x) = 3900! !Hence, x = 500"
+            "explain": "Geschwindigkeit = 78 * (5/18) = 65/3 m/s! !Zeit = 1 Minute = 60 Sekunden! !Sei die Länge des Tunnels x Meter! !Dann,!(800+x)/60 = 65/3!3(800 + x) = 3900! !Daher, x = 500"
         },
         {
-            "question": "A 300 metre long train crosses a platform in 39 seconds while it crosses a signal pole in 18 seconds.What is the length of the platform?",
+            "question": "Ein 300 Meter langer Zug überquert eine Plattform in 39 Sekunden, während er einen Signalmast in 18 Sekunden überquert. Wie lang ist die Plattform?",
             "a": "320 m",
             "b": "350 m",
             "c": "650 m",
@@ -97,10 +97,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = (300/18)m/s!= 50/3m/s! !Let the length of the platform be x metres! !Then, (x+300)/39 = 50/3!3(x + 300) = 1950! !Hence, x = 350 m"
+            "explain": "Geschwindigkeit = (300/18)m/s! = 50/3m/s! !Sei die Länge der Plattform x Meter! !Dann, (x+300)/39 = 50/3!3(x + 300) = 1950! !Daher, x = 350 m"
         },
         {
-            "question": "A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is",
+            "question": "Ein Zug überholt einen Mast in 15 Sekunden und eine 100 m lange Plattform in 25 Sekunden. Seine Länge beträgt",
             "a": "250 m",
             "b": "50 m",
             "c": "150 m",
@@ -108,10 +108,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the length of the train be x metres and its speed by y m/sec.! !Then, x/y = 15!y = x/15! !So, (x+100)/25 = x/15!15(x + 100) = 25x!15x + 1500 = 25x!1500 = 10x!x = 150 m"
+            "explain": "Sei die Länge des Zuges x Meter und seine Geschwindigkeit y m/s.! !Dann, x/y = 15!y = x/15! !Also, (x+100)/25 = x/15!15(x + 100) = 25x!15x + 1500 = 25x!1500 = 10x!x = 150 m"
         },
         {
-            "question": "The speed of a boat in still water in 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is",
+            "question": "Die Geschwindigkeit eines Bootes in stillem Wasser beträgt 15 km/h und die Strömungsgeschwindigkeit beträgt 3 km/h. Die in 12 Minuten stromabwärts zurückgelegte Strecke beträgt",
             "a": "1.2 km",
             "b": "1.8 km",
             "c": "2.4 km",
@@ -119,21 +119,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed downstream = (15 + 3) kmph = 18 kmph! !Distance travelled = 18 * (12/60)km = 3.6 km"
+            "explain": "Geschwindigkeit stromabwärts = (15 + 3) km/h = 18 km/h! !Zurückgelegte Strecke = 18 * (12/60)km = 3.6 km"
         },
         {
-            "question": "A train 108 m long moving at a speed of 50 km/hr crosses a train 112 m long coming from opposite direction in 6 seconds. The speed of the second train is",
-            "a": "48 km/hr",
-            "b": "54 km/hr",
-            "c": "66 km/hr",
-            "d": "82 km/hr",
+            "question": "Ein 108 m langer Zug, der mit einer Geschwindigkeit von 50 km/h fährt, überquert einen 112 m langen Zug, der aus der entgegengesetzten Richtung kommt, in 6 Sekunden. Die Geschwindigkeit des zweiten Zuges beträgt",
+            "a": "48 km/h",
+            "b": "54 km/h",
+            "c": "66 km/h",
+            "d": "82 km/h",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the second train be x km/hr.! !Relative speed = (x + 50) km/hr!= (x+50)*(5/18) m/s!= (250+5x)18 m/s! !Distance covered = (108 + 112) = 220 m! !So, 220/[(250 + 5x) /18] = 6!250 + 5x = 660! !Hence, x = 82 km/hr"
+            "explain": "Sei die Geschwindigkeit des zweiten Zuges x km/h.! !Relative Geschwindigkeit = (x + 50) km/h! = (x+50)*(5/18) m/s! = (250+5x)18 m/s! !Zurückgelegte Strecke = (108 + 112) = 220 m! !Also, 220/[(250 + 5x) /18] = 6!250 + 5x = 660! !Daher, x = 82 km/h"
         },
         {
-            "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+            "question": "Ein Zug passiert eine Bahnhofsplattform in 36 Sekunden und einen auf der Plattform stehenden Mann in 20 Sekunden. Wenn die Geschwindigkeit des Zuges 54 km/h beträgt, wie lang ist die Plattform?",
             "a": "120 m",
             "b": "240 m",
             "c": "300 m",
@@ -141,10 +141,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 54 * (5/18)m/s!= 15 m/s! !Length of the train = (15 x 20)m = 300 m! !Let the length of the platform be x metres! !Then,!(x+300)/36 = 15!x + 300 = 540! !Hence, x = 240 m"
+            "explain": "Geschwindigkeit = 54 * (5/18)m/s! = 15 m/s! !Länge des Zuges = (15 x 20)m = 300 m! !Sei die Länge der Plattform x Meter! !Dann,!(x+300)/36 = 15!x + 300 = 540! !Daher, x = 240 m"
         },
         {
-            "question": "Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is",
+            "question": "Zwei Züge gleicher Länge fahren auf parallelen Gleisen in die gleiche Richtung mit 46 km/h und 36 km/h. Der schnellere Zug überholt den langsameren Zug in 36 Sekunden. Die Länge jedes Zuges beträgt",
             "a": "50 m",
             "b": "72 m",
             "c": "80 m",
@@ -152,10 +152,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the length of each train be x metres.! !Then, distance covered = 2x metres.! !Relative speed = (46 - 36) km/hr!= 10 * (5/18)m/s!= 25/9 m/s!So, 2x/36 = 25/9!= 2x = 100! !Hence, x = 50"
+            "explain": "Sei die Länge jedes Zuges x Meter.! !Dann, zurückgelegte Strecke = 2x Meter.! !Relative Geschwindigkeit = (46 - 36) km/h! = 10 * (5/18)m/s! = 25/9 m/s!Also, 2x/36 = 25/9! = 2x = 100! !Daher, x = 50"
         },
         {
-            "question": "A man can row at 5 kmph in still water. If the velocity of current is 1 kmph and it takes him 1 hour to row to a place and come back, how far is the place?",
+            "question": "Ein Mann kann mit 5 km/h in stillem Wasser rudern. Wenn die Strömungsgeschwindigkeit 1 km/h beträgt und er 1 Stunde braucht, um zu einem Ort zu rudern und zurückzukommen, wie weit ist der Ort entfernt?",
             "a": "2.4 km",
             "b": "2.5 km",
             "c": "3 km",
@@ -163,10 +163,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed downstream = (5 + 1) kmph = 6 kmph! !Speed upstream = (5 - 1) kmph = 4 kmph! !Let the required distance be x km.! !Then,! x/6 + x/4 = 1!2x + 3x = 12!5x = 12! !Hence, x = 2.4 km"
+            "explain": "Geschwindigkeit stromabwärts = (5 + 1) km/h = 6 km/h! !Geschwindigkeit stromaufwärts = (5 - 1) km/h = 4 km/h! !Sei die erforderliche Entfernung x km.! !Dann,! x/6 + x/4 = 1!2x + 3x = 12!5x = 12! !Daher, x = 2.4 km"
         },
         {
-            "question": "A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?",
+            "question": "Ein 270 Meter langer Zug, der mit einer Geschwindigkeit von 120 km/h fährt, überquert einen anderen Zug, der in entgegengesetzter Richtung mit einer Geschwindigkeit von 80 km/h fährt, in 9 Sekunden. Wie lang ist der andere Zug?",
             "a": "230 m",
             "b": "240 m",
             "c": "260 m",
@@ -174,21 +174,21 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Relative speed = (120 + 80) km/hr!= 200(5/18)m/s!= (500/9)m/s! !Let the length of the other train be x metres! !Then,!(x+270)/9 = 500/9!x + 270 = 500! !Hence, x = 230"
+            "explain": "Relative Geschwindigkeit = (120 + 80) km/h! = 200(5/18)m/s! = (500/9)m/s! !Sei die Länge des anderen Zuges x Meter! !Dann,!(x+270)/9 = 500/9!x + 270 = 500! !Daher, x = 230"
         },
         {
-            "question": "A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?",
-            "a": "5 sec",
-            "b": "6 sec",
-            "c": "7 sec",
-            "d": "10 sec",
+            "question": "Ein 110 Meter langer Zug fährt mit einer Geschwindigkeit von 60 km/h. In welcher Zeit wird er einen Mann passieren, der mit 6 km/h in die entgegengesetzte Richtung läuft, in die der Zug fährt?",
+            "a": "5 sek",
+            "b": "6 sek",
+            "c": "7 sek",
+            "d": "10 sek",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of train relative to man = (60 + 6) km/hr = 66 km/hr.!= 66 * (5/18) = (55/3)m/s! !Hence, Time taken to pass the man!= 110 * (3/55) = 6 seconds"
+            "explain": "Geschwindigkeit des Zuges relativ zum Mann = (60 + 6) km/h = 66 km/h.! = 66 * (5/18) = (55/3)m/s! !Daher, Zeit, um den Mann zu passieren! = 110 * (3/55) = 6 Sekunden"
         },
         {
-            "question": "How many seconds will a 500 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+            "question": "Wie viele Sekunden wird ein 500 Meter langer Zug brauchen, um einen Mann zu überqueren, der mit einer Geschwindigkeit von 3 km/h in Richtung des fahrenden Zuges geht, wenn die Geschwindigkeit des Zuges 63 km/h beträgt?",
             "a": "25",
             "b": "30",
             "c": "40",
@@ -196,21 +196,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of the train relative to man = (63 - 3) km/hr!= 60 km/hr = 60 * (5/18)m/s!= (50/3)m/s! !Hence, Time taken to pass the man!= 500 * (3/50)s!= 30 seconds"
+            "explain": "Geschwindigkeit des Zuges relativ zum Mann = (63 - 3) km/h! = 60 km/h = 60 * (5/18)m/s! = (50/3)m/s! !Daher, Zeit, um den Mann zu passieren! = 500 * (3/50)s! = 30 Sekunden"
         },
         {
-            "question": "Two trains are running in opposite directions with the same speed. If the length of each train is 120 metres and they cross each other in 12 seconds, then the speed of each train is",
-            "a": "10 km/hr",
-            "b": "18 km/hr",
-            "c": "36 km/hr",
-            "d": "72 km/hr",
+            "question": "Zwei Züge fahren in entgegengesetzte Richtungen mit der gleichen Geschwindigkeit. Wenn die Länge jedes Zuges 120 Meter beträgt und sie sich in 12 Sekunden kreuzen, dann ist die Geschwindigkeit jedes Zuges",
+            "a": "10 km/h",
+            "b": "18 km/h",
+            "c": "36 km/h",
+            "d": "72 km/h",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of each train be x m/sec.! !Then, relative speed of the two trains = 2x m/sec.! !So, 2x = (120 + 120)/12!2x = 20!x = 10! !Hence, Speed of each train = 10 m/sec = 10 * (18/5)!= 36 km/hr"
+            "explain": "Sei die Geschwindigkeit jedes Zuges x m/s.! !Dann, relative Geschwindigkeit der beiden Züge = 2x m/s.! !Also, 2x = (120 + 120)/12!2x = 20!x = 10! !Daher, Geschwindigkeit jedes Zuges = 10 m/s = 10 * (18/5)! = 36 km/h"
         },
         {
-            "question": "A train overtakes two persons who are walking in the same direction in which the train is going, at the rate of 2 kmph and 4 kmph and passes them completely in 9 and 10 seconds respectively. The length of the train is",
+            "question": "Ein Zug überholt zwei Personen, die in die gleiche Richtung gehen, in die der Zug fährt, mit einer Geschwindigkeit von 2 km/h und 4 km/h und passiert sie vollständig in 9 bzw. 10 Sekunden. Die Länge des Zuges beträgt",
             "a": "45 m",
             "b": "50 m",
             "c": "54 m",
@@ -218,21 +218,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "2 kmph = 2 * (5/18)m/s!= 5/9 m/s! !4 kmph = 4 * (5/18)m/s!= 10/9 m/s! !Let the length of the train be x metres and its speed by y m/sec.! !then, x/[y - (5/9)] = 9!and x/[y - (10/9)] = 10! !So, 9y - 5 = x!and 10(9y - 10) = 9x! !9y - x = 5!and 90y - 9x = 100! !On solving, we get! x = 50! !Hence, Length of the train is 50 m."
+            "explain": "2 km/h = 2 * (5/18)m/s! = 5/9 m/s! !4 km/h = 4 * (5/18)m/s! = 10/9 m/s! !Sei die Länge des Zuges x Meter und seine Geschwindigkeit y m/s.! !dann, x/[y - (5/9)] = 9!und x/[y - (10/9)] = 10! !Also, 9y - 5 = x!und 10(9y - 10) = 9x! !9y - x = 5!und 90y - 9x = 100! !Beim Lösen erhalten wir! x = 50! !Daher, Länge des Zuges ist 50 m."
         },
         {
-            "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is",
-            "a": "45 km/hr",
-            "b": "50 km/hr",
-            "c": "54 km/hr",
-            "d": "55 km/hr",
+            "question": "Ein 125 m langer Zug passiert einen Mann, der mit 5 km/h in die gleiche Richtung läuft, in die der Zug fährt, in 10 Sekunden. Die Geschwindigkeit des Zuges beträgt",
+            "a": "45 km/h",
+            "b": "50 km/h",
+            "c": "54 km/h",
+            "d": "55 km/h",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of the train relative to man = (125/10) m/s!= (25/2)m/s!= (25/2) * (18/5)km/hr!= 45 km/hr! !Let the speed of the train be x km/hr.!Then,!relative speed = (x - 5) km/hr! !x - 5 = 45!Hence, x = 50 km/hr"
+            "explain": "Geschwindigkeit des Zuges relativ zum Mann = (125/10) m/s! = (25/2)m/s! = (25/2) * (18/5)km/h! = 45 km/h! !Sei die Geschwindigkeit des Zuges x km/h.!Dann,!relative Geschwindigkeit = (x - 5) km/h! !x - 5 = 45!Daher, x = 50 km/h"
         },
         {
-            "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is",
+            "question": "Die Länge der Brücke, die ein 130 Meter langer Zug, der mit 45 km/h fährt, in 30 Sekunden überqueren kann, beträgt",
             "a": "200 m",
             "b": "225 m",
             "c": "245 m",
@@ -240,54 +240,54 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 45 * (5/18)!= 25/2 m/s! !Time = 30 sec! !Let the length of bridge be x metres! !Then,!(130 + x)/30 = 25/2!2(130 + x) = 750! !Hence, x = 245 m"
+            "explain": "Geschwindigkeit = 45 * (5/18)! = 25/2 m/s! !Zeit = 30 sek! !Sei die Länge der Brücke x Meter! !Dann,!(130 + x)/30 = 25/2!2(130 + x) = 750! !Daher, x = 245 m"
         },
         {
-            "question": "Two trains, each 100 m long, moving in opposite directions, cross each other in 8 seconds.If one is moving twice as fast the other, then the speed of the faster train is",
-            "a": "30 km/hr",
-            "b": "45 km/hr",
-            "c": "60 km/hr",
-            "d": "75 km/hr",
+            "question": "Zwei Züge, jeder 100 m lang, die sich in entgegengesetzte Richtungen bewegen, kreuzen sich in 8 Sekunden. Wenn einer doppelt so schnell fährt wie der andere, dann ist die Geschwindigkeit des schnelleren Zuges",
+            "a": "30 km/h",
+            "b": "45 km/h",
+            "c": "60 km/h",
+            "d": "75 km/h",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the slower train be x m/sec! !Then,!speed of the faster train = 2x m/sec! !Relative speed = (x + 2x) m/sec = 3x m/sec! !So, (100+100)/8 = 3x!24x = 200!x = 25/3! !So, speed of the faster train = 50/3 m/s!= (50/3 * 18/5)!= 60km/hr"
+            "explain": "Sei die Geschwindigkeit des langsameren Zuges x m/s! !Dann,!Geschwindigkeit des schnelleren Zuges = 2x m/s! !Relative Geschwindigkeit = (x + 2x) m/s = 3x m/s! !Also, (100+100)/8 = 3x!24x = 200!x = 25/3! !Also, Geschwindigkeit des schnelleren Zuges = 50/3 m/s! = (50/3 * 18/5)! = 60km/h"
         },
         {
-            "question": "In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water (in km/hr) is",
-            "a": "3 km/hr",
-            "b": "5 km/hr",
-            "c": "8 km/hr",
-            "d": "9 km/hr",
+            "question": "In einer Stunde fährt ein Boot 11 km/h mit dem Strom und 5 km/h gegen den Strom. Die Geschwindigkeit des Bootes in stillem Wasser (in km/h) beträgt",
+            "a": "3 km/h",
+            "b": "5 km/h",
+            "c": "8 km/h",
+            "d": "9 km/h",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed in still water!= 1/2(11+5) km/h = 8 km/h"
+            "explain": "Geschwindigkeit in stillem Wasser! = 1/2(11+5) km/h = 8 km/h"
         },
         {
-            "question": "A boat running downstream covers a distance of 16 km in 2 hours while for covering the same distance upstream, it takes 4 hours. What is the speed of the boat in still water?",
-            "a": "4 km/hr",
-            "b": "10 km/hr",
-            "c": "6 km/hr",
-            "d": "8 km/hr",
+            "question": "Ein Boot, das stromabwärts fährt, legt eine Strecke von 16 km in 2 Stunden zurück, während es für die gleiche Strecke stromaufwärts 4 Stunden benötigt. Wie hoch ist die Geschwindigkeit des Bootes in stillem Wasser?",
+            "a": "4 km/h",
+            "b": "10 km/h",
+            "c": "6 km/h",
+            "d": "8 km/h",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Rate downstream = (16/2)km/h = 8 km/h! !Rate upstream = (16/4)km/h!= 4 km/h! !Hence, Speed in still water = 1/2(8+4)km/h = 6 km/h"
+            "explain": "Geschwindigkeit stromabwärts = (16/2)km/h = 8 km/h! !Geschwindigkeit stromaufwärts = (16/4)km/h! = 4 km/h! !Daher, Geschwindigkeit in stillem Wasser = 1/2(8+4)km/h = 6 km/h"
         },
         {
-            "question": "A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?",
-            "a": "69.5 km/hr",
-            "b": "70 km/hr",
-            "c": "79 km/hr",
-            "d": "79.2 km/hr",
+            "question": "Ein Zug passiert einen Telegrafenmast und eine 264 m lange Brücke in 8 bzw. 20 Sekunden. Wie hoch ist die Geschwindigkeit des Zuges?",
+            "a": "69.5 km/h",
+            "b": "70 km/h",
+            "c": "79 km/h",
+            "d": "79.2 km/h",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the length of the train be x metres and its speed by y m/sec.! !Then,!x/y = 8!x = 8y! !Now, (x+264)/20 = y!8y + 264 = 20y!y = 22! !Hence, Speed = 22 m/sec!= 22 * (18/5)!= 79.2 km/hr"
+            "explain": "Sei die Länge des Zuges x Meter und seine Geschwindigkeit y m/s.! !Dann,!x/y = 8!x = 8y! !Jetzt, (x+264)/20 = y!8y + 264 = 20y!y = 22! !Daher, Geschwindigkeit = 22 m/s! = 22 * (18/5)! = 79.2 km/h"
         },
         {
-            "question": "A boat takes 90 minutes less to travel 36 miles downstream than to travel the same distance upstream. If the speed of the boat in still water is 10 mph, the speed of the stream is",
+            "question": "Ein Boot benötigt 90 Minuten weniger, um 36 Meilen stromabwärts zu fahren, als um die gleiche Strecke stromaufwärts zu fahren. Wenn die Geschwindigkeit des Bootes in stillem Wasser 10 mph beträgt, beträgt die Geschwindigkeit des Stroms",
             "a": "2 mph",
             "b": "2.5 mph",
             "c": "3 mph",
@@ -295,10 +295,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the stream x mph.! !Then,!Speed downstream = (10 + x) mph! !Speed upstream = (10 - x) mph! !So, [36/(10 - x)] - [36/(10 + x)] = 90/60!(72x)*60 = 90 (100 - x*x)!(x+ 50)(x - 2) = 0! !Hence, x = 2 mph."
+            "explain": "Sei die Geschwindigkeit des Stroms x mph.! !Dann,!Geschwindigkeit stromabwärts = (10 + x) mph! !Geschwindigkeit stromaufwärts = (10 - x) mph! !Also, [36/(10 - x)] - [36/(10 + x)] = 90/60!(72x)*60 = 90 (100 - x*x)!(x+ 50)(x - 2) = 0! !Daher, x = 2 mph."
         },
         {
-            "question": "Two trains are moving in opposite directions at speed of 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train is",
+            "question": "Zwei Züge bewegen sich in entgegengesetzte Richtungen mit einer Geschwindigkeit von 60 km/h und 90 km/h. Ihre Längen betragen 1,10 km bzw. 0,9 km. Die Zeit, die der langsamere Zug benötigt, um den schnelleren Zug zu überqueren, beträgt",
             "a": "36 s",
             "b": "45 s",
             "c": "48 s",
@@ -306,32 +306,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Relative speed = (60+ 90) km/hr!= 150 * (5/18)m/s!= (125/3)m/s! !Distance covered = (1.10 + 0.9) km = 2 km = 2000 m! !Hence, Required time = 2000(3/125) = 48 seconds"
+            "explain": "Relative Geschwindigkeit = (60+ 90) km/h! = 150 * (5/18)m/s! = (125/3)m/s! !Zurückgelegte Strecke = (1.10 + 0.9) km = 2 km = 2000 m! !Daher, benötigte Zeit = 2000(3/125) = 48 Sekunden"
         },
         {
-            "question": "A boat covers a certain distance downstream in 1 hour, while it comes back in 1.5 hours. If the speed of the stream be 3 kmph, what is the speed of the boat in still water?",
-            "a": "12 kmph",
-            "b": "13 kmph",
-            "c": "14 kmph",
-            "d": "15 kmph",
+            "question": "Ein Boot legt eine bestimmte Strecke stromabwärts in 1 Stunde zurück, während es in 1,5 Stunden zurückkommt. Wenn die Geschwindigkeit des Stroms 3 km/h beträgt, wie hoch ist die Geschwindigkeit des Bootes in stillem Wasser?",
+            "a": "12 km/h",
+            "b": "13 km/h",
+            "c": "14 km/h",
+            "d": "15 km/h",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the boat in still water be x kmph.! !Then,!Speed downstream = (x + 3) kmph! !Speed upstream = (x - 3) kmph! !So, (x + 3) * 1 = (x - 3)* 3/2!2x + 6 = 3x - 9! !Hence, x = 15 kmph"
+            "explain": "Sei die Geschwindigkeit des Bootes in stillem Wasser x km/h.! !Dann,!Geschwindigkeit stromabwärts = (x + 3) km/h! !Geschwindigkeit stromaufwärts = (x - 3) km/h! !Also, (x + 3) * 1 = (x - 3)* 3/2!2x + 6 = 3x - 9! !Daher, x = 15 km/h"
         },
         {
-            "question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
-            "a": "40 minutes",
-            "b": "1 hour",
-            "c": "1 hr 15 min",
-            "d": "1 hr 30 min",
+            "question": "Ein Bootsfahrer fährt 2 km gegen den Strom des Flusses in 1 Stunde und 1 km mit dem Strom in 10 Minuten. Wie lange wird es dauern, 5 km in stehendem Wasser zu fahren?",
+            "a": "40 Minuten",
+            "b": "1 Stunde",
+            "c": "1 Std. 15 Min.",
+            "d": "1 Std. 30 Min.",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Rate downstream = (1/10) * 60 km/hr = 6 km/hr! !Rate upstream = 2 km/hr! !Speed in still water = (1/2)(6 + 2) km/hr = 4 km/hr! !Hence, Required time = 5/4 hrs = 1 hr 15 min."
+            "explain": "Geschwindigkeit stromabwärts = (1/10) * 60 km/h = 6 km/h! !Geschwindigkeit stromaufwärts = 2 km/h! !Geschwindigkeit in stillem Wasser = (1/2)(6 + 2) km/h = 4 km/h! !Daher, benötigte Zeit = 5/4 Stunden = 1 Std. 15 Min."
         },
         {
-            "question": "A train is running at a speed of 10 km/h. What will be the distance covered by it in 3 hours?",
+            "question": "Ein Zug fährt mit einer Geschwindigkeit von 10 km/h. Welche Strecke wird er in 3 Stunden zurücklegen?",
             "a": "30km",
             "b": "15km",
             "c": "10km",
@@ -339,10 +339,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As we know that!S=vt (here S is distance, v is speed and t is time). So!distance = 10*3 = 30Km"
+            "explain": "Wie wir wissen, dass!S=vt (hier ist S die Entfernung, v die Geschwindigkeit und t die Zeit). Also!Entfernung = 10*3 = 30Km"
         },
         {
-            "question": "A train is running at the speed of 25 km/h. How far will it travel in 5 hrs?",
+            "question": "Ein Zug fährt mit einer Geschwindigkeit von 25 km/h. Wie weit wird er in 5 Stunden fahren?",
             "a": "100km",
             "b": "110km",
             "c": "120km",
@@ -350,10 +350,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 25 Km/h!Time = t = 5h!Distance = S = v*t = 25*5 = 125Km"
+            "explain": "Geschwindigkeit = v = 25 Km/h!Zeit = t = 5h!Entfernung = S = v*t = 25*5 = 125Km"
         },
         {
-            "question": "A train is running at the speed of 70 km/h. How far will it travel in 2.5 hrs?",
+            "question": "Ein Zug fährt mit einer Geschwindigkeit von 70 km/h. Wie weit wird er in 2,5 Stunden fahren?",
             "a": "140km",
             "b": "155km",
             "c": "170km",
@@ -361,43 +361,43 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 70 Km/h!Time = t = 2.5h!Distance = S = v*t = 70*2.5 = 175Km"
+            "explain": "Geschwindigkeit = v = 70 Km/h!Zeit = t = 2.5h!Entfernung = S = v*t = 70*2.5 = 175Km"
         },
         {
-            "question": "A 150m long train is running at the speed of 36km/h. In what time will it pass the 80m long bridge?",
-            "a": "20 sec",
-            "b": "21 sec",
-            "c": "22 sec",
-            "d": "23 sec",
+            "question": "Ein 150 m langer Zug fährt mit einer Geschwindigkeit von 36 km/h. In welcher Zeit wird er die 80 m lange Brücke überqueren?",
+            "a": "20 sek",
+            "b": "21 sek",
+            "c": "22 sek",
+            "d": "23 sek",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of train = L1 = 150m!Speed = v = 36 Km/h = 36*(5/18) = 10 m/s!Length of bridge = L2 = 80m! !Time = t = (L1 + L2)/v!t = (150+80)/10 = 23! !Hence the train will pass the 80 meter long bridge in 23 seconds."
+            "explain": "Länge des Zuges = L1 = 150m!Geschwindigkeit = v = 36 Km/h = 36*(5/18) = 10 m/s!Länge der Brücke = L2 = 80m! !Zeit = t = (L1 + L2)/v!t = (150+80)/10 = 23! !Daher wird der Zug die 80 Meter lange Brücke in 23 Sekunden überqueren."
         },
         {
-            "question": "A train of length 150 metres is running at the speed of 20m/s. In what time will it cross a 130 metre long bridge?",
-            "a": "13 sec",
-            "b": "14 sec",
-            "c": "15 sec",
-            "d": "16 sec",
+            "question": "Ein Zug von 150 Metern Länge fährt mit einer Geschwindigkeit von 20 m/s. In welcher Zeit wird er eine 130 Meter lange Brücke überqueren?",
+            "a": "13 sek",
+            "b": "14 sek",
+            "c": "15 sek",
+            "d": "16 sek",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 150m!Length of bridge = L2 = 130m!Speed = v = 20m/s! !t = (L1 + L2)/v!t = (150+130)/20!t = 14! !Hence the train will pass the 130 meter long bridge in 14 seconds."
+            "explain": "Länge des Zuges = L1 = 150m!Länge der Brücke = L2 = 130m!Geschwindigkeit = v = 20m/s! !t = (L1 + L2)/v!t = (150+130)/20!t = 14! !Daher wird der Zug die 130 Meter lange Brücke in 14 Sekunden überqueren."
         },
         {
-            "question": "A train is travelling at the speed of 25m/s. In what time will it pass a man sitting on a platform if length of the train is 225 meters?",
-            "a": "8 sec",
-            "b": "9 sec",
-            "c": "10 sec",
-            "d": "11 sec",
+            "question": "Ein Zug fährt mit einer Geschwindigkeit von 25 m/s. In welcher Zeit wird er einen auf einer Plattform sitzenden Mann passieren, wenn die Länge des Zuges 225 Meter beträgt?",
+            "a": "8 sek",
+            "b": "9 sek",
+            "c": "10 sek",
+            "d": "11 sek",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 25m/s!Length of train = L = 225m! !Time = t = L/v!t = 225/25 = 9! !Hence train will pass the man in 9 seconds."
+            "explain": "Geschwindigkeit = v = 25m/s!Länge des Zuges = L = 225m! !Zeit = t = L/v!t = 225/25 = 9! !Daher wird der Zug den Mann in 9 Sekunden passieren."
         },
         {
-            "question": "A train travelling at the speed of 10m/s can cross a bridge in 23 seconds. If length of the train is 120 meters. What is length of the bridge?",
+            "question": "Ein Zug, der mit einer Geschwindigkeit von 10 m/s fährt, kann eine Brücke in 23 Sekunden überqueren. Wenn die Länge des Zuges 120 Meter beträgt. Wie lang ist die Brücke?",
             "a": "100m",
             "b": "110m",
             "c": "120m",
@@ -405,10 +405,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 10m/s!Time = t = 23s!Length of train = L1 = 120m!Length of bridge = L2 = ?! !t = (L1+L2)/v!By putting values!23 = (120+L2)/10!L2 = 230 - 120 = 110m! !Hence bridge is 110m long."
+            "explain": "Geschwindigkeit = v = 10m/s!Zeit = t = 23s!Länge des Zuges = L1 = 120m!Länge der Brücke = L2 = ?! !t = (L1+L2)/v!Durch Einsetzen der Werte!23 = (120+L2)/10!L2 = 230 - 120 = 110m! !Daher ist die Brücke 110m lang."
         },
         {
-            "question": "What is the length of a bridge if a train of length 550 meters travelling at the speed of 20m/s can cross it in 35 seconds?",
+            "question": "Wie lang ist eine Brücke, wenn ein 550 Meter langer Zug, der mit einer Geschwindigkeit von 20 m/s fährt, sie in 35 Sekunden überqueren kann?",
             "a": "100m",
             "b": "150m",
             "c": "200m",
@@ -416,10 +416,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of train = L1 = 550m!Speed = v = 20m/s!Time = t = 35s!Length of bridge = L2 = ?! !t = (L1+L2)/v!By putting values!35 = (550+L2)/20!700 - 550 = L2!L2 = 150m! !Hence length of bridge is 150 meter."
+            "explain": "Länge des Zuges = L1 = 550m!Geschwindigkeit = v = 20m/s!Zeit = t = 35s!Länge der Brücke = L2 = ?! !t = (L1+L2)/v!Durch Einsetzen der Werte!35 = (550+L2)/20!700 - 550 = L2!L2 = 150m! !Daher beträgt die Länge der Brücke 150 Meter."
         },
         {
-            "question": "A train travelling at he speed of 72km/h can cross a platform in 17 seconds. If length of the train is 180 meters, what is the length of the platform?",
+            "question": "Ein Zug, der mit einer Geschwindigkeit von 72 km/h fährt, kann eine Plattform in 17 Sekunden überqueren. Wenn die Länge des Zuges 180 Meter beträgt, wie lang ist die Plattform?",
             "a": "160m",
             "b": "170m",
             "c": "180m",
@@ -427,10 +427,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of train = v = 72Km/h = 72*(5/18) = 20m/s! !Time = t = 17s!Length of the train = L1 = 180m!Length of the platform = L2 = ?! !t = (L1+L2)/v!By putting values!17 = (180+L2)/20!340-180 = L2!L2 = 160m! !Hence length of the platform is 160m."
+            "explain": "Geschwindigkeit des Zuges = v = 72Km/h = 72*(5/18) = 20m/s! !Zeit = t = 17s!Länge des Zuges = L1 = 180m!Länge der Plattform = L2 = ?! !t = (L1+L2)/v!Durch Einsetzen der Werte!17 = (180+L2)/20!340-180 = L2!L2 = 160m! !Daher beträgt die Länge der Plattform 160m."
         },
         {
-            "question": "A 100 meters long train can cross a 150 meters long bridge in 20 seconds. What is the speed of the train?",
+            "question": "Ein 100 Meter langer Zug kann eine 150 Meter lange Brücke in 20 Sekunden überqueren. Wie hoch ist die Geschwindigkeit des Zuges?",
             "a": "10m/s",
             "b": "12.5m/s",
             "c": "15m/s",
@@ -438,10 +438,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 100m!Length of the bridge = L2 = 150m!Time = t = 20s!Speed = v = ?! !v = (L1+L2)/t!By putting values!v = (100+150)/20!v = 250/20 = 12.5m/s! !Hence speed of train is 12.5m/s."
+            "explain": "Länge des Zuges = L1 = 100m!Länge der Brücke = L2 = 150m!Zeit = t = 20s!Geschwindigkeit = v = ?! !v = (L1+L2)/t!Durch Einsetzen der Werte!v = (100+150)/20!v = 250/20 = 12.5m/s! !Daher beträgt die Geschwindigkeit des Zuges 12.5m/s."
         },
         {
-            "question": "230 meters long train crosses a man sitting on the platform in 46 seconds. What is the speed of the train?",
+            "question": "Ein 230 Meter langer Zug überquert einen auf der Plattform sitzenden Mann in 46 Sekunden. Wie hoch ist die Geschwindigkeit des Zuges?",
             "a": "5m/s",
             "b": "10m/s",
             "c": "15m/s",
@@ -449,10 +449,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L = 230m!Time = t = 46s!Speed = v = ?! !V = L/t!By putting values!v = 230/46 = 5m/s! !Hence speed of the train is 5m/s."
+            "explain": "Länge des Zuges = L = 230m!Zeit = t = 46s!Geschwindigkeit = v = ?! !V = L/t!Durch Einsetzen der Werte!v = 230/46 = 5m/s! !Daher beträgt die Geschwindigkeit des Zuges 5m/s."
         },
         {
-            "question": "A train 100 meters long crosses a 150 meters long bridge in 25 seconds. What is the speed of the train?",
+            "question": "Ein 100 Meter langer Zug überquert eine 150 Meter lange Brücke in 25 Sekunden. Wie hoch ist die Geschwindigkeit des Zuges?",
             "a": "27km/h",
             "b": "36km/h",
             "c": "45km/h",
@@ -460,10 +460,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 100m!Length of the bridge = L2 = 150m!Time = t = 25s! !v = (L1+L2)/t!By putting values!v = (100+150)/25!v = 250/25 = 10m/s = 10*(18/5) = 36 Km/h! !Hence speed of the train is 36 Km/h."
+            "explain": "Länge des Zuges = L1 = 100m!Länge der Brücke = L2 = 150m!Zeit = t = 25s! !v = (L1+L2)/t!Durch Einsetzen der Werte!v = (100+150)/25!v = 250/25 = 10m/s = 10*(18/5) = 36 Km/h! !Daher beträgt die Geschwindigkeit des Zuges 36 Km/h."
         },
         {
-            "question": "What is the speed of the train if it crosses a 175 meters long bridge in 41 seconds? Length of the train is 645 meters?",
+            "question": "Wie hoch ist die Geschwindigkeit des Zuges, wenn er eine 175 Meter lange Brücke in 41 Sekunden überquert? Die Länge des Zuges beträgt 645 Meter?",
             "a": "54km/h",
             "b": "63km/h",
             "c": "72km/h",
@@ -471,21 +471,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 645m!Length of the bridge = L2 = 175m!Time = t = 41s!Speed = v = ?! !v = (L1+L2)/t!v = (645+175)/41!v = 20m/s = 20 * 18/5 = 72 Km/h! !Hence speed of the train is 72 Km/h."
+            "explain": "Länge des Zuges = L1 = 645m!Länge der Brücke = L2 = 175m!Zeit = t = 41s!Geschwindigkeit = v = ?! !v = (L1+L2)/t!v = (645+175)/41!v = 20m/s = 20 * 18/5 = 72 Km/h! !Daher beträgt die Geschwindigkeit des Zuges 72 Km/h."
         },
         {
-            "question": "A train 110 meters long passses telegraph pole in 3 seconds. How long will it take to cross a platform 165 meters long?",
-            "a": "4 sec",
-            "b": "4.5 sec",
-            "c": "7.5 sec",
-            "d": "10 sec",
+            "question": "Ein 110 Meter langer Zug passiert einen Telegrafenmast in 3 Sekunden. Wie lange wird er brauchen, um eine 165 Meter lange Plattform zu überqueren?",
+            "a": "4 sek",
+            "b": "4.5 sek",
+            "c": "7.5 sek",
+            "d": "10 sek",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 110m!Time = t1 = 3s! !v = L1/t!v = 110/3! !Length of the platform = L2 = 165m! !t2 = (L1+L2)/v!By putting values!t2 = (110+165)*(3/110)!t2 = 7.5s! !Hence it will take 7.5 seconds to cross the platform."
+            "explain": "Länge des Zuges = L1 = 110m!Zeit = t1 = 3s! !v = L1/t!v = 110/3! !Länge der Plattform = L2 = 165m! !t2 = (L1+L2)/v!Durch Einsetzen der Werte!t2 = (110+165)*(3/110)!t2 = 7.5s! !Daher wird es 7,5 Sekunden dauern, um die Plattform zu überqueren."
         },
         {
-            "question": "A train travelling at 36 km/h took 10 seconds to pass a stationary man. What was the length of the train?",
+            "question": "Ein Zug, der mit 36 km/h fuhr, brauchte 10 Sekunden, um einen stehenden Mann zu passieren. Wie lang war der Zug?",
             "a": "45m",
             "b": "80m",
             "c": "100m",
@@ -493,10 +493,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 36 Km/h = 36*(5/18) = 10m/s!Time = t = 10s!Length of the train = L = ?! !L = v*t!By putting values!L = 10*10 = 100m! !Hence length of the train is 100 meter."
+            "explain": "Geschwindigkeit = v = 36 Km/h = 36*(5/18) = 10m/s!Zeit = t = 10s!Länge des Zuges = L = ?! !L = v*t!Durch Einsetzen der Werte!L = 10*10 = 100m! !Daher beträgt die Länge des Zuges 100 Meter."
         },
         {
-            "question": "John can swim at the speed of 20 km/h in still water and speed of water is 3 km/h. What is his swimming speed with water?",
+            "question": "John kann mit einer Geschwindigkeit von 20 km/h in stillem Wasser schwimmen und die Geschwindigkeit des Wassers beträgt 3 km/h. Wie hoch ist seine Schwimmgeschwindigkeit mit dem Wasser?",
             "a": "23 km/h",
             "b": "17 km/h",
             "c": "11 km/h",
@@ -504,10 +504,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "John's speed in still water = u = 20 Km/h!Speed of water = v = 3 Km/h!John's speed with water = u+v = 20+3 = 23 Km/h"
+            "explain": "Johns Geschwindigkeit in stillem Wasser = u = 20 Km/h!Geschwindigkeit des Wassers = v = 3 Km/h!Johns Geschwindigkeit mit dem Wasser = u+v = 20+3 = 23 Km/h"
         },
         {
-            "question": "David can swim at the speed of 30 km/h in still water and speed of water is 4 km/h. What is his speed of swimming against the direction of water?",
+            "question": "David kann mit einer Geschwindigkeit von 30 km/h in stillem Wasser schwimmen und die Geschwindigkeit des Wassers beträgt 4 km/h. Wie hoch ist seine Schwimmgeschwindigkeit gegen die Richtung des Wassers?",
             "a": "30 km/h",
             "b": "26 km/h",
             "c": "24 km/h",
@@ -515,10 +515,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "David's speed in still water = u = 30 Km/h!Speed of water = v = 4 Km/h!David's swimming speed against water = u-v = 30-4 = 26 Km/h"
+            "explain": "Davids Geschwindigkeit in stillem Wasser = u = 30 Km/h!Geschwindigkeit des Wassers = v = 4 Km/h!Davids Schwimmgeschwindigkeit gegen das Wasser = u-v = 30-4 = 26 Km/h"
         },
         {
-            "question": "A boat travels at the speed of 25 km/h upstream and 35 km/h downstream. Find the speed of water.",
+            "question": "Ein Boot fährt mit einer Geschwindigkeit von 25 km/h stromaufwärts und 35 km/h stromabwärts. Finden Sie die Geschwindigkeit des Wassers.",
             "a": "7/2 km/h",
             "b": "3/2 km/h",
             "c": "2km/h",
@@ -526,10 +526,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Upstream speed = y = 25 Km/h!Downstream speed = x = 35 Km/h!Speed of water = (1/2)*(x-y)!= (1/2)*(35-35) = 5 Km/h"
+            "explain": "Geschwindigkeit stromaufwärts = y = 25 Km/h!Geschwindigkeit stromabwärts = x = 35 Km/h!Geschwindigkeit des Wassers = (1/2)*(x-y)! = (1/2)*(35-25) = 5 Km/h"
         },
         {
-            "question": "A ship travels at the speed of 20 km/h upstream and 24 km/h downstream. What is the speed of boat in still water?",
+            "question": "Ein Schiff fährt mit einer Geschwindigkeit von 20 km/h stromaufwärts und 24 km/h stromabwärts. Wie hoch ist die Geschwindigkeit des Bootes in stillem Wasser?",
             "a": "4 km/h",
             "b": "2 km/h",
             "c": "44 km/h",
@@ -537,10 +537,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Upstream speed = y = 20 Km/h!Downstream speed = x = 24 Km/h!Speed of ship = (1/2)*(x+y)!=(1/2)*(20+24) = 22 Km/h"
+            "explain": "Geschwindigkeit stromaufwärts = y = 20 Km/h!Geschwindigkeit stromabwärts = x = 24 Km/h!Geschwindigkeit des Schiffes = (1/2)*(x+y)! = (1/2)*(20+24) = 22 Km/h"
         },
         {
-            "question": "Joseph's speed of rowing in still water is 12 km/h and he finds that it takes him twice as long to row up as to row down the river. Find the speed of water in the river.",
+            "question": "Josephs Rudergeschwindigkeit in stillem Wasser beträgt 12 km/h und er stellt fest, dass er doppelt so lange braucht, um stromaufwärts zu rudern wie stromabwärts. Finden Sie die Geschwindigkeit des Wassers im Fluss.",
             "a": "3.5 km/h",
             "b": "3 km/h",
             "c": "1 km/h",
@@ -548,10 +548,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let speed of water is x.!Speed in still water = u = 12 Km/h! !As downstream speed is double of upstream speed! !(12+x) = 2(12-x)!12+x = 24-2x!3x = 12!x = 4! !Hence speed of water is 4 Km/h."
+            "explain": "Sei die Geschwindigkeit des Wassers x.!Geschwindigkeit in stillem Wasser = u = 12 Km/h! !Da die Geschwindigkeit stromabwärts doppelt so hoch ist wie die Geschwindigkeit stromaufwärts! !(12+x) = 2(12-x)!12+x = 24-2x!3x = 12!x = 4! !Daher beträgt die Geschwindigkeit des Wassers 4 Km/h."
         },
         {
-            "question": "Speed of water in certain river is 6 km/h and it takes a boat four times as long to row up as to row down the river. What is the speed of boat in still water?",
+            "question": "Die Geschwindigkeit des Wassers in einem bestimmten Fluss beträgt 6 km/h und ein Boot braucht viermal so lange, um stromaufwärts zu rudern wie stromabwärts. Wie hoch ist die Geschwindigkeit des Bootes in stillem Wasser?",
             "a": "10 km/h",
             "b": "8 km/h",
             "c": "6 km/h",
@@ -559,32 +559,32 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let speed of boat in still water is x.!Speed of water = v = 6 Km/h!As downstream speed is four times the upstream speed so! !(x+6) = 4(x-6)!x+6 = 4x-24!30 = 3x!x = 10! !Hence speed of boat in still water is 10 Km/h"
+            "explain": "Sei die Geschwindigkeit des Bootes in stillem Wasser x.!Geschwindigkeit des Wassers = v = 6 Km/h!Da die Geschwindigkeit stromabwärts viermal so hoch ist wie die Geschwindigkeit stromaufwärts, also! !(x+6) = 4(x-6)!x+6 = 4x-24!30 = 3x!x = 10! !Daher beträgt die Geschwindigkeit des Bootes in stillem Wasser 10 Km/h"
         },
         {
-            "question": "Anil's swimming speed in still water is 14 km/h and speed of water is 4 km/h. How long will it take him to go upstream 50 km?",
-            "a": "2.5 hours",
-            "b": "5 hours",
-            "c": "3 hours",
-            "d": "3.5 hours",
+            "question": "Anils Schwimmgeschwindigkeit in stillem Wasser beträgt 14 km/h und die Geschwindigkeit des Wassers beträgt 4 km/h. Wie lange wird er brauchen, um 50 km stromaufwärts zu fahren?",
+            "a": "2.5 Stunden",
+            "b": "5 Stunden",
+            "c": "3 Stunden",
+            "d": "3.5 Stunden",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Anil's swimming speed in still water = u = 14 Km/h!Speed of water = v = 4 Km/h!Total upstream speed = u-v = 14-10 = 10 Km/h!Distance to cover = S = 50Km! !time = distance/speed!By putting values!time = t = 50/10 = 5 hours"
+            "explain": "Anils Schwimmgeschwindigkeit in stillem Wasser = u = 14 Km/h!Geschwindigkeit des Wassers = v = 4 Km/h!Gesamtgeschwindigkeit stromaufwärts = u-v = 14-4 = 10 Km/h!Zurückzulegende Strecke = S = 50Km! !Zeit = Strecke/Geschwindigkeit!Durch Einsetzen der Werte!Zeit = t = 50/10 = 5 Stunden"
         },
         {
-            "question": "Ali's swimming speed in still water is 18 km/h and speed of water is 6 km/h. How long will it take him to go downstream 72km?",
-            "a": "3.5 hours",
-            "b": "3 hours",
-            "c": "4 hours",
-            "d": "3.75 hours",
+            "question": "Alis Schwimmgeschwindigkeit in stillem Wasser beträgt 18 km/h und die Geschwindigkeit des Wassers beträgt 6 km/h. Wie lange wird er brauchen, um 72 km stromabwärts zu fahren?",
+            "a": "3.5 Stunden",
+            "b": "3 Stunden",
+            "c": "4 Stunden",
+            "d": "3.75 Stunden",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ali's swimming speed in still water = u = 18 Km/h!Speed of water = v = 6 Km/h!Total speed down the stream = 18+6 = 24 Km/h! !Distance to cover = 72 Km!time = ?! !time = distance/speed = time = 72/24 = 3 hours."
+            "explain": "Alis Schwimmgeschwindigkeit in stillem Wasser = u = 18 Km/h!Geschwindigkeit des Wassers = v = 6 Km/h!Gesamtgeschwindigkeit stromabwärts = 18+6 = 24 Km/h! !Zurückzulegende Strecke = 72 Km!Zeit = ?! !Zeit = Strecke/Geschwindigkeit = Zeit = 72/24 = 3 Stunden."
         },
         {
-            "question": "A man can row 4.5 km an hour in still water but takes twice as long to row up a stream as down it. What is the rate of stream in km/h?",
+            "question": "Ein Mann kann 4,5 km pro Stunde in stillem Wasser rudern, braucht aber doppelt so lange, um einen Fluss hinaufzurudern wie hinunter. Wie hoch ist die Strömungsgeschwindigkeit in km/h?",
             "a": "1.5",
             "b": "2.25",
             "c": "3",
@@ -592,10 +592,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let rate of stream (speed of water) is x.!Man's speed in still water = u = 4.5 Km/h! !Given that!4.5+x = 2(4.5-x)!4.5+x = 9-2x!3x = 4.5!x = 1.5! !Hence rate of stream is 1.5 Km/h"
+            "explain": "Sei die Strömungsgeschwindigkeit (Geschwindigkeit des Wassers) x.!Geschwindigkeit des Mannes in stillem Wasser = u = 4.5 Km/h! !Gegeben, dass!4.5+x = 2(4.5-x)!4.5+x = 9-2x!3x = 4.5!x = 1.5! !Daher beträgt die Strömungsgeschwindigkeit 1.5 Km/h"
         },
         {
-            "question": "If a man takes two hours to row 3 km upstream or 15 km downstream then the speed of current is?",
+            "question": "Wenn ein Mann zwei Stunden braucht, um 3 km stromaufwärts oder 15 km stromabwärts zu rudern, dann ist die Geschwindigkeit des Stroms?",
             "a": "1",
             "b": "2",
             "c": "3",
@@ -603,10 +603,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Upstream distance covered in 2 hours = 3Km!Distance covered in 1 hour = 3/2 = `1.5 Km!So,!Upstream speed = 1.5 Km/h!Downstream distance covered in 2 hours = 15Km!Distance covered in 1 hour = 15/2 = 7.5Km! !Downstream speed = 7.5 Km/h! !Now!Speed of water = (1/2)*(7.5-1.5) = 3 Km/h"
+            "explain": "Zurückgelegte Strecke stromaufwärts in 2 Stunden = 3Km!Zurückgelegte Strecke in 1 Stunde = 3/2 = `1.5 Km!Also,!Geschwindigkeit stromaufwärts = 1.5 Km/h!Zurückgelegte Strecke stromabwärts in 2 Stunden = 15Km!Zurückgelegte Strecke in 1 Stunde = 15/2 = 7.5Km! !Geschwindigkeit stromabwärts = 7.5 Km/h! !Jetzt!Geschwindigkeit des Wassers = (1/2)*(7.5-1.5) = 3 Km/h"
         },
         {
-            "question": "A man can row 1 km upstream in 20 minutes, and downstream in 15 minutes. What is the speed of the current?",
+            "question": "Ein Mann rudert 1 km stromaufwärts in 20 Minuten und stromabwärts in 15 Minuten. Wie hoch ist die Geschwindigkeit des Stroms?",
             "a": "1 km/h",
             "b": "2 km/h",
             "c": "0.5 km/h",
@@ -614,10 +614,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "20 minutes = 20/60 = 1/3 hours!Upstream distance covered in 1/3 hours = 1 Km!Upstream distance covered in 1 hour = 1/(1/3) = 3 Km!Upstream speed = y = 3 Km/h! !Now!15 minutes = 15/60 = 1/4 hours!Downstream distance covered in 1/4 hours = 1 Km!Downstream distance covered in 1 hour = 1/(1/4) = 4 Km!Downstream speed = 4 Km/h! !speed of water = (1/2)*(4-3) = 1/2 = 0.5 Km/h"
+            "explain": "20 Minuten = 20/60 = 1/3 Stunden!Zurückgelegte Strecke stromaufwärts in 1/3 Stunden = 1 Km!Zurückgelegte Strecke stromaufwärts in 1 Stunde = 1/(1/3) = 3 Km!Geschwindigkeit stromaufwärts = y = 3 Km/h! !Jetzt!15 Minuten = 15/60 = 1/4 Stunden!Zurückgelegte Strecke stromabwärts in 1/4 Stunden = 1 Km!Zurückgelegte Strecke stromabwärts in 1 Stunde = 1/(1/4) = 4 Km!Geschwindigkeit stromabwärts = 4 Km/h! !Geschwindigkeit des Wassers = (1/2)*(4-3) = 1/2 = 0.5 Km/h"
         },
         {
-            "question": "A man rows 1 km upstream in 20 minutes and 1 km downstream in 15 minutes. What is his speed of rowing in still water?",
+            "question": "Ein Mann rudert 1 km stromaufwärts in 20 Minuten und 1 km stromabwärts in 15 Minuten. Wie hoch ist seine Rudergeschwindigkeit in stillem Wasser?",
             "a": "2.5",
             "b": "3",
             "c": "3.5",
@@ -625,10 +625,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "20 minutes = 20/60 = 1/3 hours!Upstream distance covered in 1/3 hours = 1 Km!Upstream distance covered in 1 hour = 1/(1/3) = 3 Km!Upstream speed = y = 3 Km/h! !Now!15 minutes = 15/60 = 1/4 hours!Downstream distance covered in 1/4 hours = 1 Km!Downstream distance covered in 1 hour = 1/(1/4) = 4 Km!Downstream speed = 4 Km/h! !speed of rowing = (1/2)*(4+3) = 7/2 = 3.5 Km/h"
+            "explain": "20 Minuten = 20/60 = 1/3 Stunden!Zurückgelegte Strecke stromaufwärts in 1/3 Stunden = 1 Km!Zurückgelegte Strecke stromaufwärts in 1 Stunde = 1/(1/3) = 3 Km!Geschwindigkeit stromaufwärts = y = 3 Km/h! !Jetzt!15 Minuten = 15/60 = 1/4 Stunden!Zurückgelegte Strecke stromabwärts in 1/4 Stunden = 1 Km!Zurückgelegte Strecke stromabwärts in 1 Stunde = 1/(1/4) = 4 Km!Geschwindigkeit stromabwärts = 4 Km/h! !Rudergeschwindigkeit = (1/2)*(4+3) = 7/2 = 3.5 Km/h"
         },
         {
-            "question": "A man rowing a boat covers an average distance of 7.5 km/h. What is the distance covered after 40 minutes?",
+            "question": "Ein Mann, der ein Boot rudert, legt eine durchschnittliche Entfernung von 7,5 km/h zurück. Wie groß ist die nach 40 Minuten zurückgelegte Entfernung?",
             "a": "5 km",
             "b": "10 km",
             "c": "20 km",
@@ -636,10 +636,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Distance covered in 60 minutes = 7.5 Km!Distance covered in 1 minute = 7.5/60 = 1/8 Km! !Distance covered in 40 minutes = (1/8)*40 = 5 Km"
+            "explain": "Zurückgelegte Entfernung in 60 Minuten = 7.5 Km!Zurückgelegte Entfernung in 1 Minute = 7.5/60 = 1/8 Km! !Zurückgelegte Entfernung in 40 Minuten = (1/8)*40 = 5 Km"
         },
         {
-            "question": "A man can row down a 10 mile stream in 2 hours and up in 5 hours. What is the average speed in miles per hour?",
+            "question": "Ein Mann kann einen 10 Meilen langen Fluss in 2 Stunden hinunter und in 5 Stunden hinauf rudern. Wie hoch ist die Durchschnittsgeschwindigkeit in Meilen pro Stunde?",
             "a": "10/7",
             "b": "7/2",
             "c": "20/7",
@@ -647,10 +647,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Downstream distance covered in 2 hours = 10 miles!Downstream distance covered in 1 hour = 10/2 = 5 miles!Downstream speed = 5 mile/h! !and!Upstream distance covered in 5 hours = 10 mile!Upstream distance covered in 1 hour = 10/5 = 2 miles! !Upstream speed = 2 mile/hr! !Average speed = (1/2)*(2+5) = 3.5 mile/hr"
+            "explain": "Zurückgelegte Strecke stromabwärts in 2 Stunden = 10 Meilen!Zurückgelegte Strecke stromabwärts in 1 Stunde = 10/2 = 5 Meilen!Geschwindigkeit stromabwärts = 5 Meilen/h! !und!Zurückgelegte Strecke stromaufwärts in 5 Stunden = 10 Meilen!Zurückgelegte Strecke stromaufwärts in 1 Stunde = 10/5 = 2 Meilen! !Geschwindigkeit stromaufwärts = 2 Meilen/hr! !Durchschnittsgeschwindigkeit = (1/2)*(2+5) = 3.5 Meilen/hr"
         },
         {
-            "question": "Speed of water in certain river is 2 km/h and it takes a boat thrice as long to row up as to row down the river. Find the speed of the boat in still water.",
+            "question": "Die Geschwindigkeit des Wassers in einem bestimmten Fluss beträgt 2 km/h und ein Boot braucht dreimal so lange, um stromaufwärts zu rudern wie stromabwärts. Finden Sie die Geschwindigkeit des Bootes in stillem Wasser.",
             "a": "10 km/h",
             "b": "8 km/h",
             "c": "6 km/h",
@@ -658,7 +658,8 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let speed of boat in still water is x.!Speed of water = v = 2 Km/h! !As downstream speed in 3 times the upstream speed so!(x+2) = 3(x-2)!x+2 = 3x-6!8 = 2x!x = 4!Hence speed of boat in still water is 4 Km/h"
+            "explain": "Sei die Geschwindigkeit des Bootes in stillem Wasser x.!Geschwindigkeit des Wassers = v = 2 Km/h! !Da die Geschwindigkeit stromabwärts dreimal so hoch ist wie die Geschwindigkeit stromaufwärts, also!(x+2) = 3(x-2)!x+2 = 3x-6!8 = 2x!x = 4!Daher beträgt die Geschwindigkeit des Bootes in stillem Wasser 4 Km/h"
         }
     ]
 }
+

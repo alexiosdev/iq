@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "A can do a work in 15 days and B in 20 days.If they work on it together for 4 days,then the fraction of the work that is left is",
+            "question": "A dapat mengerjakan suatu pekerjaan dalam 15 hari dan B dalam 20 hari. Jika mereka mengerjakannya bersama selama 4 hari, maka sisa pekerjaan yang tersisa adalah",
             "a": "1/4",
             "b": "1/10",
             "c": "7/15",
@@ -9,10 +9,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A's 1 day's work = 1/15! !B's 1 day's work = 1/20! !(A + B)'s 1 day's work = (1/15 + 1/20) = 7/60! !(A + B)'s 4 day's work = (7/60 * 4) = 7/15! !Therefore, Remaining work = (1 - 7/15) = 8/15"
+            "explain": "Pekerjaan 1 hari A = 1/15! !Pekerjaan 1 hari B = 1/20! !Pekerjaan 1 hari (A + B) = (1/15 + 1/20) = 7/60! !Pekerjaan 4 hari (A + B) = (7/60 * 4) = 7/15! !Oleh karena itu, Sisa pekerjaan = (1 - 7/15) = 8/15"
         },
         {
-            "question": "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is",
+            "question": "Alfred membeli skuter tua seharga Rs. 4700 dan menghabiskan Rs. 800 untuk perbaikannya. Jika ia menjual skuter tersebut seharga Rs. 5800, persentase keuntungannya adalah",
             "a": "60/11 %",
             "b": "55/9 %",
             "c": "15 %",
@@ -20,32 +20,32 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Cost Price (C.P.) = (4700 + 800) = Rs. 5500! !Selling Price (S.P.) = Rs. 5800! !Gain = (S.P.) - (C.P.) = (5800 - 5500) = Rs. 300! !Gain % = (300/5500) * 100 = 60/5 %"
+            "explain": "Harga Pokok (H.P.) = (4700 + 800) = Rs. 5500! !Harga Jual (H.J.) = Rs. 5800! !Keuntungan = (H.J.) - (H.P.) = (5800 - 5500) = Rs. 300! !Keuntungan % = (300/5500) * 100 = 60/5 %"
         },
         {
-            "question": "If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be",
-            "a": "4 days",
-            "b": "5 days",
-            "c": "6 days",
-            "d": "7 days",
+            "question": "Jika 6 pria dan 8 anak laki-laki dapat menyelesaikan suatu pekerjaan dalam 10 hari sedangkan 26 pria dan 48 anak laki-laki dapat menyelesaikan pekerjaan yang sama dalam 2 hari, waktu yang dibutuhkan oleh 15 pria dan 20 anak laki-laki untuk melakukan jenis pekerjaan yang sama adalah",
+            "a": "4 hari",
+            "b": "5 hari",
+            "c": "6 hari",
+            "d": "7 hari",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let, 1 man's 1 day's work = x!and 1 boy's 1 day's work = y! !Then, 6x + 8y = 1/10!and 26x + 48y = 1/2! !Solving these two equations, we get!x = 1/100!and y = 1/200! !(15 men + 20 boy)'s 1 day's work = (15/100 + 20/200) = 1/4! !Hence, 15 men and 20 boys can do the work in 4 days."
+            "explain": "Misalkan, pekerjaan 1 hari 1 pria = x!dan pekerjaan 1 hari 1 anak laki-laki = y! !Maka, 6x + 8y = 1/10!dan 26x + 48y = 1/2! !Menyelesaikan kedua persamaan ini, kita dapatkan!x = 1/100!dan y = 1/200! !Pekerjaan 1 hari (15 pria + 20 anak laki-laki) = (15/100 + 20/200) = 1/4! !Jadi, 15 pria dan 20 anak laki-laki dapat menyelesaikan pekerjaan dalam 4 hari."
         },
         {
-            "question": "A can do a piece of work in 4 hours; B and C together can do it in 3 hours,while A and C together can do it in 2 hours.How long will B alone take to do it?",
-            "a": "8 hours",
-            "b": "10 hours",
-            "c": "12 hours",
-            "d": "24 hours",
+            "question": "A dapat menyelesaikan suatu pekerjaan dalam 4 jam; B dan C bersama-sama dapat menyelesaikannya dalam 3 jam, sedangkan A dan C bersama-sama dapat menyelesaikannya dalam 2 jam. Berapa lama B sendiri akan menyelesaikannya?",
+            "a": "8 jam",
+            "b": "10 jam",
+            "c": "12 jam",
+            "d": "24 jam",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A's 1 hour's work = 1/4! !(B + C)'s 1 hour's work = 1/3! !(A + C)'s 1 hour's work = 1/2! !(A + B + C)'s 1 hour's work = (1/4 + 1/3) = 7/12! !B's 1 hour's work = (7/12 - 1/2) = 1/12! !Hence, B alone will take 12 hours to do the work."
+            "explain": "Pekerjaan 1 jam A = 1/4! !Pekerjaan 1 jam (B + C) = 1/3! !Pekerjaan 1 jam (A + C) = 1/2! !Pekerjaan 1 jam (A + B + C) = (1/4 + 1/3) = 7/12! !Pekerjaan 1 jam B = (7/12 - 1/2) = 1/12! !Jadi, B sendiri akan membutuhkan 12 jam untuk menyelesaikan pekerjaan."
         },
         {
-            "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+            "question": "Jika harga jual digandakan, keuntungan menjadi tiga kali lipat. Tentukan persentase keuntungan.",
             "a": "50",
             "b": "100",
             "c": "120",
@@ -53,32 +53,32 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let! C.P. be Rs. x and S.P. be Rs. y.! !Then,! 3(y - x) = (2y - x)!y = 2x! !Profit = Rs. (y - x) = Rs. x! !Profit % = (x/x)*100 = 100%"
+            "explain": "Misalkan! H.P. adalah Rs. x dan H.J. adalah Rs. y.! !Maka,! 3(y - x) = (2y - x)!y = 2x! !Keuntungan = Rs. (y - x) = Rs. x! !Keuntungan % = (x/x)*100 = 100%"
         },
         {
-            "question": "A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?",
-            "a": "23 days",
-            "b": "37 days",
-            "c": "37.5 days",
-            "d": "40 days",
+            "question": "A mengerjakan 80% pekerjaan dalam 20 hari. Dia kemudian memanggil B dan mereka bersama-sama menyelesaikan sisa pekerjaan dalam 3 hari. Berapa lama B sendiri akan membutuhkan waktu untuk melakukan seluruh pekerjaan?",
+            "a": "23 hari",
+            "b": "37 hari",
+            "c": "37,5 hari",
+            "d": "40 hari",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Whole work is done by A in (20 * 5/4) = 25 days! !Now, (1 - 4/5) i.e., 1/5 work is done by A and B in 3 days.! !Whole work will be done by A and B in (3 x 5) = 15 days.! !A's 1 day's work = 1/25!(A + B)'s 1 day's work = 1/15! !So, B's 1 day's work = (1/15 - 1/25) = 4/150 = 2/75! !Hence, B alone would do the work in 75/2 = 37.5 days."
+            "explain": "Seluruh pekerjaan diselesaikan oleh A dalam (20 * 5/4) = 25 hari! !Sekarang, (1 - 4/5) yaitu, 1/5 pekerjaan diselesaikan oleh A dan B dalam 3 hari.! !Seluruh pekerjaan akan diselesaikan oleh A dan B dalam (3 x 5) = 15 hari.! !Pekerjaan 1 hari A = 1/25!Pekerjaan 1 hari (A + B) = 1/15! !Jadi, pekerjaan 1 hari B = (1/15 - 1/25) = 4/150 = 2/75! !Jadi, B sendiri akan mengerjakan pekerjaan dalam 75/2 = 37,5 hari."
         },
         {
-            "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
-            "a": "Rs. 18.20",
-            "b": "Rs. 70",
-            "c": "Rs. 72",
-            "d": "Rs. 88.25",
+            "question": "Seorang penjaga toko mengharapkan keuntungan 22,5% dari harga pokoknya. Jika dalam seminggu, penjualannya sebesar Rs. 392, berapakah keuntungannya?",
+            "a": "Rp. 18,20",
+            "b": "Rp. 70",
+            "c": "Rp. 72",
+            "d": "Rp. 88,25",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. = (100/122.5) * 392!= (1000/1225) * 392!= Rs. 320! !Hence, Profit = Rs. (392 - 320) = Rs. 72."
+            "explain": "H.P. = (100/122,5) * 392!= (1000/1225) * 392!= Rs. 320! !Jadi, Keuntungan = Rs. (392 - 320) = Rs. 72."
         },
         {
-            "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?",
+            "question": "4 pria dan 6 wanita dapat menyelesaikan suatu pekerjaan dalam 8 hari, sedangkan 3 pria dan 7 wanita dapat menyelesaikannya dalam 10 hari. Dalam berapa hari 10 wanita akan menyelesaikannya?",
             "a": "35",
             "b": "40",
             "c": "45",
@@ -86,10 +86,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let, 1 man's 1 day's work = x!and!1 woman's 1 day's work = y! !Then, 4x + 6y = 1/8 nd 3x + 7y = 1/10! !Solving the two equations, we get!x = 11/400!y = 1/400! !So, One woman's 1 day's work = 1/400! !10 women's 1 day's work = (1/400 * 10) = 1/40! !Hence, 10 women will complete the work in 40 days."
+            "explain": "Misalkan, pekerjaan 1 hari 1 pria = x!dan!pekerjaan 1 hari 1 wanita = y! !Maka, 4x + 6y = 1/8 dan 3x + 7y = 1/10! !Menyelesaikan kedua persamaan, kita dapatkan!x = 11/400!y = 1/400! !Jadi, pekerjaan 1 hari satu wanita = 1/400! !Pekerjaan 1 hari 10 wanita = (1/400 * 10) = 1/40! !Jadi, 10 wanita akan menyelesaikan pekerjaan dalam 40 hari."
         },
         {
-            "question": "10 women can complete a work in 7 days and 10 children take 14 days to complete the work.How many days will 5 women and 10 children take to complete the work?",
+            "question": "10 wanita dapat menyelesaikan suatu pekerjaan dalam 7 hari dan 10 anak membutuhkan 14 hari untuk menyelesaikan pekerjaan tersebut. Berapa hari yang dibutuhkan 5 wanita dan 10 anak untuk menyelesaikan pekerjaan tersebut?",
             "a": "3",
             "b": "5",
             "c": "7",
@@ -97,32 +97,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "1 woman's 1 day's work =1/70! !1 child's 1 day's work =1/140! !(5 women + 10 children)'s 1 day's work = (5/70 + 10/140) = (1/14 + 1/14) = 1/7! !Hence, 5 women and 10 children will complete the work in 7 days."
+            "explain": "Pekerjaan 1 hari 1 wanita = 1/70! !Pekerjaan 1 hari 1 anak = 1/140! !Pekerjaan 1 hari (5 wanita + 10 anak) = (5/70 + 10/140) = (1/14 + 1/14) = 1/7! !Jadi, 5 wanita dan 10 anak akan menyelesaikan pekerjaan dalam 7 hari."
         },
         {
-            "question": "A is 30% more efficient than B. How much time will they, working together, take to complete a job which A alone could have done in 23 days?",
-            "a": "11 days",
-            "b": "13 days",
-            "c": "14 days",
-            "d": "17 days",
+            "question": "A 30% lebih efisien daripada B. Berapa banyak waktu yang akan mereka butuhkan, bekerja bersama, untuk menyelesaikan pekerjaan yang A sendiri bisa selesaikan dalam 23 hari?",
+            "a": "11 hari",
+            "b": "13 hari",
+            "c": "14 hari",
+            "d": "17 hari",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of times taken by A and B = 100/130 = 10/13! !Suppose B takes x days to do the work.! !Then, 10/13 = 23/x!x = (23*13)/10!x = 299/10! !A's 1 day's work = 1/23! !B's 1 day's work = 10/299! !(A + B)'s 1 day's work = (1/23 + 10/299) = 23/299 = 1/13! !Therefore, A and B together can complete the work in 13 days."
+            "explain": "Rasio waktu yang dibutuhkan oleh A dan B = 100/130 = 10/13! !Misalkan B membutuhkan x hari untuk melakukan pekerjaan.! !Maka, 10/13 = 23/x!x = (23*13)/10!x = 299/10! !Pekerjaan 1 hari A = 1/23! !Pekerjaan 1 hari B = 10/299! !Pekerjaan 1 hari (A + B) = (1/23 + 10/299) = 23/299 = 1/13! !Oleh karena itu, A dan B bersama-sama dapat menyelesaikan pekerjaan dalam 13 hari."
         },
         {
-            "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is",
+            "question": "Beberapa barang dibeli dengan harga 6 barang seharga Rs. 5 dan dijual dengan harga 5 barang seharga Rs. 6. Persentase keuntungan adalah",
             "a": "30%",
-            "b": "33.5%",
+            "b": "33,5%",
             "c": "35%",
             "d": "44%",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Suppose, number of articles bought =L.C.M. of 6 and 5!= 30! !C.P. of 30 articles = (5/6) * 30 = Rs. 25! !S.P. of 30 articles = (6/5)*30! = Rs. 36! !Hence, Gain % = (11/25) * 100 = 44%"
+            "explain": "Misalkan, jumlah barang yang dibeli = KPK dari 6 dan 5! = 30! !H.P. dari 30 barang = (5/6) * 30 = Rs. 25! !H.J. dari 30 barang = (6/5)*30! = Rs. 36! !Jadi, Keuntungan % = (11/25) * 100 = 44%"
         },
         {
-            "question": "On selling 17 balls at $720, there is a loss equal to the cost price of 5 balls.The cost price of a ball is",
+            "question": "Saat menjual 17 bola seharga $720, terjadi kerugian yang sama dengan harga pokok 5 bola. Harga pokok sebuah bola adalah",
             "a": "$45",
             "b": "$50",
             "c": "$55",
@@ -130,32 +130,32 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(C.P. of 17 balls) - (S.P. of 17 balls) = (C.P. of 5 balls)! !C.P. of 12 balls = S.P. of 17 balls = $720! !C.P. of 1 ball = $60"
+            "explain": "(H.P. 17 bola) - (H.J. 17 bola) = (H.P. 5 bola)! !H.P. 12 bola = H.J. 17 bola = $720! !H.P. 1 bola = $60"
         },
         {
-            "question": "A takes twice as much time as B or thrice as much time as C to finish a piece of work.Working together,they can finish the work in 2 days.B can do the work alone in",
-            "a": "4 days",
-            "b": "6 days",
-            "c": "8 days",
-            "d": "12 days",
+            "question": "A membutuhkan waktu dua kali lebih lama dari B atau tiga kali lebih lama dari C untuk menyelesaikan suatu pekerjaan. Bekerja bersama, mereka dapat menyelesaikan pekerjaan dalam 2 hari. B dapat melakukan pekerjaan sendiri dalam",
+            "a": "4 hari",
+            "b": "6 hari",
+            "c": "8 hari",
+            "d": "12 hari",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Suppose A, B and C take x, x/2, x/3 days respectively to finish the work.! !Then,!(1/x + 2/x + 3/x) = 1/2!6/x = 1/2!x=12! !So, B takes (12/2) = 6 days to finish the work."
+            "explain": "Misalkan A, B dan C masing-masing membutuhkan waktu x, x/2, x/3 hari untuk menyelesaikan pekerjaan.! !Maka,! (1/x + 2/x + 3/x) = 1/2!6/x = 1/2!x=12! !Jadi, B membutuhkan (12/2) = 6 hari untuk menyelesaikan pekerjaan."
         },
         {
-            "question": "A works twice as fast as B.If B can complete a work in 12 days independently,The number of days in which A and B can together finish the work in",
-            "a": "4 days",
-            "b": "6 days",
-            "c": "8 days",
-            "d": "18 days",
+            "question": "A bekerja dua kali lebih cepat dari B. Jika B dapat menyelesaikan suatu pekerjaan dalam 12 hari secara mandiri, Jumlah hari di mana A dan B dapat menyelesaikan pekerjaan bersama-sama adalah",
+            "a": "4 hari",
+            "b": "6 hari",
+            "c": "8 hari",
+            "d": "18 hari",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of rates of working of A and B = 2/1! !So, ratio of times taken = 1/2! !B's 1 day's work = 1/12! !A's 1 day's work = 1/6!(2 times of B's work)! !(A + B)'s 1 day's work = (1/6 + 1/12) = 1/4! !So, A and B together can finish the work in 4 days."
+            "explain": "Rasio tingkat kerja A dan B = 2/1! !Jadi, rasio waktu yang dibutuhkan = 1/2! !Pekerjaan 1 hari B = 1/12! !Pekerjaan 1 hari A = 1/6! (2 kali pekerjaan B)! !Pekerjaan 1 hari (A + B) = (1/6 + 1/12) = 1/4! !Jadi, A dan B bersama-sama dapat menyelesaikan pekerjaan dalam 4 hari."
         },
         {
-            "question": "Twenty women can do a work in sixteen days. Sixteen men can complete the same work in fifteen days. What is the ratio between the capacity of a man and a woman?",
+            "question": "Dua puluh wanita dapat melakukan suatu pekerjaan dalam enam belas hari. Enam belas pria dapat menyelesaikan pekerjaan yang sama dalam lima belas hari. Berapakah perbandingan antara kapasitas seorang pria dan seorang wanita?",
             "a": "3/4",
             "b": "4/3",
             "c": "5/3",
@@ -163,10 +163,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(20 x 16) women can complete the work in 1 day.! !So,  woman's 1 day's work = 1/320! !(16 x 15) men can complete the work in 1 day.! !So, 1 man's 1 day's work = 1/240! !So, required ratio = (1/240) / (1/320)!= (1/3) / (1/4) = 4/3"
+            "explain": "(20 x 16) wanita dapat menyelesaikan pekerjaan dalam 1 hari.! !Jadi, pekerjaan 1 hari wanita = 1/320! !(16 x 15) pria dapat menyelesaikan pekerjaan dalam 1 hari.! !Jadi, pekerjaan 1 hari 1 pria = 1/240! !Jadi, rasio yang dibutuhkan = (1/240) / (1/320)!= (1/3) / (1/4) = 4/3"
         },
         {
-            "question": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg.His profit percent is",
+            "question": "Seorang pedagang mencampur 26 kg beras seharga Rs. 20 per kg dengan 30 kg beras varietas lain seharga Rs. 36 per kg dan menjual campuran tersebut seharga Rs. 30 per kg. Persentase keuntungannya adalah",
             "a": "5%",
             "b": "8%",
             "c": "10%",
@@ -174,43 +174,43 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. of 56 kg rice = (26 x 20 + 30 x 36) = (520 + 1080) = Rs. 1600! !S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680! !Hence, Gain = (80/1600)*100 = 5%"
+            "explain": "H.P. 56 kg beras = (26 x 20 + 30 x 36) = (520 + 1080) = Rs. 1600! !H.J. 56 kg beras = Rs. (56 x 30) = Rs. 1680! !Jadi, Keuntungan = (80/1600)*100 = 5%"
         },
         {
-            "question": "A can finish a work in 24 days, B in 9 days and C in 12 days. B and C start the work but are forced to leave after 3 days. The remaining work was done by A in",
-            "a": "5 days",
-            "b": "6 days",
-            "c": "10 days",
-            "d": "15 days",
+            "question": "A dapat menyelesaikan suatu pekerjaan dalam 24 hari, B dalam 9 hari dan C dalam 12 hari. B dan C memulai pekerjaan tetapi terpaksa berhenti setelah 3 hari. Sisa pekerjaan diselesaikan oleh A dalam",
+            "a": "5 hari",
+            "b": "6 hari",
+            "c": "10 hari",
+            "d": "15 hari",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(B + C)'s 1 day's work = (1/9 + 1/12) = 7/36! !Work done by B and C in 3 days = (7/36 * 3)!= 7/12! !Remaining work = (1 - 7/12)!= 5/12! !Now, 1/24 work is done by A in 1 day.! !So, 5/12 work is done by A in (24 * 5/12) = 10 days."
+            "explain": "Pekerjaan 1 hari (B + C) = (1/9 + 1/12) = 7/36! !Pekerjaan yang dilakukan oleh B dan C dalam 3 hari = (7/36 * 3)!= 7/12! !Sisa pekerjaan = (1 - 7/12)!= 5/12! !Sekarang, 1/24 pekerjaan dilakukan oleh A dalam 1 hari.! !Jadi, 5/12 pekerjaan dilakukan oleh A dalam (24 * 5/12) = 10 hari."
         },
         {
-            "question": "X can do a piece of work in 40 days.He works at it for 8 days and then Y finished it in 16 days.How long will they together take to complete the work?",
-            "a": "40/3 days",
-            "b": "15 days",
-            "c": "20 days",
-            "d": "26 days",
+            "question": "X dapat mengerjakan suatu pekerjaan dalam 40 hari. Dia mengerjakannya selama 8 hari dan kemudian Y menyelesaikannya dalam 16 hari. Berapa lama mereka bersama-sama akan menyelesaikan pekerjaan tersebut?",
+            "a": "40/3 hari",
+            "b": "15 hari",
+            "c": "20 hari",
+            "d": "26 hari",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Work done by X in 8 days = (1/40 * 8)!= 1/5! !Remaining work = (1 - 1/5)!4/5! !Now, 4/5 work is done by Y in 16 days.! !Whole work will be done by Y in (16 * 5/4)!= 20 days! !So,!X's 1 day's work = 1/40!Y's 1 day's work = 1/20! !(X + Y)'s 1 day's work = (1/40 + 1/20) = 3/40! !Hence, X and Y will together complete the work in 40/3 days"
+            "explain": "Pekerjaan yang dilakukan oleh X dalam 8 hari = (1/40 * 8)!= 1/5! !Sisa pekerjaan = (1 - 1/5)!4/5! !Sekarang, 4/5 pekerjaan dilakukan oleh Y dalam 16 hari.! !Seluruh pekerjaan akan dilakukan oleh Y dalam (16 * 5/4)!= 20 hari! !Jadi,!Pekerjaan 1 hari X = 1/40!Pekerjaan 1 hari Y = 1/20! !Pekerjaan 1 hari (X + Y) = (1/40 + 1/20) = 3/40! !Jadi, X dan Y bersama-sama akan menyelesaikan pekerjaan dalam 40/3 hari"
         },
         {
-            "question": "A and B can do a job together in 7 days. A is 7/4  times as efficient as B.The same job can be done by A alone in",
-            "a": "9 days",
-            "b": "11 days",
-            "c": "13 days",
-            "d": "15 days",
+            "question": "A dan B dapat melakukan suatu pekerjaan bersama-sama dalam 7 hari. A 7/4 kali lebih efisien dari B. Pekerjaan yang sama dapat dilakukan oleh A sendiri dalam",
+            "a": "9 hari",
+            "b": "11 hari",
+            "c": "13 hari",
+            "d": "15 hari",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(A's 1 day's work) / (B's 1 day's work) = 7/4! !Let A's and B's 1 day's work be 7x and 4x respectively.! !Then,!7x + 4x = 1/7!11x = 1/7!x = 1/77! !Hence, A's 1 day's work = (1/77 * 7) = 1/11"
+            "explain": "(Pekerjaan 1 hari A) / (Pekerjaan 1 hari B) = 7/4! !Misalkan pekerjaan 1 hari A dan B masing-masing adalah 7x dan 4x.! !Maka,!7x + 4x = 1/7!11x = 1/7!x = 1/77! !Jadi, pekerjaan 1 hari A = (1/77 * 7) = 1/11"
         },
         {
-            "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is",
+            "question": "Harga pokok 20 barang sama dengan harga jual x barang. Jika keuntungannya 25%, maka nilai x adalah",
             "a": "15",
             "b": "16",
             "c": "18",
@@ -218,21 +218,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let!C.P. of each article be Re. 1 C.P. of x articles = Rs. x.! !S.P. of x articles = Rs. 20.! !Profit = Rs. (20 - x)! !So, (20-x)/x * 100 = 25!2000 - 100x = 25x!125x = 2000! !Hence, x = 16"
+            "explain": "Misalkan!H.P. setiap barang adalah Re. 1 H.P. x barang = Rs. x.! !H.J. x barang = Rs. 20.! !Keuntungan = Rs. (20 - x)! !Jadi, (20-x)/x * 100 = 25!2000 - 100x = 25x!125x = 2000! !Jadi, x = 16"
         },
         {
-            "question": "A can do a certain work in the same time in which B and C together can do it.If A and B together could do it in 10 days and C alone in 50 days,then B alone could do it in",
-            "a": "15 days",
-            "b": "20 days",
-            "c": "25 days",
-            "d": "30 days",
+            "question": "A dapat melakukan suatu pekerjaan dalam waktu yang sama dengan B dan C bersama-sama. Jika A dan B bersama-sama dapat melakukannya dalam 10 hari dan C sendiri dalam 50 hari, maka B sendiri dapat melakukannya dalam",
+            "a": "15 hari",
+            "b": "20 hari",
+            "c": "25 hari",
+            "d": "30 hari",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(A + B)'s 1 day's work = 1/10! !C's 1 day's work = 1/50! !(A + B + C)'s 1 day's work = (1/10 + 1/50) = 6/50 = 3/25...(1)! !A's 1 day's work = (B + C)'s 1 day's work .... (2)! !From (1) and (2), we get!2 * (A's 1 day's work) = 3/25! !A's 1 day's work = 3/50! !So, B's 1 day's work (1/10 - 3/50) = 2/50 = 1/25! !Hence, B alone could do the work in 25 days."
+            "explain": "Pekerjaan 1 hari (A + B) = 1/10! !Pekerjaan 1 hari C = 1/50! !Pekerjaan 1 hari (A + B + C) = (1/10 + 1/50) = 6/50 = 3/25...(1)! !Pekerjaan 1 hari A = Pekerjaan 1 hari (B + C) .... (2)! !Dari (1) dan (2), kita dapatkan!2 * (Pekerjaan 1 hari A) = 3/25! !Pekerjaan 1 hari A = 3/50! !Jadi, pekerjaan 1 hari B (1/10 - 3/50) = 2/50 = 1/25! !Jadi, B sendiri dapat melakukan pekerjaan dalam 25 hari."
         },
         {
-            "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+            "question": "Seorang penjual membeli permen dengan harga 6 buah seharga satu rupee. Berapa banyak permen yang harus ia jual seharga satu rupee untuk mendapatkan keuntungan 20%?",
             "a": "3",
             "b": "4",
             "c": "5",
@@ -240,10 +240,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. of 6 toffees = Re. 1! !S.P. of 6 toffees = 120% of Re. 1 = Rs. 6/5! !For Rs. 6/5,!toffees sold = 6.! !For Re. 1, toffees sold = (6 * 5/6) = 5"
+            "explain": "H.P. 6 permen = Re. 1! !H.J. 6 permen = 120% dari Re. 1 = Rs. 6/5! !Untuk Rs. 6/5,!permen yang terjual = 6.! !Untuk Re. 1, permen yang terjual = (6 * 5/6) = 5"
         },
         {
-            "question": "A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?",
+            "question": "A dapat menyelesaikan suatu pekerjaan dalam 18 hari dan B dapat melakukan pekerjaan yang sama dalam 15 hari. B bekerja selama 10 hari dan meninggalkan pekerjaan tersebut. Dalam berapa hari, A sendiri dapat menyelesaikan sisa pekerjaan?",
             "a": "5",
             "b": "5.5",
             "c": "6",
@@ -251,32 +251,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "B's 10 day's work = (1/15 * 10) = 2/3! !Remaining work = (1 - 2/3) = 1/3! !Now, 1/18 work is done by A in 1 day.! ! Hence, 1/3 work is done by A in (18 * 1/3) = 6 days."
+            "explain": "Pekerjaan 10 hari B = (1/15 * 10) = 2/3! !Sisa pekerjaan = (1 - 2/3) = 1/3! !Sekarang, 1/18 pekerjaan dilakukan oleh A dalam 1 hari.! ! Jadi, 1/3 pekerjaan dilakukan oleh A dalam (18 * 1/3) = 6 hari."
         },
         {
-            "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
-            "a": "Rs. 1090",
-            "b": "Rs. 1160",
-            "c": "Rs. 1190",
-            "d": "Rs. 1202",
+            "question": "Seorang pria membeli sepeda seharga Rs. 1400 dan menjualnya dengan kerugian 15%. Berapakah harga jual sepeda tersebut?",
+            "a": "Rp. 1090",
+            "b": "Rp. 1160",
+            "c": "Rp. 1190",
+            "d": "Rp. 1202",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "S.P. = 85% of Rs. 1400 =(85/100)*1400!=Rs. 1190"
+            "explain": "H.J. = 85% dari Rs. 1400 = (85/100)*1400! = Rs. 1190"
         },
         {
-            "question": "A, B and C can complete a piece of work in 24, 6 and 12 days respectively.Working together,they will complete the same work in",
-            "a": "1/24 days",
-            "b": "7/24 days",
-            "c": "24/7 days",
-            "d": "4 days",
+            "question": "A, B dan C dapat menyelesaikan suatu pekerjaan masing-masing dalam 24, 6 dan 12 hari. Bekerja bersama, mereka akan menyelesaikan pekerjaan yang sama dalam",
+            "a": "1/24 hari",
+            "b": "7/24 hari",
+            "c": "24/7 hari",
+            "d": "4 hari",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As we know that!If A can do a piece of work in n days, then A's 1 day's work = 1/n! !(A + B + C)'s 1 day's work = (1/24 + 1/6 + 1/12) = 7/24! !If A's 1 day's work = 1/n then,!A can finish the work in 'n' days.! !So, all the three together will complete the job in (24/7) days."
+            "explain": "Seperti yang kita ketahui bahwa!Jika A dapat melakukan suatu pekerjaan dalam n hari, maka pekerjaan 1 hari A = 1/n! !Pekerjaan 1 hari (A + B + C) = (1/24 + 1/6 + 1/12) = 7/24! !Jika pekerjaan 1 hari A = 1/n maka,!A dapat menyelesaikan pekerjaan dalam 'n' hari.! !Jadi, ketiganya bersama-sama akan menyelesaikan pekerjaan dalam (24/7) hari."
         },
         {
-            "question": "Sakshi can do a piece of work in 20 days. Tanya is 25% more efficient than Sakshi. The number of days taken by Tanya to do the same piece of work is",
+            "question": "Sakshi dapat mengerjakan suatu pekerjaan dalam 20 hari. Tanya 25% lebih efisien dari Sakshi. Jumlah hari yang dibutuhkan Tanya untuk mengerjakan pekerjaan yang sama adalah",
             "a": "15",
             "b": "16",
             "c": "18",
@@ -284,54 +284,54 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of times taken by Sakshi and Tanya = 125/100 = 5/4! !Suppose Tanya takes x days to do the work.! !5/4 = 20/x!x = (4*20)/5! !x = 16 days.! !Hence, Tanya takes 16 days to complete the work."
+            "explain": "Rasio waktu yang dibutuhkan oleh Sakshi dan Tanya = 125/100 = 5/4! !Misalkan Tanya membutuhkan x hari untuk melakukan pekerjaan.! !5/4 = 20/x!x = (4*20)/5! !x = 16 hari.! !Jadi, Tanya membutuhkan 16 hari untuk menyelesaikan pekerjaan."
         },
         {
-            "question": "When a plot is sold for $18,700, the owner loses 15%.At what price must that plot be sold in order to gain 15%?",
-            "a": "$21,000",
-            "b": "$22,500",
-            "c": "$25,300",
-            "d": "$25,800",
+            "question": "Ketika sebuah plot dijual seharga $18.700, pemiliknya rugi 15%. Dengan harga berapa plot itu harus dijual agar mendapatkan keuntungan 15%?",
+            "a": "$21.000",
+            "b": "$22.500",
+            "c": "$25.300",
+            "d": "$25.800",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "85 / 18700 = 115 / x! !x = (18700 * 115)/85 = 25300! !Hence, S.P. = $25,300"
+            "explain": "85 / 18700 = 115 / x! !x = (18700 * 115)/85 = 25300! !Jadi, H.J. = $25.300"
         },
         {
-            "question": "100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen.The percentage of profit or loss is",
-            "a": "100/7 % gain",
-            "b": "100/7 % loss",
-            "c": "15 % gain",
-            "d": "15 % loss",
+            "question": "100 jeruk dibeli dengan harga Rs. 350 dan dijual dengan harga Rs. 48 per lusin. Persentase keuntungan atau kerugian adalah",
+            "a": "100/7 % keuntungan",
+            "b": "100/7 % kerugian",
+            "c": "15 % keuntungan",
+            "d": "15 % kerugian",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. of 1 orange = 350/100 = Rs. 3.50! !S.P. of 1 orange = 48/12 = Rs. 4! !Hence, Gain% = (0.50)/(3.50) * 100 = 100/7 %"
+            "explain": "H.P. 1 jeruk = 350/100 = Rs. 3,50! !H.J. 1 jeruk = 48/12 = Rs. 4! !Jadi, Keuntungan% = (0,50)/(3,50) * 100 = 100/7 %"
         },
         {
-            "question": "A and B can do a work in 8 days, B and C can do the same work in 12 days. A, B and C together can finish it in 6 days. A and C together will do it in",
-            "a": "4 days",
-            "b": "6 days",
-            "c": "8 days",
-            "d": "12 days",
+            "question": "A dan B dapat mengerjakan suatu pekerjaan dalam 8 hari, B dan C dapat mengerjakan pekerjaan yang sama dalam 12 hari. A, B dan C bersama-sama dapat menyelesaikannya dalam 6 hari. A dan C bersama-sama akan mengerjakannya dalam",
+            "a": "4 hari",
+            "b": "6 hari",
+            "c": "8 hari",
+            "d": "12 hari",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(A + B + C)'s 1 day's work = 1/6! !(A + B)'s 1 day's work = 1/8! !(B + C)'s 1 day's work = 1/12! !So, (A + C)'s 1 day's work = (2* 1/6) - (1/8 + 1/12)!= (1/3 - 5/24) = (3/24) = 1/8! !So, A and C together will do the work in 8 days."
+            "explain": "Pekerjaan 1 hari (A + B + C) = 1/6! !Pekerjaan 1 hari (A + B) = 1/8! !Pekerjaan 1 hari (B + C) = 1/12! !Jadi, pekerjaan 1 hari (A + C) = (2* 1/6) - (1/8 + 1/12)!= (1/3 - 5/24) = (3/24) = 1/8! !Jadi, A dan C bersama-sama akan mengerjakan pekerjaan dalam 8 hari."
         },
         {
-            "question": "A is thrice as good as a workman as B and therefore is able to finish a job in 60 days less than B.Working together,they can do it in",
-            "a": "20 days",
-            "b": "22.5 days",
-            "c": "25 days",
-            "d": "30 days",
+            "question": "A tiga kali lebih baik dari seorang pekerja seperti B dan oleh karena itu dapat menyelesaikan pekerjaan 60 hari lebih cepat dari B. Bekerja bersama, mereka dapat melakukannya dalam",
+            "a": "20 hari",
+            "b": "22,5 hari",
+            "c": "25 hari",
+            "d": "30 hari",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of times taken by A and B = 1/3! !The time difference is (3 - 1) 2 days while B take 3 days and A takes 1 day.! !If difference of time is 2 days, B takes 3 days.! !If difference of time is 60 days, B takes (3/2 * 60) = 90 days! !So, A takes 30 days to do the work.! !A's 1 day's work = 1/30! !B's 1 day's work = 1/90! !(A + B)'s 1 day's work = (1/30 + 1/90) = 4/90 = 2/45! !Hence, A and B together can do the work in 45/2 = 22.5 days"
+            "explain": "Rasio waktu yang dibutuhkan oleh A dan B = 1/3! !Perbedaan waktu adalah (3 - 1) 2 hari sedangkan B membutuhkan 3 hari dan A membutuhkan 1 hari.! !Jika perbedaan waktu adalah 2 hari, B membutuhkan 3 hari.! !Jika perbedaan waktu adalah 60 hari, B membutuhkan (3/2 * 60) = 90 hari! !Jadi, A membutuhkan 30 hari untuk melakukan pekerjaan.! !Pekerjaan 1 hari A = 1/30! !Pekerjaan 1 hari B = 1/90! !Pekerjaan 1 hari (A + B) = (1/30 + 1/90) = 4/90 = 2/45! !Jadi, A dan B bersama-sama dapat melakukan pekerjaan dalam 45/2 = 22,5 hari"
         },
         {
-            "question": "Price of an article increased from $50 to $55. What is the percentage increase?",
+            "question": "Harga sebuah barang naik dari $50 menjadi $55. Berapa persentase kenaikannya?",
             "a": "5",
             "b": "10",
             "c": "15",
@@ -339,10 +339,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Increase in price = 55-50 = 5!Percentage increase = (5/50)*100! =10%"
+            "explain": "Kenaikan harga = 55-50 = 5!Persentase kenaikan = (5/50)*100! =10%"
         },
         {
-            "question": "Price of a car increased from $400000 to $420000. What is the percentage increase?",
+            "question": "Harga mobil naik dari $400.000 menjadi $420.000. Berapa persentase kenaikannya?",
             "a": "5",
             "b": "10",
             "c": "15",
@@ -350,10 +350,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Increase in price = 420000 - 400000! = 20000! !Percentage increase = (20000/400000)*100! = 5%"
+            "explain": "Kenaikan harga = 420000 - 400000! = 20000! !Persentase kenaikan = (20000/400000)*100! = 5%"
         },
         {
-            "question": "John's income increased from $12000 to $14400. What is percentage increase in his income?",
+            "question": "Pendapatan John meningkat dari $12.000 menjadi $14.400. Berapa persentase kenaikan pendapatannya?",
             "a": "10",
             "b": "15",
             "c": "20",
@@ -361,10 +361,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Increase in income = 14400 - 12000 = 2400! !Percentage increase = (2400/12000)*100 = 20%"
+            "explain": "Kenaikan pendapatan = 14400 - 12000 = 2400! !Persentase kenaikan = (2400/12000)*100 = 20%"
         },
         {
-            "question": "Value of a house decreased from $250000 to $200000. What is the percentage decrease in the value?",
+            "question": "Nilai sebuah rumah turun dari $250.000 menjadi $200.000. Berapa persentase penurunan nilainya?",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -372,10 +372,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Decrease in value of house = 250000 - 200000 = 50000! !Percentage decrease = (50000/250000)*100 = 20%"
+            "explain": "Penurunan nilai rumah = 250000 - 200000 = 50000! !Persentase penurunan = (50000/250000)*100 = 20%"
         },
         {
-            "question": "Price of an article decreased from $70 to $56. What is the percentage decrease?",
+            "question": "Harga sebuah barang turun dari $70 menjadi $56. Berapa persentase penurunannya?",
             "a": "5",
             "b": "10",
             "c": "20",
@@ -383,21 +383,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Decrease in price = 70-56 = 14! !Percentage decrease = (14/70)*100 = 20%"
+            "explain": "Penurunan harga = 70-56 = 14! !Persentase penurunan = (14/70)*100 = 20%"
         },
         {
-            "question": "Ali bought a house for $450000 and sold it for $500000. What is his profit percentage?",
-            "a": "11.11%",
-            "b": "9.09%",
-            "c": "8.7%",
+            "question": "Ali membeli sebuah rumah seharga $450.000 dan menjualnya seharga $500.000. Berapa persentase keuntungannya?",
+            "a": "11,11%",
+            "b": "9,09%",
+            "c": "8,7%",
             "d": "25%",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Profit = 500000-450000 = 50000! !Profit percentage= (50000/450000)*100 = 11.11%"
+            "explain": "Keuntungan = 500000-450000 = 50000! !Persentase keuntungan = (50000/450000)*100 = 11,11%"
         },
         {
-            "question": "A farmer bought a cow for Rs. 14000 and sold it for Rs. 15400. Find his profit percentage.",
+            "question": "Seorang petani membeli seekor sapi seharga Rs. 14.000 dan menjualnya seharga Rs. 15.400. Tentukan persentase keuntungannya.",
             "a": "10%",
             "b": "15%",
             "c": "20%",
@@ -405,10 +405,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Profit = 15400 - 14000 = 1400! !Profit percentage = (1400/14000)*100 = 10%"
+            "explain": "Keuntungan = 15400 - 14000 = 1400! !Persentase keuntungan = (1400/14000)*100 = 10%"
         },
         {
-            "question": "A salesman bought a pen for Rs. 100 and sold it for Rs. 110. What is his profit percent?",
+            "question": "Seorang penjual membeli sebuah pulpen seharga Rs. 100 dan menjualnya seharga Rs. 110. Berapa persen keuntungannya?",
             "a": "1%",
             "b": "5%",
             "c": "10%",
@@ -416,21 +416,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Profit = 110 - 100 = 10! !Profit percentage = (10/100)*100 = 10%"
+            "explain": "Keuntungan = 110 - 100 = 10! !Persentase keuntungan = (10/100)*100 = 10%"
         },
         {
-            "question": "A car was bought for $380000 four years ago and during these four year it price decreases by 12%. What is its value now?",
+            "question": "Sebuah mobil dibeli seharga $380.000 empat tahun yang lalu dan selama empat tahun ini harganya turun 12%. Berapa nilainya sekarang?",
             "a": "324400",
             "b": "334400",
             "c": "344400",
-            "d": "none",
+            "d": "tidak ada",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "12% of 380000!(380000/100)*12 = 45600! !Price of the car = 380000 - 45600 = 334400"
+            "explain": "12% dari 380000!(380000/100)*12 = 45600! !Harga mobil = 380000 - 45600 = 334400"
         },
         {
-            "question": "What will be the selling price of an article that was bought for $350 and sold at a loss of 14%?",
+            "question": "Berapakah harga jual sebuah barang yang dibeli seharga $350 dan dijual dengan kerugian 14%?",
             "a": "$301",
             "b": "$311",
             "c": "$289",
@@ -438,10 +438,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "14% of 350!(350*14)/100 = 49! !selling price of the article = 350 - 49 = 301"
+            "explain": "14% dari 350!(350*14)/100 = 49! !harga jual barang = 350 - 49 = 301"
         },
         {
-            "question": "What will be the selling price of an article that was bought for $1150 and sold at profit of 6%?",
+            "question": "Berapakah harga jual sebuah barang yang dibeli seharga $1150 dan dijual dengan keuntungan 6%?",
             "a": "$1199",
             "b": "$1209",
             "c": "$1219",
@@ -449,10 +449,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "6% of 1150!= (1150*6)/100 = 69! !Selling price = 1150+69 = 1219"
+            "explain": "6% dari 1150!= (1150*6)/100 = 69! !Harga jual = 1150+69 = 1219"
         },
         {
-            "question": "An article was bought for $300 and sold at a loss of 8%. What is the selling price of the article?",
+            "question": "Sebuah barang dibeli seharga $300 dan dijual dengan kerugian 8%. Berapakah harga jual barang tersebut?",
             "a": "$312",
             "b": "$280",
             "c": "$276",
@@ -460,10 +460,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "8% of 300!= (300*8)/100 = 24! !Selling price = 300-24 = 276"
+            "explain": "8% dari 300!= (300*8)/100 = 24! !Harga jual = 300-24 = 276"
         },
         {
-            "question": "What will be the selling price of an article that was bought for $475 and sold at a loss of 12%?",
+            "question": "Berapakah harga jual sebuah barang yang dibeli seharga $475 dan dijual dengan kerugian 12%?",
             "a": "$409",
             "b": "$418",
             "c": "$429",
@@ -471,21 +471,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "12% of 475!=(475*12)/100 = 57! !Selling price = 475-57 = 418"
+            "explain": "12% dari 475!=(475*12)/100 = 57! !Harga jual = 475-57 = 418"
         },
         {
-            "question": "A shopkeeper bought an article for $120 and sold at profit of 10%. What is selling price of the article?",
+            "question": "Seorang penjaga toko membeli sebuah barang seharga $120 dan menjualnya dengan keuntungan 10%. Berapakah harga jual barang tersebut?",
             "a": "130",
             "b": "132",
             "c": "140",
-            "d": "none",
+            "d": "tidak ada",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "10% of 120!= (120*10)/100 = 12! !Selling price = 120+12 = 132"
+            "explain": "10% dari 120!= (120*10)/100 = 12! !Harga jual = 120+12 = 132"
         },
         {
-            "question": "By selling an article for $200 shopkeeper looses 20%. What is cost price of the article?",
+            "question": "Dengan menjual sebuah barang seharga $200, penjaga toko rugi 20%. Berapakah harga pokok barang tersebut?",
             "a": "220",
             "b": "225",
             "c": "230",
@@ -493,10 +493,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the article is x.! !20% of x = (x*20)/100 = x/5! !Now!(x/5) + 200 = x!x+1000 = 5x!4x = 1000!x = 250! !Hence cost price of the article is 250."
+            "explain": "Misalkan harga pokok barang adalah x.! !20% dari x = (x*20)/100 = x/5! !Sekarang!(x/5) + 200 = x!x+1000 = 5x!4x = 1000!x = 250! !Jadi harga pokok barang adalah 250."
         },
         {
-            "question": "An article was sold at a loss of 15% for $476. What is the cost price of the article?",
+            "question": "Sebuah barang dijual dengan kerugian 15% seharga $476. Berapakah harga pokok barang tersebut?",
             "a": "$520",
             "b": "$540",
             "c": "$560",
@@ -504,10 +504,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the article is x.!15% of x = (15x)/100 = 3x/20! !Now!(3x/20) + 476 = x!3x+9520 = 20x!9520 = 17x!x = 560! !Hence cost price of the article is $560."
+            "explain": "Misalkan harga pokok barang adalah x.!15% dari x = (15x)/100 = 3x/20! !Sekarang!(3x/20) + 476 = x!3x+9520 = 20x!9520 = 17x!x = 560! !Jadi harga pokok barang adalah $560."
         },
         {
-            "question": "Ali sold a house at a loss of 15% for Rs. 382500. What was the cost price of the house?",
+            "question": "Ali menjual sebuah rumah dengan kerugian 15% seharga Rs. 382500. Berapakah harga pokok rumah tersebut?",
             "a": "420000",
             "b": "430000",
             "c": "440000",
@@ -515,10 +515,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the house is x.!15% of x = 15x/100 = 3x/20! !Now!(3x/20)+382500 = x!3x + 7650000 = 20x!7650000 = 17x!x = 450000!Hence cost price of the house is Rs. 450000"
+            "explain": "Misalkan harga pokok rumah adalah x.!15% dari x = 15x/100 = 3x/20! !Sekarang!(3x/20)+382500 = x!3x + 7650000 = 20x!7650000 = 17x!x = 450000!Jadi harga pokok rumah adalah Rs. 450000"
         },
         {
-            "question": "By selling a Television for $572 Adam lost 12%. What was the cost price of the television?",
+            "question": "Dengan menjual sebuah televisi seharga $572, Adam rugi 12%. Berapakah harga pokok televisi tersebut?",
             "a": "$575",
             "b": "$600",
             "c": "$625",
@@ -526,10 +526,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the television is x.!12% of x = 12x/100 = 3x/25! !Now!(3x/25)+572 = x!3x + 14300 = 25x!14300 = 22x!x = 650! !Hence cost price of the television is $650."
+            "explain": "Misalkan harga pokok televisi adalah x.!12% dari x = 12x/100 = 3x/25! !Sekarang!(3x/25)+572 = x!3x + 14300 = 25x!14300 = 22x!x = 650! !Jadi harga pokok televisi adalah $650."
         },
         {
-            "question": "John sold a house for $494500 at a profit of 15%. How much did he pay for it?",
+            "question": "John menjual sebuah rumah seharga $494500 dengan keuntungan 15%. Berapa yang ia bayarkan untuk itu?",
             "a": "$420000",
             "b": "$425000",
             "c": "$430000",
@@ -537,10 +537,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the house is x.!15% of x = 15x/100 = 3x/20! !Now!494500 - (3x/20) = x!9890000 -3x = 20x!9890000 = 23x!x = 430000! !Hence cost price of the house is $430000."
+            "explain": "Misalkan harga pokok rumah adalah x.!15% dari x = 15x/100 = 3x/20! !Sekarang!494500 - (3x/20) = x!9890000 -3x = 20x!9890000 = 23x!x = 430000! !Jadi harga pokok rumah adalah $430000."
         },
         {
-            "question": "An estate agent sold a property at a profit of 10% for $825000. What was cost price of the property?",
+            "question": "Seorang agen properti menjual sebuah properti dengan keuntungan 10% seharga $825000. Berapakah harga pokok properti tersebut?",
             "a": "$700000",
             "b": "$725000",
             "c": "$750000",
@@ -548,10 +548,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the property is x.!10% of x = 10x/100 = x/10! !Now!825000 - (x/10) = x!8250000 - x = 10x!8250000 = 11x!x = 750000! !Hence cost price of the property is $750000."
+            "explain": "Misalkan harga pokok properti adalah x.!10% dari x = 10x/100 = x/10! !Sekarang!825000 - (x/10) = x!8250000 - x = 10x!8250000 = 11x!x = 750000! !Jadi harga pokok properti adalah $750000."
         },
         {
-            "question": "By selling an article for $84 shopkeeper earns 12% profit. What was cost price of the article?",
+            "question": "Dengan menjual sebuah barang seharga $84, penjaga toko mendapatkan keuntungan 12%. Berapakah harga pokok barang tersebut?",
             "a": "$70",
             "b": "$72",
             "c": "$75",
@@ -559,10 +559,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the article is x.!12% of x = 12x/100 = 3x/25! !Now!84 - (3x/25) = x!2100 - 3x = 25x!2100 = 28x!x = 75! !Hence cost price of the article is $75."
+            "explain": "Misalkan harga pokok barang adalah x.!12% dari x = 12x/100 = 3x/25! !Sekarang!84 - (3x/25) = x!2100 - 3x = 25x!2100 = 28x!x = 75! !Jadi harga pokok barang adalah $75."
         },
         {
-            "question": "With an increase of 12% salary of Ali became Rs13440. What was his salary before increase?",
+            "question": "Dengan kenaikan gaji 12%, gaji Ali menjadi Rp13.440. Berapakah gajinya sebelum kenaikan?",
             "a": "10000",
             "b": "11000",
             "c": "12000",
@@ -570,21 +570,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let before increase Ali's salary was x.!12% of x = 12x/100 = 3x/25! !Now!13440 - 3x/25 = x!336000 - 3x = 25x!336000 = 28x!x = 12000! !Hence Ali's salary before increase was Rs. 12000"
+            "explain": "Misalkan sebelum kenaikan gaji Ali adalah x.!12% dari x = 12x/100 = 3x/25! !Sekarang!13440 - 3x/25 = x!336000 - 3x = 25x!336000 = 28x!x = 12000! !Jadi gaji Ali sebelum kenaikan adalah Rs. 12000"
         },
         {
-            "question": "Cost price of a camera was $430 and it was sold at profit of 16%. What is its selling price?",
-            "a": "$498.8",
+            "question": "Harga pokok sebuah kamera adalah $430 dan dijual dengan keuntungan 16%. Berapakah harga jualnya?",
+            "a": "$498,8",
             "b": "$508",
-            "c": "$508.8",
+            "c": "$508,8",
             "d": "$520",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "16% of 430 = (430*16)/100 = 68.8! !Selling price = 430 + 68.8 = 498.8"
+            "explain": "16% dari 430 = (430*16)/100 = 68,8! !Harga jual = 430 + 68,8 = 498,8"
         },
         {
-            "question": "By selling a car for Rs. 495000 an agent gains 10%. What was his cost?",
+            "question": "Dengan menjual sebuah mobil seharga Rs. 495.000, seorang agen mendapatkan keuntungan 10%. Berapakah biayanya?",
             "a": "425000",
             "b": "450000",
             "c": "465000",
@@ -592,21 +592,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the car is x.!10% of x = 10x/100 = x/10! !Now!495000 - (x/10) = x!4950000 - x = 10x!4950000 = 11x!x = 450000"
+            "explain": "Misalkan harga pokok mobil adalah x.!10% dari x = 10x/100 = x/10! !Sekarang!495000 - (x/10) = x!4950000 - x = 10x!4950000 = 11x!x = 450000"
         },
         {
-            "question": "Price of a fuel increased by 10% during budget. If its price before budget was Rs. 55 per liter what is its price after the budget?",
-            "a": "Rs. 60",
-            "b": "Rs. 60.5",
-            "c": "Rs. 61",
-            "d": "Rs. 61.5",
+            "question": "Harga bahan bakar naik 10% selama anggaran. Jika harganya sebelum anggaran adalah Rs. 55 per liter, berapakah harganya setelah anggaran?",
+            "a": "Rp. 60",
+            "b": "Rp. 60,5",
+            "c": "Rp. 61",
+            "d": "Rp. 61,5",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "10% of 55 = (55*10)/100 = 5.5! !Price of fuel after butget = 55+5.5 = 60.5"
+            "explain": "10% dari 55 = (55*10)/100 = 5,5! !Harga bahan bakar setelah anggaran = 55+5,5 = 60,5"
         },
         {
-            "question": "In a fort there is enough food sufficient for 1200 men for 10 days. How long the food would have last for if there would have been 1000 men.",
+            "question": "Di sebuah benteng ada cukup makanan untuk 1200 orang selama 10 hari. Berapa lama makanan itu akan bertahan jika ada 1000 orang.",
             "a": "15",
             "b": "12",
             "c": "10",
@@ -614,10 +614,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let food will last for x days.!As men and days are inversely proportional to each other so!x/10 = 1200/1000!x = 12! !Hence food will last for 12 days if there were 1000 men."
+            "explain": "Misalkan makanan akan bertahan selama x hari.!Karena orang dan hari berbanding terbalik satu sama lain jadi!x/10 = 1200/1000!x = 12! !Jadi makanan akan bertahan selama 12 hari jika ada 1000 orang."
         },
         {
-            "question": "In a ship the provisions  are sufficient for 800 men for 50 days. How long will these be sufficient for if there would have been 200 more men?",
+            "question": "Di sebuah kapal, perbekalan cukup untuk 800 orang selama 50 hari. Berapa lama perbekalan ini akan cukup jika ada 200 orang lagi?",
             "a": "40",
             "b": "50",
             "c": "30",
@@ -625,10 +625,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let provisions will be sufficient for 200 men for x days.!As men and days are inversely proportional to each other so!x/50 = 800/1000!x = 40! !Hence provisions will be sufficient for 200 men for 40 days."
+            "explain": "Misalkan perbekalan akan cukup untuk 200 orang selama x hari.!Karena orang dan hari berbanding terbalik satu sama lain jadi!x/50 = 800/1000!x = 40! !Jadi perbekalan akan cukup untuk 200 orang selama 40 hari."
         },
         {
-            "question": "A group of workers can do a piece of work in 24 days. However as 7 of them were absent it took 30 days to complete the work. How many people actually worked on the job to complete it?",
+            "question": "Sekelompok pekerja dapat menyelesaikan suatu pekerjaan dalam 24 hari. Namun karena 7 di antaranya tidak masuk, dibutuhkan 30 hari untuk menyelesaikan pekerjaan tersebut. Berapa banyak orang yang benar-benar bekerja untuk menyelesaikan pekerjaan tersebut?",
             "a": "35",
             "b": "30",
             "c": "28",
@@ -636,10 +636,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let x workers are required to complete the job.!As workers and days are inversely proportional to each other so!(x-7)/x = 24/30!30x - 210 = 24x!6x = 210!x = 35! !Hence 35 workers are required to complete the job in time."
+            "explain": "Misalkan x pekerja diperlukan untuk menyelesaikan pekerjaan.!Karena pekerja dan hari berbanding terbalik satu sama lain jadi!(x-7)/x = 24/30!30x - 210 = 24x!6x = 210!x = 35! !Jadi 35 pekerja diperlukan untuk menyelesaikan pekerjaan tepat waktu."
         },
         {
-            "question": "25 tailors can make 35 dresses in 1 day. How many dresses can 6 tailors make in 5 days?",
+            "question": "25 penjahit dapat membuat 35 gaun dalam 1 hari. Berapa banyak gaun yang dapat dibuat oleh 6 penjahit dalam 5 hari?",
             "a": "35",
             "b": "42",
             "c": "30",
@@ -647,10 +647,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let x dresses can be made.!As dresses are directly proportional to tailors and days so!x/35 = (6/25)*(5/1)!x = 42! !Hence 42 dresses can be made by 6 tailors in 5 days."
+            "explain": "Misalkan x gaun dapat dibuat.!Karena gaun berbanding lurus dengan penjahit dan hari jadi!x/35 = (6/25)*(5/1)!x = 42! !Jadi 42 gaun dapat dibuat oleh 6 penjahit dalam 5 hari."
         },
         {
-            "question": "9 excavators working 10 hours a day remove 2500 cubic feet of earth in 3 days. How many excavators working 6 hours a day are required to remove 5000 cubic feet of earth in 2 days?",
+            "question": "9 ekskavator yang bekerja 10 jam sehari memindahkan 2500 kaki kubik tanah dalam 3 hari. Berapa banyak ekskavator yang bekerja 6 jam sehari yang diperlukan untuk memindahkan 5000 kaki kubik tanah dalam 2 hari?",
             "a": "55",
             "b": "50",
             "c": "45",
@@ -658,7 +658,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let x excavators are required.!As excavators are inversely proportional to hours and days and directly proportional to work progress so!x/9 = (10/6)*(5000/2500)*(3/2)!x = 45! !Hence 45 excavators are required to remove 5000 cubic feet of earth."
+            "explain": "Misalkan x ekskavator diperlukan.!Karena ekskavator berbanding terbalik dengan jam dan hari dan berbanding lurus dengan kemajuan pekerjaan jadi!x/9 = (10/6)*(5000/2500)*(3/2)!x = 45! !Jadi 45 ekskavator diperlukan untuk memindahkan 5000 kaki kubik tanah."
         }
     ]
 }

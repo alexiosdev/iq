@@ -9,7 +9,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Square is rotating 90 degree clockwise at each step."
+            "explain": "Το τετράγωνο περιστρέφεται 90 μοίρες δεξιόστροφα σε κάθε βήμα."
         },
         {
             "question": "aaq2",
@@ -20,7 +20,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "As in first row 3rd shape has the shaded region of both first two shapes!So in second row both of the bottom rectangles will be shaded."
+            "explain": "Όπως και στην πρώτη σειρά, το 3ο σχήμα έχει τη σκιασμένη περιοχή και των δύο πρώτων σχημάτων! Έτσι, στη δεύτερη σειρά και τα δύο κάτω ορθογώνια θα είναι σκιασμένα."
         },
         {
             "question": "aaq3",
@@ -31,7 +31,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "In each line and column, each of the three rings is shaded black once."
+            "explain": "Σε κάθε γραμμή και στήλη, καθένας από τους τρεις δακτυλίους είναι σκιασμένος μαύρος μία φορά."
         },
         {
             "question": "aaq4",
@@ -42,7 +42,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "In each line across and down the arrows point in each of three directions left, right and down. The number of arrows increases 1, 2, 3 in each row."
+            "explain": "Σε κάθε γραμμή κατά μήκος και κάτω τα βέλη δείχνουν σε κάθε μία από τις τρεις κατευθύνσεις αριστερά, δεξιά και κάτω. Ο αριθμός των βελών αυξάνεται 1, 2, 3 σε κάθε σειρά."
         },
         {
             "question": "aaq5",
@@ -53,7 +53,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The black dot is moving up (then down) by one position at each stage."
+            "explain": "Η μαύρη κουκκίδα μετακινείται προς τα πάνω (και μετά προς τα κάτω) κατά μία θέση σε κάθε στάδιο."
         },
         {
             "question": "aaq6",
@@ -64,7 +64,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Black dot is moving on step down and starts from after last step.!One triangle is shaded and unshaded triangles are alternative."
+            "explain": "Η μαύρη κουκκίδα μετακινείται ένα βήμα προς τα κάτω και ξεκινά μετά το τελευταίο βήμα.!Ένα τρίγωνο είναι σκιασμένο και τα μη σκιασμένα τρίγωνα είναι εναλλακτικά."
         },
         {
             "question": "aaq7",
@@ -75,7 +75,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Inner and outer black circles are moving up and down in opposite direction and vanishes on reaching at corner and starts again."
+            "explain": "Οι εσωτερικοί και εξωτερικοί μαύροι κύκλοι κινούνται πάνω και κάτω σε αντίθετη κατεύθυνση και εξαφανίζονται φτάνοντας στη γωνία και ξεκινούν ξανά."
         },
         {
             "question": "aaq8",
@@ -86,7 +86,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Two black circles are filling up the white circles by moving in anticlockwise direction but at one step only one black circle moves."
+            "explain": "Δύο μαύροι κύκλοι γεμίζουν τους λευκούς κύκλους κινούμενοι αριστερόστροφα, αλλά σε ένα βήμα κινείται μόνο ένας μαύρος κύκλος."
         },
         {
             "question": "aaq9",
@@ -97,7 +97,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Triangle is rotating 90 degree in clockwise direction at each step and inner and outer circles are filling and infilling alternatively and step by step."
+            "explain": "Το τρίγωνο περιστρέφεται 90 μοίρες δεξιόστροφα σε κάθε βήμα και οι εσωτερικοί και εξωτερικοί κύκλοι γεμίζουν και αδειάζουν εναλλάξ και βήμα προς βήμα."
         },
         {
             "question": "aaq10",
@@ -108,7 +108,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Starting from first row triangle rotates 90 degree clockwise in 2 steps and then rotates 90 degree anticlockwise to start new row."
+            "explain": "Ξεκινώντας από την πρώτη σειρά, το τρίγωνο περιστρέφεται 90 μοίρες δεξιόστροφα σε 2 βήματα και στη συνέχεια περιστρέφεται 90 μοίρες αριστερόστροφα για να ξεκινήσει νέα σειρά."
         },
         {
             "question": "aaq11",
@@ -119,7 +119,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking at lines of numbers from the top! !9 * 8 = 72!72 * 8 = 576!576 * 8 = 4608"
+            "explain": "Κοιτάζοντας τις γραμμές των αριθμών από την κορυφή! !9 * 8 = 72!72 * 8 = 576!576 * 8 = 4608"
         },
         {
             "question": "aaq12",
@@ -130,7 +130,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The number of white dots is increased by one each time, both vertically and horizontally, and all white dots are connected"
+            "explain": "Ο αριθμός των λευκών κουκκίδων αυξάνεται κατά μία κάθε φορά, τόσο κάθετα όσο και οριζόντια, και όλες οι λευκές κουκκίδες συνδέονται"
         },
         {
             "question": "aaq13",
@@ -141,7 +141,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "lines across proceed!+2, –3, +2.! !Lines down proceed!–3, +2, –3"
+            "explain": "οι γραμμές κατά μήκος προχωρούν!+2, –3, +2.! !Οι γραμμές προς τα κάτω προχωρούν!–3, +2, –3"
         },
         {
             "question": "aaq14",
@@ -163,7 +163,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "In lines and columns, add the first three numbers to arrive at the fourth number"
+            "explain": "Στις γραμμές και τις στήλες, προσθέστε τους τρεις πρώτους αριθμούς για να φτάσετε στον τέταρτο αριθμό"
         },
         {
             "question": "aaq16",
@@ -174,7 +174,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Each line across and down contains five black dots and four white dots"
+            "explain": "Κάθε γραμμή κατά μήκος και κάτω περιέχει πέντε μαύρες κουκκίδες και τέσσερις λευκές κουκκίδες"
         },
         {
             "question": "aaq17",
@@ -196,7 +196,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Only lines that appear three times in the same position in the first three squares are carried forward to the final square."
+            "explain": "Μόνο οι γραμμές που εμφανίζονται τρεις φορές στην ίδια θέση στα τρία πρώτα τετράγωνα μεταφέρονται στο τελικό τετράγωνο."
         },
         {
             "question": "aaq19",
@@ -207,7 +207,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "To each arc, add a quarter of a circle clockwise"
+            "explain": "Σε κάθε τόξο, προσθέστε ένα τέταρτο του κύκλου δεξιόστροφα"
         },
         {
             "question": "aaq20",
@@ -218,7 +218,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "6 * 9 = 54 (reading down the middle two blocks)"
+            "explain": "6 * 9 = 54 (διαβάζοντας προς τα κάτω τα δύο μεσαία μπλοκ)"
         },
         {
             "question": "aaq21",
@@ -229,7 +229,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across and down the triangles turn through 90 degrees"
+            "explain": "Κοιτάζοντας κατά μήκος και κάτω τα τρίγωνα περιστρέφονται κατά 90 μοίρες"
         },
         {
             "question": "aaq22",
@@ -240,7 +240,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Each number indicates its position in the grid. 55 indicates row 5 column 5"
+            "explain": "Κάθε αριθμός υποδεικνύει τη θέση του στο πλέγμα. 55 υποδεικνύει τη γραμμή 5 στήλη 5"
         },
         {
             "question": "aaq23",
@@ -251,7 +251,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Add the digits of each three-digit number to obtain the two-digit numbers"
+            "explain": "Προσθέστε τα ψηφία κάθε τριψήφιου αριθμού για να λάβετε τους διψήφιους αριθμούς"
         },
         {
             "question": "aaq24",
@@ -262,7 +262,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "In each row and column only lines that are common to the first two squares are carried forward to the final square."
+            "explain": "Σε κάθε σειρά και στήλη μόνο οι γραμμές που είναι κοινές στα δύο πρώτα τετράγωνα μεταφέρονται στο τελικό τετράγωνο."
         },
         {
             "question": "aaq25",
@@ -273,7 +273,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "After two rotations both white and black dots will be at the lowest corner of the hexagon where black dot is present now."
+            "explain": "Μετά από δύο περιστροφές, τόσο οι λευκές όσο και οι μαύρες κουκκίδες θα βρίσκονται στη χαμηλότερη γωνία του εξαγώνου όπου βρίσκεται τώρα η μαύρη κουκκίδα."
         },
         {
             "question": "aaq26",
@@ -284,7 +284,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The inner hexagon is being dismantled one side at a time working anticlockwise, while the outer hexagon is being constructed one side at a time working clockwise."
+            "explain": "Το εσωτερικό εξάγωνο αποσυναρμολογείται μία πλευρά κάθε φορά αριστερόστροφα, ενώ το εξωτερικό εξάγωνο κατασκευάζεται μία πλευρά κάθε φορά δεξιόστροφα."
         },
         {
             "question": "aaq27",
@@ -295,7 +295,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "42 / 3 = 14!and! !51 / 3 = 17"
+            "explain": "42 / 3 = 14!και! !51 / 3 = 17"
         },
         {
             "question": "aaq28",
@@ -306,7 +306,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The numbers round the centre increase by seven (in the others they increase by three and five respectively)."
+            "explain": "Οι αριθμοί γύρω από το κέντρο αυξάνονται κατά επτά (στους άλλους αυξάνονται κατά τρία και πέντε αντίστοιχα)."
         },
         {
             "question": "aaq29",
@@ -317,7 +317,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across an outer circle is removed, looking down an outer circle is added."
+            "explain": "Κοιτάζοντας κατά μήκος αφαιρείται ένας εξωτερικός κύκλος, κοιτάζοντας προς τα κάτω προστίθεται ένας εξωτερικός κύκλος."
         },
         {
             "question": "aaq30",
@@ -328,7 +328,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across, the dot in the top left-hand quarter moves to the opposite corner, the dot in the top right-hand quarter moves one corner anticlockwise at each stage, the dot in the bottom left-hand quarter moves between the top two corners, and the dot in the bottom right-hand quarter moves one corner clockwise at each stage."
+            "explain": "Κοιτάζοντας κατά μήκος, η κουκκίδα στο πάνω αριστερό τέταρτο μετακινείται στην απέναντι γωνία, η κουκκίδα στο πάνω δεξί τέταρτο μετακινείται μία γωνία αριστερόστροφα σε κάθε στάδιο, η κουκκίδα στο κάτω αριστερό τέταρτο μετακινείται μεταξύ των δύο πάνω γωνιών και η κουκκίδα στο κάτω δεξί τέταρτο μετακινείται μία γωνία δεξιόστροφα σε κάθε στάδιο."
         },
         {
             "question": "aaq31",
@@ -339,7 +339,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across each line add three!and!looking down each column add two."
+            "explain": "Κοιτάζοντας κατά μήκος κάθε γραμμής προσθέστε τρία!και!κοιτάζοντας προς τα κάτω κάθε στήλη προσθέστε δύο."
         },
         {
             "question": "aaq32",
@@ -350,7 +350,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Start at the top left corner and work along the top line, then back along the second line, etc, adding nine then deducting three."
+            "explain": "Ξεκινήστε από την πάνω αριστερή γωνία και προχωρήστε κατά μήκος της πάνω γραμμής, στη συνέχεια πίσω κατά μήκος της δεύτερης γραμμής, κ.λπ., προσθέτοντας εννέα και στη συνέχεια αφαιρώντας τρία."
         },
         {
             "question": "aaq33",
@@ -372,7 +372,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The large rectangle is being dismantled, half a side at a time anticlockwise! !the small rectangle is being constructed half a side at a time clockwise."
+            "explain": "Το μεγάλο ορθογώνιο αποσυναρμολογείται, μισή πλευρά κάθε φορά αριστερόστροφα! !το μικρό ορθογώνιο κατασκευάζεται μισή πλευρά κάθε φορά δεξιόστροφα."
         },
         {
             "question": "aaq35",
@@ -383,7 +383,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "So that the numbers in the triangles, squares and circles add up to 33"
+            "explain": "Έτσι ώστε οι αριθμοί στα τρίγωνα, τα τετράγωνα και τους κύκλους να αθροίζουν 33"
         },
         {
             "question": "aaq36",
@@ -394,7 +394,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across and down, only dots that appear in the same position in the first two squares are carried forward to the third square! !however, they then change from black to white and vice versa."
+            "explain": "Κοιτάζοντας κατά μήκος και κάτω, μόνο οι κουκκίδες που εμφανίζονται στην ίδια θέση στα δύο πρώτα τετράγωνα μεταφέρονται στο τρίτο τετράγωνο! !ωστόσο, στη συνέχεια αλλάζουν από μαύρο σε λευκό και αντίστροφα."
         },
         {
             "question": "aaq37",
@@ -405,7 +405,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "In each row and column in order to arrive at the final number multiply the first two numbers together and divide by 6."
+            "explain": "Σε κάθε σειρά και στήλη για να φτάσετε στον τελικό αριθμό πολλαπλασιάστε τους δύο πρώτους αριθμούς μεταξύ τους και διαιρέστε με το 6."
         },
         {
             "question": "aaq38",
@@ -416,7 +416,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking both across and down, only lines that appear in both the first two squares are carried forward to the third square."
+            "explain": "Κοιτάζοντας τόσο κατά μήκος όσο και προς τα κάτω, μόνο οι γραμμές που εμφανίζονται και στα δύο πρώτα τετράγωνα μεταφέρονται στο τρίτο τετράγωνο."
         },
         {
             "question": "aaq39",
@@ -427,7 +427,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Each pair of circles are mirror images of each other."
+            "explain": "Κάθε ζεύγος κύκλων είναι κατοπτρικές εικόνες ο ένας του άλλου."
         },
         {
             "question": "aaq40",
@@ -438,7 +438,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "6 * 4 = 6 + 18!7 * 3 = 11 + 10!9 * 2 = 5 + 13!and!16 * 4 = 32 + 32"
+            "explain": "6 * 4 = 6 + 18!7 * 3 = 11 + 10!9 * 2 = 5 + 13!και!16 * 4 = 32 + 32"
         },
         {
             "question": "aaq41",
@@ -460,7 +460,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The square goes inside the diamond and the diamond in turn goes inside the pentagon, which turns onto its base."
+            "explain": "Το τετράγωνο μπαίνει μέσα στο ρόμβο και ο ρόμβος με τη σειρά του μπαίνει μέσα στο πεντάγωνο, το οποίο γυρίζει στη βάση του."
         },
         {
             "question": "aaq43",
@@ -471,7 +471,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across, the dot moves 45 degree clockwise at each stage, but looking down it moves 45 degree anticlockwise"
+            "explain": "Κοιτάζοντας κατά μήκος, η κουκκίδα κινείται 45 μοίρες δεξιόστροφα σε κάθε στάδιο, αλλά κοιτάζοντας προς τα κάτω κινείται 45 μοίρες αριστερόστροφα"
         },
         {
             "question": "aaq44",
@@ -482,7 +482,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "the dot moves corner/side anticlockwise, the straight line and the curved line both move corner to corner clockwise."
+            "explain": "η κουκκίδα κινείται γωνία/πλευρά αριστερόστροφα, η ευθεία γραμμή και η καμπύλη γραμμή κινούνται και οι δύο από γωνία σε γωνία δεξιόστροφα."
         },
         {
             "question": "aaq45",
@@ -493,7 +493,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The rectangle starting on the left is moving from left to right one place at a time at each stage"
+            "explain": "Το ορθογώνιο που ξεκινά από τα αριστερά κινείται από τα αριστερά προς τα δεξιά μία θέση κάθε φορά σε κάθε στάδιο"
         },
         {
             "question": "aaq46",
@@ -504,7 +504,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across and down, lines are carried forward from the first two squares to the final square, except where two lines appear in the same position in the first two squares, in which case they are cancelled out."
+            "explain": "Κοιτάζοντας κατά μήκος και κάτω, οι γραμμές μεταφέρονται από τα δύο πρώτα τετράγωνα στο τελικό τετράγωνο, εκτός από την περίπτωση που δύο γραμμές εμφανίζονται στην ίδια θέση στα δύο πρώτα τετράγωνα, οπότε και ακυρώνονται."
         },
         {
             "question": "aaq47",
@@ -526,7 +526,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across, the letters jump +2, +3 in the alphabet!For Example!AbCdeF.! !Looking down, they progress +4, +5!For Example!AbcdEfghiJ."
+            "explain": "Κοιτάζοντας κατά μήκος, τα γράμματα πηδούν +2, +3 στο αλφάβητο!Για παράδειγμα!AbCdeF.! !Κοιτάζοντας προς τα κάτω, προχωρούν +4, +5!Για παράδειγμα!AbcdEfghiJ."
         },
         {
             "question": "aaq49",
@@ -537,7 +537,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The circle becomes a square and the four white squares become white circles."
+            "explain": "Ο κύκλος γίνεται τετράγωνο και τα τέσσερα λευκά τετράγωνα γίνονται λευκοί κύκλοι."
         },
         {
             "question": "aaq50",
@@ -548,7 +548,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across, the number of dots increases by one and white becomes black.! !Looking down, the number of dots decreases by one and the dots stay the same colour."
+            "explain": "Κοιτάζοντας κατά μήκος, ο αριθμός των κουκκίδων αυξάνεται κατά μία και το λευκό γίνεται μαύρο.! !Κοιτάζοντας προς τα κάτω, ο αριθμός των κουκκίδων μειώνεται κατά μία και οι κουκκίδες παραμένουν στο ίδιο χρώμα."
         }
     ]
 }

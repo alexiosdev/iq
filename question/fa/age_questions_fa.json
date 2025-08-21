@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "Ten years ago, P was half of Q in age. If the ratio of their present ages is 3/4, what will be the total of their present ages?",
+            "question": "ده سال پیش، سن P نصف سن Q بود. اگر نسبت سن فعلی آنها 3/4 باشد، مجموع سن فعلی آنها چقدر خواهد بود؟",
             "a": "45",
             "b": "40",
             "c": "35",
@@ -9,32 +9,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of P and Q be 3x and 4x respectively.! !Ten years ago, P was half of Q in age.! !(3x - 10) = 1/2 * (4x - 10)!6x - 20 = 4x - 10!2x = 10!x = 5! !total of their present ages!= 3x + 4x = 7x = 7 * 5!= 35"
+            "explain": "فرض کنید سن فعلی P و Q به ترتیب 3x و 4x باشد.! !ده سال پیش، سن P نصف سن Q بود.! !(3x - 10) = 1/2 * (4x - 10)!6x - 20 = 4x - 10!2x = 10!x = 5! !مجموع سن فعلی آنها = 3x + 4x = 7x = 7 * 5 = 35"
         },
         {
-            "question": "A man is 24 years older than his son. In two years, his age will be twice the age of his son. What is the present age of his son?",
-            "a": "23 years",
-            "b": "22 years",
-            "c": "21 years",
-            "d": "20 years",
+            "question": "مردی 24 سال از پسرش بزرگتر است. دو سال دیگر، سن او دو برابر سن پسرش خواهد بود. سن فعلی پسرش چقدر است؟",
+            "a": "23 سال",
+            "b": "22 سال",
+            "c": "21 سال",
+            "d": "20 سال",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of the son = x years! !Then present age the man = (x+24) years! !Given that in 2 years, man's age will be twice the age of his son! !(x+24) +2 = 2(x+2)!x = 22"
+            "explain": "فرض کنید سن فعلی پسر = x سال! !سپس سن فعلی مرد = (x+24) سال! !با توجه به اینکه تا 2 سال دیگر، سن مرد دو برابر سن پسرش خواهد بود! !(x+24) +2 = 2(x+2)!x = 22"
         },
         {
-            "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. Find out the age of the youngest child?",
-            "a": "6 years",
-            "b": "5 years",
-            "c": "4 years",
-            "d": "3 years",
+            "question": "مجموع سن 5 کودک که در فواصل 3 ساله به دنیا آمده اند، 50 سال است. سن کوچکترین کودک را پیدا کنید؟",
+            "a": "6 سال",
+            "b": "5 سال",
+            "c": "4 سال",
+            "d": "3 سال",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the youngest child = x! !Then the ages of 5 children can be written as x, (x+3), (x+6),(x+9) and (x+12).! !Then,!X + (x+3) + (x+6) + (x+9) + (x+12) = 50!5x + 30 =50!5x = 20!x = 20/5 = 4"
+            "explain": "فرض کنید سن کوچکترین کودک = x! !سپس سن 5 کودک را می توان به صورت x، (x+3)، (x+6)، (x+9) و (x+12) نوشت.! !سپس،!X + (x+3) + (x+6) + (x+9) + (x+12) = 50!5x + 30 = 50!5x = 20!x = 20/5 = 4"
         },
         {
-            "question": "A is two years older than B who is twice as old as C. The total of the ages of A, B and C is 27. How old is B?",
+            "question": "A دو سال از B بزرگتر است که دو برابر C سن دارد. مجموع سن A، B و C برابر با 27 است. B چند سال دارد؟",
             "a": "10",
             "b": "9",
             "c": "8",
@@ -42,10 +42,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of C = x.! !Then! !Age of B = 2x! !Age of A = 2 + 2x! !The total age of A,B and C =27! !(2+2x) + 2x + x = 27!5x = 25!B's age = 2x = 2 * 5 = 10"
+            "explain": "فرض کنید سن C = x.! !سپس! !سن B = 2x! !سن A = 2 + 2x! !مجموع سن A، B و C = 27! !(2+2x) + 2x + x = 27!5x = 25!سن B = 2x = 2 * 5 = 10"
         },
         {
-            "question": "The Average age of a class of 22 subjects in 21 years. The average increased by 1 when the teacher's age also included. What is the age of the teacher?",
+            "question": "میانگین سنی یک کلاس 22 نفره 21 سال است. با احتساب سن معلم، میانگین 1 سال افزایش یافت. سن معلم چقدر است؟",
             "a": "48",
             "b": "45",
             "c": "43",
@@ -53,21 +53,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Total age of all students = 22 * 21 = 462! !Total age of all students + age of the teacher = 23 * 22 = 506! !Age of the teacher = 506 - 462 = 44"
+            "explain": "مجموع سن تمام دانش آموزان = 22 * 21 = 462! !مجموع سن تمام دانش آموزان + سن معلم = 23 * 22 = 506! !سن معلم = 506 - 462 = 44"
         },
         {
-            "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, what was the son's age five years back?",
-            "a": "20 years",
-            "b": "18 years",
-            "c": "14 years",
-            "d": "22 years",
+            "question": "پدری به پسرش گفت: \"من در زمان تولد تو به اندازه سن فعلی تو بودم\". اگر سن پدر اکنون 38 سال باشد، سن پسر پنج سال پیش چقدر بود؟",
+            "a": "20 سال",
+            "b": "18 سال",
+            "c": "14 سال",
+            "d": "22 سال",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the son's present age be x years.! !Then! (38 - x) = x! !2x = 38!x = 38/2 = 19! !Son's age 5 years back = 19-5 = 14 years"
+            "explain": "فرض کنید سن فعلی پسر x سال باشد.! !سپس! (38 - x) = x! !2x = 38!x = 38/2 = 19! !سن پسر 5 سال پیش = 19-5 = 14 سال"
         },
         {
-            "question": "Kiran is younger than Bineesh by 7 years and their ages are in the respective ratio of 7 / 9, how old is Kiran?",
+            "question": "کیران 7 سال از بینش کوچکتر است و نسبت سنی آنها به ترتیب 7/9 است، کیران چند سال دارد؟",
             "a": "25",
             "b": "24.5",
             "c": "24",
@@ -75,10 +75,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of Kiran and Bineesh are 7x and 9x respectively! !7x = 9x-7!x = 7/2 = 3.5! !Kiran's age = 7x!= 7 * 3.5 = 24.5"
+            "explain": "فرض کنید سن کیران و بینش به ترتیب 7x و 9x باشد! !7x = 9x-7!x = 7/2 = 3.5! !سن کیران = 7x! = 7 * 3.5 = 24.5"
         },
         {
-            "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. What is the present age of the mother?",
+            "question": "سن فعلی یک شخص دو پنجم سن مادرش است. بعد از 8 سال، او نصف سن مادرش خواهد بود. سن فعلی مادر چقدر است؟",
             "a": "60",
             "b": "50",
             "c": "40",
@@ -86,21 +86,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of the person = x! !Then present age of the mother = 5x/2! !Given that , after 8 years, the person will be one-half of the age of his mother.! !(x + 8) = (1/2)(5x/2 + 8)!2x + 16 = 5x/2 + 8!x/2 = 8!x = 16! !Present age of the mother = 5x/2!= 5 * 16/2 = 40"
+            "explain": "فرض کنید سن فعلی شخص = x! !سپس سن فعلی مادر = 5x/2! !با توجه به اینکه بعد از 8 سال، سن شخص نصف سن مادرش خواهد بود.! !(x + 8) = (1/2)(5x/2 + 8)!2x + 16 = 5x/2 + 8!x/2 = 8!x = 16! !سن فعلی مادر = 5x/2! = 5 * 16/2 = 40"
         },
         {
-            "question": "A is as much younger than B and he is older than C. If the sum of the ages of B and C is 50 years, what is definitely the difference between B and A's age?",
-            "a": "Data inadequate",
-            "b": "3 years",
-            "c": "2 years",
-            "d": "5 years",
+            "question": "A به همان اندازه از B کوچکتر است که از C بزرگتر است. اگر مجموع سن B و C برابر با 50 سال باشد، تفاوت قطعی بین سن B و A چقدر است؟",
+            "a": "اطلاعات ناکافی است",
+            "b": "3 سال",
+            "c": "2 سال",
+            "d": "5 سال",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Age of C < Age of A < Age of B! !Given that sum of the ages of B and C is 50 years.! !Let's take B's age = x and C's age = 50-x! !Now we need to find out B's age - A's age.!But we cannot find out this with the given data."
+            "explain": "سن C < سن A < سن B! !با توجه به اینکه مجموع سن B و C برابر با 50 سال است.! !فرض کنید سن B = x و سن C = 50-x! !اکنون باید سن B - سن A را پیدا کنیم.!اما با داده های موجود نمی توانیم این را پیدا کنیم."
         },
         {
-            "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. What is the ratio of their present ages?",
+            "question": "سن پدر 10 سال پیش سه برابر سن پسرش بود. ده سال بعد، سن پدر دو برابر سن پسرش خواهد بود. نسبت سن فعلی آنها چقدر است؟",
             "a": "7/3",
             "b": "3/7",
             "c": "9/4",
@@ -108,10 +108,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the son before 10 years = x!and age of the father before 10 years = 3x! !Now we can write as (3x + 20) = 2(x + 20)!x = 20! !Age of Father the son at present = x + 10!= 20 + 10 = 30! !Age of the father at present = 3x + 10!= 3 * 20 + 10 = 70! !Required ratio = 70/30 = 7/3"
+            "explain": "فرض کنید سن پسر قبل از 10 سال = x! و سن پدر قبل از 10 سال = 3x! !اکنون می توانیم بنویسیم (3x + 20) = 2(x + 20)!x = 20! !سن پدر پسر در حال حاضر = x + 10! = 20 + 10 = 30! !سن پدر در حال حاضر = 3x + 10! = 3 * 20 + 10 = 70! !نسبت مورد نیاز = 70/30 = 7/3"
         },
         {
-            "question": "The ages of two persons differ by 16 years. 6 years ago, the elder one was 3 times as old as the younger one. What are their present ages of the elder person?",
+            "question": "سن دو نفر 16 سال اختلاف دارد. 6 سال پیش، بزرگتر 3 برابر کوچکتر بود. سن فعلی فرد بزرگتر چقدر است؟",
             "a": "10",
             "b": "20",
             "c": "30",
@@ -119,21 +119,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let's take the present age of the elder person = x! !and the present age of the younger person = x - 16! !(x - 6) = 3 (x-16-6)!x - 6 = 3x - 66!2x = 60!x = 60/2 = 30"
+            "explain": "فرض کنید سن فعلی فرد بزرگتر = x! !و سن فعلی فرد کوچکتر = x - 16! !(x - 6) = 3 (x-16-6)!x - 6 = 3x - 66!2x = 60!x = 60/2 = 30"
         },
         {
-            "question": "Kamal was 4 times as old as his son 8 years ago. After 8 years, Kamal will be twice as old as his son. Find out the present age of Kamal.",
-            "a": "40 years",
-            "b": "38 years",
-            "c": "42 years",
-            "d": "36 years",
+            "question": "کمال 8 سال پیش 4 برابر پسرش سن داشت. بعد از 8 سال، کمال دو برابر پسرش سن خواهد داشت. سن فعلی کمال را پیدا کنید.",
+            "a": "40 سال",
+            "b": "38 سال",
+            "c": "42 سال",
+            "d": "36 سال",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the son before 8 years = x! !Then age of Kamal before 8 years ago = 4x! !After 8 years, Kamal will be twice as old as his son! !4x + 16 = 2(x + 16)!x = 8! !Present age of Kamal = 4x + 8 = (4*8) + 8 = 40"
+            "explain": "فرض کنید سن پسر قبل از 8 سال = x! !سپس سن کمال قبل از 8 سال پیش = 4x! !بعد از 8 سال، کمال دو برابر پسرش سن خواهد داشت! !4x + 16 = 2(x + 16)!x = 8! !سن فعلی کمال = 4x + 8 = (4*8) + 8 = 40"
         },
         {
-            "question": "One year ago, the ratio of Sooraj's and Vimal's age was 6/7 respectively. Four years hence, this ratio would become 7/8. How old is Vimal?",
+            "question": "یک سال پیش، نسبت سن سوراج و ویمال به ترتیب 6/7 بود. چهار سال بعد، این نسبت 7/8 خواهد شد. ویمال چند سال دارد؟",
             "a": "32",
             "b": "34",
             "c": "36",
@@ -141,10 +141,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let take the age of Sooraj and Vimal, 1 year ago as 6x and 7x respectively.! !Given that, four years hence, this ratio would become 7/8.! !(6x + 5)/(7x + 5) = 7/8!48x + 40 = 49x + 35!x = 5! !Vimal's present age = 7x + 1 = 7*5 + 1 = 36"
+            "explain": "فرض کنید سن سوراج و ویمال، 1 سال پیش به ترتیب 6x و 7x باشد.! !با توجه به اینکه، چهار سال بعد، این نسبت 7/8 خواهد شد.! !(6x + 5)/(7x + 5) = 7/8!48x + 40 = 49x + 35!x = 5! !سن فعلی ویمال = 7x + 1 = 7*5 + 1 = 36"
         },
         {
-            "question": "The total age of A and B is 12 years more than the total age of B and C. C is how many year younger than A?",
+            "question": "مجموع سن A و B، 12 سال بیشتر از مجموع سن B و C است. C چند سال از A کوچکتر است؟",
             "a": "10",
             "b": "11",
             "c": "12",
@@ -152,54 +152,54 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that A+B = 12 + B + C! !A - C = 12 + B - B = 12! !C is younger than A by 12 years."
+            "explain": "با توجه به اینکه A+B = 12 + B + C! !A - C = 12 + B - B = 12! !C 12 سال از A کوچکتر است."
         },
         {
-            "question": "Sachin's age after 15 years will be 5 times his age 5 years back. Find out the present age of Sachin?",
-            "a": "10 years",
-            "b": "11 years",
-            "c": "12 years",
-            "d": "13 years",
+            "question": "سن ساچین بعد از 15 سال، 5 برابر سن او در 5 سال پیش خواهد بود. سن فعلی ساچین را پیدا کنید؟",
+            "a": "10 سال",
+            "b": "11 سال",
+            "c": "12 سال",
+            "d": "13 سال",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of Sachin = x! !Then (x+15) = 5(x-5)!4x = 40!x = 10"
+            "explain": "فرض کنید سن فعلی ساچین = x! !سپس (x+15) = 5(x-5)!4x = 40!x = 10"
         },
         {
-            "question": "Sandeep's age after six years will be three-seventh of his father's age. Ten years ago the ratio of their ages was 1/5. What is Sandeep's father's age at present?",
-            "a": "30 years",
-            "b": "40 years",
-            "c": "50 years",
-            "d": "60 years",
+            "question": "سن ساندیپ بعد از شش سال، سه هفتم سن پدرش خواهد بود. ده سال پیش نسبت سن آنها 1/5 بود. سن فعلی پدر ساندیپ چقدر است؟",
+            "a": "30 سال",
+            "b": "40 سال",
+            "c": "50 سال",
+            "d": "60 سال",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of Sandeep and his father before 10 years be x and 5x respectively.! !Given that Sandeep's age after six years will be three-seventh of his father's age! !x + 16 = (3/7)(5x + 16)!7x + 112 = 15x + 48!8x = 64!x = 8! !Sandeep's father's present age = 5x + 10!= 5*8 + 10 = 50"
+            "explain": "فرض کنید سن ساندیپ و پدرش قبل از 10 سال به ترتیب x و 5x باشد.! !با توجه به اینکه سن ساندیپ بعد از شش سال، سه هفتم سن پدرش خواهد بود! !x + 16 = (3/7)(5x + 16)!7x + 112 = 15x + 48!8x = 64!x = 8! !سن فعلی پدر ساندیپ = 5x + 10! = 5*8 + 10 = 50"
         },
         {
-            "question": "Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
-            "a": "2 times",
-            "b": "1 time",
-            "c": "4 times",
-            "d": "6 times",
+            "question": "پدر سه برابر بیشتر از پسرش رونیت سن دارد. بعد از 8 سال، او دو و نیم برابر سن رونیت خواهد بود. بعد از 8 سال دیگر، او چند برابر سن رونیت خواهد بود؟",
+            "a": "2 برابر",
+            "b": "1 برابر",
+            "c": "4 برابر",
+            "d": "6 برابر",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Ronit's present age be x years. Then, father's present age =(x + 3x) years!= 4x years.! !(4x + 8) = 5/2 (x+8)!8x + 16 = 5x + 40!3x = 24!x = 8! !Hence, required ratio = (4x+16)/(x+160)!= 48/24 = 2"
+            "explain": "فرض کنید سن فعلی رونیت x سال باشد. سپس، سن فعلی پدر = (x + 3x) سال! = 4x سال.! !(4x + 8) = 5/2 (x+8)!8x + 16 = 5x + 40!3x = 24!x = 8! !بنابراین، نسبت مورد نیاز = (4x+16)/(x+160)! = 48/24 = 2"
         },
         {
-            "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was?",
-            "a": "14 years",
-            "b": "19 years",
-            "c": "33 years",
-            "d": "38 years",
+            "question": "پدری به پسرش گفت: \"من در زمان تولد تو به اندازه سن فعلی تو بودم\". اگر سن پدر اکنون 38 سال باشد، سن پسر پنج سال پیش چقدر بود؟",
+            "a": "14 سال",
+            "b": "19 سال",
+            "c": "33 سال",
+            "d": "38 سال",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the son's present age be x years. Then, (38 - x) = x! !2x = 38!x = 19! !Hence, Son's age 5 years back (19 - 5) = 14 years."
+            "explain": "فرض کنید سن فعلی پسر x سال باشد. سپس، (38 - x) = x! !2x = 38!x = 19! !بنابراین، سن پسر 5 سال پیش (19 - 5) = 14 سال."
         },
         {
-            "question": "Present ages of Sameer and Anand are in the ratio of 5/4 respectively. Three years hence, the ratio of their ages will become 11/9 respectively. What is Anand's present age in years?",
+            "question": "سن فعلی سمیر و آناند به ترتیب در نسبت 5/4 است. سه سال بعد، نسبت سن آنها به ترتیب 11/9 خواهد شد. سن فعلی آناند چند سال است؟",
             "a": "24",
             "b": "27",
             "c": "40",
@@ -207,76 +207,76 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of Sameer and Anand be 5x years and 4x years respectively.! !Then,!(5x+3)/(4x+3) = 11/9!9(5x + 3) = 11(4x + 3)!45x + 27 = 44x + 33!45x - 44x = 33 - 27!x = 6! !nand's present age = 4x = 24 years"
+            "explain": "فرض کنید سن فعلی سمیر و آناند به ترتیب 5x سال و 4x سال باشد.! !سپس،!(5x+3)/(4x+3) = 11/9!9(5x + 3) = 11(4x + 3)!45x + 27 = 44x + 33!45x - 44x = 33 - 27!x = 6! !سن فعلی آناند = 4x = 24 سال"
         },
         {
-            "question": "Six years ago, the ratio of the ages of Kunal and Sagar was 6/5. Four years hence, the ratio of their ages will be 11/10. What is Sagar's age at present?",
-            "a": "16 years",
-            "b": "18 years",
-            "c": "20 years",
-            "d": "None of these",
+            "question": "شش سال پیش، نسبت سن کونال و ساگار 6/5 بود. چهار سال بعد، نسبت سن آنها 11/10 خواهد بود. سن فعلی ساگار چقدر است؟",
+            "a": "16 سال",
+            "b": "18 سال",
+            "c": "20 سال",
+            "d": "هیچ کدام از اینها",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of Kunal and Sagar 6 years ago be 6x and 5x years respectively.! !Then,![(6x + 6) + 4]/[(5x + 6) + 4] = 11/10!10(6x + 10) = 11(5x + 10)!5x = 10!x = 2! !Hence, Sagar's present age = (5x + 6) = 16 years."
+            "explain": "فرض کنید سن کونال و ساگار 6 سال پیش به ترتیب 6x و 5x سال باشد.! !سپس،![(6x + 6) + 4]/[(5x + 6) + 4] = 11/10!10(6x + 10) = 11(5x + 10)!5x = 10!x = 2! !بنابراین، سن فعلی ساگار = (5x + 6) = 16 سال."
         },
         {
-            "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, father's age was five times the age of the son. After 6 years, son's age will be",
-            "a": "12 years",
-            "b": "14 years",
-            "c": "18 years",
-            "d": "20 years",
+            "question": "مجموع سن فعلی یک پدر و پسرش 60 سال است. شش سال پیش، سن پدر پنج برابر سن پسر بود. بعد از 6 سال، سن پسر خواهد بود",
+            "a": "12 سال",
+            "b": "14 سال",
+            "c": "18 سال",
+            "d": "20 سال",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of son and father be x and (60 -x) years respectively.! !Then,!(60 - x) - 6 = 5(x - 6)!54 - x = 5x - 30!6x = 84!x = 14! !Hence, Son's age after 6 years = (x+ 6)!= 20 years"
+            "explain": "فرض کنید سن فعلی پسر و پدر به ترتیب x و (60 -x) سال باشد.! !سپس،!(60 - x) - 6 = 5(x - 6)!54 - x = 5x - 30!6x = 84!x = 14! !بنابراین، سن پسر بعد از 6 سال = (x+ 6)! = 20 سال"
         },
         {
-            "question": "At present, the ratio between the ages of Arun and Deepak is 4/3. After 6 years, Arun's age will be 26 years. What is the age of Deepak at present ?",
-            "a": "12 years",
-            "b": "15 years",
-            "c": "19 and half",
-            "d": "21 years",
+            "question": "در حال حاضر، نسبت بین سن آرون و دیپاک 4/3 است. بعد از 6 سال، سن آرون 26 سال خواهد بود. سن دیپاک در حال حاضر چقدر است؟",
+            "a": "12 سال",
+            "b": "15 سال",
+            "c": "19 و نیم",
+            "d": "21 سال",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of Arun and Deepak be 4x years and 3x years respectively.! !Then,!4x + 6 = 26!4x = 20!x = 5! !Hence, Deepak's age = 3x = 15 years."
+            "explain": "فرض کنید سن فعلی آرون و دیپاک به ترتیب 4x سال و 3x سال باشد.! !سپس،!4x + 6 = 26!4x = 20!x = 5! !بنابراین، سن دیپاک = 3x = 15 سال."
         },
         {
-            "question": "Sachin is younger than Rahul by 7 years. If their ages are in the respective ratio of 7/9, how old is Sachin?",
-            "a": "16 years",
-            "b": "18 years",
-            "c": "28 years",
-            "d": "24.5 years",
+            "question": "ساچین 7 سال از راهول کوچکتر است. اگر نسبت سنی آنها به ترتیب 7/9 باشد، ساچین چند سال دارد؟",
+            "a": "16 سال",
+            "b": "18 سال",
+            "c": "28 سال",
+            "d": "24.5 سال",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Rahul's age be x years.! !Then,!Sachin's age = (x - 7) years.! !(x-7)/x = 7/9!9x - 63 = 7x!2x = 63!x = 31.5! !Hence, Sachin's age =(x - 7)= 24.5 years"
+            "explain": "فرض کنید سن راهول x سال باشد.! !سپس،!سن ساچین = (x - 7) سال.! !(x-7)/x = 7/9!9x - 63 = 7x!2x = 63!x = 31.5! !بنابراین، سن ساچین = (x - 7) = 24.5 سال"
         },
         {
-            "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present?",
-            "a": "32 years",
-            "b": "36 years",
-            "c": "40 years",
-            "d": "48 years",
+            "question": "سن فعلی یک شخص دو پنجم سن مادرش است. بعد از 8 سال، او نصف سن مادرش خواهد بود. مادر در حال حاضر چند سال دارد؟",
+            "a": "32 سال",
+            "b": "36 سال",
+            "c": "40 سال",
+            "d": "48 سال",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the mother's present age be x years.! !Then,! the person's present age = (2/5)x years.! !(2/5)x + 8 = (1/2)(x + 8)!2(2x + 40) = 5(x + 8)!x = 40!"
+            "explain": "فرض کنید سن فعلی مادر x سال باشد.! !سپس،! سن فعلی شخص = (2/5)x سال.! !(2/5)x + 8 = (1/2)(x + 8)!2(2x + 40) = 5(x + 8)!x = 40!"
         },
         {
-            "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. Find out the age of the youngest child?",
-            "a": "6 years",
-            "b": "5 years",
-            "c": "4 years",
-            "d": "3 years",
+            "question": "مجموع سن 5 کودک که در فواصل 3 ساله به دنیا آمده اند، 50 سال است. سن کوچکترین کودک را پیدا کنید؟",
+            "a": "6 سال",
+            "b": "5 سال",
+            "c": "4 سال",
+            "d": "3 سال",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of children be x, (x + 3), (x + 6), (x + 9) and (x + 12) years.! !Then,!x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 50!5x = 20!x = 4! !Hence, Age of the youngest child = x = 4 years"
+            "explain": "فرض کنید سن کودکان x، (x + 3)، (x + 6)، (x + 9) و (x + 12) سال باشد.! !سپس،!x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 50!5x = 20!x = 4! !بنابراین، سن کوچکترین کودک = x = 4 سال"
         },
         {
-            "question": "A is two years older than B who is twice as old as C. The total of the ages of A, B and C is 27.How old is B?",
+            "question": "A دو سال از B بزرگتر است که دو برابر C سن دارد. مجموع سن A، B و C برابر با 27 است. B چند سال دارد؟",
             "a": "10",
             "b": "9",
             "c": "8",
@@ -284,10 +284,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let C's age be x years. Then, B's age = 2x years. A's age = (2x + 2) years.! !So, (2x + 2) + 2x + x = 27!5x = 25!x = 5! !Hence, B's age = 2x = 10 years"
+            "explain": "فرض کنید سن C x سال باشد. سپس، سن B = 2x سال. سن A = (2x + 2) سال.! !بنابراین، (2x + 2) + 2x + x = 27!5x = 25!x = 5! !بنابراین، سن B = 2x = 10 سال"
         },
         {
-            "question": "The Average age of a class of 22 students is 21 years.The average increased by 1 when the teacher's age also included.What is the age of the teacher?",
+            "question": "میانگین سنی یک کلاس 22 نفره 21 سال است. با احتساب سن معلم، میانگین 1 سال افزایش یافت. سن معلم چقدر است؟",
             "a": "48",
             "b": "45",
             "c": "43",
@@ -295,21 +295,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "هیچ توضیحی برای این سوال موجود نیست."
         },
         {
-            "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
-            "a": "1 year",
-            "b": "2 years",
-            "c": "25 years",
-            "d": "Data inadequate",
+            "question": "Q به همان اندازه از R کوچکتر است که از T بزرگتر است. اگر مجموع سن R و T برابر با 50 سال باشد، تفاوت قطعی بین سن R و Q چقدر است؟",
+            "a": "1 سال",
+            "b": "2 سال",
+            "c": "25 سال",
+            "d": "اطلاعات ناکافی است",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that! !(i)The difference of age b/w R and Q = The difference of age b/w Q and T!(ii) (R + T) = 50! !So,R - Q = Q - T! !(R + T) = 2Q! !Now given that, (R + T) = 50! !So, 50 = 2Q and therefore Q = 25! !Question is (R - Q) = ?! !Here we know the value(age) of Q (25), but we don't know the age of R.! !Therefore, (R-Q) cannot be determined."
+            "explain": "با توجه به اینکه! !(i)تفاوت سنی بین R و Q = تفاوت سنی بین Q و T!(ii) (R + T) = 50! !بنابراین، R - Q = Q - T! !(R + T) = 2Q! !اکنون با توجه به اینکه، (R + T) = 50! !بنابراین، 50 = 2Q و بنابراین Q = 25! !سوال این است (R - Q) = ؟! !در اینجا ما مقدار (سن) Q (25) را می دانیم، اما سن R را نمی دانیم.! !بنابراین، (R-Q) قابل تعیین نیست."
         },
         {
-            "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is",
+            "question": "سن پدر 10 سال پیش سه برابر سن پسرش بود. ده سال بعد، سن پدر دو برابر سن پسرش خواهد بود. نسبت سن فعلی آنها است",
             "a": "5/2",
             "b": "7/3",
             "c": "9/2",
@@ -317,43 +317,43 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of father and son 10 years ago be 3x and x years respectively.! !Then,!(3x + 10) + 10 = 2[(x + 10) + 10]!3x + 20 = 2x + 40!x = 20!So, 3x + 10 = 70!and x + 10 = 30! !Hence, ratio is 70/30 = 7/3."
+            "explain": "فرض کنید سن پدر و پسر 10 سال پیش به ترتیب 3x و x سال باشد.! !سپس،!(3x + 10) + 10 = 2[(x + 10) + 10]!3x + 20 = 2x + 40!x = 20!بنابراین، 3x + 10 = 70!و x + 10 = 30! !بنابراین، نسبت 70/30 = 7/3 است."
         },
         {
-            "question": "A is as much younger than B and he is older than C. If the sum of the ages of B and C is 50 years, what is definitely the difference between B and A's age?",
-            "a": "Data inadequate",
-            "b": "3 years",
-            "c": "2 years",
-            "d": "5 years",
+            "question": "A به همان اندازه از B کوچکتر است که از C بزرگتر است. اگر مجموع سن B و C برابر با 50 سال باشد، تفاوت قطعی بین سن B و A چقدر است؟",
+            "a": "اطلاعات ناکافی است",
+            "b": "3 سال",
+            "c": "2 سال",
+            "d": "5 سال",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "هیچ توضیحی برای این سوال موجود نیست."
         },
         {
-            "question": "A man's age is three times his son's. In 15 years it will be double that of his son's. How old is the son now?",
+            "question": "سن یک مرد سه برابر سن پسرش است. تا 15 سال دیگر دو برابر سن پسرش خواهد بود. پسر الان چند سال دارد؟",
             "a": "30",
             "b": "15",
             "c": "45",
-            "d": "none",
+            "d": "هیچ کدام",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Son's age is x!Mans Age = 3x! !Given that!3x+15 = 2(x+15)!3x+15 = 2x+30!3x-2x = 30-15! !x = 15! !Hence son is 15 years old."
+            "explain": "فرض کنید سن پسر x است!سن مرد = 3x! !با توجه به اینکه!3x+15 = 2(x+15)!3x+15 = 2x+30!3x-2x = 30-15! !x = 15! !بنابراین پسر 15 سال دارد."
         },
         {
-            "question": "The sum of the present ages of a mother and daughter is 63. Three years back if the age of the mother was double that of the daughter, then the present age of the daughter is",
-            "a": "21 years",
-            "b": "24 years",
-            "c": "22 years",
-            "d": "15 years",
+            "question": "مجموع سن فعلی یک مادر و دختر 63 سال است. سه سال پیش اگر سن مادر دو برابر سن دختر بود، سن فعلی دختر چقدر است؟",
+            "a": "21 سال",
+            "b": "24 سال",
+            "c": "22 سال",
+            "d": "15 سال",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let mother's present age is x and daughters present age is y! !Given that!x+y = 63 ...(1)!and! !x-3 = 2(y-3)!x-3 = 2y-6!x-2y = -6+3!x-2y = -3 ...(2)! !By simultaneously solving equation(1) and equation(2) We'll find!y = 22! !Hence present age of the daughter is 22 years."
+            "explain": "فرض کنید سن فعلی مادر x و سن فعلی دختر y است! !با توجه به اینکه!x+y = 63 ...(1)!و! !x-3 = 2(y-3)!x-3 = 2y-6!x-2y = -6+3!x-2y = -3 ...(2)! !با حل همزمان معادله (1) و معادله (2) خواهیم یافت!y = 22! !بنابراین سن فعلی دختر 22 سال است."
         },
         {
-            "question": "The product of the ages of two class fellows is 24. If the greater fellow is 3/2 times the smaller one, then the age of the smaller fellow is",
+            "question": "حاصلضرب سن دو همکلاسی 24 است. اگر همکلاسی بزرگتر 3/2 برابر کوچکتر باشد، سن همکلاسی کوچکتر چقدر است؟",
             "a": "8",
             "b": "6",
             "c": "4",
@@ -361,10 +361,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of the greater fellow is x and present age of smaller fellow is y.! !Given that xy = 24 ...(1)!and! !x = (3/2)y!Put value of x in equation(1).! !(3/2)y^2 = 24!y^2 = 24*(2/3)!y^2 = 16!y = 4! !Hence age of smaller fellow is 4 years."
+            "explain": "فرض کنید سن فعلی همکلاسی بزرگتر x و سن فعلی همکلاسی کوچکتر y است.! !با توجه به اینکه xy = 24 ...(1)!و! !x = (3/2)y!مقدار x را در معادله (1) قرار دهید.! !(3/2)y^2 = 24!y^2 = 24*(2/3)!y^2 = 16!y = 4! !بنابراین سن همکلاسی کوچکتر 4 سال است."
         },
         {
-            "question": "Meena is thrice as old as Sheraz. Fatima will be twice as old as Meena 6 years hence. Six years ago Sheraz was five years old. What is Fatima's present age?",
+            "question": "مینا سه برابر شیراز سن دارد. فاطمه 6 سال دیگر دو برابر مینا سن خواهد داشت. شش سال پیش شیراز پنج سال داشت. سن فعلی فاطمه چقدر است؟",
             "a": "65",
             "b": "70",
             "c": "68",
@@ -372,10 +372,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of Sheraz is x and present age of Fatima is y.! !So,!Meena's age = 3x! !Given that!y+6 = 2(3x+6) ...(1)!and!x-6 = 5!x = 11! !Put value of x in equation(1)! !y+6 = 2(33+6)!y+6 = 78!y = 72! !Hence Fatima's present age is 72 years."
+            "explain": "فرض کنید سن فعلی شیراز x و سن فعلی فاطمه y است.! !بنابراین،!سن مینا = 3x! !با توجه به اینکه!y+6 = 2(3x+6) ...(1)!و!x-6 = 5!x = 11! !مقدار x را در معادله (1) قرار دهید! !y+6 = 2(33+6)!y+6 = 78!y = 72! !بنابراین سن فعلی فاطمه 72 سال است."
         },
         {
-            "question": "C's mother was four times as old as C ten years ago. After 10 years she will be twice as old as C is now. How old C is now?",
+            "question": "مادر C ده سال پیش چهار برابر C سن داشت. بعد از 10 سال او دو برابر سن فعلی C خواهد بود. C الان چند سال دارد؟",
             "a": "15",
             "b": "30",
             "c": "20",
@@ -383,10 +383,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let C's present age is x and his mother's age is y.! !Given that!y = 4(x-10)!y = 4x-40!4x-y = 40 ...(1)! !and!y+10 = 2x!2x-y = 10 ...(2).! !By simultaneously solving equation(1) and equation(2) we find! x = 15! !Hence C is 15 years old."
+            "explain": "فرض کنید سن فعلی C x و سن مادرش y است.! !با توجه به اینکه!y = 4(x-10)!y = 4x-40!4x-y = 40 ...(1)! !و!y+10 = 2x!2x-y = 10 ...(2).! !با حل همزمان معادله (1) و معادله (2) می یابیم! x = 15! !بنابراین C 15 سال دارد."
         },
         {
-            "question": "A mother's age after 5 years, will be twice the age of her daughter. The difference of their ages is 19. What is the age of mother?",
+            "question": "سن یک مادر بعد از 5 سال، دو برابر سن دخترش خواهد بود. اختلاف سنی آنها 19 سال است. سن مادر چقدر است؟",
             "a": "13",
             "b": "33",
             "c": "15",
@@ -394,10 +394,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of daughter is x and present age of mother is y.! !Given that!y+5 = 2(x+5)!y+5 = 2x+10!5-10 = 2x-y!y-2x = 5 ...(1)! !and also given that!y-x = 19 ...(2)! !By simultaneously solving equation(1) and equation(2) we can find!y = 33! !Hence mothers present age is 33 years."
+            "explain": "فرض کنید سن فعلی دختر x و سن فعلی مادر y است.! !با توجه به اینکه!y+5 = 2(x+5)!y+5 = 2x+10!5-10 = 2x-y!y-2x = 5 ...(1)! !و همچنین با توجه به اینکه!y-x = 19 ...(2)! !با حل همزمان معادله (1) و معادله (2) می توانیم پیدا کنیم!y = 33! !بنابراین سن فعلی مادر 33 سال است."
         },
         {
-            "question": "The ages of X and Y are in the ratio 7/4. If the sum of their present ages is 55, then the age of X is",
+            "question": "نسبت سن X و Y برابر با 7/4 است. اگر مجموع سن فعلی آنها 55 باشد، سن X چقدر است؟",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -405,10 +405,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!x/y = 7/4 ...(1)! !and!x+y = 55 ...(2)! !From equation(1)!4x = 7y!y = (4/7)x! !Put value of y in equation(2)!x + (4/7)x = 55!(7x+4x)/7 = 55!11x = 385!x = 35! !Hence the age of x is 35 years."
+            "explain": "با توجه به اینکه!x/y = 7/4 ...(1)! !و!x+y = 55 ...(2)! !از معادله (1)!4x = 7y!y = (4/7)x! !مقدار y را در معادله (2) قرار دهید!x + (4/7)x = 55!(7x+4x)/7 = 55!11x = 385!x = 35! !بنابراین سن x 35 سال است."
         },
         {
-            "question": "The sum of the ages of a son and a father is 64. After 4 years the age of father will be three times that of his son's. The age of father is",
+            "question": "مجموع سن یک پسر و یک پدر 64 سال است. بعد از 4 سال سن پدر سه برابر سن پسرش خواهد بود. سن پدر است",
             "a": "46",
             "b": "50",
             "c": "44",
@@ -416,10 +416,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!x+y = 64 ...(1)! !and!y+4 = 3(x+4)!y+4 = 3x + 12!y-3x = 8 ...(2)! !Put value of x from equation(1) in equation(2)! !y-3(64-y) = 8!y-192+3y = 8!4y = 200!y = 50! !Hence present age of the father is 50 years."
+            "explain": "فرض کنید سن فعلی پسر x و سن فعلی پدر y است.! !با توجه به اینکه!x+y = 64 ...(1)! !و!y+4 = 3(x+4)!y+4 = 3x + 12!y-3x = 8 ...(2)! !مقدار x را از معادله (1) در معادله (2) قرار دهید! !y-3(64-y) = 8!y-192+3y = 8!4y = 200!y = 50! !بنابراین سن فعلی پدر 50 سال است."
         },
         {
-            "question": "Ages of A and B are in ratio 8/7. 27 years ago their ages were in the ratio 5/4. The age of B is",
+            "question": "نسبت سن A و B برابر با 8/7 است. 27 سال پیش نسبت سن آنها 5/4 بود. سن B است",
             "a": "63",
             "b": "65",
             "c": "68",
@@ -427,10 +427,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A/B = 8/7 ...(1)! !and!(A-27)/(B-27) = 5/4!5B-135 = 4A-108 ...(2)! !From equation(1) we have!A = (8/7)B! !Put value of A in equation(2)!5B-135 = 4*[(8/7)B]-108!5B-27 = (32/7)B!5B-(32/7)B = 27!(35B-32B)/7 = 27!3B = 189!B = 63! !Hence the age of B is 63 years."
+            "explain": "با توجه به اینکه!A/B = 8/7 ...(1)! !و!(A-27)/(B-27) = 5/4!5B-135 = 4A-108 ...(2)! !از معادله (1) داریم!A = (8/7)B! !مقدار A را در معادله (2) قرار دهید!5B-135 = 4*[(8/7)B]-108!5B-27 = (32/7)B!5B-(32/7)B = 27!(35B-32B)/7 = 27!3B = 189!B = 63! !بنابراین سن B 63 سال است."
         },
         {
-            "question": "A father is 15 times as old as his son. however, 18 years later, he will be only thrice as old as the son. What is the father's present age?",
+            "question": "یک پدر 15 برابر پسرش سن دارد. با این حال، 18 سال بعد، او فقط سه برابر پسرش سن خواهد داشت. سن فعلی پدر چقدر است؟",
             "a": "21",
             "b": "25",
             "c": "45",
@@ -438,10 +438,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of the son is x and present age of Father is y.! !Given that!y = 15x!15x-y = 0 ...(1)! !and also given that!y+18 = 3(x+18)!y+18 = 3x+54!y-3x = 36 ...(2)! !By simultaneously solving equation(1) and equation(2)!y = 45! !Hence father's present age is 45 years."
+            "explain": "فرض کنید سن فعلی پسر x و سن فعلی پدر y است.! !با توجه به اینکه!y = 15x!15x-y = 0 ...(1)! !و همچنین با توجه به اینکه!y+18 = 3(x+18)!y+18 = 3x+54!y-3x = 36 ...(2)! !با حل همزمان معادله (1) و معادله (2)!y = 45! !بنابراین سن فعلی پدر 45 سال است."
         },
         {
-            "question": "Ten years ago a father was seven times as old as his son, two years hence, twice his age will be equal to five times his son's. What is the present age of son?",
+            "question": "ده سال پیش یک پدر هفت برابر پسرش سن داشت، دو سال بعد، دو برابر سن او برابر با پنج برابر سن پسرش خواهد بود. سن فعلی پسر چقدر است؟",
             "a": "14",
             "b": "20",
             "c": "16",
@@ -449,10 +449,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!y-10 = 7(x-10)!y-10 = 7x-70!y-7x = -70+10!7x-y = 60 ...(1)! ! and also given that!2(y+2) = 5(x+2)!2y+4 = 5x+10!2y-5x = 6 ...(2)By simultaneously soving equation(1) and equation(2)!x = 14! !Hence present age of son is 14 years."
+            "explain": "فرض کنید سن فعلی پسر x و سن فعلی پدر y است.! !با توجه به اینکه!y-10 = 7(x-10)!y-10 = 7x-70!y-7x = -70+10!7x-y = 60 ...(1)! ! و همچنین با توجه به اینکه!2(y+2) = 5(x+2)!2y+4 = 5x+10!2y-5x = 6 ...(2)با حل همزمان معادله (1) و معادله (2)!x = 14! !بنابراین سن فعلی پسر 14 سال است."
         },
         {
-            "question": "Ten years ago Akram was thrice as old as Aslam was, but 10 years hence, he will be only twice as old. What is Akram's present age?",
+            "question": "ده سال پیش اکرم سه برابر اسلم سن داشت، اما 10 سال بعد، او فقط دو برابر سن خواهد داشت. سن فعلی اکرم چقدر است؟",
             "a": "30",
             "b": "50",
             "c": "60",
@@ -460,10 +460,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Aslam's present age is x and Akram's present age is y.! !Given that!y-10 = 3(x-10)!y-10 = 3x-30!y-3x = -20!3x-y = 20 ...(1)! !and also given that!y+10 = 2(x+10)!y+10 = 2x+20!y-2x = 10 ...(2)! !By simultaneously solving equation(1) and equation(2)!y=70! !Hence Akram's present age is 70 years."
+            "explain": "فرض کنید سن فعلی اسلم x و سن فعلی اکرم y است.! !با توجه به اینکه!y-10 = 3(x-10)!y-10 = 3x-30!y-3x = -20!3x-y = 20 ...(1)! !و همچنین با توجه به اینکه!y+10 = 2(x+10)!y+10 = 2x+20!y-2x = 10 ...(2)! !با حل همزمان معادله (1) و معادله (2)!y=70! !بنابراین سن فعلی اکرم 70 سال است."
         },
         {
-            "question": "20 years ago my age was 1/3 of what it is now. What is my present age?",
+            "question": "20 سال پیش سن من 1/3 سن فعلی ام بود. سن فعلی من چقدر است؟",
             "a": "30",
             "b": "33",
             "c": "36",
@@ -471,10 +471,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let my present age is x.! !Given that!x-20 = (1/3)x!3x-60 = x!2x = 60!x = 30! !Hence my present age is 30 years."
+            "explain": "فرض کنید سن فعلی من x است.! !با توجه به اینکه!x-20 = (1/3)x!3x-60 = x!2x = 60!x = 30! !بنابراین سن فعلی من 30 سال است."
         },
         {
-            "question": "The average age of A and B is 20. If C were to replace A, the average would be 19, and if B was replaced by C, the average would be 21. The age of C is",
+            "question": "میانگین سن A و B برابر با 20 است. اگر C جایگزین A شود، میانگین 19 خواهد بود و اگر B با C جایگزین شود، میانگین 21 خواهد بود. سن C است",
             "a": "18",
             "b": "19",
             "c": "20",
@@ -482,10 +482,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!(A+B)/2 = 20!A+B = 40 ...(1)! !and!(C+B)/2 = 19!C+B = 38 ...(2)! !and!(A+C)/2 = 21!A+C = 42 ...(3)! !Put value of A from equation(1) in equation(3)!(40-B)+C = 42!C-B = 2 ...(4)! !By simultaneously solving equation(2) and equation(4)!C = 20! !Hence C is 20 years old."
+            "explain": "با توجه به اینکه!(A+B)/2 = 20!A+B = 40 ...(1)! !و!(C+B)/2 = 19!C+B = 38 ...(2)! !و!(A+C)/2 = 21!A+C = 42 ...(3)! !مقدار A را از معادله (1) در معادله (3) قرار دهید!(40-B)+C = 42!C-B = 2 ...(4)! !با حل همزمان معادله (2) و معادله (4)!C = 20! !بنابراین C 20 سال دارد."
         },
         {
-            "question": "The ratio of the ages of two friends A and B is 3/2. However if the age of A is decreased by 10 and that of B is increased by 10 then the original ratio is reversed. Age of A is",
+            "question": "نسبت سن دو دوست A و B برابر با 3/2 است. با این حال اگر سن A 10 سال کاهش یابد و سن B 10 سال افزایش یابد، نسبت اصلی معکوس می شود. سن A است",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -493,10 +493,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A/B = 3/2!2A = 3B!2A-3B = 0 ...(1)! !and also given that!(A-10)/(B+10) = 2/3!3A-30 = 2B+20!3A-2B = 50 ...(2)! !By simultaneously solving equation(1) and equation(2)!A = 30! !Hence age of A is 30 years."
+            "explain": "با توجه به اینکه!A/B = 3/2!2A = 3B!2A-3B = 0 ...(1)! !و همچنین با توجه به اینکه!(A-10)/(B+10) = 2/3!3A-30 = 2B+20!3A-2B = 50 ...(2)! !با حل همزمان معادله (1) و معادله (2)!A = 30! !بنابراین سن A 30 سال است."
         },
         {
-            "question": "The sum of the ages of two children is 12  and their product is 32. The age of elder one is",
+            "question": "مجموع سن دو کودک 12 سال و حاصلضرب آنها 32 است. سن بزرگتر است",
             "a": "2",
             "b": "3",
             "c": "4",
@@ -504,10 +504,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let age of younger child is x and age of elder child is y.! !Given that!x+y = 12 ...(1)! !and!xy = 32!x = 32/y! !Put value of x in equation(1)!(32/y)+y = 12!32+(y^2) = 12y!(y^2)-12y+32 = 0!(y^2)-8y-4y+32 = 0!y(y-8)+4(y-8) = 0!(y-8)(y+4) = 0!y = -4 (impossible)!or!y = 8! !Hence age of elder child is 8 years."
+            "explain": "فرض کنید سن کودک کوچکتر x و سن کودک بزرگتر y است.! !با توجه به اینکه!x+y = 12 ...(1)! !و!xy = 32!x = 32/y! !مقدار x را در معادله (1) قرار دهید!(32/y)+y = 12!32+(y^2) = 12y!(y^2)-12y+32 = 0!(y^2)-8y-4y+32 = 0!y(y-8)+4(y-8) = 0!(y-8)(y+4) = 0!y = -4 (غیرممکن)!یا!y = 8! !بنابراین سن کودک بزرگتر 8 سال است."
         },
         {
-            "question": "The ratio of A's age and B's age is 3/7, and the difference of their ages is 16 years. Find the age of B.",
+            "question": "نسبت سن A و B برابر با 3/7 است و اختلاف سنی آنها 16 سال است. سن B را پیدا کنید.",
             "a": "25",
             "b": "26",
             "c": "27",
@@ -515,12 +515,12 @@
             "answer": "",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "We can simply check it from options. If John's cousins age is 7 then John's age is 42!and!1/6 0f 42 = 7!Hence 7 fulfills the required condition.",
+            "explain": "ما می توانیم به سادگی آن را از گزینه ها بررسی کنیم. اگر سن پسر عموی جان 7 سال باشد، سن جان 42 سال است!و!1/6 از 42 = 7!بنابراین 7 شرط مورد نیاز را برآورده می کند.",
             "e": "28",
-            "f": "Given that!A/B = 3/7 ...(1)! !and!B-A = 16 ...(2)!Put value of A from equation(1) in equation(2)!B-(3/7)B = 16!(7B-3B)/7 = 16!4B = 112!B = 28! !Hence Age of B is 28 years."
+            "f": "با توجه به اینکه!A/B = 3/7 ...(1)! !و!B-A = 16 ...(2)!مقدار A را از معادله (1) در معادله (2) قرار دهید!B-(3/7)B = 16!(7B-3B)/7 = 16!4B = 112!B = 28! !بنابراین سن B 28 سال است."
         },
         {
-            "question": "Tina is twice as old as David. 15 years ago, Tina's age was 5 times the age of David. What is the present age of Tina?",
+            "question": "تینا دو برابر دیوید سن دارد. 15 سال پیش، سن تینا 5 برابر سن دیوید بود. سن فعلی تینا چقدر است؟",
             "a": "20",
             "b": "35",
             "c": "40",
@@ -528,10 +528,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let David's age is x and Tina's age is y.! !Given that!y = 2x!y-2x = 0 ...(1)! !and also given that!y-15 = 5(x-15)!y-15 = 5x-75!y-5x = -60 ...(2)! !By simultaneously solving equation(1) and equation(2)!y = 40! !Hence Tina's present age is 40 years."
+            "explain": "فرض کنید سن دیوید x و سن تینا y است.! !با توجه به اینکه!y = 2x!y-2x = 0 ...(1)! !و همچنین با توجه به اینکه!y-15 = 5(x-15)!y-15 = 5x-75!y-5x = -60 ...(2)! !با حل همزمان معادله (1) و معادله (2)!y = 40! !بنابراین سن فعلی تینا 40 سال است."
         },
         {
-            "question": "The present age of A is 45 yeras. 5 years ago the age of A was 5 times the age of his son B. How old is B now?",
+            "question": "سن فعلی A 45 سال است. 5 سال پیش سن A 5 برابر سن پسرش B بود. B الان چند سال دارد؟",
             "a": "5",
             "b": "15",
             "c": "13",
@@ -539,10 +539,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A = 45! !and!A-5 = 5(B-5)!40 = 5B-25!65 = 5B!B = 13! !Hence B is 13 years old now."
+            "explain": "با توجه به اینکه!A = 45! !و!A-5 = 5(B-5)!40 = 5B-25!65 = 5B!B = 13! !بنابراین B الان 13 سال دارد."
         },
         {
-            "question": "A's age is 3/4 of that of B's. Two years ago A's age was 1/2 of what B will be in 4 years. How old is A now?",
+            "question": "سن A 3/4 سن B است. دو سال پیش سن A 1/2 سن B در 4 سال آینده بود. A الان چند سال دارد؟",
             "a": "17",
             "b": "12",
             "c": "20",
@@ -550,10 +550,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A = (3/4)B ...(1)! !and!A-2 = (1/2)(B+4)!2A-4 = B+4!2A-B = 8! !Put value of B from equation(1)!2A-(4/3)A = 8!6A-4A = 24!2A = 24!A = 12! !Hence A is 12 years old now."
+            "explain": "با توجه به اینکه!A = (3/4)B ...(1)! !و!A-2 = (1/2)(B+4)!2A-4 = B+4!2A-B = 8! !مقدار B را از معادله (1) قرار دهید!2A-(4/3)A = 8!6A-4A = 24!2A = 24!A = 12! !بنابراین A الان 12 سال دارد."
         },
         {
-            "question": "A father is 3 years older than 3 times the age of his son. If the sum of their ages is 31 years, how old was father 3 years ago?",
+            "question": "یک پدر 3 سال از 3 برابر سن پسرش بزرگتر است. اگر مجموع سن آنها 31 سال باشد، پدر 3 سال پیش چند سال داشت؟",
             "a": "21",
             "b": "18",
             "c": "14",
@@ -561,10 +561,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!y = 3x+3 ...(1)! !and!x+y = 31!x = 31-y! !Put value of x in equation(1)!y = 3(31-y)+3!y = 93-3y+3!4y = 96!y = 24! !Three years ago!y = 24-3!y = 21! !Hence father was 21 years old 3 years ago."
+            "explain": "فرض کنید سن فعلی پسر x و سن فعلی پدر y است.! !با توجه به اینکه!y = 3x+3 ...(1)! !و!x+y = 31!x = 31-y! !مقدار x را در معادله (1) قرار دهید!y = 3(31-y)+3!y = 93-3y+3!4y = 96!y = 24! !سه سال پیش!y = 24-3!y = 21! !بنابراین پدر 3 سال پیش 21 سال داشت."
         },
         {
-            "question": "X is 4 times as old as y. 4 years ago, X was 10 times as old as Y. What will be the ratio of their ages 6 years hence?",
+            "question": "X 4 برابر y سن دارد. 4 سال پیش، X 10 برابر Y سن داشت. نسبت سن آنها 6 سال بعد چقدر خواهد بود؟",
             "a": "5/2",
             "b": "3/5",
             "c": "5/4",
@@ -572,10 +572,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!X = 4Y ...(1)! !and!X-4 = 10(Y-4)!X-4 = 10Y-40!X-10Y = -36!10Y-X = 36 ...(2)! !Put value of X from equation(1) in equation(2)!10Y-4Y = 36!6Y = 36!Y = 6! !Put value of Y in equation(1)!X = 4*6!X = 24! !After 6 years!Y = 24+6!Y = 30!and!X = 6+6!X = 12! !Ratio between X and Y is!30/12 = 5/2! !Hence after 6 years ratio between ages of X and Y will be 5/2."
+            "explain": "با توجه به اینکه!X = 4Y ...(1)! !و!X-4 = 10(Y-4)!X-4 = 10Y-40!X-10Y = -36!10Y-X = 36 ...(2)! !مقدار X را از معادله (1) در معادله (2) قرار دهید!10Y-4Y = 36!6Y = 36!Y = 6! !مقدار Y را در معادله (1) قرار دهید!X = 4*6!X = 24! !بعد از 6 سال!Y = 24+6!Y = 30!و!X = 6+6!X = 12! !نسبت بین X و Y است!30/12 = 5/2! !بنابراین بعد از 6 سال نسبت بین سن X و Y 5/2 خواهد بود."
         },
         {
-            "question": "The ages of C and D are in 6/11 and E is 6 years younger than D. If the sum of ages is 134, then what is the age of D?",
+            "question": "سن C و D در نسبت 6/11 است و E 6 سال از D کوچکتر است. اگر مجموع سن آنها 134 باشد، سن D چقدر است؟",
             "a": "65",
             "b": "70",
             "c": "35",
@@ -583,10 +583,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!C/D = 6/11!C = (6/11)D ...(1)! !and!C+D+E = 134! !As E is 6 years younger from D so we can put D-6 instead of D!C+D+D-6 = 134!C+2D = 140!Put value of C from equation(1)!(6/11)D+2D = 140!6D+22D = 140!28D = 1540!D = 55! !Hence D is 55 years old."
+            "explain": "با توجه به اینکه!C/D = 6/11!C = (6/11)D ...(1)! !و!C+D+E = 134! !از آنجایی که E 6 سال از D کوچکتر است، می توانیم D-6 را به جای D قرار دهیم!C+D+D-6 = 134!C+2D = 140!مقدار C را از معادله (1) قرار دهید!(6/11)D+2D = 140!6D+22D = 140!28D = 1540!D = 55! !بنابراین D 55 سال دارد."
         },
         {
-            "question": "Kamal's age is 1/6 of his father's age. If kamal's 8th birthday was celebrated 2 years ago, what is father's present age?",
+            "question": "سن کمال 1/6 سن پدرش است. اگر تولد 8 سالگی کمال 2 سال پیش جشن گرفته شد، سن فعلی پدر چقدر است؟",
             "a": "2",
             "b": "3",
             "c": "6",
@@ -594,10 +594,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Kamal's present age is x and his father's present age is y.! !Given that!y = 6x ...(1)! !and!x-2 = 8!x = 10! !Put value of x in equation(1)!y = 6*10!y = 60! !Hence father's present age is 60 years."
+            "explain": "فرض کنید سن فعلی کمال x و سن فعلی پدرش y است.! !با توجه به اینکه!y = 6x ...(1)! !و!x-2 = 8!x = 10! !مقدار x را در معادله (1) قرار دهید!y = 6*10!y = 60! !بنابراین سن فعلی پدر 60 سال است."
         },
         {
-            "question": "3 years ago, the average age of C and D was 18 years. With E joining them, the average becomes 22 years. How old is E now?",
+            "question": "3 سال پیش، میانگین سن C و D برابر با 18 سال بود. با پیوستن E به آنها، میانگین 22 سال می شود. E الان چند سال دارد؟",
             "a": "24",
             "b": "27",
             "c": "28",
@@ -605,10 +605,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that![(C-3)+(D-3)]/2 = 18!C-3+D-3 = 36!C+D = 42 ...(1)! !and also given that!(C+D+E)/3 = 22!C+D+E = 66! !Put value of C+D from equation(1)!42+E = 66!E = 66-42!E = 24! !Hence E is 24 years old now."
+            "explain": "با توجه به اینکه![(C-3)+(D-3)]/2 = 18!C-3+D-3 = 36!C+D = 42 ...(1)! !و همچنین با توجه به اینکه!(C+D+E)/3 = 22!C+D+E = 66! !مقدار C+D را از معادله (1) قرار دهید!42+E = 66!E = 66-42!E = 24! !بنابراین E الان 24 سال دارد."
         },
         {
-            "question": "Bill's age is 1/3 of Mike's age, who is 60% of James' age. Tom is twice as old as Mike. What is the ratio of Bill's age to Tom's age?",
+            "question": "سن بیل 1/3 سن مایک است که 60 درصد سن جیمز است. تام دو برابر مایک سن دارد. نسبت سن بیل به سن تام چقدر است؟",
             "a": "1/6",
             "b": "1/3",
             "c": "3/1",
@@ -616,10 +616,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Bill's age is Z, Mike's age is Y and Tom's age is X.! !Given that!Z = (1/3)Y!and!Y = (60/100)X!Y = (6/10)X! !Tom's Age is double of Mike's age mean his age is 2y.!Now Bill's age is (1/3)Y and Tom's age is 2Y and ratio between them is![(1/3)Y] / 2Y!(1/3)*(1/2) = 1/6! !Hence ratio between Bill's and Tom's age is 1/6."
+            "explain": "فرض کنید سن بیل Z، سن مایک Y و سن تام X است.! !با توجه به اینکه!Z = (1/3)Y!و!Y = (60/100)X!Y = (6/10)X! !سن تام دو برابر سن مایک است یعنی سن او 2y است.!اکنون سن بیل (1/3)Y و سن تام 2Y است و نسبت بین آنها است![(1/3)Y] / 2Y!(1/3)*(1/2) = 1/6! !بنابراین نسبت بین سن بیل و تام 1/6 است."
         },
         {
-            "question": "In 1975, A was thrice as old as B but in 1979, A was only twice as old as B was. How old was A in 1985?",
+            "question": "در سال 1975، A سه برابر B سن داشت اما در سال 1979، A فقط دو برابر B سن داشت. A در سال 1985 چند سال داشت؟",
             "a": "25",
             "b": "20",
             "c": "15",
@@ -627,10 +627,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let A's age in 1985 was X.! !Given that!X-10 = 3(B-10)!X-10 = 3B-30!3B-X = 20 ...(1)! !and!X-6 = 2(B-6)!X-6 = 2B-12!2B-X = 6 ...(2)! !By simultaneously solving equation(1) and (2) we have!X = 22! !Hence A's age in 1985 was 22 years."
+            "explain": "فرض کنید سن A در سال 1985 X بود.! !با توجه به اینکه!X-10 = 3(B-10)!X-10 = 3B-30!3B-X = 20 ...(1)! !و!X-6 = 2(B-6)!X-6 = 2B-12!2B-X = 6 ...(2)! !با حل همزمان معادله (1) و (2) داریم!X = 22! !بنابراین سن A در سال 1985 22 سال بود."
         },
         {
-            "question": "If 1/2 x year ago A was 12 and 1/2 x years from now he will be 2x years old, how old will he be 3x years from now?",
+            "question": "اگر 1/2 x سال پیش A 12 ساله بود و 1/2 x سال دیگر 2x ساله خواهد بود، 3x سال دیگر چند ساله خواهد بود؟",
             "a": "18",
             "b": "24",
             "c": "30",
@@ -638,10 +638,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A-(1/2)x = 12!2A-x = 24 ...(1)!and!A+(1/2)x = 2x!A+(1/2)x-2x = 0!A+(x-4x)/2 = 0!A-(3/2)x = 0!2A-3x = 0 ...(2)!By simultaneously solving equation(1) and (2) we have!x = 12!and!A = 18! !Now!3x = 3*12 = 36! !After 3x years A will be!18+36 = 54 years old"
+            "explain": "با توجه به اینکه!A-(1/2)x = 12!2A-x = 24 ...(1)!و!A+(1/2)x = 2x!A+(1/2)x-2x = 0!A+(x-4x)/2 = 0!A-(3/2)x = 0!2A-3x = 0 ...(2)!با حل همزمان معادله (1) و (2) داریم!x = 12!و!A = 18! !اکنون!3x = 3*12 = 36! !بعد از 3x سال A خواهد بود!18+36 = 54 ساله"
         },
         {
-            "question": "The difference of the ages of two brothers is 2 and the difference of the square of their ages is 16. The age of smaller one is?",
+            "question": "اختلاف سن دو برادر 2 سال و اختلاف مربع سن آنها 16 است. سن کوچکتر چقدر است؟",
             "a": "4",
             "b": "5",
             "c": "2",
@@ -649,7 +649,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of elder brother is y and present age of younger brother is x.! !Given that!y-x = 2 ...(1)! !and!(y^2)-(x^2) = 16!(y+x)(y-x) = 16! !Put value of (y-x) from equation(1)!2(y+x) = 16!y+x = 8 ...(2)! !By simultaneously solving equation(1) and equation(2) we have!y = 5!and!x = 3! !Hence present age of younger brother is 3 years."
+            "explain": "فرض کنید سن فعلی برادر بزرگتر y و سن فعلی برادر کوچکتر x است.! !با توجه به اینکه!y-x = 2 ...(1)! !و!(y^2)-(x^2) = 16!(y+x)(y-x) = 16! !مقدار (y-x) را از معادله (1) قرار دهید!2(y+x) = 16!y+x = 8 ...(2)! !با حل همزمان معادله (1) و معادله (2) داریم!y = 5!و!x = 3! !بنابراین سن فعلی برادر کوچکتر 3 سال است."
         }
     ]
 }

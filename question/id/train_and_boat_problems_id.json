@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds.What is the length of the train?",
+            "question": "Sebuah kereta yang berjalan dengan kecepatan 60 km/jam melintasi sebuah tiang dalam 9 detik. Berapakah panjang kereta tersebut?",
             "a": "120 m",
             "b": "180 m",
             "c": "324 m",
@@ -9,54 +9,54 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 60 * (5/18) = 50/3 m/sec! !Length of the train = (Speed x Time) = (50/3) * 9 = 150 meters"
+            "explain": "Kecepatan = 60 * (5/18) = 50/3 m/detik! !Panjang kereta = (Kecepatan x Waktu) = (50/3) * 9 = 150 meter"
         },
         {
-            "question": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",
-            "a": "2 hours",
-            "b": "3 hours",
-            "c": "4 hours",
-            "d": "5 hours",
+            "question": "Sebuah perahu dapat melaju dengan kecepatan 13 km/jam di air tenang. Jika kecepatan arus adalah 4 km/jam, carilah waktu yang dibutuhkan perahu untuk menempuh jarak 68 km ke hilir.",
+            "a": "2 jam",
+            "b": "3 jam",
+            "c": "4 jam",
+            "d": "5 jam",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed downstream = (13 + 4) km/hr = 17 km/hr! !Time taken to travel 68 km downstream = (68/17)hrs!= 4 hours"
+            "explain": "Kecepatan ke hilir = (13 + 4) km/jam = 17 km/jam! !Waktu yang dibutuhkan untuk menempuh jarak 68 km ke hilir = (68/17) jam! = 4 jam"
         },
         {
-            "question": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is",
-            "a": "8.5 km/hr",
-            "b": "9 km/hr",
-            "c": "10 km/hr",
-            "d": "12.5 km/hr",
+            "question": "Kecepatan seorang pria dengan arus adalah 15 km/jam dan kecepatan arus adalah 2,5 km/jam. Kecepatan pria tersebut melawan arus adalah",
+            "a": "8,5 km/jam",
+            "b": "9 km/jam",
+            "c": "10 km/jam",
+            "d": "12,5 km/jam",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Man's rate in still water = (15 - 2.5) km/hr!= 12.5 km/hr! !Man's rate against the current = (12.5 - 2.5) km/hr!= 10 km/hr"
+            "explain": "Laju pria di air tenang = (15 - 2,5) km/jam! = 12,5 km/jam! !Laju pria melawan arus = (12,5 - 2,5) km/jam! = 10 km/jam"
         },
         {
-            "question": "A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
-            "a": "65 sec",
-            "b": "89 sec",
-            "c": "100 sec",
-            "d": "150 sec",
+            "question": "Sebuah kereta sepanjang 240 m melewati sebuah tiang dalam 24 detik. Berapa lama waktu yang dibutuhkan untuk melewati peron sepanjang 650 m?",
+            "a": "65 detik",
+            "b": "89 detik",
+            "c": "100 detik",
+            "d": "150 detik",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = (240/24) = 10m/s! !Hence, Required time = (240+650)/10!= 89 seconds"
+            "explain": "Kecepatan = (240/24) = 10m/s! !Jadi, Waktu yang dibutuhkan = (240+650)/10! = 89 detik"
         },
         {
-            "question": "A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?",
-            "a": "40 sec",
-            "b": "42 sec",
-            "c": "45 sec",
-            "d": "48 sec",
+            "question": "Sebuah kereta sepanjang 360 m berjalan dengan kecepatan 45 km/jam. Dalam waktu berapa kereta tersebut akan melewati jembatan sepanjang 140 m?",
+            "a": "40 detik",
+            "b": "42 detik",
+            "c": "45 detik",
+            "d": "48 detik",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Formula for converting from km/hr to m/s is!X km/hr = x * (5/18)m/s! !Therefore,!Speed = 45 * (5/18) = 25/2 m/s! !Total distance to be covered = (360 + 140) m = 500 m! !Formula for finding Time = (Distance/Speed)! !Hence, Required time = (500*2)/25!= 40 seconds"
+            "explain": "Rumus untuk mengubah dari km/jam ke m/s adalah!X km/jam = x * (5/18)m/s! !Oleh karena itu,!Kecepatan = 45 * (5/18) = 25/2 m/s! !Jarak total yang harus ditempuh = (360 + 140) m = 500 m! !Rumus untuk mencari Waktu = (Jarak/Kecepatan)! !Jadi, Waktu yang dibutuhkan = (500*2)/25! = 40 detik"
         },
         {
-            "question": "A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?",
+            "question": "Sebuah kereta barang berjalan dengan kecepatan 72 km/jam dan melintasi peron sepanjang 250 m dalam 26 detik. Berapakah panjang kereta barang tersebut?",
             "a": "230 m",
             "b": "240 m",
             "c": "260 m",
@@ -64,10 +64,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 72 * (5/18)m/s!= 20 m/s! !Time = 26 sec! !Let,!the length of the train be x metres! !Then,!(x+250)/26 = 20! !x + 250 = 520!x = 270"
+            "explain": "Kecepatan = 72 * (5/18)m/s! = 20 m/s! !Waktu = 26 detik! !Misalkan,!panjang kereta adalah x meter! !Kemudian,!(x+250)/26 = 20! !x + 250 = 520!x = 270"
         },
         {
-            "question": "A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is",
+            "question": "Sebuah perahu motor, yang kecepatannya 15 km/jam di air tenang, melaju 30 km ke hilir dan kembali dalam total waktu 4 jam 30 menit. Kecepatan arus (dalam km/jam) adalah",
             "a": "4",
             "b": "5",
             "c": "6",
@@ -75,10 +75,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the stream be x km/hr.! !Then,!Speed downstream = (15 + x) km/hr! !Speed upstream = (15 - x) km/hr! !So, [30/(15 + x)] + [30/(15 - x)] = 9/2!900/(225 - x*x) = 9/2! !x = 5 km/hr"
+            "explain": "Misalkan kecepatan arus adalah x km/jam.! !Kemudian,!Kecepatan ke hilir = (15 + x) km/jam! !Kecepatan ke hulu = (15 - x) km/jam! !Jadi, [30/(15 + x)] + [30/(15 - x)] = 9/2!900/(225 - x*x) = 9/2! !x = 5 km/jam"
         },
         {
-            "question": "A train 800 metres long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, then the length of the tunnel (in meters) is",
+            "question": "Sebuah kereta sepanjang 800 meter berjalan dengan kecepatan 78 km/jam. Jika kereta tersebut melintasi sebuah terowongan dalam 1 menit, maka panjang terowongan tersebut (dalam meter) adalah",
             "a": "130",
             "b": "360",
             "c": "500",
@@ -86,10 +86,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 78 * (5/18) = 65/3 m/s! !Time = 1 minute = 60 seconds! !Let the length of the tunnel be x metres! !Then,!(800+x)/60 = 65/3!3(800 + x) = 3900! !Hence, x = 500"
+            "explain": "Kecepatan = 78 * (5/18) = 65/3 m/s! !Waktu = 1 menit = 60 detik! !Misalkan panjang terowongan adalah x meter! !Kemudian,!(800+x)/60 = 65/3!3(800 + x) = 3900! !Jadi, x = 500"
         },
         {
-            "question": "A 300 metre long train crosses a platform in 39 seconds while it crosses a signal pole in 18 seconds.What is the length of the platform?",
+            "question": "Sebuah kereta sepanjang 300 meter melintasi sebuah peron dalam 39 detik sementara kereta tersebut melintasi sebuah tiang sinyal dalam 18 detik. Berapakah panjang peron tersebut?",
             "a": "320 m",
             "b": "350 m",
             "c": "650 m",
@@ -97,10 +97,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = (300/18)m/s!= 50/3m/s! !Let the length of the platform be x metres! !Then, (x+300)/39 = 50/3!3(x + 300) = 1950! !Hence, x = 350 m"
+            "explain": "Kecepatan = (300/18)m/s! = 50/3m/s! !Misalkan panjang peron adalah x meter! !Kemudian, (x+300)/39 = 50/3!3(x + 300) = 1950! !Jadi, x = 350 m"
         },
         {
-            "question": "A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is",
+            "question": "Sebuah kereta melewati sebuah tiang dalam 15 detik dan sebuah peron sepanjang 100 m dalam 25 detik. Panjangnya adalah",
             "a": "250 m",
             "b": "50 m",
             "c": "150 m",
@@ -108,32 +108,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the length of the train be x metres and its speed by y m/sec.! !Then, x/y = 15!y = x/15! !So, (x+100)/25 = x/15!15(x + 100) = 25x!15x + 1500 = 25x!1500 = 10x!x = 150 m"
+            "explain": "Misalkan panjang kereta adalah x meter dan kecepatannya y m/detik.! !Kemudian, x/y = 15!y = x/15! !Jadi, (x+100)/25 = x/15!15(x + 100) = 25x!15x + 1500 = 25x!1500 = 10x!x = 150 m"
         },
         {
-            "question": "The speed of a boat in still water in 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is",
-            "a": "1.2 km",
-            "b": "1.8 km",
-            "c": "2.4 km",
-            "d": "3.6 km",
+            "question": "Kecepatan sebuah perahu di air tenang adalah 15 km/jam dan laju arus adalah 3 km/jam. Jarak yang ditempuh ke hilir dalam 12 menit adalah",
+            "a": "1,2 km",
+            "b": "1,8 km",
+            "c": "2,4 km",
+            "d": "3,6 km",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed downstream = (15 + 3) kmph = 18 kmph! !Distance travelled = 18 * (12/60)km = 3.6 km"
+            "explain": "Kecepatan ke hilir = (15 + 3) km/jam = 18 km/jam! !Jarak yang ditempuh = 18 * (12/60)km = 3,6 km"
         },
         {
-            "question": "A train 108 m long moving at a speed of 50 km/hr crosses a train 112 m long coming from opposite direction in 6 seconds. The speed of the second train is",
-            "a": "48 km/hr",
-            "b": "54 km/hr",
-            "c": "66 km/hr",
-            "d": "82 km/hr",
+            "question": "Sebuah kereta sepanjang 108 m yang bergerak dengan kecepatan 50 km/jam melintasi kereta sepanjang 112 m yang datang dari arah berlawanan dalam 6 detik. Kecepatan kereta kedua adalah",
+            "a": "48 km/jam",
+            "b": "54 km/jam",
+            "c": "66 km/jam",
+            "d": "82 km/jam",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the second train be x km/hr.! !Relative speed = (x + 50) km/hr!= (x+50)*(5/18) m/s!= (250+5x)18 m/s! !Distance covered = (108 + 112) = 220 m! !So, 220/[(250 + 5x) /18] = 6!250 + 5x = 660! !Hence, x = 82 km/hr"
+            "explain": "Misalkan kecepatan kereta kedua adalah x km/jam.! !Kecepatan relatif = (x + 50) km/jam! = (x+50)*(5/18) m/s! = (250+5x)18 m/s! !Jarak yang ditempuh = (108 + 112) = 220 m! !Jadi, 220/[(250 + 5x) /18] = 6!250 + 5x = 660! !Jadi, x = 82 km/jam"
         },
         {
-            "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+            "question": "Sebuah kereta melewati peron stasiun dalam 36 detik dan seorang pria yang berdiri di peron dalam 20 detik. Jika kecepatan kereta adalah 54 km/jam, berapakah panjang peron tersebut?",
             "a": "120 m",
             "b": "240 m",
             "c": "300 m",
@@ -141,10 +141,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 54 * (5/18)m/s!= 15 m/s! !Length of the train = (15 x 20)m = 300 m! !Let the length of the platform be x metres! !Then,!(x+300)/36 = 15!x + 300 = 540! !Hence, x = 240 m"
+            "explain": "Kecepatan = 54 * (5/18)m/s! = 15 m/s! !Panjang kereta = (15 x 20)m = 300 m! !Misalkan panjang peron adalah x meter! !Kemudian,!(x+300)/36 = 15!x + 300 = 540! !Jadi, x = 240 m"
         },
         {
-            "question": "Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is",
+            "question": "Dua kereta dengan panjang yang sama berjalan di jalur paralel dalam arah yang sama dengan kecepatan 46 km/jam dan 36 km/jam. Kereta yang lebih cepat melewati kereta yang lebih lambat dalam 36 detik. Panjang setiap kereta adalah",
             "a": "50 m",
             "b": "72 m",
             "c": "80 m",
@@ -152,21 +152,21 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the length of each train be x metres.! !Then, distance covered = 2x metres.! !Relative speed = (46 - 36) km/hr!= 10 * (5/18)m/s!= 25/9 m/s!So, 2x/36 = 25/9!= 2x = 100! !Hence, x = 50"
+            "explain": "Misalkan panjang setiap kereta adalah x meter.! !Kemudian, jarak yang ditempuh = 2x meter.! !Kecepatan relatif = (46 - 36) km/jam! = 10 * (5/18)m/s! = 25/9 m/s!Jadi, 2x/36 = 25/9! = 2x = 100! !Jadi, x = 50"
         },
         {
-            "question": "A man can row at 5 kmph in still water. If the velocity of current is 1 kmph and it takes him 1 hour to row to a place and come back, how far is the place?",
-            "a": "2.4 km",
-            "b": "2.5 km",
+            "question": "Seorang pria dapat mendayung dengan kecepatan 5 km/jam di air tenang. Jika kecepatan arus adalah 1 km/jam dan ia membutuhkan waktu 1 jam untuk mendayung ke suatu tempat dan kembali, seberapa jauhkah tempat itu?",
+            "a": "2,4 km",
+            "b": "2,5 km",
             "c": "3 km",
-            "d": "3.6 km",
+            "d": "3,6 km",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed downstream = (5 + 1) kmph = 6 kmph! !Speed upstream = (5 - 1) kmph = 4 kmph! !Let the required distance be x km.! !Then,! x/6 + x/4 = 1!2x + 3x = 12!5x = 12! !Hence, x = 2.4 km"
+            "explain": "Kecepatan ke hilir = (5 + 1) km/jam = 6 km/jam! !Kecepatan ke hulu = (5 - 1) km/jam = 4 km/jam! !Misalkan jarak yang dibutuhkan adalah x km.! !Kemudian,! x/6 + x/4 = 1!2x + 3x = 12!5x = 12! !Jadi, x = 2,4 km"
         },
         {
-            "question": "A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?",
+            "question": "Sebuah kereta sepanjang 270 meter yang berjalan dengan kecepatan 120 km/jam melintasi kereta lain yang berjalan berlawanan arah dengan kecepatan 80 km/jam dalam 9 detik. Berapakah panjang kereta lainnya?",
             "a": "230 m",
             "b": "240 m",
             "c": "260 m",
@@ -174,21 +174,21 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Relative speed = (120 + 80) km/hr!= 200(5/18)m/s!= (500/9)m/s! !Let the length of the other train be x metres! !Then,!(x+270)/9 = 500/9!x + 270 = 500! !Hence, x = 230"
+            "explain": "Kecepatan relatif = (120 + 80) km/jam! = 200(5/18)m/s! = (500/9)m/s! !Misalkan panjang kereta lainnya adalah x meter! !Kemudian,!(x+270)/9 = 500/9!x + 270 = 500! !Jadi, x = 230"
         },
         {
-            "question": "A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?",
-            "a": "5 sec",
-            "b": "6 sec",
-            "c": "7 sec",
-            "d": "10 sec",
+            "question": "Sebuah kereta sepanjang 110 meter berjalan dengan kecepatan 60 km/jam. Dalam waktu berapa kereta tersebut akan melewati seorang pria yang berlari dengan kecepatan 6 km/jam dalam arah yang berlawanan dengan arah laju kereta?",
+            "a": "5 detik",
+            "b": "6 detik",
+            "c": "7 detik",
+            "d": "10 detik",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of train relative to man = (60 + 6) km/hr = 66 km/hr.!= 66 * (5/18) = (55/3)m/s! !Hence, Time taken to pass the man!= 110 * (3/55) = 6 seconds"
+            "explain": "Kecepatan kereta relatif terhadap manusia = (60 + 6) km/jam = 66 km/jam.! = 66 * (5/18) = (55/3)m/s! !Jadi, Waktu yang dibutuhkan untuk melewati pria itu! = 110 * (3/55) = 6 detik"
         },
         {
-            "question": "How many seconds will a 500 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+            "question": "Berapa detik yang dibutuhkan kereta sepanjang 500 meter untuk melintasi seorang pria yang berjalan dengan kecepatan 3 km/jam searah dengan kereta yang bergerak jika kecepatan kereta adalah 63 km/jam?",
             "a": "25",
             "b": "30",
             "c": "40",
@@ -196,21 +196,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of the train relative to man = (63 - 3) km/hr!= 60 km/hr = 60 * (5/18)m/s!= (50/3)m/s! !Hence, Time taken to pass the man!= 500 * (3/50)s!= 30 seconds"
+            "explain": "Kecepatan kereta relatif terhadap manusia = (63 - 3) km/jam! = 60 km/jam = 60 * (5/18)m/s! = (50/3)m/s! !Jadi, Waktu yang dibutuhkan untuk melewati pria itu! = 500 * (3/50)s! = 30 detik"
         },
         {
-            "question": "Two trains are running in opposite directions with the same speed. If the length of each train is 120 metres and they cross each other in 12 seconds, then the speed of each train is",
-            "a": "10 km/hr",
-            "b": "18 km/hr",
-            "c": "36 km/hr",
-            "d": "72 km/hr",
+            "question": "Dua kereta berjalan berlawanan arah dengan kecepatan yang sama. Jika panjang setiap kereta adalah 120 meter dan mereka saling berpapasan dalam 12 detik, maka kecepatan setiap kereta adalah",
+            "a": "10 km/jam",
+            "b": "18 km/jam",
+            "c": "36 km/jam",
+            "d": "72 km/jam",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of each train be x m/sec.! !Then, relative speed of the two trains = 2x m/sec.! !So, 2x = (120 + 120)/12!2x = 20!x = 10! !Hence, Speed of each train = 10 m/sec = 10 * (18/5)!= 36 km/hr"
+            "explain": "Misalkan kecepatan setiap kereta adalah x m/detik.! !Kemudian, kecepatan relatif kedua kereta = 2x m/detik.! !Jadi, 2x = (120 + 120)/12!2x = 20!x = 10! !Jadi, Kecepatan setiap kereta = 10 m/detik = 10 * (18/5)! = 36 km/jam"
         },
         {
-            "question": "A train overtakes two persons who are walking in the same direction in which the train is going, at the rate of 2 kmph and 4 kmph and passes them completely in 9 and 10 seconds respectively. The length of the train is",
+            "question": "Sebuah kereta menyalip dua orang yang berjalan searah dengan laju kereta, dengan kecepatan 2 km/jam dan 4 km/jam dan melewati mereka sepenuhnya masing-masing dalam 9 dan 10 detik. Panjang kereta adalah",
             "a": "45 m",
             "b": "50 m",
             "c": "54 m",
@@ -218,21 +218,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "2 kmph = 2 * (5/18)m/s!= 5/9 m/s! !4 kmph = 4 * (5/18)m/s!= 10/9 m/s! !Let the length of the train be x metres and its speed by y m/sec.! !then, x/[y - (5/9)] = 9!and x/[y - (10/9)] = 10! !So, 9y - 5 = x!and 10(9y - 10) = 9x! !9y - x = 5!and 90y - 9x = 100! !On solving, we get! x = 50! !Hence, Length of the train is 50 m."
+            "explain": "2 km/jam = 2 * (5/18)m/s! = 5/9 m/s! !4 km/jam = 4 * (5/18)m/s! = 10/9 m/s! !Misalkan panjang kereta adalah x meter dan kecepatannya y m/detik.! !maka, x/[y - (5/9)] = 9!dan x/[y - (10/9)] = 10! !Jadi, 9y - 5 = x!dan 10(9y - 10) = 9x! !9y - x = 5!dan 90y - 9x = 100! !Setelah diselesaikan, kita dapatkan! x = 50! !Jadi, Panjang kereta adalah 50 m."
         },
         {
-            "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is",
-            "a": "45 km/hr",
-            "b": "50 km/hr",
-            "c": "54 km/hr",
-            "d": "55 km/hr",
+            "question": "Sebuah kereta sepanjang 125 m melewati seorang pria, yang berlari dengan kecepatan 5 km/jam searah dengan laju kereta, dalam 10 detik. Kecepatan kereta adalah",
+            "a": "45 km/jam",
+            "b": "50 km/jam",
+            "c": "54 km/jam",
+            "d": "55 km/jam",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of the train relative to man = (125/10) m/s!= (25/2)m/s!= (25/2) * (18/5)km/hr!= 45 km/hr! !Let the speed of the train be x km/hr.!Then,!relative speed = (x - 5) km/hr! !x - 5 = 45!Hence, x = 50 km/hr"
+            "explain": "Kecepatan kereta relatif terhadap manusia = (125/10) m/s! = (25/2)m/s! = (25/2) * (18/5)km/jam! = 45 km/jam! !Misalkan kecepatan kereta adalah x km/jam.!Kemudian,!kecepatan relatif = (x - 5) km/jam! !x - 5 = 45!Jadi, x = 50 km/jam"
         },
         {
-            "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is",
+            "question": "Panjang jembatan, yang dapat dilintasi oleh kereta sepanjang 130 meter dan melaju dengan kecepatan 45 km/jam dalam 30 detik, adalah",
             "a": "200 m",
             "b": "225 m",
             "c": "245 m",
@@ -240,98 +240,98 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 45 * (5/18)!= 25/2 m/s! !Time = 30 sec! !Let the length of bridge be x metres! !Then,!(130 + x)/30 = 25/2!2(130 + x) = 750! !Hence, x = 245 m"
+            "explain": "Kecepatan = 45 * (5/18)! = 25/2 m/s! !Waktu = 30 detik! !Misalkan panjang jembatan adalah x meter! !Kemudian,!(130 + x)/30 = 25/2!2(130 + x) = 750! !Jadi, x = 245 m"
         },
         {
-            "question": "Two trains, each 100 m long, moving in opposite directions, cross each other in 8 seconds.If one is moving twice as fast the other, then the speed of the faster train is",
-            "a": "30 km/hr",
-            "b": "45 km/hr",
-            "c": "60 km/hr",
-            "d": "75 km/hr",
+            "question": "Dua kereta, masing-masing sepanjang 100 m, bergerak berlawanan arah, saling berpapasan dalam 8 detik. Jika salah satunya bergerak dua kali lebih cepat dari yang lain, maka kecepatan kereta yang lebih cepat adalah",
+            "a": "30 km/jam",
+            "b": "45 km/jam",
+            "c": "60 km/jam",
+            "d": "75 km/jam",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the slower train be x m/sec! !Then,!speed of the faster train = 2x m/sec! !Relative speed = (x + 2x) m/sec = 3x m/sec! !So, (100+100)/8 = 3x!24x = 200!x = 25/3! !So, speed of the faster train = 50/3 m/s!= (50/3 * 18/5)!= 60km/hr"
+            "explain": "Misalkan kecepatan kereta yang lebih lambat adalah x m/detik! !Kemudian,!kecepatan kereta yang lebih cepat = 2x m/detik! !Kecepatan relatif = (x + 2x) m/detik = 3x m/detik! !Jadi, (100+100)/8 = 3x!24x = 200!x = 25/3! !Jadi, kecepatan kereta yang lebih cepat = 50/3 m/s! = (50/3 * 18/5)! = 60km/jam"
         },
         {
-            "question": "In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water (in km/hr) is",
-            "a": "3 km/hr",
-            "b": "5 km/hr",
-            "c": "8 km/hr",
-            "d": "9 km/hr",
+            "question": "Dalam satu jam, sebuah perahu melaju 11 km/jam searah arus dan 5 km/jam melawan arus. Kecepatan perahu di air tenang (dalam km/jam) adalah",
+            "a": "3 km/jam",
+            "b": "5 km/jam",
+            "c": "8 km/jam",
+            "d": "9 km/jam",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed in still water!= 1/2(11+5) km/h = 8 km/h"
+            "explain": "Kecepatan di air tenang! = 1/2(11+5) km/jam = 8 km/jam"
         },
         {
-            "question": "A boat running downstream covers a distance of 16 km in 2 hours while for covering the same distance upstream, it takes 4 hours. What is the speed of the boat in still water?",
-            "a": "4 km/hr",
-            "b": "10 km/hr",
-            "c": "6 km/hr",
-            "d": "8 km/hr",
+            "question": "Sebuah perahu yang melaju ke hilir menempuh jarak 16 km dalam 2 jam sementara untuk menempuh jarak yang sama ke hulu, dibutuhkan waktu 4 jam. Berapakah kecepatan perahu di air tenang?",
+            "a": "4 km/jam",
+            "b": "10 km/jam",
+            "c": "6 km/jam",
+            "d": "8 km/jam",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Rate downstream = (16/2)km/h = 8 km/h! !Rate upstream = (16/4)km/h!= 4 km/h! !Hence, Speed in still water = 1/2(8+4)km/h = 6 km/h"
+            "explain": "Laju ke hilir = (16/2)km/jam = 8 km/jam! !Laju ke hulu = (16/4)km/jam! = 4 km/jam! !Jadi, Kecepatan di air tenang = 1/2(8+4)km/jam = 6 km/jam"
         },
         {
-            "question": "A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?",
-            "a": "69.5 km/hr",
-            "b": "70 km/hr",
-            "c": "79 km/hr",
-            "d": "79.2 km/hr",
+            "question": "Sebuah kereta melewati tiang telegraf dan jembatan sepanjang 264 m masing-masing dalam 8 detik dan 20 detik. Berapakah kecepatan kereta tersebut?",
+            "a": "69,5 km/jam",
+            "b": "70 km/jam",
+            "c": "79 km/jam",
+            "d": "79,2 km/jam",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the length of the train be x metres and its speed by y m/sec.! !Then,!x/y = 8!x = 8y! !Now, (x+264)/20 = y!8y + 264 = 20y!y = 22! !Hence, Speed = 22 m/sec!= 22 * (18/5)!= 79.2 km/hr"
+            "explain": "Misalkan panjang kereta adalah x meter dan kecepatannya y m/detik.! !Kemudian,!x/y = 8!x = 8y! !Sekarang, (x+264)/20 = y!8y + 264 = 20y!y = 22! !Jadi, Kecepatan = 22 m/detik! = 22 * (18/5)! = 79,2 km/jam"
         },
         {
-            "question": "A boat takes 90 minutes less to travel 36 miles downstream than to travel the same distance upstream. If the speed of the boat in still water is 10 mph, the speed of the stream is",
+            "question": "Sebuah perahu membutuhkan waktu 90 menit lebih sedikit untuk menempuh jarak 36 mil ke hilir daripada menempuh jarak yang sama ke hulu. Jika kecepatan perahu di air tenang adalah 10 mph, kecepatan arusnya adalah",
             "a": "2 mph",
-            "b": "2.5 mph",
+            "b": "2,5 mph",
             "c": "3 mph",
             "d": "4 mph",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the stream x mph.! !Then,!Speed downstream = (10 + x) mph! !Speed upstream = (10 - x) mph! !So, [36/(10 - x)] - [36/(10 + x)] = 90/60!(72x)*60 = 90 (100 - x*x)!(x+ 50)(x - 2) = 0! !Hence, x = 2 mph."
+            "explain": "Misalkan kecepatan arus x mph.! !Kemudian,!Kecepatan ke hilir = (10 + x) mph! !Kecepatan ke hulu = (10 - x) mph! !Jadi, [36/(10 - x)] - [36/(10 + x)] = 90/60!(72x)*60 = 90 (100 - x*x)!(x+ 50)(x - 2) = 0! !Jadi, x = 2 mph."
         },
         {
-            "question": "Two trains are moving in opposite directions at speed of 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train is",
-            "a": "36 s",
-            "b": "45 s",
-            "c": "48 s",
-            "d": "49 s",
+            "question": "Dua kereta bergerak berlawanan arah dengan kecepatan 60 km/jam dan 90 km/jam. Panjangnya masing-masing 1,10 km dan 0,9 km. Waktu yang dibutuhkan oleh kereta yang lebih lambat untuk melintasi kereta yang lebih cepat adalah",
+            "a": "36 detik",
+            "b": "45 detik",
+            "c": "48 detik",
+            "d": "49 detik",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Relative speed = (60+ 90) km/hr!= 150 * (5/18)m/s!= (125/3)m/s! !Distance covered = (1.10 + 0.9) km = 2 km = 2000 m! !Hence, Required time = 2000(3/125) = 48 seconds"
+            "explain": "Kecepatan relatif = (60+ 90) km/jam! = 150 * (5/18)m/s! = (125/3)m/s! !Jarak yang ditempuh = (1,10 + 0,9) km = 2 km = 2000 m! !Jadi, Waktu yang dibutuhkan = 2000(3/125) = 48 detik"
         },
         {
-            "question": "A boat covers a certain distance downstream in 1 hour, while it comes back in 1.5 hours. If the speed of the stream be 3 kmph, what is the speed of the boat in still water?",
-            "a": "12 kmph",
-            "b": "13 kmph",
-            "c": "14 kmph",
-            "d": "15 kmph",
+            "question": "Sebuah perahu menempuh jarak tertentu ke hilir dalam 1 jam, sementara ia kembali dalam 1,5 jam. Jika kecepatan arus adalah 3 km/jam, berapakah kecepatan perahu di air tenang?",
+            "a": "12 km/jam",
+            "b": "13 km/jam",
+            "c": "14 km/jam",
+            "d": "15 km/jam",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the boat in still water be x kmph.! !Then,!Speed downstream = (x + 3) kmph! !Speed upstream = (x - 3) kmph! !So, (x + 3) * 1 = (x - 3)* 3/2!2x + 6 = 3x - 9! !Hence, x = 15 kmph"
+            "explain": "Misalkan kecepatan perahu di air tenang adalah x km/jam.! !Kemudian,!Kecepatan ke hilir = (x + 3) km/jam! !Kecepatan ke hulu = (x - 3) km/jam! !Jadi, (x + 3) * 1 = (x - 3)* 3/2!2x + 6 = 3x - 9! !Jadi, x = 15 km/jam"
         },
         {
-            "question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
-            "a": "40 minutes",
-            "b": "1 hour",
-            "c": "1 hr 15 min",
-            "d": "1 hr 30 min",
+            "question": "Seorang tukang perahu menempuh jarak 2 km melawan arus sungai dalam 1 jam dan menempuh jarak 1 km searah arus dalam 10 menit. Berapa lama waktu yang dibutuhkan untuk menempuh jarak 5 km di air tenang?",
+            "a": "40 menit",
+            "b": "1 jam",
+            "c": "1 jam 15 menit",
+            "d": "1 jam 30 menit",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Rate downstream = (1/10) * 60 km/hr = 6 km/hr! !Rate upstream = 2 km/hr! !Speed in still water = (1/2)(6 + 2) km/hr = 4 km/hr! !Hence, Required time = 5/4 hrs = 1 hr 15 min."
+            "explain": "Laju ke hilir = (1/10) * 60 km/jam = 6 km/jam! !Laju ke hulu = 2 km/jam! !Kecepatan di air tenang = (1/2)(6 + 2) km/jam = 4 km/jam! !Jadi, Waktu yang dibutuhkan = 5/4 jam = 1 jam 15 menit."
         },
         {
-            "question": "A train is running at a speed of 10 km/h. What will be the distance covered by it in 3 hours?",
+            "question": "Sebuah kereta berjalan dengan kecepatan 10 km/jam. Berapakah jarak yang ditempuh olehnya dalam 3 jam?",
             "a": "30km",
             "b": "15km",
             "c": "10km",
@@ -339,10 +339,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As we know that!S=vt (here S is distance, v is speed and t is time). So!distance = 10*3 = 30Km"
+            "explain": "Seperti yang kita ketahui bahwa!S=vt (di sini S adalah jarak, v adalah kecepatan dan t adalah waktu). Jadi!jarak = 10*3 = 30Km"
         },
         {
-            "question": "A train is running at the speed of 25 km/h. How far will it travel in 5 hrs?",
+            "question": "Sebuah kereta berjalan dengan kecepatan 25 km/jam. Seberapa jauh ia akan menempuh perjalanan dalam 5 jam?",
             "a": "100km",
             "b": "110km",
             "c": "120km",
@@ -350,10 +350,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 25 Km/h!Time = t = 5h!Distance = S = v*t = 25*5 = 125Km"
+            "explain": "Kecepatan = v = 25 Km/jam!Waktu = t = 5jam!Jarak = S = v*t = 25*5 = 125Km"
         },
         {
-            "question": "A train is running at the speed of 70 km/h. How far will it travel in 2.5 hrs?",
+            "question": "Sebuah kereta berjalan dengan kecepatan 70 km/jam. Seberapa jauh ia akan menempuh perjalanan dalam 2,5 jam?",
             "a": "140km",
             "b": "155km",
             "c": "170km",
@@ -361,43 +361,43 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 70 Km/h!Time = t = 2.5h!Distance = S = v*t = 70*2.5 = 175Km"
+            "explain": "Kecepatan = v = 70 Km/jam!Waktu = t = 2,5jam!Jarak = S = v*t = 70*2,5 = 175Km"
         },
         {
-            "question": "A 150m long train is running at the speed of 36km/h. In what time will it pass the 80m long bridge?",
-            "a": "20 sec",
-            "b": "21 sec",
-            "c": "22 sec",
-            "d": "23 sec",
+            "question": "Sebuah kereta sepanjang 150m berjalan dengan kecepatan 36km/jam. Dalam waktu berapa ia akan melewati jembatan sepanjang 80m?",
+            "a": "20 detik",
+            "b": "21 detik",
+            "c": "22 detik",
+            "d": "23 detik",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of train = L1 = 150m!Speed = v = 36 Km/h = 36*(5/18) = 10 m/s!Length of bridge = L2 = 80m! !Time = t = (L1 + L2)/v!t = (150+80)/10 = 23! !Hence the train will pass the 80 meter long bridge in 23 seconds."
+            "explain": "Panjang kereta = L1 = 150m!Kecepatan = v = 36 Km/jam = 36*(5/18) = 10 m/s!Panjang jembatan = L2 = 80m! !Waktu = t = (L1 + L2)/v!t = (150+80)/10 = 23! !Jadi kereta akan melewati jembatan sepanjang 80 meter dalam 23 detik."
         },
         {
-            "question": "A train of length 150 metres is running at the speed of 20m/s. In what time will it cross a 130 metre long bridge?",
-            "a": "13 sec",
-            "b": "14 sec",
-            "c": "15 sec",
-            "d": "16 sec",
+            "question": "Sebuah kereta dengan panjang 150 meter berjalan dengan kecepatan 20m/s. Dalam waktu berapa ia akan melintasi jembatan sepanjang 130 meter?",
+            "a": "13 detik",
+            "b": "14 detik",
+            "c": "15 detik",
+            "d": "16 detik",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 150m!Length of bridge = L2 = 130m!Speed = v = 20m/s! !t = (L1 + L2)/v!t = (150+130)/20!t = 14! !Hence the train will pass the 130 meter long bridge in 14 seconds."
+            "explain": "Panjang kereta = L1 = 150m!Panjang jembatan = L2 = 130m!Kecepatan = v = 20m/s! !t = (L1 + L2)/v!t = (150+130)/20!t = 14! !Jadi kereta akan melewati jembatan sepanjang 130 meter dalam 14 detik."
         },
         {
-            "question": "A train is travelling at the speed of 25m/s. In what time will it pass a man sitting on a platform if length of the train is 225 meters?",
-            "a": "8 sec",
-            "b": "9 sec",
-            "c": "10 sec",
-            "d": "11 sec",
+            "question": "Sebuah kereta berjalan dengan kecepatan 25m/s. Dalam waktu berapa ia akan melewati seorang pria yang duduk di peron jika panjang kereta adalah 225 meter?",
+            "a": "8 detik",
+            "b": "9 detik",
+            "c": "10 detik",
+            "d": "11 detik",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 25m/s!Length of train = L = 225m! !Time = t = L/v!t = 225/25 = 9! !Hence train will pass the man in 9 seconds."
+            "explain": "Kecepatan = v = 25m/s!Panjang kereta = L = 225m! !Waktu = t = L/v!t = 225/25 = 9! !Jadi kereta akan melewati pria itu dalam 9 detik."
         },
         {
-            "question": "A train travelling at the speed of 10m/s can cross a bridge in 23 seconds. If length of the train is 120 meters. What is length of the bridge?",
+            "question": "Sebuah kereta yang berjalan dengan kecepatan 10m/s dapat melintasi sebuah jembatan dalam 23 detik. Jika panjang kereta adalah 120 meter. Berapakah panjang jembatan tersebut?",
             "a": "100m",
             "b": "110m",
             "c": "120m",
@@ -405,10 +405,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 10m/s!Time = t = 23s!Length of train = L1 = 120m!Length of bridge = L2 = ?! !t = (L1+L2)/v!By putting values!23 = (120+L2)/10!L2 = 230 - 120 = 110m! !Hence bridge is 110m long."
+            "explain": "Kecepatan = v = 10m/s!Waktu = t = 23s!Panjang kereta = L1 = 120m!Panjang jembatan = L2 = ?! !t = (L1+L2)/v!Dengan memasukkan nilai!23 = (120+L2)/10!L2 = 230 - 120 = 110m! !Jadi jembatan itu panjangnya 110m."
         },
         {
-            "question": "What is the length of a bridge if a train of length 550 meters travelling at the speed of 20m/s can cross it in 35 seconds?",
+            "question": "Berapakah panjang sebuah jembatan jika sebuah kereta dengan panjang 550 meter yang berjalan dengan kecepatan 20m/s dapat melintasinya dalam 35 detik?",
             "a": "100m",
             "b": "150m",
             "c": "200m",
@@ -416,10 +416,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of train = L1 = 550m!Speed = v = 20m/s!Time = t = 35s!Length of bridge = L2 = ?! !t = (L1+L2)/v!By putting values!35 = (550+L2)/20!700 - 550 = L2!L2 = 150m! !Hence length of bridge is 150 meter."
+            "explain": "Panjang kereta = L1 = 550m!Kecepatan = v = 20m/s!Waktu = t = 35s!Panjang jembatan = L2 = ?! !t = (L1+L2)/v!Dengan memasukkan nilai!35 = (550+L2)/20!700 - 550 = L2!L2 = 150m! !Jadi panjang jembatan adalah 150 meter."
         },
         {
-            "question": "A train travelling at he speed of 72km/h can cross a platform in 17 seconds. If length of the train is 180 meters, what is the length of the platform?",
+            "question": "Sebuah kereta yang berjalan dengan kecepatan 72km/jam dapat melintasi sebuah peron dalam 17 detik. Jika panjang kereta adalah 180 meter, berapakah panjang peron tersebut?",
             "a": "160m",
             "b": "170m",
             "c": "180m",
@@ -427,21 +427,21 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of train = v = 72Km/h = 72*(5/18) = 20m/s! !Time = t = 17s!Length of the train = L1 = 180m!Length of the platform = L2 = ?! !t = (L1+L2)/v!By putting values!17 = (180+L2)/20!340-180 = L2!L2 = 160m! !Hence length of the platform is 160m."
+            "explain": "Kecepatan kereta = v = 72Km/jam = 72*(5/18) = 20m/s! !Waktu = t = 17s!Panjang kereta = L1 = 180m!Panjang peron = L2 = ?! !t = (L1+L2)/v!Dengan memasukkan nilai!17 = (180+L2)/20!340-180 = L2!L2 = 160m! !Jadi panjang peron adalah 160m."
         },
         {
-            "question": "A 100 meters long train can cross a 150 meters long bridge in 20 seconds. What is the speed of the train?",
+            "question": "Sebuah kereta sepanjang 100 meter dapat melintasi jembatan sepanjang 150 meter dalam 20 detik. Berapakah kecepatan kereta tersebut?",
             "a": "10m/s",
-            "b": "12.5m/s",
+            "b": "12,5m/s",
             "c": "15m/s",
-            "d": "17.5m/s",
+            "d": "17,5m/s",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 100m!Length of the bridge = L2 = 150m!Time = t = 20s!Speed = v = ?! !v = (L1+L2)/t!By putting values!v = (100+150)/20!v = 250/20 = 12.5m/s! !Hence speed of train is 12.5m/s."
+            "explain": "Panjang kereta = L1 = 100m!Panjang jembatan = L2 = 150m!Waktu = t = 20s!Kecepatan = v = ?! !v = (L1+L2)/t!Dengan memasukkan nilai!v = (100+150)/20!v = 250/20 = 12,5m/s! !Jadi kecepatan kereta adalah 12,5m/s."
         },
         {
-            "question": "230 meters long train crosses a man sitting on the platform in 46 seconds. What is the speed of the train?",
+            "question": "Kereta sepanjang 230 meter melintasi seorang pria yang duduk di peron dalam 46 detik. Berapakah kecepatan kereta tersebut?",
             "a": "5m/s",
             "b": "10m/s",
             "c": "15m/s",
@@ -449,43 +449,43 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L = 230m!Time = t = 46s!Speed = v = ?! !V = L/t!By putting values!v = 230/46 = 5m/s! !Hence speed of the train is 5m/s."
+            "explain": "Panjang kereta = L = 230m!Waktu = t = 46s!Kecepatan = v = ?! !V = L/t!Dengan memasukkan nilai!v = 230/46 = 5m/s! !Jadi kecepatan kereta adalah 5m/s."
         },
         {
-            "question": "A train 100 meters long crosses a 150 meters long bridge in 25 seconds. What is the speed of the train?",
-            "a": "27km/h",
-            "b": "36km/h",
-            "c": "45km/h",
-            "d": "54km/h",
+            "question": "Sebuah kereta sepanjang 100 meter melintasi jembatan sepanjang 150 meter dalam 25 detik. Berapakah kecepatan kereta tersebut?",
+            "a": "27km/jam",
+            "b": "36km/jam",
+            "c": "45km/jam",
+            "d": "54km/jam",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 100m!Length of the bridge = L2 = 150m!Time = t = 25s! !v = (L1+L2)/t!By putting values!v = (100+150)/25!v = 250/25 = 10m/s = 10*(18/5) = 36 Km/h! !Hence speed of the train is 36 Km/h."
+            "explain": "Panjang kereta = L1 = 100m!Panjang jembatan = L2 = 150m!Waktu = t = 25s! !v = (L1+L2)/t!Dengan memasukkan nilai!v = (100+150)/25!v = 250/25 = 10m/s = 10*(18/5) = 36 Km/jam! !Jadi kecepatan kereta adalah 36 Km/jam."
         },
         {
-            "question": "What is the speed of the train if it crosses a 175 meters long bridge in 41 seconds? Length of the train is 645 meters?",
-            "a": "54km/h",
-            "b": "63km/h",
-            "c": "72km/h",
-            "d": "81km/h",
+            "question": "Berapakah kecepatan kereta jika ia melintasi jembatan sepanjang 175 meter dalam 41 detik? Panjang kereta adalah 645 meter?",
+            "a": "54km/jam",
+            "b": "63km/jam",
+            "c": "72km/jam",
+            "d": "81km/jam",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 645m!Length of the bridge = L2 = 175m!Time = t = 41s!Speed = v = ?! !v = (L1+L2)/t!v = (645+175)/41!v = 20m/s = 20 * 18/5 = 72 Km/h! !Hence speed of the train is 72 Km/h."
+            "explain": "Panjang kereta = L1 = 645m!Panjang jembatan = L2 = 175m!Waktu = t = 41s!Kecepatan = v = ?! !v = (L1+L2)/t!v = (645+175)/41!v = 20m/s = 20 * 18/5 = 72 Km/jam! !Jadi kecepatan kereta adalah 72 Km/jam."
         },
         {
-            "question": "A train 110 meters long passses telegraph pole in 3 seconds. How long will it take to cross a platform 165 meters long?",
-            "a": "4 sec",
-            "b": "4.5 sec",
-            "c": "7.5 sec",
-            "d": "10 sec",
+            "question": "Sebuah kereta sepanjang 110 meter melewati tiang telegraf dalam 3 detik. Berapa lama waktu yang dibutuhkan untuk melintasi peron sepanjang 165 meter?",
+            "a": "4 detik",
+            "b": "4,5 detik",
+            "c": "7,5 detik",
+            "d": "10 detik",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 110m!Time = t1 = 3s! !v = L1/t!v = 110/3! !Length of the platform = L2 = 165m! !t2 = (L1+L2)/v!By putting values!t2 = (110+165)*(3/110)!t2 = 7.5s! !Hence it will take 7.5 seconds to cross the platform."
+            "explain": "Panjang kereta = L1 = 110m!Waktu = t1 = 3s! !v = L1/t!v = 110/3! !Panjang peron = L2 = 165m! !t2 = (L1+L2)/v!Dengan memasukkan nilai!t2 = (110+165)*(3/110)!t2 = 7,5s! !Jadi dibutuhkan waktu 7,5 detik untuk melintasi peron."
         },
         {
-            "question": "A train travelling at 36 km/h took 10 seconds to pass a stationary man. What was the length of the train?",
+            "question": "Sebuah kereta yang berjalan dengan kecepatan 36 km/jam membutuhkan waktu 10 detik untuk melewati seorang pria yang diam. Berapakah panjang kereta tersebut?",
             "a": "45m",
             "b": "80m",
             "c": "100m",
@@ -493,109 +493,109 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 36 Km/h = 36*(5/18) = 10m/s!Time = t = 10s!Length of the train = L = ?! !L = v*t!By putting values!L = 10*10 = 100m! !Hence length of the train is 100 meter."
+            "explain": "Kecepatan = v = 36 Km/jam = 36*(5/18) = 10m/s!Waktu = t = 10s!Panjang kereta = L = ?! !L = v*t!Dengan memasukkan nilai!L = 10*10 = 100m! !Jadi panjang kereta adalah 100 meter."
         },
         {
-            "question": "John can swim at the speed of 20 km/h in still water and speed of water is 3 km/h. What is his swimming speed with water?",
-            "a": "23 km/h",
-            "b": "17 km/h",
-            "c": "11 km/h",
-            "d": "8.5 km/h",
+            "question": "John dapat berenang dengan kecepatan 20 km/jam di air tenang dan kecepatan air adalah 3 km/jam. Berapakah kecepatan renangnya dengan air?",
+            "a": "23 km/jam",
+            "b": "17 km/jam",
+            "c": "11 km/jam",
+            "d": "8,5 km/jam",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "John's speed in still water = u = 20 Km/h!Speed of water = v = 3 Km/h!John's speed with water = u+v = 20+3 = 23 Km/h"
+            "explain": "Kecepatan John di air tenang = u = 20 Km/jam!Kecepatan air = v = 3 Km/jam!Kecepatan John dengan air = u+v = 20+3 = 23 Km/jam"
         },
         {
-            "question": "David can swim at the speed of 30 km/h in still water and speed of water is 4 km/h. What is his speed of swimming against the direction of water?",
-            "a": "30 km/h",
-            "b": "26 km/h",
-            "c": "24 km/h",
-            "d": "20 km/h",
+            "question": "David dapat berenang dengan kecepatan 30 km/jam di air tenang dan kecepatan air adalah 4 km/jam. Berapakah kecepatan renangnya melawan arah air?",
+            "a": "30 km/jam",
+            "b": "26 km/jam",
+            "c": "24 km/jam",
+            "d": "20 km/jam",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "David's speed in still water = u = 30 Km/h!Speed of water = v = 4 Km/h!David's swimming speed against water = u-v = 30-4 = 26 Km/h"
+            "explain": "Kecepatan David di air tenang = u = 30 Km/jam!Kecepatan air = v = 4 Km/jam!Kecepatan renang David melawan air = u-v = 30-4 = 26 Km/jam"
         },
         {
-            "question": "A boat travels at the speed of 25 km/h upstream and 35 km/h downstream. Find the speed of water.",
-            "a": "7/2 km/h",
-            "b": "3/2 km/h",
-            "c": "2km/h",
-            "d": "5km/h",
+            "question": "Sebuah perahu melaju dengan kecepatan 25 km/jam ke hulu dan 35 km/jam ke hilir. Carilah kecepatan air.",
+            "a": "7/2 km/jam",
+            "b": "3/2 km/jam",
+            "c": "2km/jam",
+            "d": "5km/jam",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Upstream speed = y = 25 Km/h!Downstream speed = x = 35 Km/h!Speed of water = (1/2)*(x-y)!= (1/2)*(35-35) = 5 Km/h"
+            "explain": "Kecepatan ke hulu = y = 25 Km/jam!Kecepatan ke hilir = x = 35 Km/jam!Kecepatan air = (1/2)*(x-y)! = (1/2)*(35-35) = 5 Km/jam"
         },
         {
-            "question": "A ship travels at the speed of 20 km/h upstream and 24 km/h downstream. What is the speed of boat in still water?",
-            "a": "4 km/h",
-            "b": "2 km/h",
-            "c": "44 km/h",
-            "d": "22 km/h",
+            "question": "Sebuah kapal melaju dengan kecepatan 20 km/jam ke hulu dan 24 km/jam ke hilir. Berapakah kecepatan perahu di air tenang?",
+            "a": "4 km/jam",
+            "b": "2 km/jam",
+            "c": "44 km/jam",
+            "d": "22 km/jam",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Upstream speed = y = 20 Km/h!Downstream speed = x = 24 Km/h!Speed of ship = (1/2)*(x+y)!=(1/2)*(20+24) = 22 Km/h"
+            "explain": "Kecepatan ke hulu = y = 20 Km/jam!Kecepatan ke hilir = x = 24 Km/jam!Kecepatan kapal = (1/2)*(x+y)! = (1/2)*(20+24) = 22 Km/jam"
         },
         {
-            "question": "Joseph's speed of rowing in still water is 12 km/h and he finds that it takes him twice as long to row up as to row down the river. Find the speed of water in the river.",
-            "a": "3.5 km/h",
-            "b": "3 km/h",
-            "c": "1 km/h",
-            "d": "4 km/h",
+            "question": "Kecepatan mendayung Joseph di air tenang adalah 12 km/jam dan ia menemukan bahwa ia membutuhkan waktu dua kali lebih lama untuk mendayung ke hulu daripada ke hilir sungai. Carilah kecepatan air di sungai.",
+            "a": "3,5 km/jam",
+            "b": "3 km/jam",
+            "c": "1 km/jam",
+            "d": "4 km/jam",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let speed of water is x.!Speed in still water = u = 12 Km/h! !As downstream speed is double of upstream speed! !(12+x) = 2(12-x)!12+x = 24-2x!3x = 12!x = 4! !Hence speed of water is 4 Km/h."
+            "explain": "Misalkan kecepatan air adalah x.!Kecepatan di air tenang = u = 12 Km/jam! !Karena kecepatan ke hilir dua kali lipat dari kecepatan ke hulu! !(12+x) = 2(12-x)!12+x = 24-2x!3x = 12!x = 4! !Jadi kecepatan air adalah 4 Km/jam."
         },
         {
-            "question": "Speed of water in certain river is 6 km/h and it takes a boat four times as long to row up as to row down the river. What is the speed of boat in still water?",
-            "a": "10 km/h",
-            "b": "8 km/h",
-            "c": "6 km/h",
-            "d": "5 km/h",
+            "question": "Kecepatan air di sungai tertentu adalah 6 km/jam dan sebuah perahu membutuhkan waktu empat kali lebih lama untuk mendayung ke hulu daripada ke hilir sungai. Berapakah kecepatan perahu di air tenang?",
+            "a": "10 km/jam",
+            "b": "8 km/jam",
+            "c": "6 km/jam",
+            "d": "5 km/jam",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let speed of boat in still water is x.!Speed of water = v = 6 Km/h!As downstream speed is four times the upstream speed so! !(x+6) = 4(x-6)!x+6 = 4x-24!30 = 3x!x = 10! !Hence speed of boat in still water is 10 Km/h"
+            "explain": "Misalkan kecepatan perahu di air tenang adalah x.!Kecepatan air = v = 6 Km/jam!Karena kecepatan ke hilir empat kali kecepatan ke hulu jadi! !(x+6) = 4(x-6)!x+6 = 4x-24!30 = 3x!x = 10! !Jadi kecepatan perahu di air tenang adalah 10 Km/jam"
         },
         {
-            "question": "Anil's swimming speed in still water is 14 km/h and speed of water is 4 km/h. How long will it take him to go upstream 50 km?",
-            "a": "2.5 hours",
-            "b": "5 hours",
-            "c": "3 hours",
-            "d": "3.5 hours",
+            "question": "Kecepatan renang Anil di air tenang adalah 14 km/jam dan kecepatan air adalah 4 km/jam. Berapa lama waktu yang dibutuhkannya untuk pergi ke hulu sejauh 50 km?",
+            "a": "2,5 jam",
+            "b": "5 jam",
+            "c": "3 jam",
+            "d": "3,5 jam",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Anil's swimming speed in still water = u = 14 Km/h!Speed of water = v = 4 Km/h!Total upstream speed = u-v = 14-10 = 10 Km/h!Distance to cover = S = 50Km! !time = distance/speed!By putting values!time = t = 50/10 = 5 hours"
+            "explain": "Kecepatan renang Anil di air tenang = u = 14 Km/jam!Kecepatan air = v = 4 Km/jam!Total kecepatan ke hulu = u-v = 14-10 = 10 Km/jam!Jarak yang harus ditempuh = S = 50Km! !waktu = jarak/kecepatan!Dengan memasukkan nilai!waktu = t = 50/10 = 5 jam"
         },
         {
-            "question": "Ali's swimming speed in still water is 18 km/h and speed of water is 6 km/h. How long will it take him to go downstream 72km?",
-            "a": "3.5 hours",
-            "b": "3 hours",
-            "c": "4 hours",
-            "d": "3.75 hours",
+            "question": "Kecepatan renang Ali di air tenang adalah 18 km/jam dan kecepatan air adalah 6 km/jam. Berapa lama waktu yang dibutuhkannya untuk pergi ke hilir sejauh 72km?",
+            "a": "3,5 jam",
+            "b": "3 jam",
+            "c": "4 jam",
+            "d": "3,75 jam",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ali's swimming speed in still water = u = 18 Km/h!Speed of water = v = 6 Km/h!Total speed down the stream = 18+6 = 24 Km/h! !Distance to cover = 72 Km!time = ?! !time = distance/speed = time = 72/24 = 3 hours."
+            "explain": "Kecepatan renang Ali di air tenang = u = 18 Km/jam!Kecepatan air = v = 6 Km/jam!Total kecepatan ke hilir = 18+6 = 24 Km/jam! !Jarak yang harus ditempuh = 72 Km!waktu = ?! !waktu = jarak/kecepatan = waktu = 72/24 = 3 jam."
         },
         {
-            "question": "A man can row 4.5 km an hour in still water but takes twice as long to row up a stream as down it. What is the rate of stream in km/h?",
-            "a": "1.5",
-            "b": "2.25",
+            "question": "Seorang pria dapat mendayung 4,5 km per jam di air tenang tetapi membutuhkan waktu dua kali lebih lama untuk mendayung ke hulu sungai daripada ke hilir. Berapakah laju arus dalam km/jam?",
+            "a": "1,5",
+            "b": "2,25",
             "c": "3",
-            "d": "3.75",
+            "d": "3,75",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let rate of stream (speed of water) is x.!Man's speed in still water = u = 4.5 Km/h! !Given that!4.5+x = 2(4.5-x)!4.5+x = 9-2x!3x = 4.5!x = 1.5! !Hence rate of stream is 1.5 Km/h"
+            "explain": "Misalkan laju arus (kecepatan air) adalah x.!Kecepatan pria di air tenang = u = 4,5 Km/jam! !Diberikan bahwa!4,5+x = 2(4,5-x)!4,5+x = 9-2x!3x = 4,5!x = 1,5! !Jadi laju arus adalah 1,5 Km/jam"
         },
         {
-            "question": "If a man takes two hours to row 3 km upstream or 15 km downstream then the speed of current is?",
+            "question": "Jika seorang pria membutuhkan waktu dua jam untuk mendayung 3 km ke hulu atau 15 km ke hilir maka kecepatan arusnya adalah?",
             "a": "1",
             "b": "2",
             "c": "3",
@@ -603,32 +603,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Upstream distance covered in 2 hours = 3Km!Distance covered in 1 hour = 3/2 = `1.5 Km!So,!Upstream speed = 1.5 Km/h!Downstream distance covered in 2 hours = 15Km!Distance covered in 1 hour = 15/2 = 7.5Km! !Downstream speed = 7.5 Km/h! !Now!Speed of water = (1/2)*(7.5-1.5) = 3 Km/h"
+            "explain": "Jarak ke hulu yang ditempuh dalam 2 jam = 3Km!Jarak yang ditempuh dalam 1 jam = 3/2 = `1,5 Km!Jadi,!Kecepatan ke hulu = 1,5 Km/jam!Jarak ke hilir yang ditempuh dalam 2 jam = 15Km!Jarak yang ditempuh dalam 1 jam = 15/2 = 7,5Km! !Kecepatan ke hilir = 7,5 Km/jam! !Sekarang!Kecepatan air = (1/2)*(7,5-1,5) = 3 Km/jam"
         },
         {
-            "question": "A man can row 1 km upstream in 20 minutes, and downstream in 15 minutes. What is the speed of the current?",
-            "a": "1 km/h",
-            "b": "2 km/h",
-            "c": "0.5 km/h",
-            "d": "0.25 km/h",
+            "question": "Seorang pria dapat mendayung 1 km ke hulu dalam 20 menit, dan ke hilir dalam 15 menit. Berapakah kecepatan arusnya?",
+            "a": "1 km/jam",
+            "b": "2 km/jam",
+            "c": "0,5 km/jam",
+            "d": "0,25 km/jam",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "20 minutes = 20/60 = 1/3 hours!Upstream distance covered in 1/3 hours = 1 Km!Upstream distance covered in 1 hour = 1/(1/3) = 3 Km!Upstream speed = y = 3 Km/h! !Now!15 minutes = 15/60 = 1/4 hours!Downstream distance covered in 1/4 hours = 1 Km!Downstream distance covered in 1 hour = 1/(1/4) = 4 Km!Downstream speed = 4 Km/h! !speed of water = (1/2)*(4-3) = 1/2 = 0.5 Km/h"
+            "explain": "20 menit = 20/60 = 1/3 jam!Jarak ke hulu yang ditempuh dalam 1/3 jam = 1 Km!Jarak ke hulu yang ditempuh dalam 1 jam = 1/(1/3) = 3 Km!Kecepatan ke hulu = y = 3 Km/jam! !Sekarang!15 menit = 15/60 = 1/4 jam!Jarak ke hilir yang ditempuh dalam 1/4 jam = 1 Km!Jarak ke hilir yang ditempuh dalam 1 jam = 1/(1/4) = 4 Km!Kecepatan ke hilir = 4 Km/jam! !kecepatan air = (1/2)*(4-3) = 1/2 = 0,5 Km/jam"
         },
         {
-            "question": "A man rows 1 km upstream in 20 minutes and 1 km downstream in 15 minutes. What is his speed of rowing in still water?",
-            "a": "2.5",
+            "question": "Seorang pria mendayung 1 km ke hulu dalam 20 menit dan 1 km ke hilir dalam 15 menit. Berapakah kecepatan mendayungnya di air tenang?",
+            "a": "2,5",
             "b": "3",
-            "c": "3.5",
+            "c": "3,5",
             "d": "4",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "20 minutes = 20/60 = 1/3 hours!Upstream distance covered in 1/3 hours = 1 Km!Upstream distance covered in 1 hour = 1/(1/3) = 3 Km!Upstream speed = y = 3 Km/h! !Now!15 minutes = 15/60 = 1/4 hours!Downstream distance covered in 1/4 hours = 1 Km!Downstream distance covered in 1 hour = 1/(1/4) = 4 Km!Downstream speed = 4 Km/h! !speed of rowing = (1/2)*(4+3) = 7/2 = 3.5 Km/h"
+            "explain": "20 menit = 20/60 = 1/3 jam!Jarak ke hulu yang ditempuh dalam 1/3 jam = 1 Km!Jarak ke hulu yang ditempuh dalam 1 jam = 1/(1/3) = 3 Km!Kecepatan ke hulu = y = 3 Km/jam! !Sekarang!15 menit = 15/60 = 1/4 jam!Jarak ke hilir yang ditempuh dalam 1/4 jam = 1 Km!Jarak ke hilir yang ditempuh dalam 1 jam = 1/(1/4) = 4 Km!Kecepatan ke hilir = 4 Km/jam! !kecepatan mendayung = (1/2)*(4+3) = 7/2 = 3,5 Km/jam"
         },
         {
-            "question": "A man rowing a boat covers an average distance of 7.5 km/h. What is the distance covered after 40 minutes?",
+            "question": "Seorang pria yang mendayung perahu menempuh jarak rata-rata 7,5 km/jam. Berapakah jarak yang ditempuh setelah 40 menit?",
             "a": "5 km",
             "b": "10 km",
             "c": "20 km",
@@ -636,10 +636,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Distance covered in 60 minutes = 7.5 Km!Distance covered in 1 minute = 7.5/60 = 1/8 Km! !Distance covered in 40 minutes = (1/8)*40 = 5 Km"
+            "explain": "Jarak yang ditempuh dalam 60 menit = 7,5 Km!Jarak yang ditempuh dalam 1 menit = 7,5/60 = 1/8 Km! !Jarak yang ditempuh dalam 40 menit = (1/8)*40 = 5 Km"
         },
         {
-            "question": "A man can row down a 10 mile stream in 2 hours and up in 5 hours. What is the average speed in miles per hour?",
+            "question": "Seorang pria dapat mendayung ke hilir sungai sepanjang 10 mil dalam 2 jam dan ke hulu dalam 5 jam. Berapakah kecepatan rata-rata dalam mil per jam?",
             "a": "10/7",
             "b": "7/2",
             "c": "20/7",
@@ -647,18 +647,18 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Downstream distance covered in 2 hours = 10 miles!Downstream distance covered in 1 hour = 10/2 = 5 miles!Downstream speed = 5 mile/h! !and!Upstream distance covered in 5 hours = 10 mile!Upstream distance covered in 1 hour = 10/5 = 2 miles! !Upstream speed = 2 mile/hr! !Average speed = (1/2)*(2+5) = 3.5 mile/hr"
+            "explain": "Jarak ke hilir yang ditempuh dalam 2 jam = 10 mil!Jarak ke hilir yang ditempuh dalam 1 jam = 10/2 = 5 mil!Kecepatan ke hilir = 5 mil/jam! !dan!Jarak ke hulu yang ditempuh dalam 5 jam = 10 mil!Jarak ke hulu yang ditempuh dalam 1 jam = 10/5 = 2 mil! !Kecepatan ke hulu = 2 mil/jam! !Kecepatan rata-rata = (1/2)*(2+5) = 3,5 mil/jam"
         },
         {
-            "question": "Speed of water in certain river is 2 km/h and it takes a boat thrice as long to row up as to row down the river. Find the speed of the boat in still water.",
-            "a": "10 km/h",
-            "b": "8 km/h",
-            "c": "6 km/h",
-            "d": "4 km/h",
+            "question": "Kecepatan air di sungai tertentu adalah 2 km/jam dan sebuah perahu membutuhkan waktu tiga kali lebih lama untuk mendayung ke hulu daripada ke hilir sungai. Carilah kecepatan perahu di air tenang.",
+            "a": "10 km/jam",
+            "b": "8 km/jam",
+            "c": "6 km/jam",
+            "d": "4 km/jam",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let speed of boat in still water is x.!Speed of water = v = 2 Km/h! !As downstream speed in 3 times the upstream speed so!(x+2) = 3(x-2)!x+2 = 3x-6!8 = 2x!x = 4!Hence speed of boat in still water is 4 Km/h"
+            "explain": "Misalkan kecepatan perahu di air tenang adalah x.!Kecepatan air = v = 2 Km/jam! !Karena kecepatan ke hilir 3 kali kecepatan ke hulu jadi!(x+2) = 3(x-2)!x+2 = 3x-6!8 = 2x!x = 4!Jadi kecepatan perahu di air tenang adalah 4 Km/jam"
         }
     ]
 }

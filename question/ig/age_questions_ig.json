@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "Ten years ago, P was half of Q in age. If the ratio of their present ages is 3/4, what will be the total of their present ages?",
+            "question": "Afọ iri gara aga, P bụ ọkara afọ Q. Ọ bụrụ na oke afọ ndụ ha ugbu a bụ 3/4, kedu ihe ga-abụ mkpokọta afọ ndụ ha ugbu a?",
             "a": "45",
             "b": "40",
             "c": "35",
@@ -9,32 +9,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of P and Q be 3x and 4x respectively.! !Ten years ago, P was half of Q in age.! !(3x - 10) = 1/2 * (4x - 10)!6x - 20 = 4x - 10!2x = 10!x = 5! !total of their present ages!= 3x + 4x = 7x = 7 * 5!= 35"
+            "explain": "Ka afọ ndụ P na Q ugbu a bụrụ 3x na 4x n'otu n'otu.! !Afọ iri gara aga, P bụ ọkara afọ Q.! !(3x - 10) = 1/2 * (4x - 10)!6x - 20 = 4x - 10!2x = 10!x = 5! !mkpokọta afọ ndụ ha ugbu a!= 3x + 4x = 7x = 7 * 5!= 35"
         },
         {
-            "question": "A man is 24 years older than his son. In two years, his age will be twice the age of his son. What is the present age of his son?",
-            "a": "23 years",
-            "b": "22 years",
-            "c": "21 years",
-            "d": "20 years",
+            "question": "Otu nwoke tọrọ nwa ya nwoke afọ 24. N'ime afọ abụọ, afọ ndụ ya ga-abụ okpukpu abụọ nke afọ nwa ya nwoke. Gịnị bụ afọ ndụ nwa ya nwoke ugbu a?",
+            "a": "Afọ 23",
+            "b": "Afọ 22",
+            "c": "Afọ 21",
+            "d": "Afọ 20",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of the son = x years! !Then present age the man = (x+24) years! !Given that in 2 years, man's age will be twice the age of his son! !(x+24) +2 = 2(x+2)!x = 22"
+            "explain": "Ka afọ ndụ nwa nwoke ugbu a = x afọ! !Mgbe ahụ afọ ndụ nwoke ahụ ugbu a = (x+24) afọ! !Nyere na n'ime afọ 2, afọ ndụ nwoke ga-abụ okpukpu abụọ nke afọ nwa ya nwoke! !(x+24) +2 = 2(x+2)!x = 22"
         },
         {
-            "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. Find out the age of the youngest child?",
-            "a": "6 years",
-            "b": "5 years",
-            "c": "4 years",
-            "d": "3 years",
+            "question": "Nchikota afọ ndụ ụmụaka 5 a mụrụ n'oge nke afọ 3 nke ọ bụla bụ afọ 50. Chọpụta afọ ndụ nwa kacha nta?",
+            "a": "Afọ 6",
+            "b": "Afọ 5",
+            "c": "Afọ 4",
+            "d": "Afọ 3",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the youngest child = x! !Then the ages of 5 children can be written as x, (x+3), (x+6),(x+9) and (x+12).! !Then,!X + (x+3) + (x+6) + (x+9) + (x+12) = 50!5x + 30 =50!5x = 20!x = 20/5 = 4"
+            "explain": "Ka afọ ndụ nwa kacha nta = x! !Mgbe ahụ enwere ike dee afọ ndụ ụmụaka 5 dị ka x, (x+3), (x+6),(x+9) na (x+12).! !Mgbe ahụ,!X + (x+3) + (x+6) + (x+9) + (x+12) = 50!5x + 30 =50!5x = 20!x = 20/5 = 4"
         },
         {
-            "question": "A is two years older than B who is twice as old as C. The total of the ages of A, B and C is 27. How old is B?",
+            "question": "A tọrọ B afọ abụọ onye ji okpukpu abụọ tọọ C. Mkpokọta afọ ndụ A, B na C bụ 27. Afọ ole ka B dị?",
             "a": "10",
             "b": "9",
             "c": "8",
@@ -42,10 +42,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of C = x.! !Then! !Age of B = 2x! !Age of A = 2 + 2x! !The total age of A,B and C =27! !(2+2x) + 2x + x = 27!5x = 25!B's age = 2x = 2 * 5 = 10"
+            "explain": "Ka afọ ndụ C = x.! !Mgbe ahụ! !Afọ B = 2x! !Afọ A = 2 + 2x! !Mkpokọta afọ A,B na C =27! !(2+2x) + 2x + x = 27!5x = 25!Afọ B = 2x = 2 * 5 = 10"
         },
         {
-            "question": "The Average age of a class of 22 subjects in 21 years. The average increased by 1 when the teacher's age also included. What is the age of the teacher?",
+            "question": "Nkezi afọ nke klas nke isiokwu 22 n'ime afọ 21. Nkezi mụbara site na 1 mgbe etinyere afọ onye nkuzi. Gịnị bụ afọ onye nkuzi?",
             "a": "48",
             "b": "45",
             "c": "43",
@@ -53,21 +53,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Total age of all students = 22 * 21 = 462! !Total age of all students + age of the teacher = 23 * 22 = 506! !Age of the teacher = 506 - 462 = 44"
+            "explain": "Mkpokọta afọ nke ụmụ akwụkwọ niile = 22 * 21 = 462! !Mkpokọta afọ nke ụmụ akwụkwọ niile + afọ onye nkuzi = 23 * 22 = 506! !Afọ onye nkuzi = 506 - 462 = 44"
         },
         {
-            "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, what was the son's age five years back?",
-            "a": "20 years",
-            "b": "18 years",
-            "c": "14 years",
-            "d": "22 years",
+            "question": "Otu nna sịrị nwa ya nwoke, \"Adị m ka gị n'oge a n'oge a mụrụ gị\". Ọ bụrụ na afọ nna ahụ bụ afọ 38 ugbu a, gịnị bụ afọ nwa ya nwoke afọ ise gara aga?",
+            "a": "Afọ 20",
+            "b": "Afọ 18",
+            "c": "Afọ 14",
+            "d": "Afọ 22",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the son's present age be x years.! !Then! (38 - x) = x! !2x = 38!x = 38/2 = 19! !Son's age 5 years back = 19-5 = 14 years"
+            "explain": "Ka afọ ndụ nwa nwoke ugbu a bụrụ x afọ.! !Mgbe ahụ! (38 - x) = x! !2x = 38!x = 38/2 = 19! !Afọ nwa nwoke 5 gara aga = 19-5 = afọ 14"
         },
         {
-            "question": "Kiran is younger than Bineesh by 7 years and their ages are in the respective ratio of 7 / 9, how old is Kiran?",
+            "question": "Kiran tọrọ Bineesh afọ 7 na afọ ndụ ha dị n'otu n'otu nke 7/9, afọ ole ka Kiran dị?",
             "a": "25",
             "b": "24.5",
             "c": "24",
@@ -75,10 +75,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of Kiran and Bineesh are 7x and 9x respectively! !7x = 9x-7!x = 7/2 = 3.5! !Kiran's age = 7x!= 7 * 3.5 = 24.5"
+            "explain": "Ka afọ Kiran na Bineesh bụrụ 7x na 9x n'otu n'otu! !7x = 9x-7!x = 7/2 = 3.5! !Afọ Kiran = 7x!= 7 * 3.5 = 24.5"
         },
         {
-            "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. What is the present age of the mother?",
+            "question": "Afọ ndụ mmadụ ugbu a bụ ụzọ abụọ n'ụzọ ise nke afọ nne ya. Mgbe afọ 8 gachara, ọ ga-abụ ọkara afọ nne ya. Gịnị bụ afọ ndụ nne ugbu a?",
             "a": "60",
             "b": "50",
             "c": "40",
@@ -86,21 +86,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of the person = x! !Then present age of the mother = 5x/2! !Given that , after 8 years, the person will be one-half of the age of his mother.! !(x + 8) = (1/2)(5x/2 + 8)!2x + 16 = 5x/2 + 8!x/2 = 8!x = 16! !Present age of the mother = 5x/2!= 5 * 16/2 = 40"
+            "explain": "Ka afọ ndụ onye ahụ ugbu a = x! !Mgbe ahụ afọ ndụ nne ugbu a = 5x/2! !Nyere na, mgbe afọ 8 gachara, onye ahụ ga-abụ ọkara afọ nne ya.! !(x + 8) = (1/2)(5x/2 + 8)!2x + 16 = 5x/2 + 8!x/2 = 8!x = 16! !Afọ ndụ nne ugbu a = 5x/2!= 5 * 16/2 = 40"
         },
         {
-            "question": "A is as much younger than B and he is older than C. If the sum of the ages of B and C is 50 years, what is definitely the difference between B and A's age?",
-            "a": "Data inadequate",
-            "b": "3 years",
-            "c": "2 years",
-            "d": "5 years",
+            "question": "A dị obere karịa B ma okenye karịa C. Ọ bụrụ na nchikota afọ B na C bụ afọ 50, kedu ihe dị iche n'etiti afọ B na A?",
+            "a": "Data ezughi oke",
+            "b": "Afọ 3",
+            "c": "Afọ 2",
+            "d": "Afọ 5",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Age of C < Age of A < Age of B! !Given that sum of the ages of B and C is 50 years.! !Let's take B's age = x and C's age = 50-x! !Now we need to find out B's age - A's age.!But we cannot find out this with the given data."
+            "explain": "Afọ C < Afọ A < Afọ B! !Nyere na nchikota afọ B na C bụ afọ 50.! !Ka anyị were afọ B = x na afọ C = 50-x! !Ugbu a, anyị kwesịrị ịchọpụta afọ B - afọ A.!Mana anyị enweghị ike iji data enyere chọpụta nke a."
         },
         {
-            "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. What is the ratio of their present ages?",
+            "question": "Afọ nna afọ 10 gara aga bụ okpukpu atọ nke afọ nwa ya nwoke. Afọ iri na-abịa, afọ nna ga-abụ okpukpu abụọ nke nwa ya nwoke. Gịnị bụ oke afọ ndụ ha ugbu a?",
             "a": "7/3",
             "b": "3/7",
             "c": "9/4",
@@ -108,10 +108,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the son before 10 years = x!and age of the father before 10 years = 3x! !Now we can write as (3x + 20) = 2(x + 20)!x = 20! !Age of Father the son at present = x + 10!= 20 + 10 = 30! !Age of the father at present = 3x + 10!= 3 * 20 + 10 = 70! !Required ratio = 70/30 = 7/3"
+            "explain": "Ka afọ nwa nwoke tupu afọ 10 = x!na afọ nna tupu afọ 10 = 3x! !Ugbu a anyị nwere ike ide dị ka (3x + 20) = 2(x + 20)!x = 20! !Afọ Nna nwa nwoke ugbu a = x + 10!= 20 + 10 = 30! !Afọ nna ugbu a = 3x + 10!= 3 * 20 + 10 = 70! !Oke achọrọ = 70/30 = 7/3"
         },
         {
-            "question": "The ages of two persons differ by 16 years. 6 years ago, the elder one was 3 times as old as the younger one. What are their present ages of the elder person?",
+            "question": "Afọ ndụ mmadụ abụọ dị iche site na afọ 16. Afọ 6 gara aga, onye okenye bụ okpukpu 3 nke onye nke nta. Gịnị bụ afọ ndụ ha ugbu a nke onye okenye?",
             "a": "10",
             "b": "20",
             "c": "30",
@@ -119,21 +119,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let's take the present age of the elder person = x! !and the present age of the younger person = x - 16! !(x - 6) = 3 (x-16-6)!x - 6 = 3x - 66!2x = 60!x = 60/2 = 30"
+            "explain": "Ka anyị were afọ ndụ onye okenye ugbu a = x! !na afọ ndụ onye nke nta ugbu a = x - 16! !(x - 6) = 3 (x-16-6)!x - 6 = 3x - 66!2x = 60!x = 60/2 = 30"
         },
         {
-            "question": "Kamal was 4 times as old as his son 8 years ago. After 8 years, Kamal will be twice as old as his son. Find out the present age of Kamal.",
-            "a": "40 years",
-            "b": "38 years",
-            "c": "42 years",
-            "d": "36 years",
+            "question": "Kamal ji okpukpu 4 tọọ nwa ya nwoke afọ 8 gara aga. Mgbe afọ 8 gachara, Kamal ga-eji okpukpu abụọ tọọ nwa ya nwoke. Chọpụta afọ ndụ Kamal ugbu a.",
+            "a": "Afọ 40",
+            "b": "Afọ 38",
+            "c": "Afọ 42",
+            "d": "Afọ 36",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the son before 8 years = x! !Then age of Kamal before 8 years ago = 4x! !After 8 years, Kamal will be twice as old as his son! !4x + 16 = 2(x + 16)!x = 8! !Present age of Kamal = 4x + 8 = (4*8) + 8 = 40"
+            "explain": "Ka afọ nwa nwoke tupu afọ 8 = x! !Mgbe ahụ afọ Kamal tupu afọ 8 gara aga = 4x! !Mgbe afọ 8 gachara, Kamal ga-eji okpukpu abụọ tọọ nwa ya nwoke! !4x + 16 = 2(x + 16)!x = 8! !Afọ ndụ Kamal ugbu a = 4x + 8 = (4*8) + 8 = 40"
         },
         {
-            "question": "One year ago, the ratio of Sooraj's and Vimal's age was 6/7 respectively. Four years hence, this ratio would become 7/8. How old is Vimal?",
+            "question": "Otu afọ gara aga, oke afọ Sooraj na Vimal bụ 6/7 n'otu n'otu. Afọ anọ na-abịa, oke a ga-aghọ 7/8. Afọ ole ka Vimal dị?",
             "a": "32",
             "b": "34",
             "c": "36",
@@ -141,10 +141,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let take the age of Sooraj and Vimal, 1 year ago as 6x and 7x respectively.! !Given that, four years hence, this ratio would become 7/8.! !(6x + 5)/(7x + 5) = 7/8!48x + 40 = 49x + 35!x = 5! !Vimal's present age = 7x + 1 = 7*5 + 1 = 36"
+            "explain": "Ka anyị were afọ Sooraj na Vimal, afọ 1 gara aga dị ka 6x na 7x n'otu n'otu.! !Nyere na, afọ anọ na-abịa, oke a ga-aghọ 7/8.! !(6x + 5)/(7x + 5) = 7/8!48x + 40 = 49x + 35!x = 5! !Afọ ndụ Vimal ugbu a = 7x + 1 = 7*5 + 1 = 36"
         },
         {
-            "question": "The total age of A and B is 12 years more than the total age of B and C. C is how many year younger than A?",
+            "question": "Mkpokọta afọ A na B ji afọ 12 karịa mkpokọta afọ B na C. C ji afọ ole tọọ A?",
             "a": "10",
             "b": "11",
             "c": "12",
@@ -152,54 +152,54 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that A+B = 12 + B + C! !A - C = 12 + B - B = 12! !C is younger than A by 12 years."
+            "explain": "Nyere na A+B = 12 + B + C! !A - C = 12 + B - B = 12! !C tọrọ A afọ 12."
         },
         {
-            "question": "Sachin's age after 15 years will be 5 times his age 5 years back. Find out the present age of Sachin?",
-            "a": "10 years",
-            "b": "11 years",
-            "c": "12 years",
-            "d": "13 years",
+            "question": "Afọ Sachin mgbe afọ 15 gachara ga-abụ okpukpu 5 nke afọ ya afọ 5 gara aga. Chọpụta afọ ndụ Sachin ugbu a?",
+            "a": "Afọ 10",
+            "b": "Afọ 11",
+            "c": "Afọ 12",
+            "d": "Afọ 13",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of Sachin = x! !Then (x+15) = 5(x-5)!4x = 40!x = 10"
+            "explain": "Ka afọ ndụ Sachin ugbu a = x! !Mgbe ahụ (x+15) = 5(x-5)!4x = 40!x = 10"
         },
         {
-            "question": "Sandeep's age after six years will be three-seventh of his father's age. Ten years ago the ratio of their ages was 1/5. What is Sandeep's father's age at present?",
-            "a": "30 years",
-            "b": "40 years",
-            "c": "50 years",
-            "d": "60 years",
+            "question": "Afọ Sandeep mgbe afọ isii gachara ga-abụ ụzọ atọ n'ụzọ asaa nke afọ nna ya. Afọ iri gara aga oke afọ ndụ ha bụ 1/5. Gịnị bụ afọ nna Sandeep ugbu a?",
+            "a": "Afọ 30",
+            "b": "Afọ 40",
+            "c": "Afọ 50",
+            "d": "Afọ 60",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of Sandeep and his father before 10 years be x and 5x respectively.! !Given that Sandeep's age after six years will be three-seventh of his father's age! !x + 16 = (3/7)(5x + 16)!7x + 112 = 15x + 48!8x = 64!x = 8! !Sandeep's father's present age = 5x + 10!= 5*8 + 10 = 50"
+            "explain": "Ka afọ Sandeep na nna ya tupu afọ 10 bụrụ x na 5x n'otu n'otu.! !Nyere na afọ Sandeep mgbe afọ isii gachara ga-abụ ụzọ atọ n'ụzọ asaa nke afọ nna ya! !x + 16 = (3/7)(5x + 16)!7x + 112 = 15x + 48!8x = 64!x = 8! !Afọ nna Sandeep ugbu a = 5x + 10!= 5*8 + 10 = 50"
         },
         {
-            "question": "Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
-            "a": "2 times",
-            "b": "1 time",
-            "c": "4 times",
-            "d": "6 times",
+            "question": "Nna ji okpukpu atọ tọọ nwa ya nwoke Ronit. Mgbe afọ 8 gachara, ọ ga-eji okpukpu abụọ na ọkara tọọ Ronit. Mgbe afọ 8 ọzọ gachara, ugboro ole ka ọ ga-eji tọọ Ronit?",
+            "a": "Ugboro 2",
+            "b": "Ugboro 1",
+            "c": "Ugboro 4",
+            "d": "Ugboro 6",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Ronit's present age be x years. Then, father's present age =(x + 3x) years!= 4x years.! !(4x + 8) = 5/2 (x+8)!8x + 16 = 5x + 40!3x = 24!x = 8! !Hence, required ratio = (4x+16)/(x+160)!= 48/24 = 2"
+            "explain": "Ka afọ ndụ Ronit ugbu a bụrụ x afọ. Mgbe ahụ, afọ ndụ nna ugbu a =(x + 3x) afọ!= 4x afọ.! !(4x + 8) = 5/2 (x+8)!8x + 16 = 5x + 40!3x = 24!x = 8! !Ya mere, oke achọrọ = (4x+16)/(x+160)!= 48/24 = 2"
         },
         {
-            "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was?",
-            "a": "14 years",
-            "b": "19 years",
-            "c": "33 years",
-            "d": "38 years",
+            "question": "Otu nna sịrị nwa ya nwoke, \"Adị m ka gị n'oge a n'oge a mụrụ gị\". Ọ bụrụ na afọ nna ahụ bụ afọ 38 ugbu a, afọ nwa ya nwoke afọ ise gara aga bụ?",
+            "a": "Afọ 14",
+            "b": "Afọ 19",
+            "c": "Afọ 33",
+            "d": "Afọ 38",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the son's present age be x years. Then, (38 - x) = x! !2x = 38!x = 19! !Hence, Son's age 5 years back (19 - 5) = 14 years."
+            "explain": "Ka afọ ndụ nwa nwoke ugbu a bụrụ x afọ. Mgbe ahụ, (38 - x) = x! !2x = 38!x = 19! !Ya mere, afọ nwa nwoke 5 gara aga (19 - 5) = afọ 14."
         },
         {
-            "question": "Present ages of Sameer and Anand are in the ratio of 5/4 respectively. Three years hence, the ratio of their ages will become 11/9 respectively. What is Anand's present age in years?",
+            "question": "Afọ ndụ Sameer na Anand ugbu a dị n'oke nke 5/4 n'otu n'otu. Afọ atọ na-abịa, oke afọ ndụ ha ga-aghọ 11/9 n'otu n'otu. Gịnị bụ afọ ndụ Anand ugbu a n'afọ?",
             "a": "24",
             "b": "27",
             "c": "40",
@@ -207,76 +207,76 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of Sameer and Anand be 5x years and 4x years respectively.! !Then,!(5x+3)/(4x+3) = 11/9!9(5x + 3) = 11(4x + 3)!45x + 27 = 44x + 33!45x - 44x = 33 - 27!x = 6! !nand's present age = 4x = 24 years"
+            "explain": "Ka afọ ndụ Sameer na Anand ugbu a bụrụ 5x afọ na 4x afọ n'otu n'otu.! !Mgbe ahụ,!(5x+3)/(4x+3) = 11/9!9(5x + 3) = 11(4x + 3)!45x + 27 = 44x + 33!45x - 44x = 33 - 27!x = 6! !Afọ ndụ Anand ugbu a = 4x = afọ 24"
         },
         {
-            "question": "Six years ago, the ratio of the ages of Kunal and Sagar was 6/5. Four years hence, the ratio of their ages will be 11/10. What is Sagar's age at present?",
-            "a": "16 years",
-            "b": "18 years",
-            "c": "20 years",
-            "d": "None of these",
+            "question": "Afọ isii gara aga, oke afọ Kunal na Sagar bụ 6/5. Afọ anọ na-abịa, oke afọ ndụ ha ga-abụ 11/10. Gịnị bụ afọ Sagar ugbu a?",
+            "a": "Afọ 16",
+            "b": "Afọ 18",
+            "c": "Afọ 20",
+            "d": "Ọ dịghị nke ọ bụla n'ime ndị a",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of Kunal and Sagar 6 years ago be 6x and 5x years respectively.! !Then,![(6x + 6) + 4]/[(5x + 6) + 4] = 11/10!10(6x + 10) = 11(5x + 10)!5x = 10!x = 2! !Hence, Sagar's present age = (5x + 6) = 16 years."
+            "explain": "Ka afọ Kunal na Sagar afọ 6 gara aga bụrụ 6x na 5x afọ n'otu n'otu.! !Mgbe ahụ,![(6x + 6) + 4]/[(5x + 6) + 4] = 11/10!10(6x + 10) = 11(5x + 10)!5x = 10!x = 2! !Ya mere, afọ Sagar ugbu a = (5x + 6) = afọ 16."
         },
         {
-            "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, father's age was five times the age of the son. After 6 years, son's age will be",
-            "a": "12 years",
-            "b": "14 years",
-            "c": "18 years",
-            "d": "20 years",
+            "question": "Nchikota afọ ndụ nna na nwa ya nwoke ugbu a bụ afọ 60. Afọ isii gara aga, afọ nna bụ okpukpu ise nke afọ nwa ya nwoke. Mgbe afọ 6 gachara, afọ nwa nwoke ga-abụ",
+            "a": "Afọ 12",
+            "b": "Afọ 14",
+            "c": "Afọ 18",
+            "d": "Afọ 20",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of son and father be x and (60 -x) years respectively.! !Then,!(60 - x) - 6 = 5(x - 6)!54 - x = 5x - 30!6x = 84!x = 14! !Hence, Son's age after 6 years = (x+ 6)!= 20 years"
+            "explain": "Ka afọ ndụ nwa na nna ugbu a bụrụ x na (60 -x) afọ n'otu n'otu.! !Mgbe ahụ,!(60 - x) - 6 = 5(x - 6)!54 - x = 5x - 30!6x = 84!x = 14! !Ya mere, afọ nwa nwoke mgbe afọ 6 gachara = (x+ 6)!= afọ 20"
         },
         {
-            "question": "At present, the ratio between the ages of Arun and Deepak is 4/3. After 6 years, Arun's age will be 26 years. What is the age of Deepak at present ?",
-            "a": "12 years",
-            "b": "15 years",
-            "c": "19 and half",
-            "d": "21 years",
+            "question": "Ugbu a, oke dị n'etiti afọ Arun na Deepak bụ 4/3. Mgbe afọ 6 gachara, afọ Arun ga-abụ afọ 26. Gịnị bụ afọ Deepak ugbu a?",
+            "a": "Afọ 12",
+            "b": "Afọ 15",
+            "c": "19 na ọkara",
+            "d": "Afọ 21",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of Arun and Deepak be 4x years and 3x years respectively.! !Then,!4x + 6 = 26!4x = 20!x = 5! !Hence, Deepak's age = 3x = 15 years."
+            "explain": "Ka afọ ndụ Arun na Deepak ugbu a bụrụ 4x afọ na 3x afọ n'otu n'otu.! !Mgbe ahụ,!4x + 6 = 26!4x = 20!x = 5! !Ya mere, afọ Deepak = 3x = afọ 15."
         },
         {
-            "question": "Sachin is younger than Rahul by 7 years. If their ages are in the respective ratio of 7/9, how old is Sachin?",
-            "a": "16 years",
-            "b": "18 years",
-            "c": "28 years",
-            "d": "24.5 years",
+            "question": "Sachin tọrọ Rahul afọ 7. Ọ bụrụ na afọ ndụ ha dị n'otu n'otu nke 7/9, afọ ole ka Sachin dị?",
+            "a": "Afọ 16",
+            "b": "Afọ 18",
+            "c": "Afọ 28",
+            "d": "Afọ 24.5",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Rahul's age be x years.! !Then,!Sachin's age = (x - 7) years.! !(x-7)/x = 7/9!9x - 63 = 7x!2x = 63!x = 31.5! !Hence, Sachin's age =(x - 7)= 24.5 years"
+            "explain": "Ka afọ Rahul bụrụ x afọ.! !Mgbe ahụ,!Afọ Sachin = (x - 7) afọ.! !(x-7)/x = 7/9!9x - 63 = 7x!2x = 63!x = 31.5! !Ya mere, afọ Sachin =(x - 7)= afọ 24.5"
         },
         {
-            "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present?",
-            "a": "32 years",
-            "b": "36 years",
-            "c": "40 years",
-            "d": "48 years",
+            "question": "Afọ ndụ mmadụ ugbu a bụ ụzọ abụọ n'ụzọ ise nke afọ nne ya. Mgbe afọ 8 gachara, ọ ga-abụ ọkara afọ nne ya. Afọ ole ka nne dị ugbu a?",
+            "a": "Afọ 32",
+            "b": "Afọ 36",
+            "c": "Afọ 40",
+            "d": "Afọ 48",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the mother's present age be x years.! !Then,! the person's present age = (2/5)x years.! !(2/5)x + 8 = (1/2)(x + 8)!2(2x + 40) = 5(x + 8)!x = 40!"
+            "explain": "Ka afọ ndụ nne ugbu a bụrụ x afọ.! !Mgbe ahụ,! afọ ndụ onye ahụ ugbu a = (2/5)x afọ.! !(2/5)x + 8 = (1/2)(x + 8)!2(2x + 40) = 5(x + 8)!x = 40!"
         },
         {
-            "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. Find out the age of the youngest child?",
-            "a": "6 years",
-            "b": "5 years",
-            "c": "4 years",
-            "d": "3 years",
+            "question": "Nchikota afọ ndụ ụmụaka 5 a mụrụ n'oge nke afọ 3 nke ọ bụla bụ afọ 50. Chọpụta afọ ndụ nwa kacha nta?",
+            "a": "Afọ 6",
+            "b": "Afọ 5",
+            "c": "Afọ 4",
+            "d": "Afọ 3",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of children be x, (x + 3), (x + 6), (x + 9) and (x + 12) years.! !Then,!x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 50!5x = 20!x = 4! !Hence, Age of the youngest child = x = 4 years"
+            "explain": "Ka afọ ndụ ụmụaka bụrụ x, (x + 3), (x + 6), (x + 9) na (x + 12) afọ.! !Mgbe ahụ,!x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 50!5x = 20!x = 4! !Ya mere, afọ nwa kacha nta = x = afọ 4"
         },
         {
-            "question": "A is two years older than B who is twice as old as C. The total of the ages of A, B and C is 27.How old is B?",
+            "question": "A tọrọ B afọ abụọ onye ji okpukpu abụọ tọọ C. Mkpokọta afọ ndụ A, B na C bụ 27. Afọ ole ka B dị?",
             "a": "10",
             "b": "9",
             "c": "8",
@@ -284,10 +284,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let C's age be x years. Then, B's age = 2x years. A's age = (2x + 2) years.! !So, (2x + 2) + 2x + x = 27!5x = 25!x = 5! !Hence, B's age = 2x = 10 years"
+            "explain": "Ka afọ C bụrụ x afọ. Mgbe ahụ, afọ B = 2x afọ. Afọ A = (2x + 2) afọ.! !Yabụ, (2x + 2) + 2x + x = 27!5x = 25!x = 5! !Ya mere, afọ B = 2x = afọ 10"
         },
         {
-            "question": "The Average age of a class of 22 students is 21 years.The average increased by 1 when the teacher's age also included.What is the age of the teacher?",
+            "question": "Nkezi afọ nke klas nke ụmụ akwụkwọ 22 bụ afọ 21. Nkezi mụbara site na 1 mgbe etinyere afọ onye nkuzi. Gịnị bụ afọ onye nkuzi?",
             "a": "48",
             "b": "45",
             "c": "43",
@@ -295,21 +295,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
-            "a": "1 year",
-            "b": "2 years",
-            "c": "25 years",
-            "d": "Data inadequate",
+            "question": "Q dị obere karịa R dịka okenye karịa T. Ọ bụrụ na nchikota afọ R na T bụ afọ 50, kedu ihe dị iche n'etiti afọ R na Q?",
+            "a": "Afọ 1",
+            "b": "Afọ 2",
+            "c": "Afọ 25",
+            "d": "Data ezughi oke",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that! !(i)The difference of age b/w R and Q = The difference of age b/w Q and T!(ii) (R + T) = 50! !So,R - Q = Q - T! !(R + T) = 2Q! !Now given that, (R + T) = 50! !So, 50 = 2Q and therefore Q = 25! !Question is (R - Q) = ?! !Here we know the value(age) of Q (25), but we don't know the age of R.! !Therefore, (R-Q) cannot be determined."
+            "explain": "Nyere na! !(i) Ihe dị iche n'afọ b/w R na Q = Ihe dị iche n'afọ b/w Q na T!(ii) (R + T) = 50! !Yabụ,R - Q = Q - T! !(R + T) = 2Q! !Ugbu a nyere na, (R + T) = 50! !Yabụ, 50 = 2Q ya mere Q = 25! !Ajụjụ bụ (R - Q) = ?! !N'ebe a, anyị maara uru (afọ) nke Q (25), mana anyị amaghị afọ R.! !Ya mere, enweghị ike ikpebi (R-Q)."
         },
         {
-            "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is",
+            "question": "Afọ nna afọ 10 gara aga bụ okpukpu atọ nke afọ nwa ya nwoke. Afọ iri na-abịa, afọ nna ga-abụ okpukpu abụọ nke nwa ya nwoke. Oke afọ ndụ ha ugbu a bụ",
             "a": "5/2",
             "b": "7/3",
             "c": "9/2",
@@ -317,43 +317,43 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of father and son 10 years ago be 3x and x years respectively.! !Then,!(3x + 10) + 10 = 2[(x + 10) + 10]!3x + 20 = 2x + 40!x = 20!So, 3x + 10 = 70!and x + 10 = 30! !Hence, ratio is 70/30 = 7/3."
+            "explain": "Ka afọ nna na nwa nwoke afọ 10 gara aga bụrụ 3x na x afọ n'otu n'otu.! !Mgbe ahụ,!(3x + 10) + 10 = 2[(x + 10) + 10]!3x + 20 = 2x + 40!x = 20!Yabụ, 3x + 10 = 70!na x + 10 = 30! !Ya mere, oke bụ 70/30 = 7/3."
         },
         {
-            "question": "A is as much younger than B and he is older than C. If the sum of the ages of B and C is 50 years, what is definitely the difference between B and A's age?",
-            "a": "Data inadequate",
-            "b": "3 years",
-            "c": "2 years",
-            "d": "5 years",
+            "question": "A dị obere karịa B ma okenye karịa C. Ọ bụrụ na nchikota afọ B na C bụ afọ 50, kedu ihe dị iche n'etiti afọ B na A?",
+            "a": "Data ezughi oke",
+            "b": "Afọ 3",
+            "c": "Afọ 2",
+            "d": "Afọ 5",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "A man's age is three times his son's. In 15 years it will be double that of his son's. How old is the son now?",
+            "question": "Afọ nwoke ji okpukpu atọ tọọ nwa ya nwoke. N'ime afọ 15 ọ ga-eji okpukpu abụọ tọọ nwa ya nwoke. Afọ ole ka nwa nwoke dị ugbu a?",
             "a": "30",
             "b": "15",
             "c": "45",
-            "d": "none",
+            "d": "ọ dịghị",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Son's age is x!Mans Age = 3x! !Given that!3x+15 = 2(x+15)!3x+15 = 2x+30!3x-2x = 30-15! !x = 15! !Hence son is 15 years old."
+            "explain": "Ka afọ nwa nwoke bụrụ x!Afọ nwoke = 3x! !Nyere na!3x+15 = 2(x+15)!3x+15 = 2x+30!3x-2x = 30-15! !x = 15! !Ya mere nwa nwoke dị afọ 15."
         },
         {
-            "question": "The sum of the present ages of a mother and daughter is 63. Three years back if the age of the mother was double that of the daughter, then the present age of the daughter is",
-            "a": "21 years",
-            "b": "24 years",
-            "c": "22 years",
-            "d": "15 years",
+            "question": "Nchikota afọ ndụ nne na nwa nwanyị ugbu a bụ 63. Afọ atọ gara aga ọ bụrụ na afọ nne bụ okpukpu abụọ nke nwa nwanyị, mgbe ahụ afọ ndụ nwa nwanyị ugbu a bụ",
+            "a": "Afọ 21",
+            "b": "Afọ 24",
+            "c": "Afọ 22",
+            "d": "Afọ 15",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let mother's present age is x and daughters present age is y! !Given that!x+y = 63 ...(1)!and! !x-3 = 2(y-3)!x-3 = 2y-6!x-2y = -6+3!x-2y = -3 ...(2)! !By simultaneously solving equation(1) and equation(2) We'll find!y = 22! !Hence present age of the daughter is 22 years."
+            "explain": "Ka afọ ndụ nne ugbu a bụrụ x na afọ ndụ nwa nwanyị ugbu a bụ y! !Nyere na!x+y = 63 ...(1)!na! !x-3 = 2(y-3)!x-3 = 2y-6!x-2y = -6+3!x-2y = -3 ...(2)! !Site n'idozi nha anya (1) na nha anya (2) n'otu oge, anyị ga-ahụ!y = 22! !Ya mere afọ ndụ nwa nwanyị ugbu a bụ afọ 22."
         },
         {
-            "question": "The product of the ages of two class fellows is 24. If the greater fellow is 3/2 times the smaller one, then the age of the smaller fellow is",
+            "question": "Ngwaahịa afọ ndụ ụmụ klas abụọ bụ 24. Ọ bụrụ na onye ka ukwuu bụ 3/2 ugboro onye nke nta, mgbe ahụ afọ onye nke nta bụ",
             "a": "8",
             "b": "6",
             "c": "4",
@@ -361,10 +361,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of the greater fellow is x and present age of smaller fellow is y.! !Given that xy = 24 ...(1)!and! !x = (3/2)y!Put value of x in equation(1).! !(3/2)y^2 = 24!y^2 = 24*(2/3)!y^2 = 16!y = 4! !Hence age of smaller fellow is 4 years."
+            "explain": "Ka afọ ndụ onye ka ukwuu ugbu a bụrụ x na afọ ndụ onye nke nta ugbu a bụ y.! !Nyere na xy = 24 ...(1)!na! !x = (3/2)y!Tinye uru x na nha anya (1).! !(3/2)y^2 = 24!y^2 = 24*(2/3)!y^2 = 16!y = 4! !Ya mere afọ onye nke nta bụ afọ 4."
         },
         {
-            "question": "Meena is thrice as old as Sheraz. Fatima will be twice as old as Meena 6 years hence. Six years ago Sheraz was five years old. What is Fatima's present age?",
+            "question": "Meena ji okpukpu atọ tọọ Sheraz. Fatima ga-eji okpukpu abụọ tọọ Meena afọ 6 na-abịa. Afọ isii gara aga Sheraz dị afọ ise. Gịnị bụ afọ ndụ Fatima ugbu a?",
             "a": "65",
             "b": "70",
             "c": "68",
@@ -372,10 +372,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of Sheraz is x and present age of Fatima is y.! !So,!Meena's age = 3x! !Given that!y+6 = 2(3x+6) ...(1)!and!x-6 = 5!x = 11! !Put value of x in equation(1)! !y+6 = 2(33+6)!y+6 = 78!y = 72! !Hence Fatima's present age is 72 years."
+            "explain": "Ka afọ ndụ Sheraz ugbu a bụrụ x na afọ ndụ Fatima ugbu a bụ y.! !Yabụ,!Afọ Meena = 3x! !Nyere na!y+6 = 2(3x+6) ...(1)!na!x-6 = 5!x = 11! !Tinye uru x na nha anya (1)! !y+6 = 2(33+6)!y+6 = 78!y = 72! !Ya mere afọ ndụ Fatima ugbu a bụ afọ 72."
         },
         {
-            "question": "C's mother was four times as old as C ten years ago. After 10 years she will be twice as old as C is now. How old C is now?",
+            "question": "Nne C ji okpukpu anọ tọọ C afọ iri gara aga. Mgbe afọ 10 gachara, ọ ga-eji okpukpu abụọ tọọ C ugbu a. Afọ ole ka C dị ugbu a?",
             "a": "15",
             "b": "30",
             "c": "20",
@@ -383,10 +383,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let C's present age is x and his mother's age is y.! !Given that!y = 4(x-10)!y = 4x-40!4x-y = 40 ...(1)! !and!y+10 = 2x!2x-y = 10 ...(2).! !By simultaneously solving equation(1) and equation(2) we find! x = 15! !Hence C is 15 years old."
+            "explain": "Ka afọ ndụ C ugbu a bụrụ x na afọ nne ya bụ y.! !Nyere na!y = 4(x-10)!y = 4x-40!4x-y = 40 ...(1)! !na!y+10 = 2x!2x-y = 10 ...(2).! !Site n'idozi nha anya (1) na nha anya (2) n'otu oge anyị na-ahụ! x = 15! !Ya mere C dị afọ 15."
         },
         {
-            "question": "A mother's age after 5 years, will be twice the age of her daughter. The difference of their ages is 19. What is the age of mother?",
+            "question": "Afọ nne mgbe afọ 5 gachara, ga-abụ okpukpu abụọ nke afọ nwa ya nwanyị. Ihe dị iche n'afọ ndụ ha bụ 19. Gịnị bụ afọ nne?",
             "a": "13",
             "b": "33",
             "c": "15",
@@ -394,10 +394,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of daughter is x and present age of mother is y.! !Given that!y+5 = 2(x+5)!y+5 = 2x+10!5-10 = 2x-y!y-2x = 5 ...(1)! !and also given that!y-x = 19 ...(2)! !By simultaneously solving equation(1) and equation(2) we can find!y = 33! !Hence mothers present age is 33 years."
+            "explain": "Ka afọ ndụ nwa nwanyị ugbu a bụrụ x na afọ ndụ nne ugbu a bụ y.! !Nyere na!y+5 = 2(x+5)!y+5 = 2x+10!5-10 = 2x-y!y-2x = 5 ...(1)! !na nyekwara na!y-x = 19 ...(2)! !Site n'idozi nha anya (1) na nha anya (2) n'otu oge anyị nwere ike ịchọta!y = 33! !Ya mere afọ ndụ nne ugbu a bụ afọ 33."
         },
         {
-            "question": "The ages of X and Y are in the ratio 7/4. If the sum of their present ages is 55, then the age of X is",
+            "question": "Afọ ndụ X na Y dị n'oke 7/4. Ọ bụrụ na nchikota afọ ndụ ha ugbu a bụ 55, mgbe ahụ afọ X bụ",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -405,10 +405,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!x/y = 7/4 ...(1)! !and!x+y = 55 ...(2)! !From equation(1)!4x = 7y!y = (4/7)x! !Put value of y in equation(2)!x + (4/7)x = 55!(7x+4x)/7 = 55!11x = 385!x = 35! !Hence the age of x is 35 years."
+            "explain": "Nyere na!x/y = 7/4 ...(1)! !na!x+y = 55 ...(2)! !Site na nha anya (1)!4x = 7y!y = (4/7)x! !Tinye uru y na nha anya (2)!x + (4/7)x = 55!(7x+4x)/7 = 55!11x = 385!x = 35! !Ya mere afọ x bụ afọ 35."
         },
         {
-            "question": "The sum of the ages of a son and a father is 64. After 4 years the age of father will be three times that of his son's. The age of father is",
+            "question": "Nchikota afọ ndụ nwa nwoke na nna bụ 64. Mgbe afọ 4 gachara, afọ nna ga-abụ okpukpu atọ nke nwa ya nwoke. Afọ nna bụ",
             "a": "46",
             "b": "50",
             "c": "44",
@@ -416,10 +416,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!x+y = 64 ...(1)! !and!y+4 = 3(x+4)!y+4 = 3x + 12!y-3x = 8 ...(2)! !Put value of x from equation(1) in equation(2)! !y-3(64-y) = 8!y-192+3y = 8!4y = 200!y = 50! !Hence present age of the father is 50 years."
+            "explain": "Ka afọ ndụ nwa nwoke ugbu a bụrụ x na afọ ndụ nna ugbu a bụ y.! !Nyere na!x+y = 64 ...(1)! !na!y+4 = 3(x+4)!y+4 = 3x + 12!y-3x = 8 ...(2)! !Tinye uru x site na nha anya (1) na nha anya (2)! !y-3(64-y) = 8!y-192+3y = 8!4y = 200!y = 50! !Ya mere afọ ndụ nna ugbu a bụ afọ 50."
         },
         {
-            "question": "Ages of A and B are in ratio 8/7. 27 years ago their ages were in the ratio 5/4. The age of B is",
+            "question": "Afọ A na B dị n'oke 8/7. Afọ 27 gara aga afọ ndụ ha dị n'oke 5/4. Afọ B bụ",
             "a": "63",
             "b": "65",
             "c": "68",
@@ -427,10 +427,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A/B = 8/7 ...(1)! !and!(A-27)/(B-27) = 5/4!5B-135 = 4A-108 ...(2)! !From equation(1) we have!A = (8/7)B! !Put value of A in equation(2)!5B-135 = 4*[(8/7)B]-108!5B-27 = (32/7)B!5B-(32/7)B = 27!(35B-32B)/7 = 27!3B = 189!B = 63! !Hence the age of B is 63 years."
+            "explain": "Nyere na!A/B = 8/7 ...(1)! !na!(A-27)/(B-27) = 5/4!5B-135 = 4A-108 ...(2)! !Site na nha anya (1) anyị nwere!A = (8/7)B! !Tinye uru A na nha anya (2)!5B-135 = 4*[(8/7)B]-108!5B-27 = (32/7)B!5B-(32/7)B = 27!(35B-32B)/7 = 27!3B = 189!B = 63! !Ya mere afọ B bụ afọ 63."
         },
         {
-            "question": "A father is 15 times as old as his son. however, 18 years later, he will be only thrice as old as the son. What is the father's present age?",
+            "question": "Otu nna ji okpukpu 15 tọọ nwa ya nwoke. Otú ọ dị, afọ 18 ka e mesịrị, ọ ga-eji nanị okpukpu atọ tọọ nwa ya nwoke. Gịnị bụ afọ ndụ nna ugbu a?",
             "a": "21",
             "b": "25",
             "c": "45",
@@ -438,10 +438,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of the son is x and present age of Father is y.! !Given that!y = 15x!15x-y = 0 ...(1)! !and also given that!y+18 = 3(x+18)!y+18 = 3x+54!y-3x = 36 ...(2)! !By simultaneously solving equation(1) and equation(2)!y = 45! !Hence father's present age is 45 years."
+            "explain": "Ka afọ ndụ nwa nwoke ugbu a bụrụ x na afọ ndụ Nna ugbu a bụ y.! !Nyere na!y = 15x!15x-y = 0 ...(1)! !na nyekwara na!y+18 = 3(x+18)!y+18 = 3x+54!y-3x = 36 ...(2)! !Site n'idozi nha anya (1) na nha anya (2) n'otu oge!y = 45! !Ya mere afọ ndụ nna ugbu a bụ afọ 45."
         },
         {
-            "question": "Ten years ago a father was seven times as old as his son, two years hence, twice his age will be equal to five times his son's. What is the present age of son?",
+            "question": "Afọ iri gara aga, nna ji okpukpu asaa tọọ nwa ya nwoke, afọ abụọ na-abịa, okpukpu abụọ nke afọ ya ga-aha ka okpukpu ise nke nwa ya nwoke. Gịnị bụ afọ ndụ nwa nwoke ugbu a?",
             "a": "14",
             "b": "20",
             "c": "16",
@@ -449,10 +449,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!y-10 = 7(x-10)!y-10 = 7x-70!y-7x = -70+10!7x-y = 60 ...(1)! ! and also given that!2(y+2) = 5(x+2)!2y+4 = 5x+10!2y-5x = 6 ...(2)By simultaneously soving equation(1) and equation(2)!x = 14! !Hence present age of son is 14 years."
+            "explain": "Ka afọ ndụ nwa nwoke ugbu a bụrụ x na afọ ndụ nna ugbu a bụ y.! !Nyere na!y-10 = 7(x-10)!y-10 = 7x-70!y-7x = -70+10!7x-y = 60 ...(1)! ! na nyekwara na!2(y+2) = 5(x+2)!2y+4 = 5x+10!2y-5x = 6 ...(2)Site n'idozi nha anya (1) na nha anya (2) n'otu oge!x = 14! !Ya mere afọ ndụ nwa nwoke ugbu a bụ afọ 14."
         },
         {
-            "question": "Ten years ago Akram was thrice as old as Aslam was, but 10 years hence, he will be only twice as old. What is Akram's present age?",
+            "question": "Afọ iri gara aga Akram ji okpukpu atọ tọọ Aslam, mana afọ 10 na-abịa, ọ ga-eji nanị okpukpu abụọ tọọ ya. Gịnị bụ afọ ndụ Akram ugbu a?",
             "a": "30",
             "b": "50",
             "c": "60",
@@ -460,10 +460,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Aslam's present age is x and Akram's present age is y.! !Given that!y-10 = 3(x-10)!y-10 = 3x-30!y-3x = -20!3x-y = 20 ...(1)! !and also given that!y+10 = 2(x+10)!y+10 = 2x+20!y-2x = 10 ...(2)! !By simultaneously solving equation(1) and equation(2)!y=70! !Hence Akram's present age is 70 years."
+            "explain": "Ka afọ ndụ Aslam ugbu a bụrụ x na afọ ndụ Akram ugbu a bụ y.! !Nyere na!y-10 = 3(x-10)!y-10 = 3x-30!y-3x = -20!3x-y = 20 ...(1)! !na nyekwara na!y+10 = 2(x+10)!y+10 = 2x+20!y-2x = 10 ...(2)! !Site n'idozi nha anya (1) na nha anya (2) n'otu oge!y=70! !Ya mere afọ ndụ Akram ugbu a bụ afọ 70."
         },
         {
-            "question": "20 years ago my age was 1/3 of what it is now. What is my present age?",
+            "question": "Afọ 20 gara aga afọ m bụ 1/3 nke ihe ọ bụ ugbu a. Gịnị bụ afọ m ugbu a?",
             "a": "30",
             "b": "33",
             "c": "36",
@@ -471,10 +471,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let my present age is x.! !Given that!x-20 = (1/3)x!3x-60 = x!2x = 60!x = 30! !Hence my present age is 30 years."
+            "explain": "Ka afọ m ugbu a bụrụ x.! !Nyere na!x-20 = (1/3)x!3x-60 = x!2x = 60!x = 30! !Ya mere afọ m ugbu a bụ afọ 30."
         },
         {
-            "question": "The average age of A and B is 20. If C were to replace A, the average would be 19, and if B was replaced by C, the average would be 21. The age of C is",
+            "question": "Nkezi afọ A na B bụ 20. Ọ bụrụ na C ga-anọchi A, nkezi ga-abụ 19, ma ọ bụrụ na C nọchiri B, nkezi ga-abụ 21. Afọ C bụ",
             "a": "18",
             "b": "19",
             "c": "20",
@@ -482,10 +482,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!(A+B)/2 = 20!A+B = 40 ...(1)! !and!(C+B)/2 = 19!C+B = 38 ...(2)! !and!(A+C)/2 = 21!A+C = 42 ...(3)! !Put value of A from equation(1) in equation(3)!(40-B)+C = 42!C-B = 2 ...(4)! !By simultaneously solving equation(2) and equation(4)!C = 20! !Hence C is 20 years old."
+            "explain": "Nyere na!(A+B)/2 = 20!A+B = 40 ...(1)! !na!(C+B)/2 = 19!C+B = 38 ...(2)! !na!(A+C)/2 = 21!A+C = 42 ...(3)! !Tinye uru A site na nha anya (1) na nha anya (3)!(40-B)+C = 42!C-B = 2 ...(4)! !Site n'idozi nha anya (2) na nha anya (4) n'otu oge!C = 20! !Ya mere C dị afọ 20."
         },
         {
-            "question": "The ratio of the ages of two friends A and B is 3/2. However if the age of A is decreased by 10 and that of B is increased by 10 then the original ratio is reversed. Age of A is",
+            "question": "Oke afọ ndụ ndị enyi abụọ A na B bụ 3/2. Otú ọ dị, ọ bụrụ na afọ A belatara site na 10 na nke B mụbara site na 10, mgbe ahụ oke mbụ ahụ na-agbanwe. Afọ A bụ",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -493,10 +493,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A/B = 3/2!2A = 3B!2A-3B = 0 ...(1)! !and also given that!(A-10)/(B+10) = 2/3!3A-30 = 2B+20!3A-2B = 50 ...(2)! !By simultaneously solving equation(1) and equation(2)!A = 30! !Hence age of A is 30 years."
+            "explain": "Nyere na!A/B = 3/2!2A = 3B!2A-3B = 0 ...(1)! !na nyekwara na!(A-10)/(B+10) = 2/3!3A-30 = 2B+20!3A-2B = 50 ...(2)! !Site n'idozi nha anya (1) na nha anya (2) n'otu oge!A = 30! !Ya mere afọ A bụ afọ 30."
         },
         {
-            "question": "The sum of the ages of two children is 12  and their product is 32. The age of elder one is",
+            "question": "Nchikota afọ ndụ ụmụaka abụọ bụ 12 na ngwaahịa ha bụ 32. Afọ onye okenye bụ",
             "a": "2",
             "b": "3",
             "c": "4",
@@ -504,10 +504,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let age of younger child is x and age of elder child is y.! !Given that!x+y = 12 ...(1)! !and!xy = 32!x = 32/y! !Put value of x in equation(1)!(32/y)+y = 12!32+(y^2) = 12y!(y^2)-12y+32 = 0!(y^2)-8y-4y+32 = 0!y(y-8)+4(y-8) = 0!(y-8)(y+4) = 0!y = -4 (impossible)!or!y = 8! !Hence age of elder child is 8 years."
+            "explain": "Ka afọ nwa nta bụrụ x na afọ nwa okenye bụ y.! !Nyere na!x+y = 12 ...(1)! !na!xy = 32!x = 32/y! !Tinye uru x na nha anya (1)!(32/y)+y = 12!32+(y^2) = 12y!(y^2)-12y+32 = 0!(y^2)-8y-4y+32 = 0!y(y-8)+4(y-8) = 0!(y-8)(y+4) = 0!y = -4 (agaghị ekwe omume)!ma ọ bụ!y = 8! !Ya mere afọ nwa okenye bụ afọ 8."
         },
         {
-            "question": "The ratio of A's age and B's age is 3/7, and the difference of their ages is 16 years. Find the age of B.",
+            "question": "Oke afọ A na afọ B bụ 3/7, na ihe dị iche n'afọ ndụ ha bụ afọ 16. Chọta afọ B.",
             "a": "25",
             "b": "26",
             "c": "27",
@@ -515,12 +515,12 @@
             "answer": "",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "We can simply check it from options. If John's cousins age is 7 then John's age is 42!and!1/6 0f 42 = 7!Hence 7 fulfills the required condition.",
+            "explain": "Anyị nwere ike ịlele ya site na nhọrọ. Ọ bụrụ na afọ nwa nwanne nna John bụ 7 mgbe ahụ afọ John bụ 42!na!1/6 0f 42 = 7!Ya mere 7 na-emezu ọnọdụ achọrọ.",
             "e": "28",
-            "f": "Given that!A/B = 3/7 ...(1)! !and!B-A = 16 ...(2)!Put value of A from equation(1) in equation(2)!B-(3/7)B = 16!(7B-3B)/7 = 16!4B = 112!B = 28! !Hence Age of B is 28 years."
+            "f": "Nyere na!A/B = 3/7 ...(1)! !na!B-A = 16 ...(2)!Tinye uru A site na nha anya (1) na nha anya (2)!B-(3/7)B = 16!(7B-3B)/7 = 16!4B = 112!B = 28! !Ya mere afọ B bụ afọ 28."
         },
         {
-            "question": "Tina is twice as old as David. 15 years ago, Tina's age was 5 times the age of David. What is the present age of Tina?",
+            "question": "Tina ji okpukpu abụọ tọọ David. Afọ 15 gara aga, afọ Tina bụ okpukpu 5 nke afọ David. Gịnị bụ afọ ndụ Tina ugbu a?",
             "a": "20",
             "b": "35",
             "c": "40",
@@ -528,10 +528,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let David's age is x and Tina's age is y.! !Given that!y = 2x!y-2x = 0 ...(1)! !and also given that!y-15 = 5(x-15)!y-15 = 5x-75!y-5x = -60 ...(2)! !By simultaneously solving equation(1) and equation(2)!y = 40! !Hence Tina's present age is 40 years."
+            "explain": "Ka afọ David bụrụ x na afọ Tina bụ y.! !Nyere na!y = 2x!y-2x = 0 ...(1)! !na nyekwara na!y-15 = 5(x-15)!y-15 = 5x-75!y-5x = -60 ...(2)! !Site n'idozi nha anya (1) na nha anya (2) n'otu oge!y = 40! !Ya mere afọ ndụ Tina ugbu a bụ afọ 40."
         },
         {
-            "question": "The present age of A is 45 yeras. 5 years ago the age of A was 5 times the age of his son B. How old is B now?",
+            "question": "Afọ ndụ A ugbu a bụ afọ 45. Afọ 5 gara aga afọ A bụ okpukpu 5 nke afọ nwa ya nwoke B. Afọ ole ka B dị ugbu a?",
             "a": "5",
             "b": "15",
             "c": "13",
@@ -539,10 +539,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A = 45! !and!A-5 = 5(B-5)!40 = 5B-25!65 = 5B!B = 13! !Hence B is 13 years old now."
+            "explain": "Nyere na!A = 45! !na!A-5 = 5(B-5)!40 = 5B-25!65 = 5B!B = 13! !Ya mere B dị afọ 13 ugbu a."
         },
         {
-            "question": "A's age is 3/4 of that of B's. Two years ago A's age was 1/2 of what B will be in 4 years. How old is A now?",
+            "question": "Afọ A bụ 3/4 nke afọ B. Afọ abụọ gara aga afọ A bụ 1/2 nke ihe B ga-abụ n'ime afọ 4. Afọ ole ka A dị ugbu a?",
             "a": "17",
             "b": "12",
             "c": "20",
@@ -550,10 +550,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A = (3/4)B ...(1)! !and!A-2 = (1/2)(B+4)!2A-4 = B+4!2A-B = 8! !Put value of B from equation(1)!2A-(4/3)A = 8!6A-4A = 24!2A = 24!A = 12! !Hence A is 12 years old now."
+            "explain": "Nyere na!A = (3/4)B ...(1)! !na!A-2 = (1/2)(B+4)!2A-4 = B+4!2A-B = 8! !Tinye uru B site na nha anya (1)!2A-(4/3)A = 8!6A-4A = 24!2A = 24!A = 12! !Ya mere A dị afọ 12 ugbu a."
         },
         {
-            "question": "A father is 3 years older than 3 times the age of his son. If the sum of their ages is 31 years, how old was father 3 years ago?",
+            "question": "Otu nna tọrọ nwa ya nwoke afọ 3 karịa okpukpu 3 nke afọ ya. Ọ bụrụ na nchikota afọ ndụ ha bụ afọ 31, afọ ole ka nna dị afọ 3 gara aga?",
             "a": "21",
             "b": "18",
             "c": "14",
@@ -561,10 +561,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!y = 3x+3 ...(1)! !and!x+y = 31!x = 31-y! !Put value of x in equation(1)!y = 3(31-y)+3!y = 93-3y+3!4y = 96!y = 24! !Three years ago!y = 24-3!y = 21! !Hence father was 21 years old 3 years ago."
+            "explain": "Ka afọ ndụ nwa nwoke ugbu a bụrụ x na afọ ndụ nna ugbu a bụ y.! !Nyere na!y = 3x+3 ...(1)! !na!x+y = 31!x = 31-y! !Tinye uru x na nha anya (1)!y = 3(31-y)+3!y = 93-3y+3!4y = 96!y = 24! !Afọ atọ gara aga!y = 24-3!y = 21! !Ya mere nna dị afọ 21 afọ 3 gara aga."
         },
         {
-            "question": "X is 4 times as old as y. 4 years ago, X was 10 times as old as Y. What will be the ratio of their ages 6 years hence?",
+            "question": "X ji okpukpu 4 tọọ y. Afọ 4 gara aga, X ji okpukpu 10 tọọ Y. Gịnị ga-abụ oke afọ ndụ ha afọ 6 na-abịa?",
             "a": "5/2",
             "b": "3/5",
             "c": "5/4",
@@ -572,10 +572,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!X = 4Y ...(1)! !and!X-4 = 10(Y-4)!X-4 = 10Y-40!X-10Y = -36!10Y-X = 36 ...(2)! !Put value of X from equation(1) in equation(2)!10Y-4Y = 36!6Y = 36!Y = 6! !Put value of Y in equation(1)!X = 4*6!X = 24! !After 6 years!Y = 24+6!Y = 30!and!X = 6+6!X = 12! !Ratio between X and Y is!30/12 = 5/2! !Hence after 6 years ratio between ages of X and Y will be 5/2."
+            "explain": "Nyere na!X = 4Y ...(1)! !na!X-4 = 10(Y-4)!X-4 = 10Y-40!X-10Y = -36!10Y-X = 36 ...(2)! !Tinye uru X site na nha anya (1) na nha anya (2)!10Y-4Y = 36!6Y = 36!Y = 6! !Tinye uru Y na nha anya (1)!X = 4*6!X = 24! !Mgbe afọ 6 gachara!Y = 24+6!Y = 30!na!X = 6+6!X = 12! !Oke dị n'etiti X na Y bụ!30/12 = 5/2! !Ya mere mgbe afọ 6 gachara oke dị n'etiti afọ X na Y ga-abụ 5/2."
         },
         {
-            "question": "The ages of C and D are in 6/11 and E is 6 years younger than D. If the sum of ages is 134, then what is the age of D?",
+            "question": "Afọ C na D dị na 6/11 na E ji afọ 6 tọọ D. Ọ bụrụ na nchikota afọ bụ 134, mgbe ahụ gịnị bụ afọ D?",
             "a": "65",
             "b": "70",
             "c": "35",
@@ -583,10 +583,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!C/D = 6/11!C = (6/11)D ...(1)! !and!C+D+E = 134! !As E is 6 years younger from D so we can put D-6 instead of D!C+D+D-6 = 134!C+2D = 140!Put value of C from equation(1)!(6/11)D+2D = 140!6D+22D = 140!28D = 1540!D = 55! !Hence D is 55 years old."
+            "explain": "Nyere na!C/D = 6/11!C = (6/11)D ...(1)! !na!C+D+E = 134! !Dịka E ji afọ 6 tọọ D, anyị nwere ike itinye D-6 kama D!C+D+D-6 = 134!C+2D = 140!Tinye uru C site na nha anya (1)!(6/11)D+2D = 140!6D+22D = 140!28D = 1540!D = 55! !Ya mere D dị afọ 55."
         },
         {
-            "question": "Kamal's age is 1/6 of his father's age. If kamal's 8th birthday was celebrated 2 years ago, what is father's present age?",
+            "question": "Afọ Kamal bụ 1/6 nke afọ nna ya. Ọ bụrụ na emere ụbọchị ọmụmụ Kamal nke 8 afọ 2 gara aga, gịnị bụ afọ nna ugbu a?",
             "a": "2",
             "b": "3",
             "c": "6",
@@ -594,10 +594,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Kamal's present age is x and his father's present age is y.! !Given that!y = 6x ...(1)! !and!x-2 = 8!x = 10! !Put value of x in equation(1)!y = 6*10!y = 60! !Hence father's present age is 60 years."
+            "explain": "Ka afọ ndụ Kamal ugbu a bụrụ x na afọ nna ya ugbu a bụ y.! !Nyere na!y = 6x ...(1)! !na!x-2 = 8!x = 10! !Tinye uru x na nha anya (1)!y = 6*10!y = 60! !Ya mere afọ nna ugbu a bụ afọ 60."
         },
         {
-            "question": "3 years ago, the average age of C and D was 18 years. With E joining them, the average becomes 22 years. How old is E now?",
+            "question": "Afọ 3 gara aga, nkezi afọ C na D bụ afọ 18. Site na E sonyere ha, nkezi na-aghọ afọ 22. Afọ ole ka E dị ugbu a?",
             "a": "24",
             "b": "27",
             "c": "28",
@@ -605,10 +605,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that![(C-3)+(D-3)]/2 = 18!C-3+D-3 = 36!C+D = 42 ...(1)! !and also given that!(C+D+E)/3 = 22!C+D+E = 66! !Put value of C+D from equation(1)!42+E = 66!E = 66-42!E = 24! !Hence E is 24 years old now."
+            "explain": "Nyere na![(C-3)+(D-3)]/2 = 18!C-3+D-3 = 36!C+D = 42 ...(1)! !na nyekwara na!(C+D+E)/3 = 22!C+D+E = 66! !Tinye uru C+D site na nha anya (1)!42+E = 66!E = 66-42!E = 24! !Ya mere E dị afọ 24 ugbu a."
         },
         {
-            "question": "Bill's age is 1/3 of Mike's age, who is 60% of James' age. Tom is twice as old as Mike. What is the ratio of Bill's age to Tom's age?",
+            "question": "Afọ Bill bụ 1/3 nke afọ Mike, onye bụ 60% nke afọ James. Tom ji okpukpu abụọ tọọ Mike. Gịnị bụ oke afọ Bill na afọ Tom?",
             "a": "1/6",
             "b": "1/3",
             "c": "3/1",
@@ -616,10 +616,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Bill's age is Z, Mike's age is Y and Tom's age is X.! !Given that!Z = (1/3)Y!and!Y = (60/100)X!Y = (6/10)X! !Tom's Age is double of Mike's age mean his age is 2y.!Now Bill's age is (1/3)Y and Tom's age is 2Y and ratio between them is![(1/3)Y] / 2Y!(1/3)*(1/2) = 1/6! !Hence ratio between Bill's and Tom's age is 1/6."
+            "explain": "Ka afọ Bill bụrụ Z, afọ Mike bụ Y na afọ Tom bụ X.! !Nyere na!Z = (1/3)Y!na!Y = (60/100)X!Y = (6/10)X! !Afọ Tom bụ okpukpu abụọ nke afọ Mike pụtara na afọ ya bụ 2y.!Ugbu a afọ Bill bụ (1/3)Y na afọ Tom bụ 2Y na oke dị n'etiti ha bụ![(1/3)Y] / 2Y!(1/3)*(1/2) = 1/6! !Ya mere oke dị n'etiti afọ Bill na Tom bụ 1/6."
         },
         {
-            "question": "In 1975, A was thrice as old as B but in 1979, A was only twice as old as B was. How old was A in 1985?",
+            "question": "N'afọ 1975, A ji okpukpu atọ tọọ B mana n'afọ 1979, A ji nanị okpukpu abụọ tọọ B. Afọ ole ka A dị n'afọ 1985?",
             "a": "25",
             "b": "20",
             "c": "15",
@@ -627,10 +627,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let A's age in 1985 was X.! !Given that!X-10 = 3(B-10)!X-10 = 3B-30!3B-X = 20 ...(1)! !and!X-6 = 2(B-6)!X-6 = 2B-12!2B-X = 6 ...(2)! !By simultaneously solving equation(1) and (2) we have!X = 22! !Hence A's age in 1985 was 22 years."
+            "explain": "Ka afọ A n'afọ 1985 bụrụ X.! !Nyere na!X-10 = 3(B-10)!X-10 = 3B-30!3B-X = 20 ...(1)! !na!X-6 = 2(B-6)!X-6 = 2B-12!2B-X = 6 ...(2)! !Site n'idozi nha anya (1) na (2) n'otu oge anyị nwere!X = 22! !Ya mere afọ A n'afọ 1985 bụ afọ 22."
         },
         {
-            "question": "If 1/2 x year ago A was 12 and 1/2 x years from now he will be 2x years old, how old will he be 3x years from now?",
+            "question": "Ọ bụrụ na 1/2 x afọ gara aga A dị 12 na 1/2 x afọ site ugbu a ọ ga-adị 2x afọ, afọ ole ka ọ ga-adị 3x afọ site ugbu a?",
             "a": "18",
             "b": "24",
             "c": "30",
@@ -638,10 +638,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A-(1/2)x = 12!2A-x = 24 ...(1)!and!A+(1/2)x = 2x!A+(1/2)x-2x = 0!A+(x-4x)/2 = 0!A-(3/2)x = 0!2A-3x = 0 ...(2)!By simultaneously solving equation(1) and (2) we have!x = 12!and!A = 18! !Now!3x = 3*12 = 36! !After 3x years A will be!18+36 = 54 years old"
+            "explain": "Nyere na!A-(1/2)x = 12!2A-x = 24 ...(1)!na!A+(1/2)x = 2x!A+(1/2)x-2x = 0!A+(x-4x)/2 = 0!A-(3/2)x = 0!2A-3x = 0 ...(2)!Site n'idozi nha anya (1) na (2) n'otu oge anyị nwere!x = 12!na!A = 18! !Ugbu a!3x = 3*12 = 36! !Mgbe afọ 3x gachara A ga-abụ!18+36 = afọ 54"
         },
         {
-            "question": "The difference of the ages of two brothers is 2 and the difference of the square of their ages is 16. The age of smaller one is?",
+            "question": "Ihe dị iche n'afọ ndụ ụmụnne abụọ bụ 2 na ihe dị iche na square nke afọ ndụ ha bụ 16. Afọ onye nke nta bụ?",
             "a": "4",
             "b": "5",
             "c": "2",
@@ -649,7 +649,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of elder brother is y and present age of younger brother is x.! !Given that!y-x = 2 ...(1)! !and!(y^2)-(x^2) = 16!(y+x)(y-x) = 16! !Put value of (y-x) from equation(1)!2(y+x) = 16!y+x = 8 ...(2)! !By simultaneously solving equation(1) and equation(2) we have!y = 5!and!x = 3! !Hence present age of younger brother is 3 years."
+            "explain": "Ka afọ ndụ nwanne nwoke okenye ugbu a bụrụ y na afọ ndụ nwanne nwoke nke nta ugbu a bụ x.! !Nyere na!y-x = 2 ...(1)! !na!(y^2)-(x^2) = 16!(y+x)(y-x) = 16! !Tinye uru (y-x) site na nha anya (1)!2(y+x) = 16!y+x = 8 ...(2)! !Site n'idozi nha anya (1) na nha anya (2) n'otu oge anyị nwere!y = 5!na!x = 3! !Ya mere afọ ndụ nwanne nwoke nke nta ugbu a bụ afọ 3."
         }
     ]
 }

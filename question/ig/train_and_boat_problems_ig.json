@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds.What is the length of the train?",
+            "question": "Ụgbọ oloko na-agba ọsọ nke 60 km/hr na-agafe osisi n'ime sekọnd 9. Gịnị bụ ogologo ụgbọ oloko ahụ?",
             "a": "120 m",
             "b": "180 m",
             "c": "324 m",
@@ -9,21 +9,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 60 * (5/18) = 50/3 m/sec! !Length of the train = (Speed x Time) = (50/3) * 9 = 150 meters"
+            "explain": "Ọsọ = 60 * (5/18) = 50/3 m/sec! !Ogologo ụgbọ oloko = (Ọsọ x Oge) = (50/3) * 9 = 150 mita"
         },
         {
-            "question": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",
-            "a": "2 hours",
-            "b": "3 hours",
-            "c": "4 hours",
-            "d": "5 hours",
+            "question": "Ụgbọ mmiri nwere ike iji ọsọ nke 13 km/hr gaa na mmiri dị jụụ. Ọ bụrụ na ọsọ nke iyi ahụ bụ 4 km/hr, chọta oge ụgbọ mmiri ahụ ga-eji gaa 68 km n'okpuru mmiri.",
+            "a": "awa 2",
+            "b": "awa 3",
+            "c": "awa 4",
+            "d": "awa 5",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed downstream = (13 + 4) km/hr = 17 km/hr! !Time taken to travel 68 km downstream = (68/17)hrs!= 4 hours"
+            "explain": "Ọsọ n'okpuru mmiri = (13 + 4) km/hr = 17 km/hr! !Oge eji gaa 68 km n'okpuru mmiri = (68/17)hrs!= awa 4"
         },
         {
-            "question": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is",
+            "question": "Ọsọ nwoke na mmiri bụ 15 km/hr na ọsọ nke mmiri bụ 2.5 km/hr. Ọsọ nwoke ahụ megide mmiri bụ",
             "a": "8.5 km/hr",
             "b": "9 km/hr",
             "c": "10 km/hr",
@@ -31,32 +31,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Man's rate in still water = (15 - 2.5) km/hr!= 12.5 km/hr! !Man's rate against the current = (12.5 - 2.5) km/hr!= 10 km/hr"
+            "explain": "Ọsọ nwoke na mmiri dị jụụ = (15 - 2.5) km/hr!= 12.5 km/hr! !Ọsọ nwoke megide mmiri = (12.5 - 2.5) km/hr!= 10 km/hr"
         },
         {
-            "question": "A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
-            "a": "65 sec",
-            "b": "89 sec",
-            "c": "100 sec",
-            "d": "150 sec",
+            "question": "Ụgbọ oloko dị mita 240 n'ogologo na-agafe osisi n'ime sekọnd 24. Ogologo oge ole ka ọ ga-ewe iji gafee ebe a na-adọba ụgbọala dị mita 650 n'ogologo?",
+            "a": "65 sekọnd",
+            "b": "89 sekọnd",
+            "c": "100 sekọnd",
+            "d": "150 sekọnd",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = (240/24) = 10m/s! !Hence, Required time = (240+650)/10!= 89 seconds"
+            "explain": "Ọsọ = (240/24) = 10m/s! !N'ihi ya, Oge achọrọ = (240+650)/10!= 89 sekọnd"
         },
         {
-            "question": "A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?",
-            "a": "40 sec",
-            "b": "42 sec",
-            "c": "45 sec",
-            "d": "48 sec",
+            "question": "Ụgbọ oloko dị mita 360 n'ogologo na-agba ọsọ nke 45 km/hr. N'oge ole ka ọ ga-agafe àkwà mmiri dị mita 140 n'ogologo?",
+            "a": "40 sekọnd",
+            "b": "42 sekọnd",
+            "c": "45 sekọnd",
+            "d": "48 sekọnd",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Formula for converting from km/hr to m/s is!X km/hr = x * (5/18)m/s! !Therefore,!Speed = 45 * (5/18) = 25/2 m/s! !Total distance to be covered = (360 + 140) m = 500 m! !Formula for finding Time = (Distance/Speed)! !Hence, Required time = (500*2)/25!= 40 seconds"
+            "explain": "Ụzọ isi gbanwee site na km/hr gaa na m/s bụ!X km/hr = x * (5/18)m/s! !Ya mere,!Ọsọ = 45 * (5/18) = 25/2 m/s! !Ogologo njem a ga-aga = (360 + 140) m = 500 m! !Ụzọ isi chọta Oge = (Ogologo/Ọsọ)! !N'ihi ya, Oge achọrọ = (500*2)/25!= 40 sekọnd"
         },
         {
-            "question": "A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?",
+            "question": "Ụgbọ oloko na-ebu ibu na-agba ọsọ nke 72 kmph ma na-agafe ebe a na-adọba ụgbọala dị mita 250 n'ogologo n'ime sekọnd 26. Gịnị bụ ogologo ụgbọ oloko na-ebu ibu ahụ?",
             "a": "230 m",
             "b": "240 m",
             "c": "260 m",
@@ -64,10 +64,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 72 * (5/18)m/s!= 20 m/s! !Time = 26 sec! !Let,!the length of the train be x metres! !Then,!(x+250)/26 = 20! !x + 250 = 520!x = 270"
+            "explain": "Ọsọ = 72 * (5/18)m/s!= 20 m/s! !Oge = 26 sekọnd! !Ka,!ogologo ụgbọ oloko ahụ bụrụ x mita! !Mgbe ahụ,!(x+250)/26 = 20! !x + 250 = 520!x = 270"
         },
         {
-            "question": "A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is",
+            "question": "Ụgbọ mmiri, nke ọsọ ya bụ 15 km/hr na mmiri dị jụụ na-aga 30 km n'okpuru mmiri wee lọta n'ime ngụkọta nke awa 4 na nkeji 30. Ọsọ nke iyi ahụ (na km/hr) bụ",
             "a": "4",
             "b": "5",
             "c": "6",
@@ -75,10 +75,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the stream be x km/hr.! !Then,!Speed downstream = (15 + x) km/hr! !Speed upstream = (15 - x) km/hr! !So, [30/(15 + x)] + [30/(15 - x)] = 9/2!900/(225 - x*x) = 9/2! !x = 5 km/hr"
+            "explain": "Ka ọsọ nke iyi ahụ bụrụ x km/hr.! !Mgbe ahụ,!Ọsọ n'okpuru mmiri = (15 + x) km/hr! !Ọsọ n'elu mmiri = (15 - x) km/hr! !Ya mere, [30/(15 + x)] + [30/(15 - x)] = 9/2!900/(225 - x*x) = 9/2! !x = 5 km/hr"
         },
         {
-            "question": "A train 800 metres long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, then the length of the tunnel (in meters) is",
+            "question": "Ụgbọ oloko dị mita 800 n'ogologo na-agba ọsọ nke 78 km/hr. Ọ bụrụ na ọ gafee ọwara n'ime nkeji 1, mgbe ahụ ogologo ọwara ahụ (na mita) bụ",
             "a": "130",
             "b": "360",
             "c": "500",
@@ -86,10 +86,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 78 * (5/18) = 65/3 m/s! !Time = 1 minute = 60 seconds! !Let the length of the tunnel be x metres! !Then,!(800+x)/60 = 65/3!3(800 + x) = 3900! !Hence, x = 500"
+            "explain": "Ọsọ = 78 * (5/18) = 65/3 m/s! !Oge = 1 nkeji = 60 sekọnd! !Ka ogologo ọwara ahụ bụrụ x mita! !Mgbe ahụ,!(800+x)/60 = 65/3!3(800 + x) = 3900! !N'ihi ya, x = 500"
         },
         {
-            "question": "A 300 metre long train crosses a platform in 39 seconds while it crosses a signal pole in 18 seconds.What is the length of the platform?",
+            "question": "Ụgbọ oloko dị mita 300 n'ogologo na-agafe ebe a na-adọba ụgbọala n'ime sekọnd 39 ebe ọ na-agafe osisi mgbaàmà n'ime sekọnd 18. Gịnị bụ ogologo ebe a na-adọba ụgbọala ahụ?",
             "a": "320 m",
             "b": "350 m",
             "c": "650 m",
@@ -97,10 +97,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = (300/18)m/s!= 50/3m/s! !Let the length of the platform be x metres! !Then, (x+300)/39 = 50/3!3(x + 300) = 1950! !Hence, x = 350 m"
+            "explain": "Ọsọ = (300/18)m/s!= 50/3m/s! !Ka ogologo ebe a na-adọba ụgbọala bụrụ x mita! !Mgbe ahụ, (x+300)/39 = 50/3!3(x + 300) = 1950! !N'ihi ya, x = 350 m"
         },
         {
-            "question": "A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is",
+            "question": "Ụgbọ oloko na-agafe osisi n'ime sekọnd 15 na ebe a na-adọba ụgbọala dị mita 100 n'ogologo n'ime sekọnd 25. Ogologo ya bụ",
             "a": "250 m",
             "b": "50 m",
             "c": "150 m",
@@ -108,10 +108,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the length of the train be x metres and its speed by y m/sec.! !Then, x/y = 15!y = x/15! !So, (x+100)/25 = x/15!15(x + 100) = 25x!15x + 1500 = 25x!1500 = 10x!x = 150 m"
+            "explain": "Ka ogologo ụgbọ oloko ahụ bụrụ x mita na ọsọ ya bụ y m/sec.! !Mgbe ahụ, x/y = 15!y = x/15! !Ya mere, (x+100)/25 = x/15!15(x + 100) = 25x!15x + 1500 = 25x!1500 = 10x!x = 150 m"
         },
         {
-            "question": "The speed of a boat in still water in 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is",
+            "question": "Ọsọ ụgbọ mmiri na mmiri dị jụụ bụ 15 km/hr na ọsọ nke mmiri bụ 3 km/hr. Ogologo njem a ga-aga n'okpuru mmiri n'ime nkeji 12 bụ",
             "a": "1.2 km",
             "b": "1.8 km",
             "c": "2.4 km",
@@ -119,10 +119,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed downstream = (15 + 3) kmph = 18 kmph! !Distance travelled = 18 * (12/60)km = 3.6 km"
+            "explain": "Ọsọ n'okpuru mmiri = (15 + 3) kmph = 18 kmph! !Ogologo njem a ga-aga = 18 * (12/60)km = 3.6 km"
         },
         {
-            "question": "A train 108 m long moving at a speed of 50 km/hr crosses a train 112 m long coming from opposite direction in 6 seconds. The speed of the second train is",
+            "question": "Ụgbọ oloko dị mita 108 n'ogologo na-agba ọsọ nke 50 km/hr na-agafe ụgbọ oloko dị mita 112 n'ogologo na-abịa site n'akụkụ nke ọzọ n'ime sekọnd 6. Ọsọ nke ụgbọ oloko nke abụọ bụ",
             "a": "48 km/hr",
             "b": "54 km/hr",
             "c": "66 km/hr",
@@ -130,10 +130,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the second train be x km/hr.! !Relative speed = (x + 50) km/hr!= (x+50)*(5/18) m/s!= (250+5x)18 m/s! !Distance covered = (108 + 112) = 220 m! !So, 220/[(250 + 5x) /18] = 6!250 + 5x = 660! !Hence, x = 82 km/hr"
+            "explain": "Ka ọsọ nke ụgbọ oloko nke abụọ bụrụ x km/hr.! !Ọsọ ikwu = (x + 50) km/hr!= (x+50)*(5/18) m/s!= (250+5x)18 m/s! !Ogologo njem a ga-aga = (108 + 112) = 220 m! !Ya mere, 220/[(250 + 5x) /18] = 6!250 + 5x = 660! !N'ihi ya, x = 82 km/hr"
         },
         {
-            "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+            "question": "Ụgbọ oloko na-agafe ebe a na-adọba ụgbọala n'ime sekọnd 36 na nwoke guzo n'elu ebe a na-adọba ụgbọala n'ime sekọnd 20. Ọ bụrụ na ọsọ ụgbọ oloko ahụ bụ 54 km/hr, gịnị bụ ogologo ebe a na-adọba ụgbọala ahụ?",
             "a": "120 m",
             "b": "240 m",
             "c": "300 m",
@@ -141,10 +141,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 54 * (5/18)m/s!= 15 m/s! !Length of the train = (15 x 20)m = 300 m! !Let the length of the platform be x metres! !Then,!(x+300)/36 = 15!x + 300 = 540! !Hence, x = 240 m"
+            "explain": "Ọsọ = 54 * (5/18)m/s!= 15 m/s! !Ogologo ụgbọ oloko = (15 x 20)m = 300 m! !Ka ogologo ebe a na-adọba ụgbọala bụrụ x mita! !Mgbe ahụ,!(x+300)/36 = 15!x + 300 = 540! !N'ihi ya, x = 240 m"
         },
         {
-            "question": "Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is",
+            "question": "Ụgbọ oloko abụọ hà n'ogologo na-agba n'ahịrị ndị yiri onwe ha n'otu ụzọ na 46 km/hr na 36 km/hr. Ụgbọ oloko na-agba ọsọ karịa na-agafe ụgbọ oloko na-adịghị agba ọsọ n'ime sekọnd 36. Ogologo ụgbọ oloko nke ọ bụla bụ",
             "a": "50 m",
             "b": "72 m",
             "c": "80 m",
@@ -152,10 +152,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the length of each train be x metres.! !Then, distance covered = 2x metres.! !Relative speed = (46 - 36) km/hr!= 10 * (5/18)m/s!= 25/9 m/s!So, 2x/36 = 25/9!= 2x = 100! !Hence, x = 50"
+            "explain": "Ka ogologo ụgbọ oloko nke ọ bụla bụrụ x mita.! !Mgbe ahụ, ogologo njem a ga-aga = 2x mita.! !Ọsọ ikwu = (46 - 36) km/hr!= 10 * (5/18)m/s!= 25/9 m/s!Ya mere, 2x/36 = 25/9!= 2x = 100! !N'ihi ya, x = 50"
         },
         {
-            "question": "A man can row at 5 kmph in still water. If the velocity of current is 1 kmph and it takes him 1 hour to row to a place and come back, how far is the place?",
+            "question": "Nwoke nwere ike ịkwọ ụgbọ mmiri na 5 kmph na mmiri dị jụụ. Ọ bụrụ na ọsọ nke mmiri bụ 1 kmph ma ọ na-ewe ya awa 1 iji kwọọ ụgbọ mmiri gaa ebe wee lọta, olee ebe dị anya?",
             "a": "2.4 km",
             "b": "2.5 km",
             "c": "3 km",
@@ -163,10 +163,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed downstream = (5 + 1) kmph = 6 kmph! !Speed upstream = (5 - 1) kmph = 4 kmph! !Let the required distance be x km.! !Then,! x/6 + x/4 = 1!2x + 3x = 12!5x = 12! !Hence, x = 2.4 km"
+            "explain": "Ọsọ n'okpuru mmiri = (5 + 1) kmph = 6 kmph! !Ọsọ n'elu mmiri = (5 - 1) kmph = 4 kmph! !Ka ogologo njem achọrọ bụrụ x km.! !Mgbe ahụ,! x/6 + x/4 = 1!2x + 3x = 12!5x = 12! !N'ihi ya, x = 2.4 km"
         },
         {
-            "question": "A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?",
+            "question": "Ụgbọ oloko dị mita 270 n'ogologo na-agba ọsọ nke 120 kmph na-agafe ụgbọ oloko ọzọ na-agba n'akụkụ nke ọzọ na ọsọ nke 80 kmph n'ime sekọnd 9. Gịnị bụ ogologo ụgbọ oloko nke ọzọ?",
             "a": "230 m",
             "b": "240 m",
             "c": "260 m",
@@ -174,21 +174,21 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Relative speed = (120 + 80) km/hr!= 200(5/18)m/s!= (500/9)m/s! !Let the length of the other train be x metres! !Then,!(x+270)/9 = 500/9!x + 270 = 500! !Hence, x = 230"
+            "explain": "Ọsọ ikwu = (120 + 80) km/hr!= 200(5/18)m/s!= (500/9)m/s! !Ka ogologo ụgbọ oloko nke ọzọ bụrụ x mita! !Mgbe ahụ,!(x+270)/9 = 500/9!x + 270 = 500! !N'ihi ya, x = 230"
         },
         {
-            "question": "A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?",
-            "a": "5 sec",
-            "b": "6 sec",
-            "c": "7 sec",
-            "d": "10 sec",
+            "question": "Ụgbọ oloko dị mita 110 n'ogologo na-agba ọsọ nke 60 kmph. N'oge ole ka ọ ga-agafe nwoke na-agba ọsọ na 6 kmph n'akụkụ nke ọzọ nke ụgbọ oloko ahụ na-aga?",
+            "a": "5 sekọnd",
+            "b": "6 sekọnd",
+            "c": "7 sekọnd",
+            "d": "10 sekọnd",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of train relative to man = (60 + 6) km/hr = 66 km/hr.!= 66 * (5/18) = (55/3)m/s! !Hence, Time taken to pass the man!= 110 * (3/55) = 6 seconds"
+            "explain": "Ọsọ ụgbọ oloko n'ihe gbasara nwoke = (60 + 6) km/hr = 66 km/hr.!= 66 * (5/18) = (55/3)m/s! !N'ihi ya, Oge eji gafee nwoke ahụ!= 110 * (3/55) = 6 sekọnd"
         },
         {
-            "question": "How many seconds will a 500 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+            "question": "Sekọnd ole ka ụgbọ oloko dị mita 500 n'ogologo ga-ewe iji gafee nwoke na-eje ije na ọsọ nke 3 km/hr n'akụkụ nke ụgbọ oloko na-agagharị ma ọ bụrụ na ọsọ ụgbọ oloko ahụ bụ 63 km/hr?",
             "a": "25",
             "b": "30",
             "c": "40",
@@ -196,10 +196,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of the train relative to man = (63 - 3) km/hr!= 60 km/hr = 60 * (5/18)m/s!= (50/3)m/s! !Hence, Time taken to pass the man!= 500 * (3/50)s!= 30 seconds"
+            "explain": "Ọsọ ụgbọ oloko n'ihe gbasara nwoke = (63 - 3) km/hr!= 60 km/hr = 60 * (5/18)m/s!= (50/3)m/s! !N'ihi ya, Oge eji gafee nwoke ahụ!= 500 * (3/50)s!= 30 sekọnd"
         },
         {
-            "question": "Two trains are running in opposite directions with the same speed. If the length of each train is 120 metres and they cross each other in 12 seconds, then the speed of each train is",
+            "question": "Ụgbọ oloko abụọ na-agba n'akụkụ dị iche iche na otu ọsọ. Ọ bụrụ na ogologo ụgbọ oloko nke ọ bụla bụ mita 120 ma ha na-agafe onwe ha n'ime sekọnd 12, mgbe ahụ ọsọ ụgbọ oloko nke ọ bụla bụ",
             "a": "10 km/hr",
             "b": "18 km/hr",
             "c": "36 km/hr",
@@ -207,10 +207,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of each train be x m/sec.! !Then, relative speed of the two trains = 2x m/sec.! !So, 2x = (120 + 120)/12!2x = 20!x = 10! !Hence, Speed of each train = 10 m/sec = 10 * (18/5)!= 36 km/hr"
+            "explain": "Ka ọsọ ụgbọ oloko nke ọ bụla bụrụ x m/sec.! !Mgbe ahụ, ọsọ ikwu nke ụgbọ oloko abụọ ahụ = 2x m/sec.! !Ya mere, 2x = (120 + 120)/12!2x = 20!x = 10! !N'ihi ya, Ọsọ ụgbọ oloko nke ọ bụla = 10 m/sec = 10 * (18/5)!= 36 km/hr"
         },
         {
-            "question": "A train overtakes two persons who are walking in the same direction in which the train is going, at the rate of 2 kmph and 4 kmph and passes them completely in 9 and 10 seconds respectively. The length of the train is",
+            "question": "Ụgbọ oloko na-agafe mmadụ abụọ na-eje ije n'otu ụzọ nke ụgbọ oloko ahụ na-aga, na ọsọ nke 2 kmph na 4 kmph wee gafee ha kpamkpam n'ime sekọnd 9 na 10 n'otu n'otu. Ogologo ụgbọ oloko ahụ bụ",
             "a": "45 m",
             "b": "50 m",
             "c": "54 m",
@@ -218,10 +218,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "2 kmph = 2 * (5/18)m/s!= 5/9 m/s! !4 kmph = 4 * (5/18)m/s!= 10/9 m/s! !Let the length of the train be x metres and its speed by y m/sec.! !then, x/[y - (5/9)] = 9!and x/[y - (10/9)] = 10! !So, 9y - 5 = x!and 10(9y - 10) = 9x! !9y - x = 5!and 90y - 9x = 100! !On solving, we get! x = 50! !Hence, Length of the train is 50 m."
+            "explain": "2 kmph = 2 * (5/18)m/s!= 5/9 m/s! !4 kmph = 4 * (5/18)m/s!= 10/9 m/s! !Ka ogologo ụgbọ oloko ahụ bụrụ x mita na ọsọ ya bụ y m/sec.! !mgbe ahụ, x/[y - (5/9)] = 9!na x/[y - (10/9)] = 10! !Ya mere, 9y - 5 = x!na 10(9y - 10) = 9x! !9y - x = 5!na 90y - 9x = 100! !Mgbe a gbasara ya, anyị na-enweta! x = 50! !N'ihi ya, Ogologo ụgbọ oloko ahụ bụ 50 m."
         },
         {
-            "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is",
+            "question": "Ụgbọ oloko dị mita 125 n'ogologo na-agafe nwoke, na-agba ọsọ na 5 km/hr n'otu ụzọ nke ụgbọ oloko ahụ na-aga, n'ime sekọnd 10. Ọsọ ụgbọ oloko ahụ bụ",
             "a": "45 km/hr",
             "b": "50 km/hr",
             "c": "54 km/hr",
@@ -229,10 +229,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of the train relative to man = (125/10) m/s!= (25/2)m/s!= (25/2) * (18/5)km/hr!= 45 km/hr! !Let the speed of the train be x km/hr.!Then,!relative speed = (x - 5) km/hr! !x - 5 = 45!Hence, x = 50 km/hr"
+            "explain": "Ọsọ ụgbọ oloko n'ihe gbasara nwoke = (125/10) m/s!= (25/2)m/s!= (25/2) * (18/5)km/hr!= 45 km/hr! !Ka ọsọ ụgbọ oloko ahụ bụrụ x km/hr.!Mgbe ahụ,!ọsọ ikwu = (x - 5) km/hr! !x - 5 = 45!N'ihi ya, x = 50 km/hr"
         },
         {
-            "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is",
+            "question": "Ogologo àkwà mmiri, nke ụgbọ oloko dị mita 130 n'ogologo ma na-agagharị na 45 km/hr nwere ike ịgafe n'ime sekọnd 30, bụ",
             "a": "200 m",
             "b": "225 m",
             "c": "245 m",
@@ -240,10 +240,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = 45 * (5/18)!= 25/2 m/s! !Time = 30 sec! !Let the length of bridge be x metres! !Then,!(130 + x)/30 = 25/2!2(130 + x) = 750! !Hence, x = 245 m"
+            "explain": "Ọsọ = 45 * (5/18)!= 25/2 m/s! !Oge = 30 sekọnd! !Ka ogologo àkwà mmiri bụrụ x mita! !Mgbe ahụ,!(130 + x)/30 = 25/2!2(130 + x) = 750! !N'ihi ya, x = 245 m"
         },
         {
-            "question": "Two trains, each 100 m long, moving in opposite directions, cross each other in 8 seconds.If one is moving twice as fast the other, then the speed of the faster train is",
+            "question": "Ụgbọ oloko abụọ, nke ọ bụla dị mita 100 n'ogologo, na-agagharị n'akụkụ dị iche iche, na-agafe onwe ha n'ime sekọnd 8. Ọ bụrụ na otu na-agba ọsọ okpukpu abụọ karịa nke ọzọ, mgbe ahụ ọsọ nke ụgbọ oloko na-agba ọsọ karịa bụ",
             "a": "30 km/hr",
             "b": "45 km/hr",
             "c": "60 km/hr",
@@ -251,10 +251,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the slower train be x m/sec! !Then,!speed of the faster train = 2x m/sec! !Relative speed = (x + 2x) m/sec = 3x m/sec! !So, (100+100)/8 = 3x!24x = 200!x = 25/3! !So, speed of the faster train = 50/3 m/s!= (50/3 * 18/5)!= 60km/hr"
+            "explain": "Ka ọsọ nke ụgbọ oloko na-adịghị agba ọsọ bụrụ x m/sec! !Mgbe ahụ,!ọsọ nke ụgbọ oloko na-agba ọsọ karịa = 2x m/sec! !Ọsọ ikwu = (x + 2x) m/sec = 3x m/sec! !Ya mere, (100+100)/8 = 3x!24x = 200!x = 25/3! !Ya mere, ọsọ nke ụgbọ oloko na-agba ọsọ karịa = 50/3 m/s!= (50/3 * 18/5)!= 60km/hr"
         },
         {
-            "question": "In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water (in km/hr) is",
+            "question": "N'ime otu awa, ụgbọ mmiri na-aga 11 km/hr n'akụkụ iyi na 5 km/hr megide iyi. Ọsọ ụgbọ mmiri na mmiri dị jụụ (na km/hr) bụ",
             "a": "3 km/hr",
             "b": "5 km/hr",
             "c": "8 km/hr",
@@ -262,10 +262,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed in still water!= 1/2(11+5) km/h = 8 km/h"
+            "explain": "Ọsọ na mmiri dị jụụ!= 1/2(11+5) km/h = 8 km/h"
         },
         {
-            "question": "A boat running downstream covers a distance of 16 km in 2 hours while for covering the same distance upstream, it takes 4 hours. What is the speed of the boat in still water?",
+            "question": "Ụgbọ mmiri na-agba n'okpuru mmiri na-aga ebe dị anya nke 16 km n'ime awa 2 ebe maka ịga otu ebe ahụ n'elu mmiri, ọ na-ewe awa 4. Gịnị bụ ọsọ ụgbọ mmiri na mmiri dị jụụ?",
             "a": "4 km/hr",
             "b": "10 km/hr",
             "c": "6 km/hr",
@@ -273,10 +273,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Rate downstream = (16/2)km/h = 8 km/h! !Rate upstream = (16/4)km/h!= 4 km/h! !Hence, Speed in still water = 1/2(8+4)km/h = 6 km/h"
+            "explain": "Ọnụego n'okpuru mmiri = (16/2)km/h = 8 km/h! !Ọnụego n'elu mmiri = (16/4)km/h!= 4 km/h! !N'ihi ya, Ọsọ na mmiri dị jụụ = 1/2(8+4)km/h = 6 km/h"
         },
         {
-            "question": "A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?",
+            "question": "Ụgbọ oloko na-agafe osisi telegraph na àkwà mmiri dị mita 264 n'ogologo n'ime sekọnd 8 na sekọnd 20 n'otu n'otu. Gịnị bụ ọsọ ụgbọ oloko ahụ?",
             "a": "69.5 km/hr",
             "b": "70 km/hr",
             "c": "79 km/hr",
@@ -284,10 +284,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the length of the train be x metres and its speed by y m/sec.! !Then,!x/y = 8!x = 8y! !Now, (x+264)/20 = y!8y + 264 = 20y!y = 22! !Hence, Speed = 22 m/sec!= 22 * (18/5)!= 79.2 km/hr"
+            "explain": "Ka ogologo ụgbọ oloko ahụ bụrụ x mita na ọsọ ya bụ y m/sec.! !Mgbe ahụ,!x/y = 8!x = 8y! !Ugbu a, (x+264)/20 = y!8y + 264 = 20y!y = 22! !N'ihi ya, Ọsọ = 22 m/sec!= 22 * (18/5)!= 79.2 km/hr"
         },
         {
-            "question": "A boat takes 90 minutes less to travel 36 miles downstream than to travel the same distance upstream. If the speed of the boat in still water is 10 mph, the speed of the stream is",
+            "question": "Ụgbọ mmiri na-ewe nkeji 90 obere iji gaa maịl 36 n'okpuru mmiri karịa ịga otu ebe ahụ n'elu mmiri. Ọ bụrụ na ọsọ ụgbọ mmiri na mmiri dị jụụ bụ 10 mph, ọsọ nke iyi ahụ bụ",
             "a": "2 mph",
             "b": "2.5 mph",
             "c": "3 mph",
@@ -295,10 +295,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the stream x mph.! !Then,!Speed downstream = (10 + x) mph! !Speed upstream = (10 - x) mph! !So, [36/(10 - x)] - [36/(10 + x)] = 90/60!(72x)*60 = 90 (100 - x*x)!(x+ 50)(x - 2) = 0! !Hence, x = 2 mph."
+            "explain": "Ka ọsọ nke iyi ahụ bụrụ x mph.! !Mgbe ahụ,!Ọsọ n'okpuru mmiri = (10 + x) mph! !Ọsọ n'elu mmiri = (10 - x) mph! !Ya mere, [36/(10 - x)] - [36/(10 + x)] = 90/60!(72x)*60 = 90 (100 - x*x)!(x+ 50)(x - 2) = 0! !N'ihi ya, x = 2 mph."
         },
         {
-            "question": "Two trains are moving in opposite directions at speed of 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train is",
+            "question": "Ụgbọ oloko abụọ na-agagharị n'akụkụ dị iche iche na ọsọ nke 60 km/hr na 90 km/hr. Ogologo ha bụ 1.10 km na 0.9 km n'otu n'otu. Oge ụgbọ oloko na-adịghị agba ọsọ ga-eji gafee ụgbọ oloko na-agba ọsọ karịa bụ",
             "a": "36 s",
             "b": "45 s",
             "c": "48 s",
@@ -306,10 +306,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Relative speed = (60+ 90) km/hr!= 150 * (5/18)m/s!= (125/3)m/s! !Distance covered = (1.10 + 0.9) km = 2 km = 2000 m! !Hence, Required time = 2000(3/125) = 48 seconds"
+            "explain": "Ọsọ ikwu = (60+ 90) km/hr!= 150 * (5/18)m/s!= (125/3)m/s! !Ogologo njem a ga-aga = (1.10 + 0.9) km = 2 km = 2000 m! !N'ihi ya, Oge achọrọ = 2000(3/125) = 48 sekọnd"
         },
         {
-            "question": "A boat covers a certain distance downstream in 1 hour, while it comes back in 1.5 hours. If the speed of the stream be 3 kmph, what is the speed of the boat in still water?",
+            "question": "Ụgbọ mmiri na-aga ebe ụfọdụ n'okpuru mmiri n'ime awa 1, ebe ọ na-alọta n'ime awa 1.5. Ọ bụrụ na ọsọ nke iyi ahụ bụ 3 kmph, gịnị bụ ọsọ ụgbọ mmiri na mmiri dị jụụ?",
             "a": "12 kmph",
             "b": "13 kmph",
             "c": "14 kmph",
@@ -317,21 +317,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the speed of the boat in still water be x kmph.! !Then,!Speed downstream = (x + 3) kmph! !Speed upstream = (x - 3) kmph! !So, (x + 3) * 1 = (x - 3)* 3/2!2x + 6 = 3x - 9! !Hence, x = 15 kmph"
+            "explain": "Ka ọsọ ụgbọ mmiri na mmiri dị jụụ bụrụ x kmph.! !Mgbe ahụ,!Ọsọ n'okpuru mmiri = (x + 3) kmph! !Ọsọ n'elu mmiri = (x - 3) kmph! !Ya mere, (x + 3) * 1 = (x - 3)* 3/2!2x + 6 = 3x - 9! !N'ihi ya, x = 15 kmph"
         },
         {
-            "question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
-            "a": "40 minutes",
-            "b": "1 hour",
-            "c": "1 hr 15 min",
-            "d": "1 hr 30 min",
+            "question": "Onye na-akwọ ụgbọ mmiri na-aga 2 km megide mmiri nke iyi n'ime awa 1 wee gaa 1 km n'akụkụ mmiri n'ime nkeji 10. Ogologo oge ole ka ọ ga-ewe iji gaa 5 km na mmiri kwụ ọtọ?",
+            "a": "Nkeji 40",
+            "b": "Awa 1",
+            "c": "Awa 1 nkeji 15",
+            "d": "Awa 1 nkeji 30",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Rate downstream = (1/10) * 60 km/hr = 6 km/hr! !Rate upstream = 2 km/hr! !Speed in still water = (1/2)(6 + 2) km/hr = 4 km/hr! !Hence, Required time = 5/4 hrs = 1 hr 15 min."
+            "explain": "Ọnụego n'okpuru mmiri = (1/10) * 60 km/hr = 6 km/hr! !Ọnụego n'elu mmiri = 2 km/hr! !Ọsọ na mmiri dị jụụ = (1/2)(6 + 2) km/hr = 4 km/hr! !N'ihi ya, Oge achọrọ = 5/4 hrs = 1 hr 15 min."
         },
         {
-            "question": "A train is running at a speed of 10 km/h. What will be the distance covered by it in 3 hours?",
+            "question": "Ụgbọ oloko na-agba ọsọ nke 10 km/h. Gịnị ga-abụ ogologo njem ọ ga-aga n'ime awa 3?",
             "a": "30km",
             "b": "15km",
             "c": "10km",
@@ -339,10 +339,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As we know that!S=vt (here S is distance, v is speed and t is time). So!distance = 10*3 = 30Km"
+            "explain": "Dịka anyị maara na!S=vt (ebe a S bụ ogologo, v bụ ọsọ na t bụ oge). Ya mere!ogologo = 10*3 = 30Km"
         },
         {
-            "question": "A train is running at the speed of 25 km/h. How far will it travel in 5 hrs?",
+            "question": "Ụgbọ oloko na-agba ọsọ nke 25 km/h. Ogologo oge ole ka ọ ga-aga n'ime awa 5?",
             "a": "100km",
             "b": "110km",
             "c": "120km",
@@ -350,10 +350,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 25 Km/h!Time = t = 5h!Distance = S = v*t = 25*5 = 125Km"
+            "explain": "Ọsọ = v = 25 Km/h!Oge = t = 5h!Ogologo = S = v*t = 25*5 = 125Km"
         },
         {
-            "question": "A train is running at the speed of 70 km/h. How far will it travel in 2.5 hrs?",
+            "question": "Ụgbọ oloko na-agba ọsọ nke 70 km/h. Ogologo oge ole ka ọ ga-aga n'ime awa 2.5?",
             "a": "140km",
             "b": "155km",
             "c": "170km",
@@ -361,43 +361,43 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 70 Km/h!Time = t = 2.5h!Distance = S = v*t = 70*2.5 = 175Km"
+            "explain": "Ọsọ = v = 70 Km/h!Oge = t = 2.5h!Ogologo = S = v*t = 70*2.5 = 175Km"
         },
         {
-            "question": "A 150m long train is running at the speed of 36km/h. In what time will it pass the 80m long bridge?",
-            "a": "20 sec",
-            "b": "21 sec",
-            "c": "22 sec",
-            "d": "23 sec",
+            "question": "Ụgbọ oloko dị mita 150 n'ogologo na-agba ọsọ nke 36km/h. N'oge ole ka ọ ga-agafe àkwà mmiri dị mita 80 n'ogologo?",
+            "a": "20 sekọnd",
+            "b": "21 sekọnd",
+            "c": "22 sekọnd",
+            "d": "23 sekọnd",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of train = L1 = 150m!Speed = v = 36 Km/h = 36*(5/18) = 10 m/s!Length of bridge = L2 = 80m! !Time = t = (L1 + L2)/v!t = (150+80)/10 = 23! !Hence the train will pass the 80 meter long bridge in 23 seconds."
+            "explain": "Ogologo ụgbọ oloko = L1 = 150m!Ọsọ = v = 36 Km/h = 36*(5/18) = 10 m/s!Ogologo àkwà mmiri = L2 = 80m! !Oge = t = (L1 + L2)/v!t = (150+80)/10 = 23! !N'ihi ya, ụgbọ oloko ahụ ga-agafe àkwà mmiri dị mita 80 n'ogologo n'ime sekọnd 23."
         },
         {
-            "question": "A train of length 150 metres is running at the speed of 20m/s. In what time will it cross a 130 metre long bridge?",
-            "a": "13 sec",
-            "b": "14 sec",
-            "c": "15 sec",
-            "d": "16 sec",
+            "question": "Ụgbọ oloko dị mita 150 n'ogologo na-agba ọsọ nke 20m/s. N'oge ole ka ọ ga-agafe àkwà mmiri dị mita 130 n'ogologo?",
+            "a": "13 sekọnd",
+            "b": "14 sekọnd",
+            "c": "15 sekọnd",
+            "d": "16 sekọnd",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 150m!Length of bridge = L2 = 130m!Speed = v = 20m/s! !t = (L1 + L2)/v!t = (150+130)/20!t = 14! !Hence the train will pass the 130 meter long bridge in 14 seconds."
+            "explain": "Ogologo ụgbọ oloko = L1 = 150m!Ogologo àkwà mmiri = L2 = 130m!Ọsọ = v = 20m/s! !t = (L1 + L2)/v!t = (150+130)/20!t = 14! !N'ihi ya, ụgbọ oloko ahụ ga-agafe àkwà mmiri dị mita 130 n'ogologo n'ime sekọnd 14."
         },
         {
-            "question": "A train is travelling at the speed of 25m/s. In what time will it pass a man sitting on a platform if length of the train is 225 meters?",
-            "a": "8 sec",
-            "b": "9 sec",
-            "c": "10 sec",
-            "d": "11 sec",
+            "question": "Ụgbọ oloko na-agagharị na ọsọ nke 25m/s. N'oge ole ka ọ ga-agafe nwoke nọ ọdụ n'elu ebe a na-adọba ụgbọala ma ọ bụrụ na ogologo ụgbọ oloko ahụ bụ mita 225?",
+            "a": "8 sekọnd",
+            "b": "9 sekọnd",
+            "c": "10 sekọnd",
+            "d": "11 sekọnd",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 25m/s!Length of train = L = 225m! !Time = t = L/v!t = 225/25 = 9! !Hence train will pass the man in 9 seconds."
+            "explain": "Ọsọ = v = 25m/s!Ogologo ụgbọ oloko = L = 225m! !Oge = t = L/v!t = 225/25 = 9! !N'ihi ya, ụgbọ oloko ga-agafe nwoke ahụ n'ime sekọnd 9."
         },
         {
-            "question": "A train travelling at the speed of 10m/s can cross a bridge in 23 seconds. If length of the train is 120 meters. What is length of the bridge?",
+            "question": "Ụgbọ oloko na-agagharị na ọsọ nke 10m/s nwere ike ịgafe àkwà mmiri n'ime sekọnd 23. Ọ bụrụ na ogologo ụgbọ oloko ahụ bụ mita 120. Gịnị bụ ogologo àkwà mmiri ahụ?",
             "a": "100m",
             "b": "110m",
             "c": "120m",
@@ -405,10 +405,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 10m/s!Time = t = 23s!Length of train = L1 = 120m!Length of bridge = L2 = ?! !t = (L1+L2)/v!By putting values!23 = (120+L2)/10!L2 = 230 - 120 = 110m! !Hence bridge is 110m long."
+            "explain": "Ọsọ = v = 10m/s!Oge = t = 23s!Ogologo ụgbọ oloko = L1 = 120m!Ogologo àkwà mmiri = L2 = ?! !t = (L1+L2)/v!Site n'itinye ụkpụrụ!23 = (120+L2)/10!L2 = 230 - 120 = 110m! !N'ihi ya, àkwà mmiri ahụ dị mita 110 n'ogologo."
         },
         {
-            "question": "What is the length of a bridge if a train of length 550 meters travelling at the speed of 20m/s can cross it in 35 seconds?",
+            "question": "Gịnị bụ ogologo àkwà mmiri ma ọ bụrụ na ụgbọ oloko dị mita 550 n'ogologo na-agagharị na ọsọ nke 20m/s nwere ike ịgafe ya n'ime sekọnd 35?",
             "a": "100m",
             "b": "150m",
             "c": "200m",
@@ -416,10 +416,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of train = L1 = 550m!Speed = v = 20m/s!Time = t = 35s!Length of bridge = L2 = ?! !t = (L1+L2)/v!By putting values!35 = (550+L2)/20!700 - 550 = L2!L2 = 150m! !Hence length of bridge is 150 meter."
+            "explain": "Ogologo ụgbọ oloko = L1 = 550m!Ọsọ = v = 20m/s!Oge = t = 35s!Ogologo àkwà mmiri = L2 = ?! !t = (L1+L2)/v!Site n'itinye ụkpụrụ!35 = (550+L2)/20!700 - 550 = L2!L2 = 150m! !N'ihi ya, ogologo àkwà mmiri bụ mita 150."
         },
         {
-            "question": "A train travelling at he speed of 72km/h can cross a platform in 17 seconds. If length of the train is 180 meters, what is the length of the platform?",
+            "question": "Ụgbọ oloko na-agagharị na ọsọ nke 72km/h nwere ike ịgafe ebe a na-adọba ụgbọala n'ime sekọnd 17. Ọ bụrụ na ogologo ụgbọ oloko ahụ bụ mita 180, gịnị bụ ogologo ebe a na-adọba ụgbọala ahụ?",
             "a": "160m",
             "b": "170m",
             "c": "180m",
@@ -427,10 +427,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed of train = v = 72Km/h = 72*(5/18) = 20m/s! !Time = t = 17s!Length of the train = L1 = 180m!Length of the platform = L2 = ?! !t = (L1+L2)/v!By putting values!17 = (180+L2)/20!340-180 = L2!L2 = 160m! !Hence length of the platform is 160m."
+            "explain": "Ọsọ ụgbọ oloko = v = 72Km/h = 72*(5/18) = 20m/s! !Oge = t = 17s!Ogologo ụgbọ oloko = L1 = 180m!Ogologo ebe a na-adọba ụgbọala = L2 = ?! !t = (L1+L2)/v!Site n'itinye ụkpụrụ!17 = (180+L2)/20!340-180 = L2!L2 = 160m! !N'ihi ya, ogologo ebe a na-adọba ụgbọala bụ 160m."
         },
         {
-            "question": "A 100 meters long train can cross a 150 meters long bridge in 20 seconds. What is the speed of the train?",
+            "question": "Ụgbọ oloko dị mita 100 n'ogologo nwere ike ịgafe àkwà mmiri dị mita 150 n'ogologo n'ime sekọnd 20. Gịnị bụ ọsọ ụgbọ oloko ahụ?",
             "a": "10m/s",
             "b": "12.5m/s",
             "c": "15m/s",
@@ -438,10 +438,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 100m!Length of the bridge = L2 = 150m!Time = t = 20s!Speed = v = ?! !v = (L1+L2)/t!By putting values!v = (100+150)/20!v = 250/20 = 12.5m/s! !Hence speed of train is 12.5m/s."
+            "explain": "Ogologo ụgbọ oloko = L1 = 100m!Ogologo àkwà mmiri = L2 = 150m!Oge = t = 20s!Ọsọ = v = ?! !v = (L1+L2)/t!Site n'itinye ụkpụrụ!v = (100+150)/20!v = 250/20 = 12.5m/s! !N'ihi ya, ọsọ ụgbọ oloko bụ 12.5m/s."
         },
         {
-            "question": "230 meters long train crosses a man sitting on the platform in 46 seconds. What is the speed of the train?",
+            "question": "Ụgbọ oloko dị mita 230 n'ogologo na-agafe nwoke nọ ọdụ n'elu ebe a na-adọba ụgbọala n'ime sekọnd 46. Gịnị bụ ọsọ ụgbọ oloko ahụ?",
             "a": "5m/s",
             "b": "10m/s",
             "c": "15m/s",
@@ -449,10 +449,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L = 230m!Time = t = 46s!Speed = v = ?! !V = L/t!By putting values!v = 230/46 = 5m/s! !Hence speed of the train is 5m/s."
+            "explain": "Ogologo ụgbọ oloko = L = 230m!Oge = t = 46s!Ọsọ = v = ?! !V = L/t!Site n'itinye ụkpụrụ!v = 230/46 = 5m/s! !N'ihi ya, ọsọ ụgbọ oloko bụ 5m/s."
         },
         {
-            "question": "A train 100 meters long crosses a 150 meters long bridge in 25 seconds. What is the speed of the train?",
+            "question": "Ụgbọ oloko dị mita 100 n'ogologo na-agafe àkwà mmiri dị mita 150 n'ogologo n'ime sekọnd 25. Gịnị bụ ọsọ ụgbọ oloko ahụ?",
             "a": "27km/h",
             "b": "36km/h",
             "c": "45km/h",
@@ -460,10 +460,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 100m!Length of the bridge = L2 = 150m!Time = t = 25s! !v = (L1+L2)/t!By putting values!v = (100+150)/25!v = 250/25 = 10m/s = 10*(18/5) = 36 Km/h! !Hence speed of the train is 36 Km/h."
+            "explain": "Ogologo ụgbọ oloko = L1 = 100m!Ogologo àkwà mmiri = L2 = 150m!Oge = t = 25s! !v = (L1+L2)/t!Site n'itinye ụkpụrụ!v = (100+150)/25!v = 250/25 = 10m/s = 10*(18/5) = 36 Km/h! !N'ihi ya, ọsọ ụgbọ oloko bụ 36 Km/h."
         },
         {
-            "question": "What is the speed of the train if it crosses a 175 meters long bridge in 41 seconds? Length of the train is 645 meters?",
+            "question": "Gịnị bụ ọsọ ụgbọ oloko ma ọ bụrụ na ọ gafee àkwà mmiri dị mita 175 n'ogologo n'ime sekọnd 41? Ogologo ụgbọ oloko ahụ bụ mita 645?",
             "a": "54km/h",
             "b": "63km/h",
             "c": "72km/h",
@@ -471,21 +471,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 645m!Length of the bridge = L2 = 175m!Time = t = 41s!Speed = v = ?! !v = (L1+L2)/t!v = (645+175)/41!v = 20m/s = 20 * 18/5 = 72 Km/h! !Hence speed of the train is 72 Km/h."
+            "explain": "Ogologo ụgbọ oloko = L1 = 645m!Ogologo àkwà mmiri = L2 = 175m!Oge = t = 41s!Ọsọ = v = ?! !v = (L1+L2)/t!v = (645+175)/41!v = 20m/s = 20 * 18/5 = 72 Km/h! !N'ihi ya, ọsọ ụgbọ oloko bụ 72 Km/h."
         },
         {
-            "question": "A train 110 meters long passses telegraph pole in 3 seconds. How long will it take to cross a platform 165 meters long?",
-            "a": "4 sec",
-            "b": "4.5 sec",
-            "c": "7.5 sec",
-            "d": "10 sec",
+            "question": "Ụgbọ oloko dị mita 110 n'ogologo na-agafe osisi telegraph n'ime sekọnd 3. Ogologo oge ole ka ọ ga-ewe iji gafee ebe a na-adọba ụgbọala dị mita 165 n'ogologo?",
+            "a": "4 sekọnd",
+            "b": "4.5 sekọnd",
+            "c": "7.5 sekọnd",
+            "d": "10 sekọnd",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Length of the train = L1 = 110m!Time = t1 = 3s! !v = L1/t!v = 110/3! !Length of the platform = L2 = 165m! !t2 = (L1+L2)/v!By putting values!t2 = (110+165)*(3/110)!t2 = 7.5s! !Hence it will take 7.5 seconds to cross the platform."
+            "explain": "Ogologo ụgbọ oloko = L1 = 110m!Oge = t1 = 3s! !v = L1/t!v = 110/3! !Ogologo ebe a na-adọba ụgbọala = L2 = 165m! !t2 = (L1+L2)/v!Site n'itinye ụkpụrụ!t2 = (110+165)*(3/110)!t2 = 7.5s! !N'ihi ya, ọ ga-ewe sekọnd 7.5 iji gafee ebe a na-adọba ụgbọala."
         },
         {
-            "question": "A train travelling at 36 km/h took 10 seconds to pass a stationary man. What was the length of the train?",
+            "question": "Ụgbọ oloko na-agagharị na 36 km/h were sekọnd 10 iji gafee nwoke kwụ ọtọ. Gịnị bụ ogologo ụgbọ oloko ahụ?",
             "a": "45m",
             "b": "80m",
             "c": "100m",
@@ -493,10 +493,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Speed = v = 36 Km/h = 36*(5/18) = 10m/s!Time = t = 10s!Length of the train = L = ?! !L = v*t!By putting values!L = 10*10 = 100m! !Hence length of the train is 100 meter."
+            "explain": "Ọsọ = v = 36 Km/h = 36*(5/18) = 10m/s!Oge = t = 10s!Ogologo ụgbọ oloko = L = ?! !L = v*t!Site n'itinye ụkpụrụ!L = 10*10 = 100m! !N'ihi ya, ogologo ụgbọ oloko bụ mita 100."
         },
         {
-            "question": "John can swim at the speed of 20 km/h in still water and speed of water is 3 km/h. What is his swimming speed with water?",
+            "question": "John nwere ike igwu mmiri na ọsọ nke 20 km/h na mmiri dị jụụ na ọsọ nke mmiri bụ 3 km/h. Gịnị bụ ọsọ igwu mmiri ya na mmiri?",
             "a": "23 km/h",
             "b": "17 km/h",
             "c": "11 km/h",
@@ -504,10 +504,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "John's speed in still water = u = 20 Km/h!Speed of water = v = 3 Km/h!John's speed with water = u+v = 20+3 = 23 Km/h"
+            "explain": "Ọsọ John na mmiri dị jụụ = u = 20 Km/h!Ọsọ mmiri = v = 3 Km/h!Ọsọ John na mmiri = u+v = 20+3 = 23 Km/h"
         },
         {
-            "question": "David can swim at the speed of 30 km/h in still water and speed of water is 4 km/h. What is his speed of swimming against the direction of water?",
+            "question": "David nwere ike igwu mmiri na ọsọ nke 30 km/h na mmiri dị jụụ na ọsọ nke mmiri bụ 4 km/h. Gịnị bụ ọsọ igwu mmiri ya megide ntụziaka nke mmiri?",
             "a": "30 km/h",
             "b": "26 km/h",
             "c": "24 km/h",
@@ -515,10 +515,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "David's speed in still water = u = 30 Km/h!Speed of water = v = 4 Km/h!David's swimming speed against water = u-v = 30-4 = 26 Km/h"
+            "explain": "Ọsọ David na mmiri dị jụụ = u = 30 Km/h!Ọsọ mmiri = v = 4 Km/h!Ọsọ igwu mmiri David megide mmiri = u-v = 30-4 = 26 Km/h"
         },
         {
-            "question": "A boat travels at the speed of 25 km/h upstream and 35 km/h downstream. Find the speed of water.",
+            "question": "Ụgbọ mmiri na-agagharị na ọsọ nke 25 km/h n'elu mmiri na 35 km/h n'okpuru mmiri. Chọta ọsọ mmiri.",
             "a": "7/2 km/h",
             "b": "3/2 km/h",
             "c": "2km/h",
@@ -526,10 +526,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Upstream speed = y = 25 Km/h!Downstream speed = x = 35 Km/h!Speed of water = (1/2)*(x-y)!= (1/2)*(35-35) = 5 Km/h"
+            "explain": "Ọsọ n'elu mmiri = y = 25 Km/h!Ọsọ n'okpuru mmiri = x = 35 Km/h!Ọsọ mmiri = (1/2)*(x-y)!= (1/2)*(35-35) = 5 Km/h"
         },
         {
-            "question": "A ship travels at the speed of 20 km/h upstream and 24 km/h downstream. What is the speed of boat in still water?",
+            "question": "Ụgbọ mmiri na-agagharị na ọsọ nke 20 km/h n'elu mmiri na 24 km/h n'okpuru mmiri. Gịnị bụ ọsọ ụgbọ mmiri na mmiri dị jụụ?",
             "a": "4 km/h",
             "b": "2 km/h",
             "c": "44 km/h",
@@ -537,10 +537,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Upstream speed = y = 20 Km/h!Downstream speed = x = 24 Km/h!Speed of ship = (1/2)*(x+y)!=(1/2)*(20+24) = 22 Km/h"
+            "explain": "Ọsọ n'elu mmiri = y = 20 Km/h!Ọsọ n'okpuru mmiri = x = 24 Km/h!Ọsọ ụgbọ mmiri = (1/2)*(x+y)!=(1/2)*(20+24) = 22 Km/h"
         },
         {
-            "question": "Joseph's speed of rowing in still water is 12 km/h and he finds that it takes him twice as long to row up as to row down the river. Find the speed of water in the river.",
+            "question": "Ọsọ Joseph nke ịkwọ ụgbọ mmiri na mmiri dị jụụ bụ 12 km/h ma ọ chọpụtara na ọ na-ewe ya okpukpu abụọ ogologo oge iji kwọọ ụgbọ mmiri elu karịa iji kwọọ ụgbọ mmiri ala osimiri. Chọta ọsọ mmiri n'osimiri.",
             "a": "3.5 km/h",
             "b": "3 km/h",
             "c": "1 km/h",
@@ -548,10 +548,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let speed of water is x.!Speed in still water = u = 12 Km/h! !As downstream speed is double of upstream speed! !(12+x) = 2(12-x)!12+x = 24-2x!3x = 12!x = 4! !Hence speed of water is 4 Km/h."
+            "explain": "Ka ọsọ mmiri bụrụ x.!Ọsọ na mmiri dị jụụ = u = 12 Km/h! !Dịka ọsọ n'okpuru mmiri bụ okpukpu abụọ nke ọsọ n'elu mmiri! !(12+x) = 2(12-x)!12+x = 24-2x!3x = 12!x = 4! !N'ihi ya, ọsọ mmiri bụ 4 Km/h."
         },
         {
-            "question": "Speed of water in certain river is 6 km/h and it takes a boat four times as long to row up as to row down the river. What is the speed of boat in still water?",
+            "question": "Ọsọ mmiri n'osimiri ụfọdụ bụ 6 km/h ma ọ na-ewe ụgbọ mmiri okpukpu anọ ogologo oge iji kwọọ ụgbọ mmiri elu karịa iji kwọọ ụgbọ mmiri ala osimiri. Gịnị bụ ọsọ ụgbọ mmiri na mmiri dị jụụ?",
             "a": "10 km/h",
             "b": "8 km/h",
             "c": "6 km/h",
@@ -559,32 +559,32 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let speed of boat in still water is x.!Speed of water = v = 6 Km/h!As downstream speed is four times the upstream speed so! !(x+6) = 4(x-6)!x+6 = 4x-24!30 = 3x!x = 10! !Hence speed of boat in still water is 10 Km/h"
+            "explain": "Ka ọsọ ụgbọ mmiri na mmiri dị jụụ bụrụ x.!Ọsọ mmiri = v = 6 Km/h!Dịka ọsọ n'okpuru mmiri bụ okpukpu anọ nke ọsọ n'elu mmiri ya mere! !(x+6) = 4(x-6)!x+6 = 4x-24!30 = 3x!x = 10! !N'ihi ya, ọsọ ụgbọ mmiri na mmiri dị jụụ bụ 10 Km/h"
         },
         {
-            "question": "Anil's swimming speed in still water is 14 km/h and speed of water is 4 km/h. How long will it take him to go upstream 50 km?",
-            "a": "2.5 hours",
-            "b": "5 hours",
-            "c": "3 hours",
-            "d": "3.5 hours",
+            "question": "Ọsọ igwu mmiri Anil na mmiri dị jụụ bụ 14 km/h na ọsọ mmiri bụ 4 km/h. Ogologo oge ole ka ọ ga-ewe ya iji gaa n'elu mmiri 50 km?",
+            "a": "awa 2.5",
+            "b": "awa 5",
+            "c": "awa 3",
+            "d": "awa 3.5",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Anil's swimming speed in still water = u = 14 Km/h!Speed of water = v = 4 Km/h!Total upstream speed = u-v = 14-10 = 10 Km/h!Distance to cover = S = 50Km! !time = distance/speed!By putting values!time = t = 50/10 = 5 hours"
+            "explain": "Ọsọ igwu mmiri Anil na mmiri dị jụụ = u = 14 Km/h!Ọsọ mmiri = v = 4 Km/h!Ngụkọta ọsọ n'elu mmiri = u-v = 14-10 = 10 Km/h!Ogologo njem a ga-aga = S = 50Km! !oge = ogologo/ọsọ!Site n'itinye ụkpụrụ!oge = t = 50/10 = 5 awa"
         },
         {
-            "question": "Ali's swimming speed in still water is 18 km/h and speed of water is 6 km/h. How long will it take him to go downstream 72km?",
-            "a": "3.5 hours",
-            "b": "3 hours",
-            "c": "4 hours",
-            "d": "3.75 hours",
+            "question": "Ọsọ igwu mmiri Ali na mmiri dị jụụ bụ 18 km/h na ọsọ mmiri bụ 6 km/h. Ogologo oge ole ka ọ ga-ewe ya iji gaa n'okpuru mmiri 72km?",
+            "a": "awa 3.5",
+            "b": "awa 3",
+            "c": "awa 4",
+            "d": "awa 3.75",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ali's swimming speed in still water = u = 18 Km/h!Speed of water = v = 6 Km/h!Total speed down the stream = 18+6 = 24 Km/h! !Distance to cover = 72 Km!time = ?! !time = distance/speed = time = 72/24 = 3 hours."
+            "explain": "Ọsọ igwu mmiri Ali na mmiri dị jụụ = u = 18 Km/h!Ọsọ mmiri = v = 6 Km/h!Ngụkọta ọsọ n'okpuru iyi = 18+6 = 24 Km/h! !Ogologo njem a ga-aga = 72 Km!oge = ?! !oge = ogologo/ọsọ = oge = 72/24 = 3 awa."
         },
         {
-            "question": "A man can row 4.5 km an hour in still water but takes twice as long to row up a stream as down it. What is the rate of stream in km/h?",
+            "question": "Nwoke nwere ike ịkwọ ụgbọ mmiri 4.5 km kwa awa na mmiri dị jụụ mana ọ na-ewe okpukpu abụọ ogologo oge iji kwọọ ụgbọ mmiri elu iyi karịa ala ya. Gịnị bụ ọnụego iyi na km/h?",
             "a": "1.5",
             "b": "2.25",
             "c": "3",
@@ -592,10 +592,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let rate of stream (speed of water) is x.!Man's speed in still water = u = 4.5 Km/h! !Given that!4.5+x = 2(4.5-x)!4.5+x = 9-2x!3x = 4.5!x = 1.5! !Hence rate of stream is 1.5 Km/h"
+            "explain": "Ka ọnụego iyi (ọsọ mmiri) bụrụ x.!Ọsọ nwoke na mmiri dị jụụ = u = 4.5 Km/h! !Nyere na!4.5+x = 2(4.5-x)!4.5+x = 9-2x!3x = 4.5!x = 1.5! !N'ihi ya, ọnụego iyi bụ 1.5 Km/h"
         },
         {
-            "question": "If a man takes two hours to row 3 km upstream or 15 km downstream then the speed of current is?",
+            "question": "Ọ bụrụ na nwoke ewee awa abụọ iji kwọọ ụgbọ mmiri 3 km n'elu mmiri ma ọ bụ 15 km n'okpuru mmiri mgbe ahụ ọsọ nke mmiri bụ?",
             "a": "1",
             "b": "2",
             "c": "3",
@@ -603,10 +603,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Upstream distance covered in 2 hours = 3Km!Distance covered in 1 hour = 3/2 = `1.5 Km!So,!Upstream speed = 1.5 Km/h!Downstream distance covered in 2 hours = 15Km!Distance covered in 1 hour = 15/2 = 7.5Km! !Downstream speed = 7.5 Km/h! !Now!Speed of water = (1/2)*(7.5-1.5) = 3 Km/h"
+            "explain": "Ogologo njem a ga-aga n'elu mmiri n'ime awa 2 = 3Km!Ogologo njem a ga-aga n'ime awa 1 = 3/2 = `1.5 Km!Ya mere,!Ọsọ n'elu mmiri = 1.5 Km/h!Ogologo njem a ga-aga n'okpuru mmiri n'ime awa 2 = 15Km!Ogologo njem a ga-aga n'ime awa 1 = 15/2 = 7.5Km! !Ọsọ n'okpuru mmiri = 7.5 Km/h! !Ugbu a!Ọsọ mmiri = (1/2)*(7.5-1.5) = 3 Km/h"
         },
         {
-            "question": "A man can row 1 km upstream in 20 minutes, and downstream in 15 minutes. What is the speed of the current?",
+            "question": "Nwoke nwere ike ịkwọ ụgbọ mmiri 1 km n'elu mmiri n'ime nkeji 20, na n'okpuru mmiri n'ime nkeji 15. Gịnị bụ ọsọ nke mmiri?",
             "a": "1 km/h",
             "b": "2 km/h",
             "c": "0.5 km/h",
@@ -614,10 +614,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "20 minutes = 20/60 = 1/3 hours!Upstream distance covered in 1/3 hours = 1 Km!Upstream distance covered in 1 hour = 1/(1/3) = 3 Km!Upstream speed = y = 3 Km/h! !Now!15 minutes = 15/60 = 1/4 hours!Downstream distance covered in 1/4 hours = 1 Km!Downstream distance covered in 1 hour = 1/(1/4) = 4 Km!Downstream speed = 4 Km/h! !speed of water = (1/2)*(4-3) = 1/2 = 0.5 Km/h"
+            "explain": "Nkeji 20 = 20/60 = 1/3 awa!Ogologo njem a ga-aga n'elu mmiri n'ime 1/3 awa = 1 Km!Ogologo njem a ga-aga n'elu mmiri n'ime awa 1 = 1/(1/3) = 3 Km!Ọsọ n'elu mmiri = y = 3 Km/h! !Ugbu a!Nkeji 15 = 15/60 = 1/4 awa!Ogologo njem a ga-aga n'okpuru mmiri n'ime 1/4 awa = 1 Km!Ogologo njem a ga-aga n'okpuru mmiri n'ime awa 1 = 1/(1/4) = 4 Km!Ọsọ n'okpuru mmiri = 4 Km/h! !ọsọ mmiri = (1/2)*(4-3) = 1/2 = 0.5 Km/h"
         },
         {
-            "question": "A man rows 1 km upstream in 20 minutes and 1 km downstream in 15 minutes. What is his speed of rowing in still water?",
+            "question": "Nwoke na-akwọ ụgbọ mmiri 1 km n'elu mmiri n'ime nkeji 20 na 1 km n'okpuru mmiri n'ime nkeji 15. Gịnị bụ ọsọ ịkwọ ụgbọ mmiri ya na mmiri dị jụụ?",
             "a": "2.5",
             "b": "3",
             "c": "3.5",
@@ -625,10 +625,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "20 minutes = 20/60 = 1/3 hours!Upstream distance covered in 1/3 hours = 1 Km!Upstream distance covered in 1 hour = 1/(1/3) = 3 Km!Upstream speed = y = 3 Km/h! !Now!15 minutes = 15/60 = 1/4 hours!Downstream distance covered in 1/4 hours = 1 Km!Downstream distance covered in 1 hour = 1/(1/4) = 4 Km!Downstream speed = 4 Km/h! !speed of rowing = (1/2)*(4+3) = 7/2 = 3.5 Km/h"
+            "explain": "Nkeji 20 = 20/60 = 1/3 awa!Ogologo njem a ga-aga n'elu mmiri n'ime 1/3 awa = 1 Km!Ogologo njem a ga-aga n'elu mmiri n'ime awa 1 = 1/(1/3) = 3 Km!Ọsọ n'elu mmiri = y = 3 Km/h! !Ugbu a!Nkeji 15 = 15/60 = 1/4 awa!Ogologo njem a ga-aga n'okpuru mmiri n'ime 1/4 awa = 1 Km!Ogologo njem a ga-aga n'okpuru mmiri n'ime awa 1 = 1/(1/4) = 4 Km!Ọsọ n'okpuru mmiri = 4 Km/h! !ọsọ ịkwọ ụgbọ mmiri = (1/2)*(4+3) = 7/2 = 3.5 Km/h"
         },
         {
-            "question": "A man rowing a boat covers an average distance of 7.5 km/h. What is the distance covered after 40 minutes?",
+            "question": "Nwoke na-akwọ ụgbọ mmiri na-aga nkezi nke 7.5 km/h. Gịnị bụ ogologo njem a ga-aga mgbe nkeji 40 gachara?",
             "a": "5 km",
             "b": "10 km",
             "c": "20 km",
@@ -636,10 +636,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Distance covered in 60 minutes = 7.5 Km!Distance covered in 1 minute = 7.5/60 = 1/8 Km! !Distance covered in 40 minutes = (1/8)*40 = 5 Km"
+            "explain": "Ogologo njem a ga-aga n'ime nkeji 60 = 7.5 Km!Ogologo njem a ga-aga n'ime nkeji 1 = 7.5/60 = 1/8 Km! !Ogologo njem a ga-aga n'ime nkeji 40 = (1/8)*40 = 5 Km"
         },
         {
-            "question": "A man can row down a 10 mile stream in 2 hours and up in 5 hours. What is the average speed in miles per hour?",
+            "question": "Nwoke nwere ike ịkwọ ụgbọ mmiri ala iyi dị maịl 10 n'ime awa 2 na elu n'ime awa 5. Gịnị bụ nkezi ọsọ na maịl kwa awa?",
             "a": "10/7",
             "b": "7/2",
             "c": "20/7",
@@ -647,10 +647,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Downstream distance covered in 2 hours = 10 miles!Downstream distance covered in 1 hour = 10/2 = 5 miles!Downstream speed = 5 mile/h! !and!Upstream distance covered in 5 hours = 10 mile!Upstream distance covered in 1 hour = 10/5 = 2 miles! !Upstream speed = 2 mile/hr! !Average speed = (1/2)*(2+5) = 3.5 mile/hr"
+            "explain": "Ogologo njem a ga-aga n'okpuru mmiri n'ime awa 2 = maịl 10!Ogologo njem a ga-aga n'okpuru mmiri n'ime awa 1 = 10/2 = maịl 5!Ọsọ n'okpuru mmiri = 5 maịl/h! !na!Ogologo njem a ga-aga n'elu mmiri n'ime awa 5 = maịl 10!Ogologo njem a ga-aga n'elu mmiri n'ime awa 1 = 10/5 = maịl 2! !Ọsọ n'elu mmiri = 2 maịl/hr! !Nkezi ọsọ = (1/2)*(2+5) = 3.5 maịl/hr"
         },
         {
-            "question": "Speed of water in certain river is 2 km/h and it takes a boat thrice as long to row up as to row down the river. Find the speed of the boat in still water.",
+            "question": "Ọsọ mmiri n'osimiri ụfọdụ bụ 2 km/h ma ọ na-ewe ụgbọ mmiri okpukpu atọ ogologo oge iji kwọọ ụgbọ mmiri elu karịa iji kwọọ ụgbọ mmiri ala osimiri. Chọta ọsọ ụgbọ mmiri na mmiri dị jụụ.",
             "a": "10 km/h",
             "b": "8 km/h",
             "c": "6 km/h",
@@ -658,7 +658,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let speed of boat in still water is x.!Speed of water = v = 2 Km/h! !As downstream speed in 3 times the upstream speed so!(x+2) = 3(x-2)!x+2 = 3x-6!8 = 2x!x = 4!Hence speed of boat in still water is 4 Km/h"
+            "explain": "Ka ọsọ ụgbọ mmiri na mmiri dị jụụ bụrụ x.!Ọsọ mmiri = v = 2 Km/h! !Dịka ọsọ n'okpuru mmiri na ugboro 3 nke ọsọ n'elu mmiri ya mere!(x+2) = 3(x-2)!x+2 = 3x-6!8 = 2x!x = 4!N'ihi ya, ọsọ ụgbọ mmiri na mmiri dị jụụ bụ 4 Km/h"
         }
     ]
 }

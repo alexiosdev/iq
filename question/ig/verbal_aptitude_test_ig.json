@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "question": "Ornithologist is to Bird as Archealogist is to?",
-            "a": "Islands",
-            "b": "Mediators",
-            "c": "Archealogy",
-            "d": "Aquatic",
+            "question": "Onye na-amụ banyere nnụnụ bụ maka Nnụnụ dịka Onye na-amụ banyere ihe ochie bụ maka?",
+            "a": "Agwaetiti",
+            "b": "Ndị ogbugbo",
+            "c": "Nkà mmụta ihe ochie",
+            "d": "Mmiri",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As Ornithologist is a specialist of Birds similarly Archealogist is a specialist of Archealogy."
+            "explain": "Dịka onye na-amụ banyere nnụnụ bụ ọkachamara n'ihe gbasara nnụnụ, otu aka ahụ onye na-amụ banyere ihe ochie bụ ọkachamara n'ihe gbasara nkà mmụta ihe ochie."
         },
         {
-            "question": "Peacock is to India as Bear is to?",
+            "question": "Peacock bụ maka India dịka Bear bụ maka?",
             "a": "Australia",
             "b": "America",
             "c": "Russia",
@@ -20,21 +20,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As Peacock is the national bird of India, similarly Bear is the national animal of Russia."
+            "explain": "Dịka Peacock bụ nnụnụ mba India, otu aka ahụ Bear bụ anụmanụ mba Russia."
         },
         {
-            "question": "What is Synonym of ERUDITE ?",
-            "a": "ancient",
-            "b": "scholarly",
-            "c": "distinguished",
-            "d": "careful",
+            "question": "Gịnị bụ otu okwu maka ERUDITE?",
+            "a": "oge ochie",
+            "b": "onye maara akwụkwọ",
+            "c": "onye a ma ama",
+            "d": "onye na-akpachara anya",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "REASON is to SFBTPO as THINK is to?",
+            "question": "REASON bụ maka SFBTPO dịka THINK bụ maka?",
             "a": "SGHMJ",
             "b": "UIJOL",
             "c": "UHNKI",
@@ -42,10 +42,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As,!R + 1 = S!E + 1 = F!A + 1 = B!S + 1 = T!O + 1 = P!N + 1 = O! !Similarly,!T + 1 = U!H + 1 = I!I + 1 = J!N + 1 = O!K + 1 = L"
+            "explain": "Dịka,!R + 1 = S!E + 1 = F!A + 1 = B!S + 1 = T!O + 1 = P!N + 1 = O! !N'otu aka ahụ,!T + 1 = U!H + 1 = I!I + 1 = J!N + 1 = O!K + 1 = L"
         },
         {
-            "question": "Carbon is to Diamond as Corundum is to?",
+            "question": "Carbon bụ maka Diamond dịka Corundum bụ maka?",
             "a": "Garnet",
             "b": "Ruby",
             "c": "Pukhraj",
@@ -53,32 +53,32 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As Diamond is made of Carbon similarly Ruby is made of Corundum."
+            "explain": "Dịka a na-eji Carbon eme Diamond, otu aka ahụ a na-eji Corundum eme Ruby."
         },
         {
-            "question": "What is Synonym of COGENCY ?",
-            "a": "grace",
-            "b": "competence",
-            "c": "prestige",
-            "d": "force",
+            "question": "Gịnị bụ otu okwu maka COGENCY?",
+            "a": "amara",
+            "b": "ikike",
+            "c": "ugwu",
+            "d": "ike",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Architect is to Building as Sculptor is to?",
-            "a": "Museum",
-            "b": "Stone",
-            "c": "Chisel",
-            "d": "Statue",
+            "question": "Onye na-ese ụkpụrụ ụlọ bụ maka Ụlọ dịka Onye na-akpụ ihe bụ maka?",
+            "a": "Ebe ngosi ihe mgbe ochie",
+            "b": "Nkume",
+            "c": "Mma",
+            "d": "Akpụrakpụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As 'Architect' makes 'Building'! similarly 'Sculptor' makes 'Statue'."
+            "explain": "Dịka 'Onye na-ese ụkpụrụ ụlọ' na-arụ 'Ụlọ'! n'otu aka ahụ 'Onye na-akpụ ihe' na-akpụ 'Akpụrakpụ'."
         },
         {
-            "question": "Eye is to Myopia as Teeth is to?",
+            "question": "Anya bụ maka Myopia dịka Ezé bụ maka?",
             "a": "Pyrrhoea",
             "b": "Cataract",
             "c": "Trachoma",
@@ -86,43 +86,43 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As Myopia is disease of eye similarly pyorrhoea is a disease of teeth."
+            "explain": "Dịka Myopia bụ ọrịa anya, otu aka ahụ pyorrhoea bụ ọrịa ezé."
         },
         {
-            "question": "Conference is to Chairman as Newspaper is to?",
-            "a": "Reporter",
-            "b": "Distributor",
-            "c": "Printer",
-            "d": "Editor",
+            "question": "Nzukọ bụ maka Onye isi oche dịka Akwụkwọ akụkọ bụ maka?",
+            "a": "Onye nta akụkọ",
+            "b": "Onye nkesa",
+            "c": "Onye nbipụta",
+            "d": "Onye nchịkọta akụkọ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As Chairman is the highest authority in a conference! similarly Editor is in Newspaper."
+            "explain": "Dịka Onye isi oche bụ onye kachasị elu na nzukọ! n'otu aka ahụ Onye nchịkọta akụkọ bụ na Akwụkwọ akụkọ."
         },
         {
-            "question": "What is Antonym of RIBALD ?",
-            "a": "genteel",
-            "b": "attractive",
-            "c": "serious",
-            "d": "ethical",
+            "question": "Gịnị bụ okwu megidere RIBALD?",
+            "a": "onye dị nwayọọ",
+            "b": "onye mara mma",
+            "c": "onye siri ike",
+            "d": "onye nwere ụkpụrụ omume",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Safe is to Secure as Protect is to?",
-            "a": "Lock",
-            "b": "Sure",
-            "c": "Guard",
-            "d": "Conserve",
+            "question": "Nchekwa bụ maka Nchekwa dịka Ichebe bụ maka?",
+            "a": "Mkpọchi",
+            "b": "N'ezie",
+            "c": "Nche",
+            "d": "Chekwaa",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As safe ans secure have same meaning in the same way protect and guard have same meaning."
+            "explain": "Dịka nchekwa na nchekwa nwere otu ihe ọ pụtara, n'otu ụzọ ahụ ichebe na nche nwere otu ihe ọ pụtara."
         },
         {
-            "question": "Master is to OCUVGT as LABOUR is to?",
+            "question": "Master bụ maka OCUVGT dịka LABOUR bụ maka?",
             "a": "NCDQWT",
             "b": "NDERWT",
             "c": "NBERWT",
@@ -130,65 +130,65 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As!M + 2 = O!A + 2 = C!S + 2 = U!T + 2 = V!E + 2 = G!R + 2 = T! !Similarly!L + 2 = N!A + 2 = C!B + 2 = D!O + 2 = Q!U + 2 = W!R + 2 = T!"
+            "explain": "Dịka!M + 2 = O!A + 2 = C!S + 2 = U!T + 2 = V!E + 2 = G!R + 2 = T! !N'otu aka ahụ!L + 2 = N!A + 2 = C!B + 2 = D!O + 2 = Q!U + 2 = W!R + 2 = T!"
         },
         {
-            "question": "The miser gazed ...... at the pile of gold coins in front of him.",
-            "a": "avidly",
-            "b": "admiringly",
-            "c": "thoughtfully",
-            "d": "earnestly",
+            "question": "Onye anyaukwu ahụ legidere ...... anya n'ìgwè mkpụrụ ego ọlaedo dị n'ihu ya.",
+            "a": "n'anya ukwu",
+            "b": "n'anya ọma",
+            "c": "n'echiche",
+            "d": "n'eziokwu",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Catching the earlier train will give us the ...... to do some shopping.",
-            "a": "chance",
-            "b": "luck",
-            "c": "possibility",
-            "d": "occasion",
+            "question": "Ịbanye n'ụgbọ okporo ígwè mbụ ga-enye anyị ...... ịzụ ahịa.",
+            "a": "ohere",
+            "b": "chioma",
+            "c": "ikike",
+            "d": "oge",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Tree is to Forest as Grass is to?",
-            "a": "Lawn",
-            "b": "Garden",
-            "c": "Park",
-            "d": "Field",
+            "question": "Osisi bụ maka Ọhịa dịka Ahịhịa bụ maka?",
+            "a": "Ahịhịa ndụ",
+            "b": "Ubi",
+            "c": "Ogige",
+            "d": "Ubi",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As Tree is found in Forest similarly Grass is found in Lawn."
+            "explain": "Dịka a na-ahụ Osisi n'Ọhịa, otu aka ahụ a na-ahụ Ahịhịa n'Ahịhịa ndụ."
         },
         {
-            "question": "South is to North-West as West is to?",
-            "a": "North",
-            "b": "South-West",
-            "c": "North-East",
-            "d": "East",
+            "question": "Ndịda bụ maka Ugwu-Odida anyanwụ dịka Odida anyanwụ bụ maka?",
+            "a": "Ugwu",
+            "b": "Ndịda-Odida anyanwụ",
+            "c": "Ugwu-Ọwụwa anyanwụ",
+            "d": "Ọwụwa anyanwụ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As North-West is 135 degree clockwise from South in the same were North-East is 135 degree clockwise from the West."
+            "explain": "Dịka Ugwu-Odida anyanwụ dị ogo 135 n'aka nri site na Ndịda, n'otu ụzọ ahụ Ugwu-Ọwụwa anyanwụ dị ogo 135 n'aka nri site na Odida anyanwụ."
         },
         {
-            "question": "Cloth is to Mill as Newspaper is to?",
-            "a": "Editor",
-            "b": "Reader",
-            "c": "Paper",
-            "d": "Press",
+            "question": "Ákwà bụ maka Ụlọ ọrụ ákwà dịka Akwụkwọ akụkọ bụ maka?",
+            "a": "Onye nchịkọta akụkọ",
+            "b": "Onye na-agụ",
+            "c": "Akwụkwọ",
+            "d": "Ụlọ obibi akwụkwọ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As Cloth is made in a Mill, similarly Newspaper is printed in press."
+            "explain": "Dịka a na-akpa Ákwà n'Ụlọ ọrụ ákwà, otu aka ahụ a na-ebipụta Akwụkwọ akụkọ n'ụlọ obibi akwụkwọ."
         },
         {
-            "question": "Find the correctly spelt word.",
+            "question": "Chọta okwu a sụgharịrị nke ọma.",
             "a": "Ommineous",
             "b": "Omineous",
             "c": "Ominous",
@@ -196,10 +196,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the correctly spelt word.",
+            "question": "Chọta okwu a sụgharịrị nke ọma.",
             "a": "Pessenger",
             "b": "Passenger",
             "c": "Pasanger",
@@ -207,76 +207,76 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Tiger is to Forest as Otter is to?",
-            "a": "Cage",
-            "b": "Sky",
-            "c": "Nest",
-            "d": "Water",
+            "question": "Agụ bụ maka Ọhịa dịka Otter bụ maka?",
+            "a": "Ngige",
+            "b": "Eluigwe",
+            "c": "Akpa",
+            "d": "Mmiri",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As Tiger is found in Forest similarly Otter is found in the water."
+            "explain": "Dịka a na-ahụ Agụ n'Ọhịa, otu aka ahụ a na-ahụ Otter na mmiri."
         },
         {
-            "question": "cup is to lip as bird is to..",
-            "a": "bush",
-            "b": "grass",
-            "c": "forest",
-            "d": "beak",
+            "question": "iko bụ maka egbugbere ọnụ dịka nnụnụ bụ maka..",
+            "a": "ọhịa",
+            "b": "ahịhịa",
+            "c": "ọhịa",
+            "d": "ọnụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Cup is used to drink something with the help of lips.! Similarly birds collects grass with the help of beak to make her nest."
+            "explain": "A na-eji iko aṅụ ihe site n'enyemaka nke egbugbere ọnụ.! N'otu aka ahụ, nnụnụ na-eji ọnụ ya achịkọta ahịhịa iji rụọ akwụ́ ya."
         },
         {
-            "question": "flow is to river as stagnant is to..",
-            "a": "rain",
-            "b": "stream",
-            "c": "pool",
-            "d": "canal",
+            "question": "mmiri na-asọ bụ maka osimiri dịka mmiri kwụ ọtọ bụ maka..",
+            "a": "mmiri ozuzo",
+            "b": "iyi",
+            "c": "ọdọ mmiri",
+            "d": "ọwa mmiri",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As Water of a River flows similarly water of Pool is Stagnant."
+            "explain": "Dịka mmiri nke osimiri na-asọ, otu aka ahụ mmiri nke ọdọ mmiri kwụ ọtọ."
         },
         {
-            "question": "paw is to cat as hoof is to..",
-            "a": "lamb",
-            "b": "elephant",
-            "c": "lion",
-            "d": "horse",
+            "question": "ụkwụ bụ maka pusi dịka ụkwụ bụ maka..",
+            "a": "nwa atụrụ",
+            "b": "enyi",
+            "c": "ọdụm",
+            "d": "ịnyịnya",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As cat has Paw similarly Horse has Hoof."
+            "explain": "Dịka pusi nwere ụkwụ, otu aka ahụ ịnyịnya nwere ụkwụ."
         },
         {
-            "question": "what is Antonym of CHECK ?",
-            "a": "stay",
-            "b": "accelerate",
-            "c": "monitor",
-            "d": "foil",
+            "question": "gịnị bụ okwu megidere CHECK?",
+            "a": "nọrọ",
+            "b": "mee ngwa ngwa",
+            "c": "lelee",
+            "d": "mebie",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "what is Synonym of ESPOUSAL ?",
-            "a": "avoidance",
-            "b": "outburst",
-            "c": "care",
-            "d": "adoption",
+            "question": "gịnị bụ otu okwu maka ESPOUSAL?",
+            "a": "izere",
+            "b": "nkwuwa okwu",
+            "c": "nlekọta",
+            "d": "ịkpọrọ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the correctly spelt word.",
+            "question": "Chọta okwu a sụgharịrị nke ọma.",
             "a": "Efficient",
             "b": "Treatmeant",
             "c": "Beterment",
@@ -284,10 +284,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the correctly spelt word.",
+            "question": "Chọta okwu a sụgharịrị nke ọma.",
             "a": "Foreign",
             "b": "Foreine",
             "c": "Fariegn",
@@ -295,32 +295,32 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Country is to President as State is to?",
-            "a": "Governer",
+            "question": "Mba bụ maka Onye isi ala dịka Steeti bụ maka?",
+            "a": "Gọvanọ",
             "b": "M.P",
-            "c": "Legislator",
-            "d": "Minister",
+            "c": "Onye omeiwu",
+            "d": "Minista",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As President is the nominal head of a country, similarly Governer is the nominal head of a State."
+            "explain": "Dịka Onye isi ala bụ onye isi aha nke mba, otu aka ahụ Gọvanọ bụ onye isi aha nke Steeti."
         },
         {
-            "question": "Race is to Fatigue as Fast is to?",
-            "a": "Food",
-            "b": "Laziness",
-            "c": "Hunger",
-            "d": "Race",
+            "question": "Ọsọ bụ maka Ike ọgwụgwụ dịka Ibu ọnụ bụ maka?",
+            "a": "Nri",
+            "b": "Ume ngwụ",
+            "c": "Agụụ",
+            "d": "Ọsọ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the result of Race is Fatigue similarly the result of Fast is Hunger."
+            "explain": "Dịka nsonaazụ nke Ọsọ bụ Ike ọgwụgwụ, otu aka ahụ nsonaazụ nke Ibu ọnụ bụ Agụụ."
         },
         {
-            "question": "Find the correctly spelt word.",
+            "question": "Chọta okwu a sụgharịrị nke ọma.",
             "a": "Benefitted",
             "b": "Benifited",
             "c": "Benefited",
@@ -328,208 +328,208 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Fate smiles ...... those who untiringly grapple with stark realities of life.",
-            "a": "with",
-            "b": "over",
-            "c": "on",
-            "d": "round",
+            "question": "Akara aka na-amụmụ ọnụ ọchị ...... ndị na-agbasi mbọ ike na eziokwu nke ndụ.",
+            "a": "na",
+            "b": "n'elu",
+            "c": "na",
+            "d": "gburugburu",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Melt is to Liquid as Freeze is to?",
+            "question": "Ịgbaze bụ maka Mmiri dịka Ịkpụkọ bụ maka?",
             "a": "Ice",
-            "b": "Condense",
-            "c": "Solid",
-            "d": "Force",
+            "b": "Ịkpụkọ",
+            "c": "Ihe siri ike",
+            "d": "Ike",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As on melting, liquid is formed similarly on freezing solid is formed."
+            "explain": "Dịka mgbe a gbazere, a na-enweta mmiri, otu aka ahụ mgbe a kpụkọrọ, a na-enweta ihe siri ike."
         },
         {
-            "question": "What is Antonym of COMMISSIONED ?",
-            "a": "Started",
-            "b": "Closed",
-            "c": "Finished",
-            "d": "Terminated",
+            "question": "Gịnị bụ okwu megidere COMMISSIONED?",
+            "a": "Malitere",
+            "b": "Mechiri",
+            "c": "Gwụchara",
+            "d": "Kwụsịrị",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is Antonym of ARTIFICIAL ?",
-            "a": "Red",
-            "b": "Natural",
-            "c": "Truthful",
-            "d": "Solid",
+            "question": "Gịnị bụ okwu megidere ARTIFICIAL?",
+            "a": "Uhie",
+            "b": "Eke",
+            "c": "Eziokwu",
+            "d": "Ihe siri ike",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "The grapes are now ...... enough to be picked.",
-            "a": "ready",
-            "b": "mature",
-            "c": "ripe",
-            "d": "advanced",
+            "question": "Mkpụrụ vaịn ahụ dị ugbu a ...... zuru ezu iji tụtụọ.",
+            "a": "njikere",
+            "b": "tozuru okè",
+            "c": "chara acha",
+            "d": "dị elu",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is synonym of CORPULENT ?",
-            "a": "Lean",
-            "b": "Gaunt",
-            "c": "Emaciated",
-            "d": "Obese",
+            "question": "Gịnị bụ otu okwu maka CORPULENT?",
+            "a": "Tara ahụ",
+            "b": "Tara ahụ",
+            "c": "Tara ahụ",
+            "d": "Burly",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "A person who knows many foreign languages is called ...",
-            "a": "Linguist",
-            "b": "Grammarian",
+            "question": "A na-akpọ onye maara ọtụtụ asụsụ mba ọzọ ...",
+            "a": "Onye ọkà mmụta asụsụ",
+            "b": "Onye ọkà mmụta asụsụ",
             "c": "Polyglot",
-            "d": "Bilingual",
+            "d": "Asụsụ abụọ",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "One who has little faith in human sincerity and goodness is called ...",
-            "a": "Egoist",
-            "b": "Fatalist",
-            "c": "Stoic",
-            "d": "Cynic",
+            "question": "A na-akpọ onye nwere ntakịrị okwukwe n'eziokwu na ịdị mma mmadụ ...",
+            "a": "Onye na-achọ naanị ọdịmma onwe ya",
+            "b": "Onye na-ekwere n'akara aka",
+            "c": "Onye na-anagide ihe",
+            "d": "Onye na-akwa emo",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is synonym of AUGUST ?",
-            "a": "Common",
-            "b": "Ridiculous",
-            "c": "Dignified",
-            "d": "Petty",
+            "question": "Gịnị bụ otu okwu maka AUGUST?",
+            "a": "Nkịtị",
+            "b": "Ihe ọchị",
+            "c": "A na-akwanyere ùgwù",
+            "d": "Obere",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is synonym of CANNY ?",
-            "a": "Obstinate",
-            "b": "Handsome",
-            "c": "Clever",
-            "d": "Stout",
+            "question": "Gịnị bụ otu okwu maka CANNY?",
+            "a": "Isi ike",
+            "b": "Mara mma",
+            "c": "Maara ihe",
+            "d": "Siri ike",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "The study of ancient societies is called ...",
-            "a": "Anthropology",
-            "b": "Archaeology",
-            "c": "History",
-            "d": "Ethnology",
+            "question": "A na-akpọ ọmụmụ banyere ọha mmadụ oge ochie ...",
+            "a": "Nkà mmụta gbasara mmadụ",
+            "b": "Nkà mmụta ihe ochie",
+            "c": "Akụkọ ihe mere eme",
+            "d": "Nkà mmụta gbasara agbụrụ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is synonym of BRIEF ?",
-            "a": "Limited",
-            "b": "Small",
-            "c": "Little",
-            "d": "Short",
+            "question": "Gịnị bụ otu okwu maka BRIEF?",
+            "a": "Oke",
+            "b": "Obere",
+            "c": "Obere",
+            "d": "Nkenke",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is synonym of VENT ?",
-            "a": "Opening",
+            "question": "Gịnị bụ otu okwu maka VENT?",
+            "a": "Mmeghe",
             "b": "Stodge",
-            "c": "End",
-            "d": "Go",
+            "c": "Ọgwụgwụ",
+            "d": "Gaa",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "A drawing on transparent paper is called ...",
-            "a": "Red print",
-            "b": "Blue print",
-            "c": "Negative",
-            "d": "Transparency",
+            "question": "A na-akpọ ihe osise dị na akwụkwọ a na-ahụ anya ...",
+            "a": "Mbipụta uhie",
+            "b": "Mbipụta anụnụ anụnụ",
+            "c": "Na-adịghị mma",
+            "d": "Ngosipụta",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is Antonym of ENORMOUS ?",
-            "a": "Soft",
-            "b": "Average",
-            "c": "Tiny",
-            "d": "Weak",
+            "question": "Gịnị bụ okwu megidere ENORMOUS?",
+            "a": "Dị nro",
+            "b": "Nkezi",
+            "c": "Obere",
+            "d": "Adịghị ike",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "College is to Student as Hospital is to?",
-            "a": "Nurse",
-            "b": "Doctor",
-            "c": "Treatment",
-            "d": "Patient",
+            "question": "Kọleji bụ maka Nwa akwụkwọ dịka Ụlọ ọgwụ bụ maka?",
+            "a": "Nọọsụ",
+            "b": "Dọkịta",
+            "c": "Ọgwụgwọ",
+            "d": "Onye ọrịa",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As Students read in College similarly Patients are treated in Hospital."
+            "explain": "Dịka ụmụ akwụkwọ na-agụ akwụkwọ na kọleji, otu aka ahụ a na-agwọ ndị ọrịa n'ụlọ ọgwụ."
         },
         {
-            "question": "I saw a ...... of cows in the field.",
-            "a": "group",
-            "b": "herd",
-            "c": "swarm",
-            "d": "flock",
+            "question": "Ahụrụ m ...... ehi n'ubi.",
+            "a": "ìgwè",
+            "b": "ìgwè ehi",
+            "c": "ìgwè",
+            "d": "ìgwè atụrụ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is Antonym of RELINQUISH ?",
-            "a": "Abdicate",
-            "b": "Renounce",
-            "c": "Possess",
-            "d": "Deny",
+            "question": "Gịnị bụ okwu megidere RELINQUISH?",
+            "a": "Ịhapụ",
+            "b": "Ịjụ",
+            "c": "Inwe",
+            "d": "Ịgọnahụ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the correctly spelt word.",
+            "question": "Chọta okwu a sụgharịrị nke ọma.",
             "a": "Forcast",
             "b": "Forecaste",
             "c": "Forcaust",
@@ -537,10 +537,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the correctly spelt word.",
+            "question": "Chọta okwu a sụgharịrị nke ọma.",
             "a": "Rigerous",
             "b": "Rigourous",
             "c": "Regerous",
@@ -548,131 +548,131 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Cup is to coffee as bowl is to..",
-            "a": "dish",
-            "b": "soup",
-            "c": "spoon",
-            "d": "food",
+            "question": "Iko bụ maka kọfị dịka efere bụ maka..",
+            "a": "efere",
+            "b": "ofe",
+            "c": "ngaji",
+            "d": "nri",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Coffee goes into a cup and soup goes into a bowl."
+            "explain": "Kọfị na-abanye n'ime iko ma ofe na-abanye n'ime efere."
         },
         {
-            "question": "Exercise is to gym as eating is to..",
-            "a": "food",
-            "b": "dieting",
-            "c": "fitness",
-            "d": "restaurant",
+            "question": "Mmega ahụ bụ maka mgbatị ahụ dịka iri nri bụ maka..",
+            "a": "nri",
+            "b": "nri nri",
+            "c": "ahụike",
+            "d": "ụlọ oriri na ọṅụṅụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A gym is a place where people exercise.A restaurant is a place where people eat."
+            "explain": "Mgbatị ahụ bụ ebe ndị mmadụ na-emega ahụ. Ụlọ oriri na ọṅụṅụ bụ ebe ndị mmadụ na-eri nri."
         },
         {
-            "question": "Oar is to rowboat as foot is to..",
-            "a": "running",
-            "b": "sneaker",
+            "question": "Oar bụ maka ụgbọ mmiri dịka ụkwụ bụ maka..",
+            "a": "ịgba ọsọ",
+            "b": "akpụkpọ ụkwụ",
             "c": "skateboard",
-            "d": "jumping",
+            "d": "ịwụli elu",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "An oar puts a rowboat into motion. A foot puts a skateboard into motion."
+            "explain": "Oar na-eme ka ụgbọ mmiri na-agagharị. Ụkwụ na-eme ka skateboard na-agagharị."
         },
         {
-            "question": "Window is to pane as book is to..",
-            "a": "novel",
-            "b": "glass",
-            "c": "cover",
-            "d": "page",
+            "question": "Window bụ maka pane dịka akwụkwọ bụ maka..",
+            "a": "akwụkwọ akụkọ",
+            "b": "iko",
+            "c": "mkpuchi",
+            "d": "ibe",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A window is made up of panes, and a book is made up of pages."
+            "explain": "A na-eji pane eme windo, a na-ejikwa ibe eme akwụkwọ."
         },
         {
-            "question": "Secretly is to openly as silently is to..",
-            "a": "scarcely",
-            "b": "impolitely",
-            "c": "noisily",
-            "d": "quietly",
+            "question": "Na nzuzo bụ maka n'ihu ọha dịka n'atụghị ụda bụ maka..",
+            "a": "obere",
+            "b": "n'enweghị nkwanye ùgwù",
+            "c": "n'ụzụ",
+            "d": "n'atụghị ụda",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Secretly is the opposite of openly, and silently is the opposite of noisily."
+            "explain": "Na nzuzo bụ ihe megidere n'ihu ọha, na n'atụghị ụda bụ ihe megidere n'ụzụ."
         },
         {
-            "question": "Artist is to painting as senator is to..",
-            "a": "attorney",
-            "b": "law",
-            "c": "politician",
-            "d": "constituents",
+            "question": "Onye na-ese ihe bụ maka eserese dịka onye omeiwu bụ maka..",
+            "a": "ọkaiwu",
+            "b": "iwu",
+            "c": "onye ndọrọ ndọrọ ọchịchị",
+            "d": "ndị mejupụtara",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "An artist makes paintings; a senator makes laws."
+            "explain": "Onye na-ese ihe na-ese eserese; onye omeiwu na-eme iwu."
         },
         {
-            "question": "Play is to actor as concert is to..",
+            "question": "Egwuregwu bụ maka onye na-eme ihe nkiri dịka egwu bụ maka..",
             "a": "symphony",
-            "b": "musician",
+            "b": "onye na-egwu egwu",
             "c": "piano",
             "d": "percussion",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "An actor performs in a play. A musician performs at a concert."
+            "explain": "Onye na-eme ihe nkiri na-eme ihe nkiri n'egwuregwu. Onye na-egwu egwu na-eme ihe nkiri na egwu."
         },
         {
-            "question": "Careful is to cautious as boastful is to..",
-            "a": "arrogant",
-            "b": "humble",
-            "c": "joyful",
-            "d": "suspicious",
+            "question": "Ịkpachara anya bụ maka ịkpachara anya dịka ịnya isi bụ maka..",
+            "a": "mpako",
+            "b": "dị umeala n'obi",
+            "c": "na-aṅụrị ọṅụ",
+            "d": "na-enyo enyo",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Careful and cautious are synonyms (they mean the same thing). Boastful and arrogant are also synonyms."
+            "explain": "Ịkpachara anya na ịkpachara anya bụ otu okwu (ha pụtara otu ihe). Ịnya isi na mpako bụkwa otu okwu."
         },
         {
-            "question": "Pride is to lion as school is to..",
-            "a": "teacher",
-            "b": "student",
-            "c": "self-respect",
-            "d": "fish",
+            "question": "Nganga bụ maka ọdụm dịka ụlọ akwụkwọ bụ maka..",
+            "a": "onye nkuzi",
+            "b": "nwa akwụkwọ",
+            "c": "nkwanye ùgwù onwe onye",
+            "d": "azụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A group of lions is called a pride. A group of fish swim in a school."
+            "explain": "A na-akpọ otu ìgwè ọdụm nganga. Otu ìgwè azụ na-egwu mmiri n'ụlọ akwụkwọ."
         },
         {
-            "question": "Guide is to direct as reduce is to..",
-            "a": "decrease",
-            "b": "maintain",
-            "c": "increase",
-            "d": "preserve",
+            "question": "Ịduzi bụ maka iduzi dịka ibelata bụ maka..",
+            "a": "ibelata",
+            "b": "nọgide",
+            "c": "ịbawanye",
+            "d": "chekwaa",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Guide and direct are synonyms, and reduce and decrease are synonyms."
+            "explain": "Ịduzi na iduzi bụ otu okwu, na ibelata na ibelata bụ otu okwu."
         },
         {
-            "question": "Yard is to inch as quart is to..",
+            "question": "Yard bụ maka inch dịka quart bụ maka..",
             "a": "gallon",
             "b": "ounce",
-            "c": "milk",
-            "d": "liquid",
+            "c": "mmiri ara ehi",
+            "d": "mmiri mmiri",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A yard is a larger measure than an inch (a yard contains 36 inches). A quart is a larger measure than an ounce (a quart contains 32 ounces)."
+            "explain": "Yard bụ ihe atụ buru ibu karịa inch (yard nwere sentimita 36). Quart bụ ihe atụ buru ibu karịa ounce (quart nwere ounces 32)."
         },
         {
-            "question": "Reptile is to lizard as flower is to..",
+            "question": "Anụ anụ na-akpụ akpụ bụ maka ngwere dịka ifuru bụ maka..",
             "a": "petal",
             "b": "stem",
             "c": "daisy",
@@ -680,131 +680,131 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A lizard is a type of reptile; a daisy is a type of flower."
+            "explain": "Ngwere bụ ụdị anụ anụ na-akpụ akpụ; daisy bụ ụdị ifuru."
         },
         {
-            "question": "Elated is to despondent as enlightened is to..",
-            "a": "aware",
-            "b": "ignorant",
-            "c": "miserable",
-            "d": "tolerant",
+            "question": "Inwe obi ụtọ bụ maka enweghị olileanya dịka inwe nghọta bụ maka..",
+            "a": "mara",
+            "b": "amaghị ihe",
+            "c": "nhụsianya",
+            "d": "ndidi",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Elated is the opposite of despondent; enlightened is the opposite of ignorant."
+            "explain": "Inwe obi ụtọ bụ ihe megidere enweghị olileanya; inwe nghọta bụ ihe megidere amaghị ihe."
         },
         {
-            "question": "Marathon is to race as hibernation is to..",
-            "a": "winter",
-            "b": "bear",
-            "c": "dream",
-            "d": "sleep",
+            "question": "Marathon bụ maka agbụrụ dịka hibernation bụ maka..",
+            "a": "oyi",
+            "b": "anụ ọhịa bea",
+            "c": "nrọ",
+            "d": "ụra",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A marathon is a long race and hibernation is a lengthy period of sleep."
+            "explain": "Marathon bụ agbụrụ dị ogologo ma hibernation bụ oge ụra dị ogologo."
         },
         {
-            "question": "Embarrassed is to humiliated as frightened is to..",
-            "a": "terrified",
-            "b": "agitated",
-            "c": "courageous",
-            "d": "reckless",
+            "question": "Ihere bụ maka ihere dịka ụjọ bụ maka..",
+            "a": "ụjọ",
+            "b": "na-echegbu onwe ya",
+            "c": "nwere obi ike",
+            "d": "enweghị nlezianya",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "If someone has been humiliated, they have been greatly embarrassed.If someone is terrified, they are extremely frightened."
+            "explain": "Ọ bụrụ na e meela mmadụ ihere, e meela ya ihere nke ukwuu. Ọ bụrụ na mmadụ na-atụ ụjọ, ọ na-atụ ụjọ nke ukwuu."
         },
         {
-            "question": "Odometer is to mileage as compass is to..",
-            "a": "speed",
-            "b": "hiking",
-            "c": "needle",
-            "d": "direction",
+            "question": "Odometer bụ maka kilomita dịka kompas bụ maka..",
+            "a": "ọsọ",
+            "b": "ịga ije",
+            "c": "agịga",
+            "d": "ntụziaka",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "An odometer is an instrument used to measure mileage. A compass is an instrument used to determine direction."
+            "explain": "Odometer bụ ngwá ọrụ a na-eji atụ kilomita. Kompas bụ ngwá ọrụ a na-eji achọpụta ntụziaka."
         },
         {
-            "question": "Optimist is to cheerful as pessimist is to..",
-            "a": "gloomy",
-            "b": "mean",
-            "c": "petty",
-            "d": "helpful",
+            "question": "Onye nwere nchekwube bụ maka obi ụtọ dịka onye na-enweghị nchekwube bụ maka..",
+            "a": "ọchịchịrị",
+            "b": "pụtara",
+            "c": "obere",
+            "d": "na-enyere aka",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "An optimist is a person whose outlook is cheerful. A pessimist is a person whose outlook is gloomy."
+            "explain": "Onye nwere nchekwube bụ onye nwere echiche obi ụtọ. Onye na-enweghị nchekwube bụ onye nwere echiche ọchịchịrị."
         },
         {
-            "question": "Sponge is to porous as rubber is to..",
-            "a": "massive",
-            "b": "solid",
-            "c": "elastic",
-            "d": "inflexible",
+            "question": "Sponge bụ maka porous dịka rọba bụ maka..",
+            "a": "nnukwu",
+            "b": "siri ike",
+            "c": "na-agbanwe",
+            "d": "enweghị mgbanwe",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A sponge is a porous material. Rubber is an elastic material."
+            "explain": "Sponge bụ ihe nwere oghere. Rọba bụ ihe na-agbanwe agbanwe."
         },
         {
-            "question": "Candid is to indirect as honest is to..",
-            "a": "frank",
-            "b": "wicked",
-            "c": "truthful",
-            "d": "untruthful",
+            "question": "Ịkwụwa aka ọtọ bụ maka izi ezi dịka ikwu eziokwu bụ maka..",
+            "a": "eziokwu",
+            "b": "ajọ omume",
+            "c": "eziokwu",
+            "d": "enweghị eziokwu",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Candid and indirect refer to opposing traits. Honest and untruthful refer to opposing traits."
+            "explain": "Ịkwụwa aka ọtọ na izi ezi na-ezo aka n'àgwà ndị na-emegide onwe ha. Ikwu eziokwu na enweghị eziokwu na-ezo aka n'àgwà ndị na-emegide onwe ha."
         },
         {
-            "question": "Pen is to poet as needle is to..",
-            "a": "thread",
-            "b": "button",
-            "c": "sewing",
-            "d": "tailor",
+            "question": "Pen bụ maka onye na-ede uri dịka agịga bụ maka..",
+            "a": "eriri",
+            "b": "bọtịnụ",
+            "c": "ịkwa akwa",
+            "d": "onye na-akwa ákwà",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A pen is a tool used by a poet. A needle is a tool used by a tailor."
+            "explain": "Pen bụ ngwá ọrụ onye na-ede uri na-eji. Agịga bụ ngwá ọrụ onye na-akwa ákwà na-eji."
         },
         {
-            "question": "ELUCIDATE is to CLARITY as ILLUMINATE is to..",
-            "a": "memory",
-            "b": "problem",
-            "c": "oblivion",
-            "d": "light",
+            "question": "ELUCIDATE bụ maka CLARITY dịka ILLUMINATE bụ maka..",
+            "a": "ncheta",
+            "b": "nsogbu",
+            "c": "nchefu",
+            "d": "ìhè",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "PENURY is to MONEY as STARVATION is to..",
-            "a": "sustenance",
-            "b": "infirmity",
-            "c": "illness",
-            "d": "care",
+            "question": "PENURY bụ maka EGO dịka STARVATION bụ maka..",
+            "a": "ihe oriri",
+            "b": "adịghị ike",
+            "c": "ọrịa",
+            "d": "nlekọta",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "ARCHIPELAGO is to ISLAND as CONSTELLATION is to..",
-            "a": "hamlet",
+            "question": "ARCHIPELAGO bụ maka ISLAND dịka CONSTELLATION bụ maka..",
+            "a": "obere obodo",
             "b": "zodiac",
-            "c": "sea",
-            "d": "star",
+            "c": "oké osimiri",
+            "d": "kpakpando",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "TWAIN is to CLEMENS as ELIOT is to..",
+            "question": "TWAIN bụ maka CLEMENS dịka ELIOT bụ maka..",
             "a": "George",
             "b": "Mary",
             "c": "Bronte",
@@ -812,87 +812,87 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "MENDEL is to NEWTON as GENETICS is to..",
-            "a": "history",
-            "b": "mechanics",
-            "c": "linguistics",
-            "d": "astrology",
+            "question": "MENDEL bụ maka NEWTON dịka GENETICS bụ maka..",
+            "a": "akụkọ ihe mere eme",
+            "b": "igwe",
+            "c": "asụsụ",
+            "d": "ịgụ kpakpando",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "DIRECTORY is to ADDRESS as DICTIONARY is to..",
-            "a": "spelling",
+            "question": "DIRECTORY bụ maka ADDRESS dịka DICTIONARY bụ maka..",
+            "a": "mkpọpụta",
             "b": "solecism",
             "c": "thesaurus",
             "d": "encyclopedia",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "BOAST is to LANGUAGE as SWAGGER is to..",
-            "a": "anger",
-            "b": "gait",
-            "c": "sight",
-            "d": "wealth",
+            "question": "BOAST bụ maka LANGUAGE dịka SWAGGER bụ maka..",
+            "a": "iwe",
+            "b": "ụzọ ije",
+            "c": "anya",
+            "d": "akụ na ụba",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "EMIT is to MITE as EVIL is to..",
-            "a": "huge",
-            "b": "vile",
-            "c": "veil",
-            "d": "time",
+            "question": "EMIT bụ maka MITE dịka EVIL bụ maka..",
+            "a": "nnukwu",
+            "b": "ajọ",
+            "c": "mkpuchi",
+            "d": "oge",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "AUTHENTIC is to APOCRYPHAL as CONVENTIONAL is to..",
-            "a": "dangerous",
-            "b": "unorthodox",
-            "c": "religious",
-            "d": "chaotic",
+            "question": "AUTHENTIC bụ maka APOCRYPHAL dịka CONVENTIONAL bụ maka..",
+            "a": "dị ize ndụ",
+            "b": "na-abụghị omenala",
+            "c": "okpukpe",
+            "d": "ọgba aghara",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "DIFFIDENT is to CONFIDENCE as UNSTABLE is to..",
-            "a": "peculiarity",
-            "b": "balance",
-            "c": "fervor",
-            "d": "vigor",
+            "question": "DIFFIDENT bụ maka CONFIDENCE dịka UNSTABLE bụ maka..",
+            "a": "ihe pụrụ iche",
+            "b": "nguzozi",
+            "c": "ọkụ n'obi",
+            "d": "ike",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "APOCRYPHAL is to CERTAINTY as CHAOTIC is to..",
+            "question": "APOCRYPHAL bụ maka CERTAINTY dịka CHAOTIC bụ maka..",
             "a": "orthodoxy",
-            "b": "order",
-            "c": "incongruity",
-            "d": "piety",
+            "b": "usoro",
+            "c": "enweghị nkwekọrịta",
+            "d": "nsọpụrụ Chineke",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "MAUNA LOA is to ETNA as HAWAII is to..",
+            "question": "MAUNA LOA bụ maka ETNA dịka HAWAII bụ maka..",
             "a": "Sicily",
             "b": "Alps",
             "c": "Crete",
@@ -900,21 +900,21 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "OUTWIT is to RUSE as FRUSTRATE is to..",
-            "a": "desire",
-            "b": "fiasco",
-            "c": "irritant",
-            "d": "statute",
+            "question": "OUTWIT bụ maka RUSE dịka FRUSTRATE bụ maka..",
+            "a": "ọchịchọ",
+            "b": "ọdịda",
+            "c": "ihe na-akpasu iwe",
+            "d": "iwu",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "DEVANGIRI is to CYRILLIC as HINDI is to..",
+            "question": "DEVANGIRI bụ maka CYRILLIC dịka HINDI bụ maka..",
             "a": "Russian",
             "b": "Swahili",
             "c": "French",
@@ -922,43 +922,43 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "TAWDRY is to SHOWY as MERETRICIOUS is to..",
-            "a": "attractive",
-            "b": "urbane",
-            "c": "delicate",
-            "d": "flexible",
+            "question": "TAWDRY bụ maka SHOWY dịka MERETRICIOUS bụ maka..",
+            "a": "mara mma",
+            "b": "nke mepere emepe",
+            "c": "dị nro",
+            "d": "na-agbanwe agbanwe",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "HYPOTENUSE is to PERIMETER as ARC is to..",
+            "question": "HYPOTENUSE bụ maka PERIMETER dịka ARC bụ maka..",
             "a": "radius",
-            "b": "diameter",
-            "c": "circumference",
+            "b": "dayameta",
+            "c": "gburugburu",
             "d": "diagonal",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "CAROUSE is to SEDATE as ENTHUSE is to..",
-            "a": "lukewarm",
-            "b": "voluble",
-            "c": "hidden",
-            "d": "controversial",
+            "question": "CAROUSE bụ maka SEDATE dịka ENTHUSE bụ maka..",
+            "a": "dị jụụ",
+            "b": "na-ekwu okwu",
+            "c": "zoro ezo",
+            "d": "na-arụ ụka",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "FRANKENSTEIN is to SHELLEY as DRACULA is to..",
+            "question": "FRANKENSTEIN bụ maka SHELLEY dịka DRACULA bụ maka..",
             "a": "Poe",
             "b": "Collins",
             "c": "Byron",
@@ -966,139 +966,139 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "DAPPLED is to SPOTS as RIDDLED is to..",
-            "a": "holes",
-            "b": "lines",
+            "question": "DAPPLED bụ maka SPOTS dịka RIDDLED bụ maka..",
+            "a": "oghere",
+            "b": "ahịrị",
             "c": "squares",
-            "d": "stains",
+            "d": "ntụpọ",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "PETRIFY is to STONE as OSSIFY is to..",
-            "a": "disinterest",
-            "b": "inscription",
-            "c": "bone",
-            "d": "saint",
+            "question": "PETRIFY bụ maka STONE dịka OSSIFY bụ maka..",
+            "a": "enweghị mmasị",
+            "b": "ihe odide",
+            "c": "ọkpụkpụ",
+            "d": "onye nsọ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "SLUGGARD is to ENERGY as SLATTERN is to..",
-            "a": "disorder",
-            "b": "expression",
-            "c": "laziness",
-            "d": "tidiness",
+            "question": "SLUGGARD bụ maka ENERGY dịka SLATTERN bụ maka..",
+            "a": "ọgba aghara",
+            "b": "nkwupụta",
+            "c": "ume ngwụ",
+            "d": "ịdị ọcha",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "INGRATE is to GRATITUDE as PROFLIGATE is to..",
-            "a": "amorousness",
-            "b": "virtue",
-            "c": "frugality",
-            "d": "timidity",
+            "question": "INGRATE bụ maka GRATITUDE dịka PROFLIGATE bụ maka..",
+            "a": "ịhụnanya",
+            "b": "omume ọma",
+            "c": "ịjụ ihe",
+            "d": "ụjọ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "INCUMBENT is to OFFICE as MONARCH is to..",
-            "a": "presidency",
-            "b": "accommodation",
-            "c": "station",
-            "d": "throne",
+            "question": "INCUMBENT bụ maka OFFICE dịka MONARCH bụ maka..",
+            "a": "oche onye isi ala",
+            "b": "ebe obibi",
+            "c": "ọdụ",
+            "d": "ocheeze",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "SYNTHESIS is to PARTS as CONFLUENCE is to..",
-            "a": "mergers",
-            "b": "streams",
+            "question": "SYNTHESIS bụ maka PARTS dịka CONFLUENCE bụ maka..",
+            "a": "njikọ",
+            "b": "iyi",
             "c": "ores",
             "d": "parallels",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "SALK is to PASTEUR as POLIO is to..",
+            "question": "SALK bụ maka PASTEUR dịka POLIO bụ maka..",
             "a": "rabies",
-            "b": "liquids",
-            "c": "smallpox",
-            "d": "antibodies",
+            "b": "mmiri mmiri",
+            "c": "obere oyi",
+            "d": "ọgwụ mgbochi",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "CRITERIA is to DATA as CRITERION is to..",
-            "a": "information",
+            "question": "CRITERIA bụ maka DATA dịka CRITERION bụ maka..",
+            "a": "ozi",
             "b": "datum",
-            "c": "item",
-            "d": "date",
+            "c": "ihe",
+            "d": "ụbọchị",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "PORTION is to DOSE as FOOD is to..",
-            "a": "rain",
-            "b": "drug",
-            "c": "dessert",
-            "d": "amount",
+            "question": "PORTION bụ maka DOSE dịka FOOD bụ maka..",
+            "a": "mmiri ozuzo",
+            "b": "ọgwụ",
+            "c": "ihe eji megharịa ọnụ",
+            "d": "ego",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "ESSAY is to THESIS as ARTICLE is to..",
-            "a": "protagonist",
-            "b": "book",
-            "c": "fiction",
-            "d": "topic",
+            "question": "ESSAY bụ maka THESIS dịka ARTICLE bụ maka..",
+            "a": "onye na-akwado",
+            "b": "akwụkwọ",
+            "c": "akụkọ ifo",
+            "d": "isiokwu",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "MUSICIAN is to VIRTUOSO as BARD is to..",
-            "a": "journalist",
-            "b": "poet",
-            "c": "politician",
+            "question": "MUSICIAN bụ maka VIRTUOSO dịka BARD bụ maka..",
+            "a": "onye nta akụkọ",
+            "b": "onye na-ede uri",
+            "c": "onye ndọrọ ndọrọ ọchịchị",
             "d": "sophomore",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "BOVINE is to OVINE as COW is to..",
-            "a": "sheep",
-            "b": "chickens",
-            "c": "calf",
-            "d": "lowing",
+            "question": "BOVINE bụ maka OVINE dịka COW bụ maka..",
+            "a": "atụrụ",
+            "b": "ọkụkọ",
+            "c": "nwa ehi",
+            "d": "na-ada ụda",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "A can do a work in 15 days and B in 20 days.If they work on it together for 4 days,then the fraction of the work that is left is",
+            "question": "A nwere ike ịrụ ọrụ n'ime ụbọchị 15 na B n'ime ụbọchị 20. Ọ bụrụ na ha arụkọọ ọrụ ọnụ maka ụbọchị 4, mgbe ahụ akụkụ nke ọrụ fọdụrụ bụ",
             "a": "1/4",
             "b": "1/10",
             "c": "7/15",
@@ -9,10 +9,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A's 1 day's work = 1/15! !B's 1 day's work = 1/20! !(A + B)'s 1 day's work = (1/15 + 1/20) = 7/60! !(A + B)'s 4 day's work = (7/60 * 4) = 7/15! !Therefore, Remaining work = (1 - 7/15) = 8/15"
+            "explain": "Ọrụ A n'ime otu ụbọchị = 1/15! !Ọrụ B n'ime otu ụbọchị = 1/20! !Ọrụ (A + B) n'ime otu ụbọchị = (1/15 + 1/20) = 7/60! !Ọrụ (A + B) n'ime ụbọchị 4 = (7/60 * 4) = 7/15! !Ya mere, Ọrụ fọdụrụ = (1 - 7/15) = 8/15"
         },
         {
-            "question": "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is",
+            "question": "Alfred zụtara skuuta ochie maka Rs. 4700 ma mefuo Rs. 800 na nrụzi ya. Ọ bụrụ na ọ ree skuuta ahụ maka Rs. 5800, uru pasent ya bụ",
             "a": "60/11 %",
             "b": "55/9 %",
             "c": "15 %",
@@ -20,32 +20,32 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Cost Price (C.P.) = (4700 + 800) = Rs. 5500! !Selling Price (S.P.) = Rs. 5800! !Gain = (S.P.) - (C.P.) = (5800 - 5500) = Rs. 300! !Gain % = (300/5500) * 100 = 60/5 %"
+            "explain": "Ọnụahịa (C.P.) = (4700 + 800) = Rs. 5500! !Ọnụahịa ire (S.P.) = Rs. 5800! !Uru = (S.P.) - (C.P.) = (5800 - 5500) = Rs. 300! !Uru % = (300/5500) * 100 = 60/5 %"
         },
         {
-            "question": "If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be",
-            "a": "4 days",
-            "b": "5 days",
-            "c": "6 days",
-            "d": "7 days",
+            "question": "Ọ bụrụ na ụmụ nwoke 6 na ụmụ nwoke 8 nwere ike ịrụ otu ọrụ n'ime ụbọchị 10 ebe ụmụ nwoke 26 na ụmụ nwoke 48 nwere ike ịrụ otu ọrụ ahụ n'ime ụbọchị 2, oge ụmụ nwoke 15 na ụmụ nwoke 20 ga-ewe iji rụọ otu ụdị ọrụ ahụ ga-abụ",
+            "a": "ụbọchị 4",
+            "b": "ụbọchị 5",
+            "c": "ụbọchị 6",
+            "d": "ụbọchị 7",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let, 1 man's 1 day's work = x!and 1 boy's 1 day's work = y! !Then, 6x + 8y = 1/10!and 26x + 48y = 1/2! !Solving these two equations, we get!x = 1/100!and y = 1/200! !(15 men + 20 boy)'s 1 day's work = (15/100 + 20/200) = 1/4! !Hence, 15 men and 20 boys can do the work in 4 days."
+            "explain": "Ka e were ya, ọrụ otu nwoke n'ime otu ụbọchị = x!ma ọrụ otu nwoke n'ime otu ụbọchị = y! !Mgbe ahụ, 6x + 8y = 1/10!ma 26x + 48y = 1/2! !N'ịgbazi nha abụọ a, anyị ga-enweta!x = 1/100!ma y = 1/200! !Ọrụ (ụmụ nwoke 15 + ụmụ nwoke 20) n'ime otu ụbọchị = (15/100 + 20/200) = 1/4! !N'ihi ya, ụmụ nwoke 15 na ụmụ nwoke 20 nwere ike ịrụ ọrụ ahụ n'ime ụbọchị 4."
         },
         {
-            "question": "A can do a piece of work in 4 hours; B and C together can do it in 3 hours,while A and C together can do it in 2 hours.How long will B alone take to do it?",
-            "a": "8 hours",
-            "b": "10 hours",
-            "c": "12 hours",
-            "d": "24 hours",
+            "question": "A nwere ike ịrụ otu ọrụ n'ime awa 4; B na C ọnụ nwere ike ịrụ ya n'ime awa 3, ebe A na C ọnụ nwere ike ịrụ ya n'ime awa 2. Ogologo oge ole ka B naanị ya ga-ewe iji rụọ ya?",
+            "a": "awa 8",
+            "b": "awa 10",
+            "c": "awa 12",
+            "d": "awa 24",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A's 1 hour's work = 1/4! !(B + C)'s 1 hour's work = 1/3! !(A + C)'s 1 hour's work = 1/2! !(A + B + C)'s 1 hour's work = (1/4 + 1/3) = 7/12! !B's 1 hour's work = (7/12 - 1/2) = 1/12! !Hence, B alone will take 12 hours to do the work."
+            "explain": "Ọrụ A n'ime otu awa = 1/4! !Ọrụ (B + C) n'ime otu awa = 1/3! !Ọrụ (A + C) n'ime otu awa = 1/2! !Ọrụ (A + B + C) n'ime otu awa = (1/4 + 1/3) = 7/12! !Ọrụ B n'ime otu awa = (7/12 - 1/2) = 1/12! !N'ihi ya, B naanị ya ga-ewe awa 12 iji rụọ ọrụ ahụ."
         },
         {
-            "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+            "question": "Ọ bụrụ na ọnụahịa ire ere okpukpu abụọ, uru ga-abụ okpukpu atọ. Chọta pasent uru.",
             "a": "50",
             "b": "100",
             "c": "120",
@@ -53,21 +53,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let! C.P. be Rs. x and S.P. be Rs. y.! !Then,! 3(y - x) = (2y - x)!y = 2x! !Profit = Rs. (y - x) = Rs. x! !Profit % = (x/x)*100 = 100%"
+            "explain": "Ka e were ya! C.P. bụ Rs. x na S.P. bụ Rs. y.! !Mgbe ahụ,! 3(y - x) = (2y - x)!y = 2x! !Uru = Rs. (y - x) = Rs. x! !Uru % = (x/x)*100 = 100%"
         },
         {
-            "question": "A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?",
-            "a": "23 days",
-            "b": "37 days",
-            "c": "37.5 days",
-            "d": "40 days",
+            "question": "A na-arụ 80% nke ọrụ n'ime ụbọchị 20. Mgbe ahụ ọ kpọọ B ma ha abụọ rụchaa ọrụ fọdụrụ n'ime ụbọchị 3. Ogologo oge ole ka B naanị ya ga-ewe iji rụọ ọrụ ahụ dum?",
+            "a": "ụbọchị 23",
+            "b": "ụbọchị 37",
+            "c": "ụbọchị 37.5",
+            "d": "ụbọchị 40",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Whole work is done by A in (20 * 5/4) = 25 days! !Now, (1 - 4/5) i.e., 1/5 work is done by A and B in 3 days.! !Whole work will be done by A and B in (3 x 5) = 15 days.! !A's 1 day's work = 1/25!(A + B)'s 1 day's work = 1/15! !So, B's 1 day's work = (1/15 - 1/25) = 4/150 = 2/75! !Hence, B alone would do the work in 75/2 = 37.5 days."
+            "explain": "A na-arụ ọrụ dum n'ime (20 * 5/4) = ụbọchị 25! !Ugbu a, (1 - 4/5) ya bụ, 1/5 ọrụ ka A na B na-arụ n'ime ụbọchị 3.! !A na B ga-arụ ọrụ dum n'ime (3 x 5) = ụbọchị 15.! !Ọrụ A n'ime otu ụbọchị = 1/25!Ọrụ (A + B) n'ime otu ụbọchị = 1/15! !Ya mere, ọrụ B n'ime otu ụbọchị = (1/15 - 1/25) = 4/150 = 2/75! !N'ihi ya, B naanị ya ga-arụ ọrụ ahụ n'ime 75/2 = ụbọchị 37.5."
         },
         {
-            "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
+            "question": "Otu onye na-ere ahịa na-atụ anya uru nke 22.5% na ọnụahịa ya. Ọ bụrụ na n'ime otu izu, ire ya bụ Rs. 392, gịnị bụ uru ya?",
             "a": "Rs. 18.20",
             "b": "Rs. 70",
             "c": "Rs. 72",
@@ -75,10 +75,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. = (100/122.5) * 392!= (1000/1225) * 392!= Rs. 320! !Hence, Profit = Rs. (392 - 320) = Rs. 72."
+            "explain": "C.P. = (100/122.5) * 392!= (1000/1225) * 392!= Rs. 320! !N'ihi ya, Uru = Rs. (392 - 320) = Rs. 72."
         },
         {
-            "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?",
+            "question": "Ụmụ nwoke 4 na ụmụ nwanyị 6 nwere ike ịrụcha ọrụ n'ime ụbọchị 8, ebe ụmụ nwoke 3 na ụmụ nwanyị 7 nwere ike ịrụcha ya n'ime ụbọchị 10. N'ime ụbọchị ole ka ụmụ nwanyị 10 ga-arụcha ya?",
             "a": "35",
             "b": "40",
             "c": "45",
@@ -86,10 +86,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let, 1 man's 1 day's work = x!and!1 woman's 1 day's work = y! !Then, 4x + 6y = 1/8 nd 3x + 7y = 1/10! !Solving the two equations, we get!x = 11/400!y = 1/400! !So, One woman's 1 day's work = 1/400! !10 women's 1 day's work = (1/400 * 10) = 1/40! !Hence, 10 women will complete the work in 40 days."
+            "explain": "Ka e were ya, ọrụ otu nwoke n'ime otu ụbọchị = x!ma!ọrụ otu nwanyị n'ime otu ụbọchị = y! !Mgbe ahụ, 4x + 6y = 1/8 na 3x + 7y = 1/10! !N'ịgbazi nha abụọ ahụ, anyị ga-enweta!x = 11/400!y = 1/400! !Ya mere, ọrụ otu nwanyị n'ime otu ụbọchị = 1/400! !Ọrụ ụmụ nwanyị 10 n'ime otu ụbọchị = (1/400 * 10) = 1/40! !N'ihi ya, ụmụ nwanyị 10 ga-arụcha ọrụ ahụ n'ime ụbọchị 40."
         },
         {
-            "question": "10 women can complete a work in 7 days and 10 children take 14 days to complete the work.How many days will 5 women and 10 children take to complete the work?",
+            "question": "Ụmụ nwanyị 10 nwere ike ịrụcha ọrụ n'ime ụbọchị 7 ma ụmụaka 10 na-ewe ụbọchị 14 iji rụchaa ọrụ ahụ. Ụbọchị ole ka ụmụ nwanyị 5 na ụmụaka 10 ga-ewe iji rụchaa ọrụ ahụ?",
             "a": "3",
             "b": "5",
             "c": "7",
@@ -97,21 +97,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "1 woman's 1 day's work =1/70! !1 child's 1 day's work =1/140! !(5 women + 10 children)'s 1 day's work = (5/70 + 10/140) = (1/14 + 1/14) = 1/7! !Hence, 5 women and 10 children will complete the work in 7 days."
+            "explain": "Ọrụ otu nwanyị n'ime otu ụbọchị =1/70! !Ọrụ otu nwatakịrị n'ime otu ụbọchị =1/140! !Ọrụ (ụmụ nwanyị 5 + ụmụaka 10) n'ime otu ụbọchị = (5/70 + 10/140) = (1/14 + 1/14) = 1/7! !N'ihi ya, ụmụ nwanyị 5 na ụmụaka 10 ga-arụcha ọrụ ahụ n'ime ụbọchị 7."
         },
         {
-            "question": "A is 30% more efficient than B. How much time will they, working together, take to complete a job which A alone could have done in 23 days?",
-            "a": "11 days",
-            "b": "13 days",
-            "c": "14 days",
-            "d": "17 days",
+            "question": "A dị 30% rụọ ọrụ nke ọma karịa B. Ogologo oge ole ka ha ga-ewe, na-arụkọ ọrụ ọnụ, iji rụchaa ọrụ nke A naanị ya gaara arụ n'ime ụbọchị 23?",
+            "a": "ụbọchị 11",
+            "b": "ụbọchị 13",
+            "c": "ụbọchị 14",
+            "d": "ụbọchị 17",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of times taken by A and B = 100/130 = 10/13! !Suppose B takes x days to do the work.! !Then, 10/13 = 23/x!x = (23*13)/10!x = 299/10! !A's 1 day's work = 1/23! !B's 1 day's work = 10/299! !(A + B)'s 1 day's work = (1/23 + 10/299) = 23/299 = 1/13! !Therefore, A and B together can complete the work in 13 days."
+            "explain": "Ọnụọgụ oge A na B weere = 100/130 = 10/13! !Ka e were ya na B na-ewe ụbọchị x iji rụọ ọrụ ahụ.! !Mgbe ahụ, 10/13 = 23/x!x = (23*13)/10!x = 299/10! !Ọrụ A n'ime otu ụbọchị = 1/23! !Ọrụ B n'ime otu ụbọchị = 10/299! !Ọrụ (A + B) n'ime otu ụbọchị = (1/23 + 10/299) = 23/299 = 1/13! !Ya mere, A na B ọnụ nwere ike ịrụcha ọrụ ahụ n'ime ụbọchị 13."
         },
         {
-            "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is",
+            "question": "A zụtara ụfọdụ ihe n'ọnụahịa 6 maka Rs. 5 ma ree ya n'ọnụahịa 5 maka Rs. 6. Uru pasent bụ",
             "a": "30%",
             "b": "33.5%",
             "c": "35%",
@@ -119,10 +119,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Suppose, number of articles bought =L.C.M. of 6 and 5!= 30! !C.P. of 30 articles = (5/6) * 30 = Rs. 25! !S.P. of 30 articles = (6/5)*30! = Rs. 36! !Hence, Gain % = (11/25) * 100 = 44%"
+            "explain": "Ka e were ya, ọnụọgụ ihe a zụtara = L.C.M. nke 6 na 5! = 30! !C.P. nke ihe 30 = (5/6) * 30 = Rs. 25! !S.P. nke ihe 30 = (6/5)*30! = Rs. 36! !N'ihi ya, Uru % = (11/25) * 100 = 44%"
         },
         {
-            "question": "On selling 17 balls at $720, there is a loss equal to the cost price of 5 balls.The cost price of a ball is",
+            "question": "N'ịre bọọlụ 17 na $720, enwere mfu hà ka ọnụahịa bọọlụ 5. Ọnụahịa otu bọọlụ bụ",
             "a": "$45",
             "b": "$50",
             "c": "$55",
@@ -130,32 +130,32 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(C.P. of 17 balls) - (S.P. of 17 balls) = (C.P. of 5 balls)! !C.P. of 12 balls = S.P. of 17 balls = $720! !C.P. of 1 ball = $60"
+            "explain": "(C.P. nke bọọlụ 17) - (S.P. nke bọọlụ 17) = (C.P. nke bọọlụ 5)! !C.P. nke bọọlụ 12 = S.P. nke bọọlụ 17 = $720! !C.P. nke otu bọọlụ = $60"
         },
         {
-            "question": "A takes twice as much time as B or thrice as much time as C to finish a piece of work.Working together,they can finish the work in 2 days.B can do the work alone in",
-            "a": "4 days",
-            "b": "6 days",
-            "c": "8 days",
-            "d": "12 days",
+            "question": "A na-ewe oge okpukpu abụọ karịa B ma ọ bụ okpukpu atọ karịa C iji rụchaa otu ọrụ. Na-arụkọ ọrụ ọnụ, ha nwere ike ịrụcha ọrụ ahụ n'ime ụbọchị 2. B nwere ike ịrụ ọrụ ahụ naanị ya n'ime",
+            "a": "ụbọchị 4",
+            "b": "ụbọchị 6",
+            "c": "ụbọchị 8",
+            "d": "ụbọchị 12",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Suppose A, B and C take x, x/2, x/3 days respectively to finish the work.! !Then,!(1/x + 2/x + 3/x) = 1/2!6/x = 1/2!x=12! !So, B takes (12/2) = 6 days to finish the work."
+            "explain": "Ka e were ya na A, B na C na-ewe ụbọchị x, x/2, x/3 n'otu n'otu iji rụchaa ọrụ ahụ.! !Mgbe ahụ,!(1/x + 2/x + 3/x) = 1/2!6/x = 1/2!x=12! !Ya mere, B na-ewe (12/2) = ụbọchị 6 iji rụchaa ọrụ ahụ."
         },
         {
-            "question": "A works twice as fast as B.If B can complete a work in 12 days independently,The number of days in which A and B can together finish the work in",
-            "a": "4 days",
-            "b": "6 days",
-            "c": "8 days",
-            "d": "18 days",
+            "question": "A na-arụ ọrụ okpukpu abụọ ngwa ngwa karịa B. Ọ bụrụ na B nwere ike ịrụcha ọrụ n'ime ụbọchị 12 n'onwe ya, ọnụọgụ ụbọchị A na B nwere ike ịrụkọ ọrụ ọnụ iji rụchaa ọrụ ahụ bụ",
+            "a": "ụbọchị 4",
+            "b": "ụbọchị 6",
+            "c": "ụbọchị 8",
+            "d": "ụbọchị 18",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of rates of working of A and B = 2/1! !So, ratio of times taken = 1/2! !B's 1 day's work = 1/12! !A's 1 day's work = 1/6!(2 times of B's work)! !(A + B)'s 1 day's work = (1/6 + 1/12) = 1/4! !So, A and B together can finish the work in 4 days."
+            "explain": "Ọnụọgụ ọrụ A na B = 2/1! !Ya mere, ọnụọgụ oge e weere = 1/2! !Ọrụ B n'ime otu ụbọchị = 1/12! !Ọrụ A n'ime otu ụbọchị = 1/6!(okpukpu abụọ nke ọrụ B)! !Ọrụ (A + B) n'ime otu ụbọchị = (1/6 + 1/12) = 1/4! !Ya mere, A na B ọnụ nwere ike ịrụcha ọrụ ahụ n'ime ụbọchị 4."
         },
         {
-            "question": "Twenty women can do a work in sixteen days. Sixteen men can complete the same work in fifteen days. What is the ratio between the capacity of a man and a woman?",
+            "question": "Ụmụ nwanyị iri abụọ nwere ike ịrụ ọrụ n'ime ụbọchị iri na isii. Ụmụ nwoke iri na isii nwere ike ịrụ otu ọrụ ahụ n'ime ụbọchị iri na ise. Gịnị bụ oke dị n'etiti ikike nwoke na nwanyị?",
             "a": "3/4",
             "b": "4/3",
             "c": "5/3",
@@ -163,10 +163,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(20 x 16) women can complete the work in 1 day.! !So,  woman's 1 day's work = 1/320! !(16 x 15) men can complete the work in 1 day.! !So, 1 man's 1 day's work = 1/240! !So, required ratio = (1/240) / (1/320)!= (1/3) / (1/4) = 4/3"
+            "explain": "(20 x 16) ụmụ nwanyị nwere ike ịrụcha ọrụ ahụ n'ime otu ụbọchị.! !Ya mere, ọrụ otu nwanyị n'ime otu ụbọchị = 1/320! !(16 x 15) ụmụ nwoke nwere ike ịrụcha ọrụ ahụ n'ime otu ụbọchị.! !Ya mere, ọrụ otu nwoke n'ime otu ụbọchị = 1/240! !Ya mere, oke achọrọ = (1/240) / (1/320)!= (1/3) / (1/4) = 4/3"
         },
         {
-            "question": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg.His profit percent is",
+            "question": "Otu onye na-ere ahịa na-agwakọta 26 n'arọ osikapa na Rs. 20 kwa n'arọ na 30 n'arọ osikapa nke ụdị ọzọ na Rs. 36 kwa n'arọ ma na-ere ngwakọta ahụ na Rs. 30 kwa n'arọ. Uru pasent ya bụ",
             "a": "5%",
             "b": "8%",
             "c": "10%",
@@ -174,43 +174,43 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. of 56 kg rice = (26 x 20 + 30 x 36) = (520 + 1080) = Rs. 1600! !S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680! !Hence, Gain = (80/1600)*100 = 5%"
+            "explain": "C.P. nke 56 n'arọ osikapa = (26 x 20 + 30 x 36) = (520 + 1080) = Rs. 1600! !S.P. nke 56 n'arọ osikapa = Rs. (56 x 30) = Rs. 1680! !N'ihi ya, Uru = (80/1600)*100 = 5%"
         },
         {
-            "question": "A can finish a work in 24 days, B in 9 days and C in 12 days. B and C start the work but are forced to leave after 3 days. The remaining work was done by A in",
-            "a": "5 days",
-            "b": "6 days",
-            "c": "10 days",
-            "d": "15 days",
+            "question": "A nwere ike ịrụcha ọrụ n'ime ụbọchị 24, B n'ime ụbọchị 9 na C n'ime ụbọchị 12. B na C malitere ọrụ ahụ mana a manyere ha ịhapụ mgbe ụbọchị 3 gasịrị. A rụrụ ọrụ fọdụrụ n'ime",
+            "a": "ụbọchị 5",
+            "b": "ụbọchị 6",
+            "c": "ụbọchị 10",
+            "d": "ụbọchị 15",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(B + C)'s 1 day's work = (1/9 + 1/12) = 7/36! !Work done by B and C in 3 days = (7/36 * 3)!= 7/12! !Remaining work = (1 - 7/12)!= 5/12! !Now, 1/24 work is done by A in 1 day.! !So, 5/12 work is done by A in (24 * 5/12) = 10 days."
+            "explain": "Ọrụ (B + C) n'ime otu ụbọchị = (1/9 + 1/12) = 7/36! !Ọrụ B na C rụrụ n'ime ụbọchị 3 = (7/36 * 3)!= 7/12! !Ọrụ fọdụrụ = (1 - 7/12)!= 5/12! !Ugbu a, A na-arụ 1/24 ọrụ n'ime otu ụbọchị.! !Ya mere, A na-arụ 5/12 ọrụ n'ime (24 * 5/12) = ụbọchị 10."
         },
         {
-            "question": "X can do a piece of work in 40 days.He works at it for 8 days and then Y finished it in 16 days.How long will they together take to complete the work?",
-            "a": "40/3 days",
-            "b": "15 days",
-            "c": "20 days",
-            "d": "26 days",
+            "question": "X nwere ike ịrụ otu ọrụ n'ime ụbọchị 40. Ọ na-arụ ya maka ụbọchị 8 wee Y rụchaa ya n'ime ụbọchị 16. Ogologo oge ole ka ha ga-ewe iji rụkọọ ọrụ ahụ ọnụ?",
+            "a": "ụbọchị 40/3",
+            "b": "ụbọchị 15",
+            "c": "ụbọchị 20",
+            "d": "ụbọchị 26",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Work done by X in 8 days = (1/40 * 8)!= 1/5! !Remaining work = (1 - 1/5)!4/5! !Now, 4/5 work is done by Y in 16 days.! !Whole work will be done by Y in (16 * 5/4)!= 20 days! !So,!X's 1 day's work = 1/40!Y's 1 day's work = 1/20! !(X + Y)'s 1 day's work = (1/40 + 1/20) = 3/40! !Hence, X and Y will together complete the work in 40/3 days"
+            "explain": "Ọrụ X rụrụ n'ime ụbọchị 8 = (1/40 * 8)!= 1/5! !Ọrụ fọdụrụ = (1 - 1/5)!4/5! !Ugbu a, Y na-arụ 4/5 ọrụ n'ime ụbọchị 16.! !Y ga-arụ ọrụ dum n'ime (16 * 5/4)!= ụbọchị 20! !Ya mere,!Ọrụ X n'ime otu ụbọchị = 1/40!Ọrụ Y n'ime otu ụbọchị = 1/20! !Ọrụ (X + Y) n'ime otu ụbọchị = (1/40 + 1/20) = 3/40! !N'ihi ya, X na Y ga-arụkọ ọrụ ahụ ọnụ n'ime ụbọchị 40/3"
         },
         {
-            "question": "A and B can do a job together in 7 days. A is 7/4  times as efficient as B.The same job can be done by A alone in",
-            "a": "9 days",
-            "b": "11 days",
-            "c": "13 days",
-            "d": "15 days",
+            "question": "A na B nwere ike ịrụkọ ọrụ ọnụ n'ime ụbọchị 7. A dị 7/4 okpukpu karịa B. Otu ọrụ ahụ nwere ike ịrụ naanị A n'ime",
+            "a": "ụbọchị 9",
+            "b": "ụbọchị 11",
+            "c": "ụbọchị 13",
+            "d": "ụbọchị 15",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(A's 1 day's work) / (B's 1 day's work) = 7/4! !Let A's and B's 1 day's work be 7x and 4x respectively.! !Then,!7x + 4x = 1/7!11x = 1/7!x = 1/77! !Hence, A's 1 day's work = (1/77 * 7) = 1/11"
+            "explain": "(Ọrụ A n'ime otu ụbọchị) / (Ọrụ B n'ime otu ụbọchị) = 7/4! !Ka ọrụ A na B n'ime otu ụbọchị bụrụ 7x na 4x n'otu n'otu.! !Mgbe ahụ,!7x + 4x = 1/7!11x = 1/7!x = 1/77! !N'ihi ya, ọrụ A n'ime otu ụbọchị = (1/77 * 7) = 1/11"
         },
         {
-            "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is",
+            "question": "Ọnụahịa ihe 20 bụ otu ihe na ọnụahịa ire ere ihe x. Ọ bụrụ na uru bụ 25%, mgbe ahụ uru x bụ",
             "a": "15",
             "b": "16",
             "c": "18",
@@ -218,21 +218,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let!C.P. of each article be Re. 1 C.P. of x articles = Rs. x.! !S.P. of x articles = Rs. 20.! !Profit = Rs. (20 - x)! !So, (20-x)/x * 100 = 25!2000 - 100x = 25x!125x = 2000! !Hence, x = 16"
+            "explain": "Ka e were ya! C.P. nke ihe ọ bụla bụ Re. 1 C.P. nke ihe x = Rs. x.! !S.P. nke ihe x = Rs. 20.! !Uru = Rs. (20 - x)! !Ya mere, (20-x)/x * 100 = 25!2000 - 100x = 25x!125x = 2000! !N'ihi ya, x = 16"
         },
         {
-            "question": "A can do a certain work in the same time in which B and C together can do it.If A and B together could do it in 10 days and C alone in 50 days,then B alone could do it in",
-            "a": "15 days",
-            "b": "20 days",
-            "c": "25 days",
-            "d": "30 days",
+            "question": "A nwere ike ịrụ otu ọrụ n'otu oge ahụ B na C nwere ike ịrụ ya. Ọ bụrụ na A na B nwere ike ịrụ ya n'ime ụbọchị 10 na C naanị ya n'ime ụbọchị 50, mgbe ahụ B naanị ya nwere ike ịrụ ya n'ime",
+            "a": "ụbọchị 15",
+            "b": "ụbọchị 20",
+            "c": "ụbọchị 25",
+            "d": "ụbọchị 30",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(A + B)'s 1 day's work = 1/10! !C's 1 day's work = 1/50! !(A + B + C)'s 1 day's work = (1/10 + 1/50) = 6/50 = 3/25...(1)! !A's 1 day's work = (B + C)'s 1 day's work .... (2)! !From (1) and (2), we get!2 * (A's 1 day's work) = 3/25! !A's 1 day's work = 3/50! !So, B's 1 day's work (1/10 - 3/50) = 2/50 = 1/25! !Hence, B alone could do the work in 25 days."
+            "explain": "Ọrụ (A + B) n'ime otu ụbọchị = 1/10! !Ọrụ C n'ime otu ụbọchị = 1/50! !Ọrụ (A + B + C) n'ime otu ụbọchị = (1/10 + 1/50) = 6/50 = 3/25...(1)! !Ọrụ A n'ime otu ụbọchị = (B + C)'s 1 day's work .... (2)! !Site na (1) na (2), anyị ga-enweta!2 * (Ọrụ A n'ime otu ụbọchị) = 3/25! !Ọrụ A n'ime otu ụbọchị = 3/50! !Ya mere, ọrụ B n'ime otu ụbọchị (1/10 - 3/50) = 2/50 = 1/25! !N'ihi ya, B naanị ya nwere ike ịrụ ọrụ ahụ n'ime ụbọchị 25."
         },
         {
-            "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+            "question": "Otu onye na-ere ahịa zụtara tofi 6 maka otu rupee. Ole ka ọ ga-ere maka otu rupee iji nweta 20%?",
             "a": "3",
             "b": "4",
             "c": "5",
@@ -240,10 +240,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. of 6 toffees = Re. 1! !S.P. of 6 toffees = 120% of Re. 1 = Rs. 6/5! !For Rs. 6/5,!toffees sold = 6.! !For Re. 1, toffees sold = (6 * 5/6) = 5"
+            "explain": "C.P. nke tofi 6 = Re. 1! !S.P. nke tofi 6 = 120% nke Re. 1 = Rs. 6/5! !Maka Rs. 6/5,!tofi a rere = 6.! !Maka Re. 1, tofi a rere = (6 * 5/6) = 5"
         },
         {
-            "question": "A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?",
+            "question": "A nwere ike ịrụcha ọrụ n'ime ụbọchị 18 ma B nwere ike ịrụ otu ọrụ ahụ n'ime ụbọchị 15. B rụrụ ọrụ ụbọchị 10 wee hapụ ọrụ ahụ. N'ime ụbọchị ole, A naanị ya nwere ike ịrụcha ọrụ fọdụrụ?",
             "a": "5",
             "b": "5.5",
             "c": "6",
@@ -251,10 +251,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "B's 10 day's work = (1/15 * 10) = 2/3! !Remaining work = (1 - 2/3) = 1/3! !Now, 1/18 work is done by A in 1 day.! ! Hence, 1/3 work is done by A in (18 * 1/3) = 6 days."
+            "explain": "Ọrụ B n'ime ụbọchị 10 = (1/15 * 10) = 2/3! !Ọrụ fọdụrụ = (1 - 2/3) = 1/3! !Ugbu a, A na-arụ 1/18 ọrụ n'ime otu ụbọchị.! ! N'ihi ya, A na-arụ 1/3 ọrụ n'ime (18 * 1/3) = ụbọchị 6."
         },
         {
-            "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+            "question": "Otu nwoke zụtara igwe kwụ otu ebe maka Rs. 1400 ma ree ya na mfu nke 15%. Gịnị bụ ọnụahịa ire ere nke igwe kwụ otu ebe ahụ?",
             "a": "Rs. 1090",
             "b": "Rs. 1160",
             "c": "Rs. 1190",
@@ -262,21 +262,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "S.P. = 85% of Rs. 1400 =(85/100)*1400!=Rs. 1190"
+            "explain": "S.P. = 85% nke Rs. 1400 =(85/100)*1400!=Rs. 1190"
         },
         {
-            "question": "A, B and C can complete a piece of work in 24, 6 and 12 days respectively.Working together,they will complete the same work in",
-            "a": "1/24 days",
-            "b": "7/24 days",
-            "c": "24/7 days",
-            "d": "4 days",
+            "question": "A, B na C nwere ike ịrụcha otu ọrụ n'ime ụbọchị 24, 6 na 12 n'otu n'otu. Na-arụkọ ọrụ ọnụ, ha ga-arụcha otu ọrụ ahụ n'ime",
+            "a": "ụbọchị 1/24",
+            "b": "ụbọchị 7/24",
+            "c": "ụbọchị 24/7",
+            "d": "ụbọchị 4",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As we know that!If A can do a piece of work in n days, then A's 1 day's work = 1/n! !(A + B + C)'s 1 day's work = (1/24 + 1/6 + 1/12) = 7/24! !If A's 1 day's work = 1/n then,!A can finish the work in 'n' days.! !So, all the three together will complete the job in (24/7) days."
+            "explain": "Dịka anyị maara na!Ọ bụrụ na A nwere ike ịrụ otu ọrụ n'ime ụbọchị n, mgbe ahụ ọrụ A n'ime otu ụbọchị = 1/n! !Ọrụ (A + B + C) n'ime otu ụbọchị = (1/24 + 1/6 + 1/12) = 7/24! !Ọ bụrụ na ọrụ A n'ime otu ụbọchị = 1/n mgbe ahụ,!A nwere ike ịrụcha ọrụ ahụ n'ime ụbọchị 'n'.! !Ya mere, ha atọ ga-arụkọ ọrụ ahụ ọnụ n'ime (24/7) ụbọchị."
         },
         {
-            "question": "Sakshi can do a piece of work in 20 days. Tanya is 25% more efficient than Sakshi. The number of days taken by Tanya to do the same piece of work is",
+            "question": "Sakshi nwere ike ịrụ otu ọrụ n'ime ụbọchị 20. Tanya dị 25% rụọ ọrụ nke ọma karịa Sakshi. Ọnụọgụ ụbọchị Tanya weere iji rụọ otu ọrụ ahụ bụ",
             "a": "15",
             "b": "16",
             "c": "18",
@@ -284,10 +284,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of times taken by Sakshi and Tanya = 125/100 = 5/4! !Suppose Tanya takes x days to do the work.! !5/4 = 20/x!x = (4*20)/5! !x = 16 days.! !Hence, Tanya takes 16 days to complete the work."
+            "explain": "Ọnụọgụ oge Sakshi na Tanya weere = 125/100 = 5/4! !Ka e were ya na Tanya na-ewe ụbọchị x iji rụọ ọrụ ahụ.! !5/4 = 20/x!x = (4*20)/5! !x = 16 ụbọchị.! !N'ihi ya, Tanya na-ewe ụbọchị 16 iji rụchaa ọrụ ahụ."
         },
         {
-            "question": "When a plot is sold for $18,700, the owner loses 15%.At what price must that plot be sold in order to gain 15%?",
+            "question": "Mgbe a na-ere ala maka $18,700, onye nwe ya na-efunahụ 15%. N'ọnụahịa ole ka a ga-ere ala ahụ iji nweta 15%?",
             "a": "$21,000",
             "b": "$22,500",
             "c": "$25,300",
@@ -295,43 +295,43 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "85 / 18700 = 115 / x! !x = (18700 * 115)/85 = 25300! !Hence, S.P. = $25,300"
+            "explain": "85 / 18700 = 115 / x! !x = (18700 * 115)/85 = 25300! !N'ihi ya, S.P. = $25,300"
         },
         {
-            "question": "100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen.The percentage of profit or loss is",
-            "a": "100/7 % gain",
-            "b": "100/7 % loss",
-            "c": "15 % gain",
-            "d": "15 % loss",
+            "question": "A zụtara oroma 100 n'ọnụahịa Rs. 350 ma ree ya n'ọnụahịa Rs. 48 kwa dozen. Pasent uru ma ọ bụ mfu bụ",
+            "a": "100/7 % uru",
+            "b": "100/7 % mfu",
+            "c": "15 % uru",
+            "d": "15 % mfu",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. of 1 orange = 350/100 = Rs. 3.50! !S.P. of 1 orange = 48/12 = Rs. 4! !Hence, Gain% = (0.50)/(3.50) * 100 = 100/7 %"
+            "explain": "C.P. nke otu oroma = 350/100 = Rs. 3.50! !S.P. nke otu oroma = 48/12 = Rs. 4! !N'ihi ya, Uru% = (0.50)/(3.50) * 100 = 100/7 %"
         },
         {
-            "question": "A and B can do a work in 8 days, B and C can do the same work in 12 days. A, B and C together can finish it in 6 days. A and C together will do it in",
-            "a": "4 days",
-            "b": "6 days",
-            "c": "8 days",
-            "d": "12 days",
+            "question": "A na B nwere ike ịrụ ọrụ n'ime ụbọchị 8, B na C nwere ike ịrụ otu ọrụ ahụ n'ime ụbọchị 12. A, B na C nwere ike ịrụkọ ya ọnụ n'ime ụbọchị 6. A na C ga-arụkọ ya ọnụ n'ime",
+            "a": "ụbọchị 4",
+            "b": "ụbọchị 6",
+            "c": "ụbọchị 8",
+            "d": "ụbọchị 12",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(A + B + C)'s 1 day's work = 1/6! !(A + B)'s 1 day's work = 1/8! !(B + C)'s 1 day's work = 1/12! !So, (A + C)'s 1 day's work = (2* 1/6) - (1/8 + 1/12)!= (1/3 - 5/24) = (3/24) = 1/8! !So, A and C together will do the work in 8 days."
+            "explain": "Ọrụ (A + B + C) n'ime otu ụbọchị = 1/6! !Ọrụ (A + B) n'ime otu ụbọchị = 1/8! !Ọrụ (B + C) n'ime otu ụbọchị = 1/12! !Ya mere, ọrụ (A + C) n'ime otu ụbọchị = (2* 1/6) - (1/8 + 1/12)!= (1/3 - 5/24) = (3/24) = 1/8! !Ya mere, A na C ga-arụkọ ọrụ ahụ ọnụ n'ime ụbọchị 8."
         },
         {
-            "question": "A is thrice as good as a workman as B and therefore is able to finish a job in 60 days less than B.Working together,they can do it in",
-            "a": "20 days",
-            "b": "22.5 days",
-            "c": "25 days",
-            "d": "30 days",
+            "question": "A dị okpukpu atọ mma dị ka onye ọrụ dị ka B ma ya mere nwee ike ịrụcha ọrụ n'ime ụbọchị 60 na-erughị B. Na-arụkọ ọrụ ọnụ, ha nwere ike ịrụ ya n'ime",
+            "a": "ụbọchị 20",
+            "b": "ụbọchị 22.5",
+            "c": "ụbọchị 25",
+            "d": "ụbọchị 30",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of times taken by A and B = 1/3! !The time difference is (3 - 1) 2 days while B take 3 days and A takes 1 day.! !If difference of time is 2 days, B takes 3 days.! !If difference of time is 60 days, B takes (3/2 * 60) = 90 days! !So, A takes 30 days to do the work.! !A's 1 day's work = 1/30! !B's 1 day's work = 1/90! !(A + B)'s 1 day's work = (1/30 + 1/90) = 4/90 = 2/45! !Hence, A and B together can do the work in 45/2 = 22.5 days"
+            "explain": "Ọnụọgụ oge A na B weere = 1/3! !Ọdịiche oge bụ (3 - 1) ụbọchị 2 ebe B na-ewe ụbọchị 3 ma A na-ewe ụbọchị 1.! !Ọ bụrụ na ọdịiche oge bụ ụbọchị 2, B na-ewe ụbọchị 3.! !Ọ bụrụ na ọdịiche oge bụ ụbọchị 60, B na-ewe (3/2 * 60) = ụbọchị 90! !Ya mere, A na-ewe ụbọchị 30 iji rụọ ọrụ ahụ.! !Ọrụ A n'ime otu ụbọchị = 1/30! !Ọrụ B n'ime otu ụbọchị = 1/90! !Ọrụ (A + B) n'ime otu ụbọchị = (1/30 + 1/90) = 4/90 = 2/45! !N'ihi ya, A na B nwere ike ịrụkọ ọrụ ahụ ọnụ n'ime 45/2 = ụbọchị 22.5"
         },
         {
-            "question": "Price of an article increased from $50 to $55. What is the percentage increase?",
+            "question": "Ọnụahịa otu ihe mụbara site na $50 ruo $55. Gịnị bụ pasentị mmụba?",
             "a": "5",
             "b": "10",
             "c": "15",
@@ -339,10 +339,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Increase in price = 55-50 = 5!Percentage increase = (5/50)*100! =10%"
+            "explain": "Mmụba n'ọnụahịa = 55-50 = 5!Pasentị mmụba = (5/50)*100! =10%"
         },
         {
-            "question": "Price of a car increased from $400000 to $420000. What is the percentage increase?",
+            "question": "Ọnụahịa ụgbọ ala mụbara site na $400000 ruo $420000. Gịnị bụ pasentị mmụba?",
             "a": "5",
             "b": "10",
             "c": "15",
@@ -350,10 +350,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Increase in price = 420000 - 400000! = 20000! !Percentage increase = (20000/400000)*100! = 5%"
+            "explain": "Mmụba n'ọnụahịa = 420000 - 400000! = 20000! !Pasentị mmụba = (20000/400000)*100! = 5%"
         },
         {
-            "question": "John's income increased from $12000 to $14400. What is percentage increase in his income?",
+            "question": "Ego John nwetara mụbara site na $12000 ruo $14400. Gịnị bụ pasentị mmụba n'ego ya?",
             "a": "10",
             "b": "15",
             "c": "20",
@@ -361,10 +361,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Increase in income = 14400 - 12000 = 2400! !Percentage increase = (2400/12000)*100 = 20%"
+            "explain": "Mmụba n'ego = 14400 - 12000 = 2400! !Pasentị mmụba = (2400/12000)*100 = 20%"
         },
         {
-            "question": "Value of a house decreased from $250000 to $200000. What is the percentage decrease in the value?",
+            "question": "Uru ụlọ belatara site na $250000 ruo $200000. Gịnị bụ pasentị mbelata n'uru ya?",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -372,10 +372,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Decrease in value of house = 250000 - 200000 = 50000! !Percentage decrease = (50000/250000)*100 = 20%"
+            "explain": "Mbelata n'uru ụlọ = 250000 - 200000 = 50000! !Pasentị mbelata = (50000/250000)*100 = 20%"
         },
         {
-            "question": "Price of an article decreased from $70 to $56. What is the percentage decrease?",
+            "question": "Ọnụahịa otu ihe belatara site na $70 ruo $56. Gịnị bụ pasentị mbelata?",
             "a": "5",
             "b": "10",
             "c": "20",
@@ -383,10 +383,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Decrease in price = 70-56 = 14! !Percentage decrease = (14/70)*100 = 20%"
+            "explain": "Mbelata n'ọnụahịa = 70-56 = 14! !Pasentị mbelata = (14/70)*100 = 20%"
         },
         {
-            "question": "Ali bought a house for $450000 and sold it for $500000. What is his profit percentage?",
+            "question": "Ali zụtara ụlọ maka $450000 wee ree ya maka $500000. Gịnị bụ pasentị uru ya?",
             "a": "11.11%",
             "b": "9.09%",
             "c": "8.7%",
@@ -394,10 +394,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Profit = 500000-450000 = 50000! !Profit percentage= (50000/450000)*100 = 11.11%"
+            "explain": "Uru = 500000-450000 = 50000! !Pasentị uru= (50000/450000)*100 = 11.11%"
         },
         {
-            "question": "A farmer bought a cow for Rs. 14000 and sold it for Rs. 15400. Find his profit percentage.",
+            "question": "Otu onye ọrụ ugbo zụtara ehi maka Rs. 14000 wee ree ya maka Rs. 15400. Chọta pasentị uru ya.",
             "a": "10%",
             "b": "15%",
             "c": "20%",
@@ -405,10 +405,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Profit = 15400 - 14000 = 1400! !Profit percentage = (1400/14000)*100 = 10%"
+            "explain": "Uru = 15400 - 14000 = 1400! !Pasentị uru = (1400/14000)*100 = 10%"
         },
         {
-            "question": "A salesman bought a pen for Rs. 100 and sold it for Rs. 110. What is his profit percent?",
+            "question": "Otu onye na-ere ahịa zụtara mkpịsị akwụkwọ maka Rs. 100 wee ree ya maka Rs. 110. Gịnị bụ pasentị uru ya?",
             "a": "1%",
             "b": "5%",
             "c": "10%",
@@ -416,21 +416,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Profit = 110 - 100 = 10! !Profit percentage = (10/100)*100 = 10%"
+            "explain": "Uru = 110 - 100 = 10! !Pasentị uru = (10/100)*100 = 10%"
         },
         {
-            "question": "A car was bought for $380000 four years ago and during these four year it price decreases by 12%. What is its value now?",
+            "question": "A zụtara ụgbọ ala maka $380000 afọ anọ gara aga ma n'ime afọ anọ a, ọnụahịa ya belatara site na 12%. Gịnị bụ uru ya ugbu a?",
             "a": "324400",
             "b": "334400",
             "c": "344400",
-            "d": "none",
+            "d": "ọ dịghị",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "12% of 380000!(380000/100)*12 = 45600! !Price of the car = 380000 - 45600 = 334400"
+            "explain": "12% nke 380000!(380000/100)*12 = 45600! !Ọnụahịa ụgbọ ala = 380000 - 45600 = 334400"
         },
         {
-            "question": "What will be the selling price of an article that was bought for $350 and sold at a loss of 14%?",
+            "question": "Gịnị ga-abụ ọnụahịa ire ere nke otu ihe a zụtara maka $350 ma ree na mfu nke 14%?",
             "a": "$301",
             "b": "$311",
             "c": "$289",
@@ -438,10 +438,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "14% of 350!(350*14)/100 = 49! !selling price of the article = 350 - 49 = 301"
+            "explain": "14% nke 350!(350*14)/100 = 49! !ọnụahịa ire ere nke ihe ahụ = 350 - 49 = 301"
         },
         {
-            "question": "What will be the selling price of an article that was bought for $1150 and sold at profit of 6%?",
+            "question": "Gịnị ga-abụ ọnụahịa ire ere nke otu ihe a zụtara maka $1150 ma ree na uru nke 6%?",
             "a": "$1199",
             "b": "$1209",
             "c": "$1219",
@@ -449,10 +449,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "6% of 1150!= (1150*6)/100 = 69! !Selling price = 1150+69 = 1219"
+            "explain": "6% nke 1150!= (1150*6)/100 = 69! !Ọnụahịa ire ere = 1150+69 = 1219"
         },
         {
-            "question": "An article was bought for $300 and sold at a loss of 8%. What is the selling price of the article?",
+            "question": "A zụtara otu ihe maka $300 ma ree ya na mfu nke 8%. Gịnị bụ ọnụahịa ire ere nke ihe ahụ?",
             "a": "$312",
             "b": "$280",
             "c": "$276",
@@ -460,10 +460,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "8% of 300!= (300*8)/100 = 24! !Selling price = 300-24 = 276"
+            "explain": "8% nke 300!= (300*8)/100 = 24! !Ọnụahịa ire ere = 300-24 = 276"
         },
         {
-            "question": "What will be the selling price of an article that was bought for $475 and sold at a loss of 12%?",
+            "question": "Gịnị ga-abụ ọnụahịa ire ere nke otu ihe a zụtara maka $475 ma ree na mfu nke 12%?",
             "a": "$409",
             "b": "$418",
             "c": "$429",
@@ -471,21 +471,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "12% of 475!=(475*12)/100 = 57! !Selling price = 475-57 = 418"
+            "explain": "12% nke 475!=(475*12)/100 = 57! !Ọnụahịa ire ere = 475-57 = 418"
         },
         {
-            "question": "A shopkeeper bought an article for $120 and sold at profit of 10%. What is selling price of the article?",
+            "question": "Otu onye na-ere ahịa zụtara otu ihe maka $120 ma ree ya na uru nke 10%. Gịnị bụ ọnụahịa ire ere nke ihe ahụ?",
             "a": "130",
             "b": "132",
             "c": "140",
-            "d": "none",
+            "d": "ọ dịghị",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "10% of 120!= (120*10)/100 = 12! !Selling price = 120+12 = 132"
+            "explain": "10% nke 120!= (120*10)/100 = 12! !Ọnụahịa ire ere = 120+12 = 132"
         },
         {
-            "question": "By selling an article for $200 shopkeeper looses 20%. What is cost price of the article?",
+            "question": "Site n'ịre otu ihe maka $200, onye na-ere ahịa na-efunahụ 20%. Gịnị bụ ọnụahịa nke ihe ahụ?",
             "a": "220",
             "b": "225",
             "c": "230",
@@ -493,10 +493,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the article is x.! !20% of x = (x*20)/100 = x/5! !Now!(x/5) + 200 = x!x+1000 = 5x!4x = 1000!x = 250! !Hence cost price of the article is 250."
+            "explain": "Ka ọnụahịa nke ihe ahụ bụrụ x.! !20% nke x = (x*20)/100 = x/5! !Ugbu a!(x/5) + 200 = x!x+1000 = 5x!4x = 1000!x = 250! !N'ihi ya, ọnụahịa nke ihe ahụ bụ 250."
         },
         {
-            "question": "An article was sold at a loss of 15% for $476. What is the cost price of the article?",
+            "question": "A rere otu ihe na mfu nke 15% maka $476. Gịnị bụ ọnụahịa nke ihe ahụ?",
             "a": "$520",
             "b": "$540",
             "c": "$560",
@@ -504,10 +504,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the article is x.!15% of x = (15x)/100 = 3x/20! !Now!(3x/20) + 476 = x!3x+9520 = 20x!9520 = 17x!x = 560! !Hence cost price of the article is $560."
+            "explain": "Ka ọnụahịa nke ihe ahụ bụrụ x.!15% nke x = (15x)/100 = 3x/20! !Ugbu a!(3x/20) + 476 = x!3x+9520 = 20x!9520 = 17x!x = 560! !N'ihi ya, ọnụahịa nke ihe ahụ bụ $560."
         },
         {
-            "question": "Ali sold a house at a loss of 15% for Rs. 382500. What was the cost price of the house?",
+            "question": "Ali rere ụlọ na mfu nke 15% maka Rs. 382500. Gịnị bụ ọnụahịa nke ụlọ ahụ?",
             "a": "420000",
             "b": "430000",
             "c": "440000",
@@ -515,10 +515,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the house is x.!15% of x = 15x/100 = 3x/20! !Now!(3x/20)+382500 = x!3x + 7650000 = 20x!7650000 = 17x!x = 450000!Hence cost price of the house is Rs. 450000"
+            "explain": "Ka ọnụahịa nke ụlọ ahụ bụrụ x.!15% nke x = 15x/100 = 3x/20! !Ugbu a!(3x/20)+382500 = x!3x + 7650000 = 20x!7650000 = 17x!x = 450000!N'ihi ya, ọnụahịa nke ụlọ ahụ bụ Rs. 450000"
         },
         {
-            "question": "By selling a Television for $572 Adam lost 12%. What was the cost price of the television?",
+            "question": "Site n'ịre telivishọn maka $572, Adam tụfuru 12%. Gịnị bụ ọnụahịa nke telivishọn ahụ?",
             "a": "$575",
             "b": "$600",
             "c": "$625",
@@ -526,10 +526,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the television is x.!12% of x = 12x/100 = 3x/25! !Now!(3x/25)+572 = x!3x + 14300 = 25x!14300 = 22x!x = 650! !Hence cost price of the television is $650."
+            "explain": "Ka ọnụahịa nke telivishọn ahụ bụrụ x.!12% nke x = 12x/100 = 3x/25! !Ugbu a!(3x/25)+572 = x!3x + 14300 = 25x!14300 = 22x!x = 650! !N'ihi ya, ọnụahịa nke telivishọn ahụ bụ $650."
         },
         {
-            "question": "John sold a house for $494500 at a profit of 15%. How much did he pay for it?",
+            "question": "John rere ụlọ maka $494500 na uru nke 15%. Ego ole ka ọ kwụrụ maka ya?",
             "a": "$420000",
             "b": "$425000",
             "c": "$430000",
@@ -537,10 +537,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the house is x.!15% of x = 15x/100 = 3x/20! !Now!494500 - (3x/20) = x!9890000 -3x = 20x!9890000 = 23x!x = 430000! !Hence cost price of the house is $430000."
+            "explain": "Ka ọnụahịa nke ụlọ ahụ bụrụ x.!15% nke x = 15x/100 = 3x/20! !Ugbu a!494500 - (3x/20) = x!9890000 -3x = 20x!9890000 = 23x!x = 430000! !N'ihi ya, ọnụahịa nke ụlọ ahụ bụ $430000."
         },
         {
-            "question": "An estate agent sold a property at a profit of 10% for $825000. What was cost price of the property?",
+            "question": "Otu onye na-ere ụlọ rere ihe onwunwe na uru nke 10% maka $825000. Gịnị bụ ọnụahịa nke ihe onwunwe ahụ?",
             "a": "$700000",
             "b": "$725000",
             "c": "$750000",
@@ -548,10 +548,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the property is x.!10% of x = 10x/100 = x/10! !Now!825000 - (x/10) = x!8250000 - x = 10x!8250000 = 11x!x = 750000! !Hence cost price of the property is $750000."
+            "explain": "Ka ọnụahịa nke ihe onwunwe ahụ bụrụ x.!10% nke x = 10x/100 = x/10! !Ugbu a!825000 - (x/10) = x!8250000 - x = 10x!8250000 = 11x!x = 750000! !N'ihi ya, ọnụahịa nke ihe onwunwe ahụ bụ $750000."
         },
         {
-            "question": "By selling an article for $84 shopkeeper earns 12% profit. What was cost price of the article?",
+            "question": "Site n'ịre otu ihe maka $84, onye na-ere ahịa na-enweta uru 12%. Gịnị bụ ọnụahịa nke ihe ahụ?",
             "a": "$70",
             "b": "$72",
             "c": "$75",
@@ -559,10 +559,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the article is x.!12% of x = 12x/100 = 3x/25! !Now!84 - (3x/25) = x!2100 - 3x = 25x!2100 = 28x!x = 75! !Hence cost price of the article is $75."
+            "explain": "Ka ọnụahịa nke ihe ahụ bụrụ x.!12% nke x = 12x/100 = 3x/25! !Ugbu a!84 - (3x/25) = x!2100 - 3x = 25x!2100 = 28x!x = 75! !N'ihi ya, ọnụahịa nke ihe ahụ bụ $75."
         },
         {
-            "question": "With an increase of 12% salary of Ali became Rs13440. What was his salary before increase?",
+            "question": "Site na mmụba nke 12%, ụgwọ ọnwa Ali ghọrọ Rs13440. Gịnị bụ ụgwọ ọnwa ya tupu mmụba?",
             "a": "10000",
             "b": "11000",
             "c": "12000",
@@ -570,10 +570,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let before increase Ali's salary was x.!12% of x = 12x/100 = 3x/25! !Now!13440 - 3x/25 = x!336000 - 3x = 25x!336000 = 28x!x = 12000! !Hence Ali's salary before increase was Rs. 12000"
+            "explain": "Ka tupu mmụba, ụgwọ ọnwa Ali bụ x.!12% nke x = 12x/100 = 3x/25! !Ugbu a!13440 - 3x/25 = x!336000 - 3x = 25x!336000 = 28x!x = 12000! !N'ihi ya, ụgwọ ọnwa Ali tupu mmụba bụ Rs. 12000"
         },
         {
-            "question": "Cost price of a camera was $430 and it was sold at profit of 16%. What is its selling price?",
+            "question": "Ọnụahịa igwefoto bụ $430 ma ree ya na uru nke 16%. Gịnị bụ ọnụahịa ire ere ya?",
             "a": "$498.8",
             "b": "$508",
             "c": "$508.8",
@@ -581,10 +581,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "16% of 430 = (430*16)/100 = 68.8! !Selling price = 430 + 68.8 = 498.8"
+            "explain": "16% nke 430 = (430*16)/100 = 68.8! !Ọnụahịa ire ere = 430 + 68.8 = 498.8"
         },
         {
-            "question": "By selling a car for Rs. 495000 an agent gains 10%. What was his cost?",
+            "question": "Site n'ịre ụgbọ ala maka Rs. 495000, onye nnọchi anya na-enweta 10%. Gịnị bụ ọnụahịa ya?",
             "a": "425000",
             "b": "450000",
             "c": "465000",
@@ -592,10 +592,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the car is x.!10% of x = 10x/100 = x/10! !Now!495000 - (x/10) = x!4950000 - x = 10x!4950000 = 11x!x = 450000"
+            "explain": "Ka ọnụahịa nke ụgbọ ala bụrụ x.!10% nke x = 10x/100 = x/10! !Ugbu a!495000 - (x/10) = x!4950000 - x = 10x!4950000 = 11x!x = 450000"
         },
         {
-            "question": "Price of a fuel increased by 10% during budget. If its price before budget was Rs. 55 per liter what is its price after the budget?",
+            "question": "Ọnụahịa mmanụ ụgbọala mụbara site na 10% n'oge mmefu ego. Ọ bụrụ na ọnụahịa ya tupu mmefu ego bụ Rs. 55 kwa lita, gịnị bụ ọnụahịa ya mgbe mmefu ego gasịrị?",
             "a": "Rs. 60",
             "b": "Rs. 60.5",
             "c": "Rs. 61",
@@ -603,10 +603,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "10% of 55 = (55*10)/100 = 5.5! !Price of fuel after butget = 55+5.5 = 60.5"
+            "explain": "10% nke 55 = (55*10)/100 = 5.5! !Ọnụahịa mmanụ ụgbọala mgbe mmefu ego gasịrị = 55+5.5 = 60.5"
         },
         {
-            "question": "In a fort there is enough food sufficient for 1200 men for 10 days. How long the food would have last for if there would have been 1000 men.",
+            "question": "N'ime otu ebe e wusiri ike, e nwere nri zuru ezu maka ụmụ nwoke 1200 maka ụbọchị 10. Ogologo oge ole ka nri ahụ ga-adịru ma ọ bụrụ na e nwere ụmụ nwoke 1000.",
             "a": "15",
             "b": "12",
             "c": "10",
@@ -614,10 +614,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let food will last for x days.!As men and days are inversely proportional to each other so!x/10 = 1200/1000!x = 12! !Hence food will last for 12 days if there were 1000 men."
+            "explain": "Ka nri dịruo ụbọchị x.!Dịka ụmụ nwoke na ụbọchị na-adabere na ibe ha n'ụzọ na-emegide onwe ha!x/10 = 1200/1000!x = 12! !N'ihi ya, nri ga-adịru ụbọchị 12 ma ọ bụrụ na e nwere ụmụ nwoke 1000."
         },
         {
-            "question": "In a ship the provisions  are sufficient for 800 men for 50 days. How long will these be sufficient for if there would have been 200 more men?",
+            "question": "N'ime ụgbọ mmiri, ihe oriri zuru ezu maka ụmụ nwoke 800 maka ụbọchị 50. Ogologo oge ole ka ihe ndị a ga-ezuru ma ọ bụrụ na e nwere ụmụ nwoke 200 ọzọ?",
             "a": "40",
             "b": "50",
             "c": "30",
@@ -625,10 +625,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let provisions will be sufficient for 200 men for x days.!As men and days are inversely proportional to each other so!x/50 = 800/1000!x = 40! !Hence provisions will be sufficient for 200 men for 40 days."
+            "explain": "Ka ihe oriri zuru ezu maka ụmụ nwoke 200 maka ụbọchị x.!Dịka ụmụ nwoke na ụbọchị na-adabere na ibe ha n'ụzọ na-emegide onwe ha!x/50 = 800/1000!x = 40! !N'ihi ya, ihe oriri ga-ezuru ụmụ nwoke 200 maka ụbọchị 40."
         },
         {
-            "question": "A group of workers can do a piece of work in 24 days. However as 7 of them were absent it took 30 days to complete the work. How many people actually worked on the job to complete it?",
+            "question": "Otu ìgwè ndị ọrụ nwere ike ịrụ otu ọrụ n'ime ụbọchị 24. Otú ọ dị, ebe 7 n'ime ha anọghị ya, o weere ụbọchị 30 iji rụchaa ọrụ ahụ. Mmadụ ole n'ezie rụrụ ọrụ ahụ iji rụchaa ya?",
             "a": "35",
             "b": "30",
             "c": "28",
@@ -636,10 +636,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let x workers are required to complete the job.!As workers and days are inversely proportional to each other so!(x-7)/x = 24/30!30x - 210 = 24x!6x = 210!x = 35! !Hence 35 workers are required to complete the job in time."
+            "explain": "Ka ndị ọrụ x dị mkpa iji rụchaa ọrụ ahụ.!Dịka ndị ọrụ na ụbọchị na-adabere na ibe ha n'ụzọ na-emegide onwe ha! (x-7)/x = 24/30!30x - 210 = 24x!6x = 210!x = 35! !N'ihi ya, ndị ọrụ 35 dị mkpa iji rụchaa ọrụ ahụ n'oge."
         },
         {
-            "question": "25 tailors can make 35 dresses in 1 day. How many dresses can 6 tailors make in 5 days?",
+            "question": "Ndị na-akwa ákwà 25 nwere ike ịkwa uwe 35 n'ime otu ụbọchị. Uwe ole ka ndị na-akwa ákwà 6 nwere ike ịkwa n'ime ụbọchị 5?",
             "a": "35",
             "b": "42",
             "c": "30",
@@ -647,10 +647,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let x dresses can be made.!As dresses are directly proportional to tailors and days so!x/35 = (6/25)*(5/1)!x = 42! !Hence 42 dresses can be made by 6 tailors in 5 days."
+            "explain": "Ka e nwee ike ịkwa uwe x.!Dịka uwe na-adabere kpọmkwem na ndị na-akwa ákwà na ụbọchị!x/35 = (6/25)*(5/1)!x = 42! !N'ihi ya, ndị na-akwa ákwà 6 nwere ike ịkwa uwe 42 n'ime ụbọchị 5."
         },
         {
-            "question": "9 excavators working 10 hours a day remove 2500 cubic feet of earth in 3 days. How many excavators working 6 hours a day are required to remove 5000 cubic feet of earth in 2 days?",
+            "question": "Ndị na-egwupụta ihe 9 na-arụ ọrụ awa 10 n'ụbọchị na-ewepụ 2500 cubic feet nke ụwa n'ime ụbọchị 3. Ndị na-egwupụta ihe ole na-arụ ọrụ awa 6 n'ụbọchị ka a chọrọ iji wepụ 5000 cubic feet nke ụwa n'ime ụbọchị 2?",
             "a": "55",
             "b": "50",
             "c": "45",
@@ -658,7 +658,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let x excavators are required.!As excavators are inversely proportional to hours and days and directly proportional to work progress so!x/9 = (10/6)*(5000/2500)*(3/2)!x = 45! !Hence 45 excavators are required to remove 5000 cubic feet of earth."
+            "explain": "Ka a chọrọ ndị na-egwupụta ihe x.!Dịka ndị na-egwupụta ihe na-adabere n'ụzọ na-emegide onwe ha na awa na ụbọchị ma na-adabere kpọmkwem na ọganihu ọrụ!x/9 = (10/6)*(5000/2500)*(3/2)!x = 45! !N'ihi ya, a chọrọ ndị na-egwupụta ihe 45 iji wepụ 5000 cubic feet nke ụwa."
         }
     ]
 }

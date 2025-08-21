@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "A can do a work in 15 days and B in 20 days.If they work on it together for 4 days,then the fraction of the work that is left is",
+            "question": "A puede hacer un trabajo en 15 días y B en 20 días. Si trabajan juntos durante 4 días, la fracción del trabajo que queda es",
             "a": "1/4",
             "b": "1/10",
             "c": "7/15",
@@ -9,10 +9,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A's 1 day's work = 1/15! !B's 1 day's work = 1/20! !(A + B)'s 1 day's work = (1/15 + 1/20) = 7/60! !(A + B)'s 4 day's work = (7/60 * 4) = 7/15! !Therefore, Remaining work = (1 - 7/15) = 8/15"
+            "explain": "Trabajo de A en 1 día = 1/15. Trabajo de B en 1 día = 1/20. Trabajo de (A + B) en 1 día = (1/15 + 1/20) = 7/60. Trabajo de (A + B) en 4 días = (7/60 * 4) = 7/15. Por lo tanto, trabajo restante = (1 - 7/15) = 8/15"
         },
         {
-            "question": "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is",
+            "question": "Alfred compra una scooter vieja por 4700 rupias y gasta 800 rupias en sus reparaciones. Si vende la scooter por 5800 rupias, su porcentaje de ganancia es",
             "a": "60/11 %",
             "b": "55/9 %",
             "c": "15 %",
@@ -20,32 +20,32 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Cost Price (C.P.) = (4700 + 800) = Rs. 5500! !Selling Price (S.P.) = Rs. 5800! !Gain = (S.P.) - (C.P.) = (5800 - 5500) = Rs. 300! !Gain % = (300/5500) * 100 = 60/5 %"
+            "explain": "Precio de costo (P.C.) = (4700 + 800) = 5500 rupias. Precio de venta (P.V.) = 5800 rupias. Ganancia = (P.V.) - (P.C.) = (5800 - 5500) = 300 rupias. % de ganancia = (300/5500) * 100 = 60/11 %"
         },
         {
-            "question": "If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be",
-            "a": "4 days",
-            "b": "5 days",
-            "c": "6 days",
-            "d": "7 days",
+            "question": "Si 6 hombres y 8 niños pueden hacer un trabajo en 10 días, mientras que 26 hombres y 48 niños pueden hacer el mismo trabajo en 2 días, el tiempo que tardarán 15 hombres y 20 niños en hacer el mismo tipo de trabajo será",
+            "a": "4 días",
+            "b": "5 días",
+            "c": "6 días",
+            "d": "7 días",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let, 1 man's 1 day's work = x!and 1 boy's 1 day's work = y! !Then, 6x + 8y = 1/10!and 26x + 48y = 1/2! !Solving these two equations, we get!x = 1/100!and y = 1/200! !(15 men + 20 boy)'s 1 day's work = (15/100 + 20/200) = 1/4! !Hence, 15 men and 20 boys can do the work in 4 days."
+            "explain": "Sea, trabajo de 1 hombre en 1 día = x y trabajo de 1 niño en 1 día = y. Entonces, 6x + 8y = 1/10 y 26x + 48y = 1/2. Resolviendo estas dos ecuaciones, obtenemos x = 1/100 e y = 1/200. Trabajo de (15 hombres + 20 niños) en 1 día = (15/100 + 20/200) = 1/4. Por lo tanto, 15 hombres y 20 niños pueden hacer el trabajo en 4 días."
         },
         {
-            "question": "A can do a piece of work in 4 hours; B and C together can do it in 3 hours,while A and C together can do it in 2 hours.How long will B alone take to do it?",
-            "a": "8 hours",
-            "b": "10 hours",
-            "c": "12 hours",
-            "d": "24 hours",
+            "question": "A puede hacer un trabajo en 4 horas; B y C juntos pueden hacerlo en 3 horas, mientras que A y C juntos pueden hacerlo en 2 horas. ¿Cuánto tiempo tardará B solo en hacerlo?",
+            "a": "8 horas",
+            "b": "10 horas",
+            "c": "12 horas",
+            "d": "24 horas",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A's 1 hour's work = 1/4! !(B + C)'s 1 hour's work = 1/3! !(A + C)'s 1 hour's work = 1/2! !(A + B + C)'s 1 hour's work = (1/4 + 1/3) = 7/12! !B's 1 hour's work = (7/12 - 1/2) = 1/12! !Hence, B alone will take 12 hours to do the work."
+            "explain": "Trabajo de A en 1 hora = 1/4. Trabajo de (B + C) en 1 hora = 1/3. Trabajo de (A + C) en 1 hora = 1/2. Trabajo de (A + B + C) en 1 hora = (1/4 + 1/3) = 7/12. Trabajo de B en 1 hora = (7/12 - 1/2) = 1/12. Por lo tanto, B solo tardará 12 horas en hacer el trabajo."
         },
         {
-            "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+            "question": "Si el precio de venta se duplica, el beneficio se triplica. Halle el porcentaje de beneficio.",
             "a": "50",
             "b": "100",
             "c": "120",
@@ -53,32 +53,32 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let! C.P. be Rs. x and S.P. be Rs. y.! !Then,! 3(y - x) = (2y - x)!y = 2x! !Profit = Rs. (y - x) = Rs. x! !Profit % = (x/x)*100 = 100%"
+            "explain": "Sea el P.C. x rupias y el P.V. y rupias. Entonces, 3(y - x) = (2y - x). y = 2x. Beneficio = (y - x) rupias = x rupias. % de beneficio = (x/x)*100 = 100%"
         },
         {
-            "question": "A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?",
-            "a": "23 days",
-            "b": "37 days",
-            "c": "37.5 days",
-            "d": "40 days",
+            "question": "A hace el 80% de un trabajo en 20 días. Luego llama a B y juntos terminan el trabajo restante en 3 días. ¿Cuánto tiempo tardaría B solo en hacer todo el trabajo?",
+            "a": "23 días",
+            "b": "37 días",
+            "c": "37,5 días",
+            "d": "40 días",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Whole work is done by A in (20 * 5/4) = 25 days! !Now, (1 - 4/5) i.e., 1/5 work is done by A and B in 3 days.! !Whole work will be done by A and B in (3 x 5) = 15 days.! !A's 1 day's work = 1/25!(A + B)'s 1 day's work = 1/15! !So, B's 1 day's work = (1/15 - 1/25) = 4/150 = 2/75! !Hence, B alone would do the work in 75/2 = 37.5 days."
+            "explain": "A hace todo el trabajo en (20 * 5/4) = 25 días. Ahora, (1 - 4/5), es decir, 1/5 del trabajo lo hacen A y B en 3 días. A y B harán todo el trabajo en (3 x 5) = 15 días. Trabajo de A en 1 día = 1/25. Trabajo de (A + B) en 1 día = 1/15. Por lo tanto, el trabajo de B en 1 día = (1/15 - 1/25) = 4/150 = 2/75. Por lo tanto, B solo haría el trabajo en 75/2 = 37,5 días."
         },
         {
-            "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
-            "a": "Rs. 18.20",
-            "b": "Rs. 70",
-            "c": "Rs. 72",
-            "d": "Rs. 88.25",
+            "question": "Un tendero espera una ganancia del 22,5% sobre su precio de costo. Si en una semana su venta fue de 392 rupias, ¿cuál fue su beneficio?",
+            "a": "18,20 rupias",
+            "b": "70 rupias",
+            "c": "72 rupias",
+            "d": "88,25 rupias",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. = (100/122.5) * 392!= (1000/1225) * 392!= Rs. 320! !Hence, Profit = Rs. (392 - 320) = Rs. 72."
+            "explain": "P.C. = (100/122,5) * 392 = (1000/1225) * 392 = 320 rupias. Por lo tanto, beneficio = (392 - 320) rupias = 72 rupias."
         },
         {
-            "question": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?",
+            "question": "4 hombres y 6 mujeres pueden completar un trabajo en 8 días, mientras que 3 hombres y 7 mujeres pueden completarlo en 10 días. ¿En cuántos días lo completarán 10 mujeres?",
             "a": "35",
             "b": "40",
             "c": "45",
@@ -86,10 +86,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let, 1 man's 1 day's work = x!and!1 woman's 1 day's work = y! !Then, 4x + 6y = 1/8 nd 3x + 7y = 1/10! !Solving the two equations, we get!x = 11/400!y = 1/400! !So, One woman's 1 day's work = 1/400! !10 women's 1 day's work = (1/400 * 10) = 1/40! !Hence, 10 women will complete the work in 40 days."
+            "explain": "Sea, trabajo de 1 hombre en 1 día = x y trabajo de 1 mujer en 1 día = y. Entonces, 4x + 6y = 1/8 y 3x + 7y = 1/10. Resolviendo las dos ecuaciones, obtenemos x = 11/400, y = 1/400. Por lo tanto, trabajo de una mujer en 1 día = 1/400. Trabajo de 10 mujeres en 1 día = (1/400 * 10) = 1/40. Por lo tanto, 10 mujeres completarán el trabajo en 40 días."
         },
         {
-            "question": "10 women can complete a work in 7 days and 10 children take 14 days to complete the work.How many days will 5 women and 10 children take to complete the work?",
+            "question": "10 mujeres pueden completar un trabajo en 7 días y 10 niños tardan 14 días en completar el trabajo. ¿Cuántos días tardarán 5 mujeres y 10 niños en completar el trabajo?",
             "a": "3",
             "b": "5",
             "c": "7",
@@ -97,65 +97,65 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "1 woman's 1 day's work =1/70! !1 child's 1 day's work =1/140! !(5 women + 10 children)'s 1 day's work = (5/70 + 10/140) = (1/14 + 1/14) = 1/7! !Hence, 5 women and 10 children will complete the work in 7 days."
+            "explain": "Trabajo de 1 mujer en 1 día = 1/70. Trabajo de 1 niño en 1 día = 1/140. Trabajo de (5 mujeres + 10 niños) en 1 día = (5/70 + 10/140) = (1/14 + 1/14) = 1/7. Por lo tanto, 5 mujeres y 10 niños completarán el trabajo en 7 días."
         },
         {
-            "question": "A is 30% more efficient than B. How much time will they, working together, take to complete a job which A alone could have done in 23 days?",
-            "a": "11 days",
-            "b": "13 days",
-            "c": "14 days",
-            "d": "17 days",
+            "question": "A es un 30% más eficiente que B. ¿Cuánto tiempo tardarán, trabajando juntos, en completar un trabajo que A solo podría haber hecho en 23 días?",
+            "a": "11 días",
+            "b": "13 días",
+            "c": "14 días",
+            "d": "17 días",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of times taken by A and B = 100/130 = 10/13! !Suppose B takes x days to do the work.! !Then, 10/13 = 23/x!x = (23*13)/10!x = 299/10! !A's 1 day's work = 1/23! !B's 1 day's work = 10/299! !(A + B)'s 1 day's work = (1/23 + 10/299) = 23/299 = 1/13! !Therefore, A and B together can complete the work in 13 days."
+            "explain": "Relación de tiempos tomados por A y B = 100/130 = 10/13. Supongamos que B tarda x días en hacer el trabajo. Entonces, 10/13 = 23/x. x = (23*13)/10. x = 299/10. Trabajo de A en 1 día = 1/23. Trabajo de B en 1 día = 10/299. Trabajo de (A + B) en 1 día = (1/23 + 10/299) = 23/299 = 1/13. Por lo tanto, A y B juntos pueden completar el trabajo en 13 días."
         },
         {
-            "question": "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is",
+            "question": "Se compraron algunos artículos a 6 artículos por 5 rupias y se vendieron a 5 artículos por 6 rupias. El porcentaje de ganancia es",
             "a": "30%",
-            "b": "33.5%",
+            "b": "33,5%",
             "c": "35%",
             "d": "44%",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Suppose, number of articles bought =L.C.M. of 6 and 5!= 30! !C.P. of 30 articles = (5/6) * 30 = Rs. 25! !S.P. of 30 articles = (6/5)*30! = Rs. 36! !Hence, Gain % = (11/25) * 100 = 44%"
+            "explain": "Supongamos que el número de artículos comprados = M.C.M. de 6 y 5 = 30. P.C. de 30 artículos = (5/6) * 30 = 25 rupias. P.V. de 30 artículos = (6/5)*30 = 36 rupias. Por lo tanto, % de ganancia = (11/25) * 100 = 44%"
         },
         {
-            "question": "On selling 17 balls at $720, there is a loss equal to the cost price of 5 balls.The cost price of a ball is",
-            "a": "$45",
-            "b": "$50",
-            "c": "$55",
-            "d": "$60",
+            "question": "Al vender 17 pelotas a 720 $, hay una pérdida igual al precio de costo de 5 pelotas. El precio de costo de una pelota es",
+            "a": "45 $",
+            "b": "50 $",
+            "c": "55 $",
+            "d": "60 $",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(C.P. of 17 balls) - (S.P. of 17 balls) = (C.P. of 5 balls)! !C.P. of 12 balls = S.P. of 17 balls = $720! !C.P. of 1 ball = $60"
+            "explain": "(P.C. de 17 pelotas) - (P.V. de 17 pelotas) = (P.C. de 5 pelotas). P.C. de 12 pelotas = P.V. de 17 pelotas = 720 $. P.C. de 1 pelota = 60 $"
         },
         {
-            "question": "A takes twice as much time as B or thrice as much time as C to finish a piece of work.Working together,they can finish the work in 2 days.B can do the work alone in",
-            "a": "4 days",
-            "b": "6 days",
-            "c": "8 days",
-            "d": "12 days",
+            "question": "A tarda el doble de tiempo que B o el triple de tiempo que C en terminar un trabajo. Trabajando juntos, pueden terminar el trabajo en 2 días. B puede hacer el trabajo solo en",
+            "a": "4 días",
+            "b": "6 días",
+            "c": "8 días",
+            "d": "12 días",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Suppose A, B and C take x, x/2, x/3 days respectively to finish the work.! !Then,!(1/x + 2/x + 3/x) = 1/2!6/x = 1/2!x=12! !So, B takes (12/2) = 6 days to finish the work."
+            "explain": "Supongamos que A, B y C tardan x, x/2, x/3 días respectivamente en terminar el trabajo. Entonces, (1/x + 2/x + 3/x) = 1/2. 6/x = 1/2. x=12. Por lo tanto, B tarda (12/2) = 6 días en terminar el trabajo."
         },
         {
-            "question": "A works twice as fast as B.If B can complete a work in 12 days independently,The number of days in which A and B can together finish the work in",
-            "a": "4 days",
-            "b": "6 days",
-            "c": "8 days",
-            "d": "18 days",
+            "question": "A trabaja el doble de rápido que B. Si B puede completar un trabajo en 12 días de forma independiente, el número de días en que A y B pueden terminar juntos el trabajo es",
+            "a": "4 días",
+            "b": "6 días",
+            "c": "8 días",
+            "d": "18 días",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of rates of working of A and B = 2/1! !So, ratio of times taken = 1/2! !B's 1 day's work = 1/12! !A's 1 day's work = 1/6!(2 times of B's work)! !(A + B)'s 1 day's work = (1/6 + 1/12) = 1/4! !So, A and B together can finish the work in 4 days."
+            "explain": "Relación de las tasas de trabajo de A y B = 2/1. Por lo tanto, la relación de los tiempos tomados = 1/2. Trabajo de B en 1 día = 1/12. Trabajo de A en 1 día = 1/6 (2 veces el trabajo de B). Trabajo de (A + B) en 1 día = (1/6 + 1/12) = 1/4. Por lo tanto, A y B juntos pueden terminar el trabajo en 4 días."
         },
         {
-            "question": "Twenty women can do a work in sixteen days. Sixteen men can complete the same work in fifteen days. What is the ratio between the capacity of a man and a woman?",
+            "question": "Veinte mujeres pueden hacer un trabajo en dieciséis días. Dieciséis hombres pueden completar el mismo trabajo en quince días. ¿Cuál es la relación entre la capacidad de un hombre y una mujer?",
             "a": "3/4",
             "b": "4/3",
             "c": "5/3",
@@ -163,10 +163,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(20 x 16) women can complete the work in 1 day.! !So,  woman's 1 day's work = 1/320! !(16 x 15) men can complete the work in 1 day.! !So, 1 man's 1 day's work = 1/240! !So, required ratio = (1/240) / (1/320)!= (1/3) / (1/4) = 4/3"
+            "explain": "(20 x 16) mujeres pueden completar el trabajo en 1 día. Por lo tanto, el trabajo de 1 mujer en 1 día = 1/320. (16 x 15) hombres pueden completar el trabajo en 1 día. Por lo tanto, el trabajo de 1 hombre en 1 día = 1/240. Por lo tanto, la relación requerida = (1/240) / (1/320) = (1/3) / (1/4) = 4/3"
         },
         {
-            "question": "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg.His profit percent is",
+            "question": "Un comerciante mezcla 26 kg de arroz a 20 rupias por kg con 30 kg de arroz de otra variedad a 36 rupias por kg y vende la mezcla a 30 rupias por kg. Su porcentaje de beneficio es",
             "a": "5%",
             "b": "8%",
             "c": "10%",
@@ -174,43 +174,43 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. of 56 kg rice = (26 x 20 + 30 x 36) = (520 + 1080) = Rs. 1600! !S.P. of 56 kg rice = Rs. (56 x 30) = Rs. 1680! !Hence, Gain = (80/1600)*100 = 5%"
+            "explain": "P.C. de 56 kg de arroz = (26 x 20 + 30 x 36) = (520 + 1080) = 1600 rupias. P.V. de 56 kg de arroz = (56 x 30) rupias = 1680 rupias. Por lo tanto, ganancia = (80/1600)*100 = 5%"
         },
         {
-            "question": "A can finish a work in 24 days, B in 9 days and C in 12 days. B and C start the work but are forced to leave after 3 days. The remaining work was done by A in",
-            "a": "5 days",
-            "b": "6 days",
-            "c": "10 days",
-            "d": "15 days",
+            "question": "A puede terminar un trabajo en 24 días, B en 9 días y C en 12 días. B y C comienzan el trabajo pero se ven obligados a irse después de 3 días. El trabajo restante fue hecho por A en",
+            "a": "5 días",
+            "b": "6 días",
+            "c": "10 días",
+            "d": "15 días",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(B + C)'s 1 day's work = (1/9 + 1/12) = 7/36! !Work done by B and C in 3 days = (7/36 * 3)!= 7/12! !Remaining work = (1 - 7/12)!= 5/12! !Now, 1/24 work is done by A in 1 day.! !So, 5/12 work is done by A in (24 * 5/12) = 10 days."
+            "explain": "Trabajo de (B + C) en 1 día = (1/9 + 1/12) = 7/36. Trabajo realizado por B y C en 3 días = (7/36 * 3) = 7/12. Trabajo restante = (1 - 7/12) = 5/12. Ahora, A hace 1/24 del trabajo en 1 día. Por lo tanto, A hace 5/12 del trabajo en (24 * 5/12) = 10 días."
         },
         {
-            "question": "X can do a piece of work in 40 days.He works at it for 8 days and then Y finished it in 16 days.How long will they together take to complete the work?",
-            "a": "40/3 days",
-            "b": "15 days",
-            "c": "20 days",
-            "d": "26 days",
+            "question": "X puede hacer un trabajo en 40 días. Trabaja en él durante 8 días y luego Y lo termina en 16 días. ¿Cuánto tiempo tardarán juntos en completar el trabajo?",
+            "a": "40/3 días",
+            "b": "15 días",
+            "c": "20 días",
+            "d": "26 días",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Work done by X in 8 days = (1/40 * 8)!= 1/5! !Remaining work = (1 - 1/5)!4/5! !Now, 4/5 work is done by Y in 16 days.! !Whole work will be done by Y in (16 * 5/4)!= 20 days! !So,!X's 1 day's work = 1/40!Y's 1 day's work = 1/20! !(X + Y)'s 1 day's work = (1/40 + 1/20) = 3/40! !Hence, X and Y will together complete the work in 40/3 days"
+            "explain": "Trabajo realizado por X en 8 días = (1/40 * 8) = 1/5. Trabajo restante = (1 - 1/5) = 4/5. Ahora, Y hace 4/5 del trabajo en 16 días. Y hará todo el trabajo en (16 * 5/4) = 20 días. Por lo tanto, trabajo de X en 1 día = 1/40. Trabajo de Y en 1 día = 1/20. Trabajo de (X + Y) en 1 día = (1/40 + 1/20) = 3/40. Por lo tanto, X e Y juntos completarán el trabajo en 40/3 días."
         },
         {
-            "question": "A and B can do a job together in 7 days. A is 7/4  times as efficient as B.The same job can be done by A alone in",
-            "a": "9 days",
-            "b": "11 days",
-            "c": "13 days",
-            "d": "15 days",
+            "question": "A y B pueden hacer un trabajo juntos en 7 días. A es 7/4 veces más eficiente que B. El mismo trabajo puede ser hecho por A solo en",
+            "a": "9 días",
+            "b": "11 días",
+            "c": "13 días",
+            "d": "15 días",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(A's 1 day's work) / (B's 1 day's work) = 7/4! !Let A's and B's 1 day's work be 7x and 4x respectively.! !Then,!7x + 4x = 1/7!11x = 1/7!x = 1/77! !Hence, A's 1 day's work = (1/77 * 7) = 1/11"
+            "explain": "(Trabajo de A en 1 día) / (Trabajo de B en 1 día) = 7/4. Sea el trabajo de A y B en 1 día 7x y 4x respectivamente. Entonces, 7x + 4x = 1/7. 11x = 1/7. x = 1/77. Por lo tanto, el trabajo de A en 1 día = (1/77 * 7) = 1/11"
         },
         {
-            "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is",
+            "question": "El precio de costo de 20 artículos es el mismo que el precio de venta de x artículos. Si el beneficio es del 25%, entonces el valor de x es",
             "a": "15",
             "b": "16",
             "c": "18",
@@ -218,21 +218,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let!C.P. of each article be Re. 1 C.P. of x articles = Rs. x.! !S.P. of x articles = Rs. 20.! !Profit = Rs. (20 - x)! !So, (20-x)/x * 100 = 25!2000 - 100x = 25x!125x = 2000! !Hence, x = 16"
+            "explain": "Sea el P.C. de cada artículo 1 rupia. P.C. de x artículos = x rupias. P.V. de x artículos = 20 rupias. Beneficio = (20 - x) rupias. Por lo tanto, (20-x)/x * 100 = 25. 2000 - 100x = 25x. 125x = 2000. Por lo tanto, x = 16"
         },
         {
-            "question": "A can do a certain work in the same time in which B and C together can do it.If A and B together could do it in 10 days and C alone in 50 days,then B alone could do it in",
-            "a": "15 days",
-            "b": "20 days",
-            "c": "25 days",
-            "d": "30 days",
+            "question": "A puede hacer un cierto trabajo en el mismo tiempo en que B y C juntos pueden hacerlo. Si A y B juntos podrían hacerlo en 10 días y C solo en 50 días, entonces B solo podría hacerlo en",
+            "a": "15 días",
+            "b": "20 días",
+            "c": "25 días",
+            "d": "30 días",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(A + B)'s 1 day's work = 1/10! !C's 1 day's work = 1/50! !(A + B + C)'s 1 day's work = (1/10 + 1/50) = 6/50 = 3/25...(1)! !A's 1 day's work = (B + C)'s 1 day's work .... (2)! !From (1) and (2), we get!2 * (A's 1 day's work) = 3/25! !A's 1 day's work = 3/50! !So, B's 1 day's work (1/10 - 3/50) = 2/50 = 1/25! !Hence, B alone could do the work in 25 days."
+            "explain": "Trabajo de (A + B) en 1 día = 1/10. Trabajo de C en 1 día = 1/50. Trabajo de (A + B + C) en 1 día = (1/10 + 1/50) = 6/50 = 3/25...(1). Trabajo de A en 1 día = Trabajo de (B + C) en 1 día .... (2). De (1) y (2), obtenemos 2 * (Trabajo de A en 1 día) = 3/25. Trabajo de A en 1 día = 3/50. Por lo tanto, el trabajo de B en 1 día (1/10 - 3/50) = 2/50 = 1/25. Por lo tanto, B solo podría hacer el trabajo en 25 días."
         },
         {
-            "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+            "question": "Un vendedor compró caramelos a 6 por una rupia. ¿Cuántos por una rupia debe vender para ganar un 20%?",
             "a": "3",
             "b": "4",
             "c": "5",
@@ -240,43 +240,43 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. of 6 toffees = Re. 1! !S.P. of 6 toffees = 120% of Re. 1 = Rs. 6/5! !For Rs. 6/5,!toffees sold = 6.! !For Re. 1, toffees sold = (6 * 5/6) = 5"
+            "explain": "P.C. de 6 caramelos = 1 rupia. P.V. de 6 caramelos = 120% de 1 rupia = 6/5 rupias. Por 6/5 rupias, se venden 6 caramelos. Por 1 rupia, se venden (6 * 5/6) = 5 caramelos."
         },
         {
-            "question": "A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?",
+            "question": "A puede terminar un trabajo en 18 días y B puede hacer el mismo trabajo en 15 días. B trabajó durante 10 días y dejó el trabajo. ¿En cuántos días puede A solo terminar el trabajo restante?",
             "a": "5",
-            "b": "5.5",
+            "b": "5,5",
             "c": "6",
             "d": "8",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "B's 10 day's work = (1/15 * 10) = 2/3! !Remaining work = (1 - 2/3) = 1/3! !Now, 1/18 work is done by A in 1 day.! ! Hence, 1/3 work is done by A in (18 * 1/3) = 6 days."
+            "explain": "Trabajo de B en 10 días = (1/15 * 10) = 2/3. Trabajo restante = (1 - 2/3) = 1/3. Ahora, A hace 1/18 del trabajo en 1 día. Por lo tanto, A hace 1/3 del trabajo en (18 * 1/3) = 6 días."
         },
         {
-            "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
-            "a": "Rs. 1090",
-            "b": "Rs. 1160",
-            "c": "Rs. 1190",
-            "d": "Rs. 1202",
+            "question": "Un hombre compra una bicicleta por 1400 rupias y la vende con una pérdida del 15%. ¿Cuál es el precio de venta de la bicicleta?",
+            "a": "1090 rupias",
+            "b": "1160 rupias",
+            "c": "1190 rupias",
+            "d": "1202 rupias",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "S.P. = 85% of Rs. 1400 =(85/100)*1400!=Rs. 1190"
+            "explain": "P.V. = 85% de 1400 rupias = (85/100)*1400 = 1190 rupias"
         },
         {
-            "question": "A, B and C can complete a piece of work in 24, 6 and 12 days respectively.Working together,they will complete the same work in",
-            "a": "1/24 days",
-            "b": "7/24 days",
-            "c": "24/7 days",
-            "d": "4 days",
+            "question": "A, B y C pueden completar un trabajo en 24, 6 y 12 días respectivamente. Trabajando juntos, completarán el mismo trabajo en",
+            "a": "1/24 días",
+            "b": "7/24 días",
+            "c": "24/7 días",
+            "d": "4 días",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As we know that!If A can do a piece of work in n days, then A's 1 day's work = 1/n! !(A + B + C)'s 1 day's work = (1/24 + 1/6 + 1/12) = 7/24! !If A's 1 day's work = 1/n then,!A can finish the work in 'n' days.! !So, all the three together will complete the job in (24/7) days."
+            "explain": "Como sabemos que si A puede hacer un trabajo en n días, entonces el trabajo de A en 1 día = 1/n. Trabajo de (A + B + C) en 1 día = (1/24 + 1/6 + 1/12) = 7/24. Si el trabajo de A en 1 día = 1/n, entonces A puede terminar el trabajo en 'n' días. Por lo tanto, los tres juntos completarán el trabajo en (24/7) días."
         },
         {
-            "question": "Sakshi can do a piece of work in 20 days. Tanya is 25% more efficient than Sakshi. The number of days taken by Tanya to do the same piece of work is",
+            "question": "Sakshi puede hacer un trabajo en 20 días. Tanya es un 25% más eficiente que Sakshi. El número de días que tarda Tanya en hacer el mismo trabajo es",
             "a": "15",
             "b": "16",
             "c": "18",
@@ -284,54 +284,54 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of times taken by Sakshi and Tanya = 125/100 = 5/4! !Suppose Tanya takes x days to do the work.! !5/4 = 20/x!x = (4*20)/5! !x = 16 days.! !Hence, Tanya takes 16 days to complete the work."
+            "explain": "Relación de tiempos tomados por Sakshi y Tanya = 125/100 = 5/4. Supongamos que Tanya tarda x días en hacer el trabajo. 5/4 = 20/x. x = (4*20)/5. x = 16 días. Por lo tanto, Tanya tarda 16 días en completar el trabajo."
         },
         {
-            "question": "When a plot is sold for $18,700, the owner loses 15%.At what price must that plot be sold in order to gain 15%?",
-            "a": "$21,000",
-            "b": "$22,500",
-            "c": "$25,300",
-            "d": "$25,800",
+            "question": "Cuando se vende una parcela por 18.700 $, el propietario pierde un 15%. ¿A qué precio debe venderse esa parcela para ganar un 15%?",
+            "a": "21.000 $",
+            "b": "22.500 $",
+            "c": "25.300 $",
+            "d": "25.800 $",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "85 / 18700 = 115 / x! !x = (18700 * 115)/85 = 25300! !Hence, S.P. = $25,300"
+            "explain": "85 / 18700 = 115 / x. x = (18700 * 115)/85 = 25300. Por lo tanto, P.V. = 25.300 $"
         },
         {
-            "question": "100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen.The percentage of profit or loss is",
-            "a": "100/7 % gain",
-            "b": "100/7 % loss",
-            "c": "15 % gain",
-            "d": "15 % loss",
+            "question": "Se compran 100 naranjas a razón de 350 rupias y se venden a razón de 48 rupias por docena. El porcentaje de ganancia o pérdida es",
+            "a": "100/7 % de ganancia",
+            "b": "100/7 % de pérdida",
+            "c": "15 % de ganancia",
+            "d": "15 % de pérdida",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C.P. of 1 orange = 350/100 = Rs. 3.50! !S.P. of 1 orange = 48/12 = Rs. 4! !Hence, Gain% = (0.50)/(3.50) * 100 = 100/7 %"
+            "explain": "P.C. de 1 naranja = 350/100 = 3,50 rupias. P.V. de 1 naranja = 48/12 = 4 rupias. Por lo tanto, % de ganancia = (0,50)/(3,50) * 100 = 100/7 %"
         },
         {
-            "question": "A and B can do a work in 8 days, B and C can do the same work in 12 days. A, B and C together can finish it in 6 days. A and C together will do it in",
-            "a": "4 days",
-            "b": "6 days",
-            "c": "8 days",
-            "d": "12 days",
+            "question": "A y B pueden hacer un trabajo en 8 días, B y C pueden hacer el mismo trabajo en 12 días. A, B y C juntos pueden terminarlo en 6 días. A y C juntos lo harán en",
+            "a": "4 días",
+            "b": "6 días",
+            "c": "8 días",
+            "d": "12 días",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(A + B + C)'s 1 day's work = 1/6! !(A + B)'s 1 day's work = 1/8! !(B + C)'s 1 day's work = 1/12! !So, (A + C)'s 1 day's work = (2* 1/6) - (1/8 + 1/12)!= (1/3 - 5/24) = (3/24) = 1/8! !So, A and C together will do the work in 8 days."
+            "explain": "Trabajo de (A + B + C) en 1 día = 1/6. Trabajo de (A + B) en 1 día = 1/8. Trabajo de (B + C) en 1 día = 1/12. Por lo tanto, trabajo de (A + C) en 1 día = (2* 1/6) - (1/8 + 1/12) = (1/3 - 5/24) = (3/24) = 1/8. Por lo tanto, A y C juntos harán el trabajo en 8 días."
         },
         {
-            "question": "A is thrice as good as a workman as B and therefore is able to finish a job in 60 days less than B.Working together,they can do it in",
-            "a": "20 days",
-            "b": "22.5 days",
-            "c": "25 days",
-            "d": "30 days",
+            "question": "A es tres veces mejor trabajador que B y, por lo tanto, puede terminar un trabajo en 60 días menos que B. Trabajando juntos, pueden hacerlo en",
+            "a": "20 días",
+            "b": "22,5 días",
+            "c": "25 días",
+            "d": "30 días",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ratio of times taken by A and B = 1/3! !The time difference is (3 - 1) 2 days while B take 3 days and A takes 1 day.! !If difference of time is 2 days, B takes 3 days.! !If difference of time is 60 days, B takes (3/2 * 60) = 90 days! !So, A takes 30 days to do the work.! !A's 1 day's work = 1/30! !B's 1 day's work = 1/90! !(A + B)'s 1 day's work = (1/30 + 1/90) = 4/90 = 2/45! !Hence, A and B together can do the work in 45/2 = 22.5 days"
+            "explain": "Relación de tiempos tomados por A y B = 1/3. La diferencia de tiempo es (3 - 1) 2 días, mientras que B tarda 3 días y A tarda 1 día. Si la diferencia de tiempo es de 2 días, B tarda 3 días. Si la diferencia de tiempo es de 60 días, B tarda (3/2 * 60) = 90 días. Por lo tanto, A tarda 30 días en hacer el trabajo. Trabajo de A en 1 día = 1/30. Trabajo de B en 1 día = 1/90. Trabajo de (A + B) en 1 día = (1/30 + 1/90) = 4/90 = 2/45. Por lo tanto, A y B juntos pueden hacer el trabajo en 45/2 = 22,5 días."
         },
         {
-            "question": "Price of an article increased from $50 to $55. What is the percentage increase?",
+            "question": "El precio de un artículo aumentó de 50 $ a 55 $. ¿Cuál es el porcentaje de aumento?",
             "a": "5",
             "b": "10",
             "c": "15",
@@ -339,10 +339,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Increase in price = 55-50 = 5!Percentage increase = (5/50)*100! =10%"
+            "explain": "Aumento de precio = 55-50 = 5. Aumento porcentual = (5/50)*100 = 10%"
         },
         {
-            "question": "Price of a car increased from $400000 to $420000. What is the percentage increase?",
+            "question": "El precio de un coche aumentó de 400.000 $ a 420.000 $. ¿Cuál es el porcentaje de aumento?",
             "a": "5",
             "b": "10",
             "c": "15",
@@ -350,10 +350,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Increase in price = 420000 - 400000! = 20000! !Percentage increase = (20000/400000)*100! = 5%"
+            "explain": "Aumento de precio = 420000 - 400000 = 20000. Aumento porcentual = (20000/400000)*100 = 5%"
         },
         {
-            "question": "John's income increased from $12000 to $14400. What is percentage increase in his income?",
+            "question": "Los ingresos de John aumentaron de 12.000 $ a 14.400 $. ¿Cuál es el porcentaje de aumento de sus ingresos?",
             "a": "10",
             "b": "15",
             "c": "20",
@@ -361,10 +361,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Increase in income = 14400 - 12000 = 2400! !Percentage increase = (2400/12000)*100 = 20%"
+            "explain": "Aumento de ingresos = 14400 - 12000 = 2400. Aumento porcentual = (2400/12000)*100 = 20%"
         },
         {
-            "question": "Value of a house decreased from $250000 to $200000. What is the percentage decrease in the value?",
+            "question": "El valor de una casa disminuyó de 250.000 $ a 200.000 $. ¿Cuál es el porcentaje de disminución del valor?",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -372,10 +372,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Decrease in value of house = 250000 - 200000 = 50000! !Percentage decrease = (50000/250000)*100 = 20%"
+            "explain": "Disminución del valor de la casa = 250000 - 200000 = 50000. Disminución porcentual = (50000/250000)*100 = 20%"
         },
         {
-            "question": "Price of an article decreased from $70 to $56. What is the percentage decrease?",
+            "question": "El precio de un artículo disminuyó de 70 $ a 56 $. ¿Cuál es el porcentaje de disminución?",
             "a": "5",
             "b": "10",
             "c": "20",
@@ -383,21 +383,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Decrease in price = 70-56 = 14! !Percentage decrease = (14/70)*100 = 20%"
+            "explain": "Disminución de precio = 70-56 = 14. Disminución porcentual = (14/70)*100 = 20%"
         },
         {
-            "question": "Ali bought a house for $450000 and sold it for $500000. What is his profit percentage?",
-            "a": "11.11%",
-            "b": "9.09%",
-            "c": "8.7%",
+            "question": "Ali compró una casa por 450.000 $ y la vendió por 500.000 $. ¿Cuál es su porcentaje de beneficio?",
+            "a": "11,11%",
+            "b": "9,09%",
+            "c": "8,7%",
             "d": "25%",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Profit = 500000-450000 = 50000! !Profit percentage= (50000/450000)*100 = 11.11%"
+            "explain": "Beneficio = 500000-450000 = 50000. Porcentaje de beneficio = (50000/450000)*100 = 11,11%"
         },
         {
-            "question": "A farmer bought a cow for Rs. 14000 and sold it for Rs. 15400. Find his profit percentage.",
+            "question": "Un granjero compró una vaca por 14.000 rupias y la vendió por 15.400 rupias. Halle su porcentaje de beneficio.",
             "a": "10%",
             "b": "15%",
             "c": "20%",
@@ -405,10 +405,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Profit = 15400 - 14000 = 1400! !Profit percentage = (1400/14000)*100 = 10%"
+            "explain": "Beneficio = 15400 - 14000 = 1400. Porcentaje de beneficio = (1400/14000)*100 = 10%"
         },
         {
-            "question": "A salesman bought a pen for Rs. 100 and sold it for Rs. 110. What is his profit percent?",
+            "question": "Un vendedor compró un bolígrafo por 100 rupias y lo vendió por 110 rupias. ¿Cuál es su porcentaje de beneficio?",
             "a": "1%",
             "b": "5%",
             "c": "10%",
@@ -416,76 +416,76 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Profit = 110 - 100 = 10! !Profit percentage = (10/100)*100 = 10%"
+            "explain": "Beneficio = 110 - 100 = 10. Porcentaje de beneficio = (10/100)*100 = 10%"
         },
         {
-            "question": "A car was bought for $380000 four years ago and during these four year it price decreases by 12%. What is its value now?",
+            "question": "Se compró un coche por 380.000 $ hace cuatro años y durante estos cuatro años su precio ha disminuido un 12%. ¿Cuál es su valor ahora?",
             "a": "324400",
             "b": "334400",
             "c": "344400",
-            "d": "none",
+            "d": "ninguno",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "12% of 380000!(380000/100)*12 = 45600! !Price of the car = 380000 - 45600 = 334400"
+            "explain": "12% de 380000 = (380000/100)*12 = 45600. Precio del coche = 380000 - 45600 = 334400"
         },
         {
-            "question": "What will be the selling price of an article that was bought for $350 and sold at a loss of 14%?",
-            "a": "$301",
-            "b": "$311",
-            "c": "$289",
-            "d": "$291",
+            "question": "¿Cuál será el precio de venta de un artículo que se compró por 350 $ y se vendió con una pérdida del 14%?",
+            "a": "301 $",
+            "b": "311 $",
+            "c": "289 $",
+            "d": "291 $",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "14% of 350!(350*14)/100 = 49! !selling price of the article = 350 - 49 = 301"
+            "explain": "14% de 350 = (350*14)/100 = 49. Precio de venta del artículo = 350 - 49 = 301"
         },
         {
-            "question": "What will be the selling price of an article that was bought for $1150 and sold at profit of 6%?",
-            "a": "$1199",
-            "b": "$1209",
-            "c": "$1219",
-            "d": "$1229",
+            "question": "¿Cuál será el precio de venta de un artículo que se compró por 1150 $ y se vendió con un beneficio del 6%?",
+            "a": "1199 $",
+            "b": "1209 $",
+            "c": "1219 $",
+            "d": "1229 $",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "6% of 1150!= (1150*6)/100 = 69! !Selling price = 1150+69 = 1219"
+            "explain": "6% de 1150 = (1150*6)/100 = 69. Precio de venta = 1150+69 = 1219"
         },
         {
-            "question": "An article was bought for $300 and sold at a loss of 8%. What is the selling price of the article?",
-            "a": "$312",
-            "b": "$280",
-            "c": "$276",
-            "d": "$332",
+            "question": "Se compró un artículo por 300 $ y se vendió con una pérdida del 8%. ¿Cuál es el precio de venta del artículo?",
+            "a": "312 $",
+            "b": "280 $",
+            "c": "276 $",
+            "d": "332 $",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "8% of 300!= (300*8)/100 = 24! !Selling price = 300-24 = 276"
+            "explain": "8% de 300 = (300*8)/100 = 24. Precio de venta = 300-24 = 276"
         },
         {
-            "question": "What will be the selling price of an article that was bought for $475 and sold at a loss of 12%?",
-            "a": "$409",
-            "b": "$418",
-            "c": "$429",
-            "d": "$438",
+            "question": "¿Cuál será el precio de venta de un artículo que se compró por 475 $ y se vendió con una pérdida del 12%?",
+            "a": "409 $",
+            "b": "418 $",
+            "c": "429 $",
+            "d": "438 $",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "12% of 475!=(475*12)/100 = 57! !Selling price = 475-57 = 418"
+            "explain": "12% de 475 = (475*12)/100 = 57. Precio de venta = 475-57 = 418"
         },
         {
-            "question": "A shopkeeper bought an article for $120 and sold at profit of 10%. What is selling price of the article?",
+            "question": "Un tendero compró un artículo por 120 $ y lo vendió con un beneficio del 10%. ¿Cuál es el precio de venta del artículo?",
             "a": "130",
             "b": "132",
             "c": "140",
-            "d": "none",
+            "d": "ninguno",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "10% of 120!= (120*10)/100 = 12! !Selling price = 120+12 = 132"
+            "explain": "10% de 120 = (120*10)/100 = 12. Precio de venta = 120+12 = 132"
         },
         {
-            "question": "By selling an article for $200 shopkeeper looses 20%. What is cost price of the article?",
+            "question": "Al vender un artículo por 200 $, el tendero pierde un 20%. ¿Cuál es el precio de costo del artículo?",
             "a": "220",
             "b": "225",
             "c": "230",
@@ -493,21 +493,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the article is x.! !20% of x = (x*20)/100 = x/5! !Now!(x/5) + 200 = x!x+1000 = 5x!4x = 1000!x = 250! !Hence cost price of the article is 250."
+            "explain": "Sea x el precio de costo del artículo. 20% de x = (x*20)/100 = x/5. Ahora, (x/5) + 200 = x. x+1000 = 5x. 4x = 1000. x = 250. Por lo tanto, el precio de costo del artículo es 250."
         },
         {
-            "question": "An article was sold at a loss of 15% for $476. What is the cost price of the article?",
-            "a": "$520",
-            "b": "$540",
-            "c": "$560",
-            "d": "$580",
+            "question": "Se vendió un artículo con una pérdida del 15% por 476 $. ¿Cuál es el precio de costo del artículo?",
+            "a": "520 $",
+            "b": "540 $",
+            "c": "560 $",
+            "d": "580 $",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the article is x.!15% of x = (15x)/100 = 3x/20! !Now!(3x/20) + 476 = x!3x+9520 = 20x!9520 = 17x!x = 560! !Hence cost price of the article is $560."
+            "explain": "Sea x el precio de costo del artículo. 15% de x = (15x)/100 = 3x/20. Ahora, (3x/20) + 476 = x. 3x+9520 = 20x. 9520 = 17x. x = 560. Por lo tanto, el precio de costo del artículo es de 560 $."
         },
         {
-            "question": "Ali sold a house at a loss of 15% for Rs. 382500. What was the cost price of the house?",
+            "question": "Ali vendió una casa con una pérdida del 15% por 382.500 rupias. ¿Cuál era el precio de costo de la casa?",
             "a": "420000",
             "b": "430000",
             "c": "440000",
@@ -515,54 +515,54 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the house is x.!15% of x = 15x/100 = 3x/20! !Now!(3x/20)+382500 = x!3x + 7650000 = 20x!7650000 = 17x!x = 450000!Hence cost price of the house is Rs. 450000"
+            "explain": "Sea x el precio de costo de la casa. 15% de x = 15x/100 = 3x/20. Ahora, (3x/20)+382500 = x. 3x + 7650000 = 20x. 7650000 = 17x. x = 450000. Por lo tanto, el precio de costo de la casa es de 450.000 rupias."
         },
         {
-            "question": "By selling a Television for $572 Adam lost 12%. What was the cost price of the television?",
-            "a": "$575",
-            "b": "$600",
-            "c": "$625",
-            "d": "$650",
+            "question": "Al vender un televisor por 572 $, Adam perdió un 12%. ¿Cuál era el precio de costo del televisor?",
+            "a": "575 $",
+            "b": "600 $",
+            "c": "625 $",
+            "d": "650 $",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the television is x.!12% of x = 12x/100 = 3x/25! !Now!(3x/25)+572 = x!3x + 14300 = 25x!14300 = 22x!x = 650! !Hence cost price of the television is $650."
+            "explain": "Sea x el precio de costo del televisor. 12% de x = 12x/100 = 3x/25. Ahora, (3x/25)+572 = x. 3x + 14300 = 25x. 14300 = 22x. x = 650. Por lo tanto, el precio de costo del televisor es de 650 $."
         },
         {
-            "question": "John sold a house for $494500 at a profit of 15%. How much did he pay for it?",
-            "a": "$420000",
-            "b": "$425000",
-            "c": "$430000",
-            "d": "$435000",
+            "question": "John vendió una casa por 494.500 $ con un beneficio del 15%. ¿Cuánto pagó por ella?",
+            "a": "420.000 $",
+            "b": "425.000 $",
+            "c": "430.000 $",
+            "d": "435.000 $",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the house is x.!15% of x = 15x/100 = 3x/20! !Now!494500 - (3x/20) = x!9890000 -3x = 20x!9890000 = 23x!x = 430000! !Hence cost price of the house is $430000."
+            "explain": "Sea x el precio de costo de la casa. 15% de x = 15x/100 = 3x/20. Ahora, 494500 - (3x/20) = x. 9890000 -3x = 20x. 9890000 = 23x. x = 430000. Por lo tanto, el precio de costo de la casa es de 430.000 $."
         },
         {
-            "question": "An estate agent sold a property at a profit of 10% for $825000. What was cost price of the property?",
-            "a": "$700000",
-            "b": "$725000",
-            "c": "$750000",
-            "d": "$775000",
+            "question": "Un agente inmobiliario vendió una propiedad con un beneficio del 10% por 825.000 $. ¿Cuál era el precio de costo de la propiedad?",
+            "a": "700.000 $",
+            "b": "725.000 $",
+            "c": "750.000 $",
+            "d": "775.000 $",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the property is x.!10% of x = 10x/100 = x/10! !Now!825000 - (x/10) = x!8250000 - x = 10x!8250000 = 11x!x = 750000! !Hence cost price of the property is $750000."
+            "explain": "Sea x el precio de costo de la propiedad. 10% de x = 10x/100 = x/10. Ahora, 825000 - (x/10) = x. 8250000 - x = 10x. 8250000 = 11x. x = 750000. Por lo tanto, el precio de costo de la propiedad es de 750.000 $."
         },
         {
-            "question": "By selling an article for $84 shopkeeper earns 12% profit. What was cost price of the article?",
-            "a": "$70",
-            "b": "$72",
-            "c": "$75",
-            "d": "$80",
+            "question": "Al vender un artículo por 84 $, el tendero obtiene un beneficio del 12%. ¿Cuál era el precio de costo del artículo?",
+            "a": "70 $",
+            "b": "72 $",
+            "c": "75 $",
+            "d": "80 $",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the article is x.!12% of x = 12x/100 = 3x/25! !Now!84 - (3x/25) = x!2100 - 3x = 25x!2100 = 28x!x = 75! !Hence cost price of the article is $75."
+            "explain": "Sea x el precio de costo del artículo. 12% de x = 12x/100 = 3x/25. Ahora, 84 - (3x/25) = x. 2100 - 3x = 25x. 2100 = 28x. x = 75. Por lo tanto, el precio de costo del artículo es de 75 $."
         },
         {
-            "question": "With an increase of 12% salary of Ali became Rs13440. What was his salary before increase?",
+            "question": "Con un aumento del 12%, el salario de Ali se convirtió en 13.440 rupias. ¿Cuál era su salario antes del aumento?",
             "a": "10000",
             "b": "11000",
             "c": "12000",
@@ -570,21 +570,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let before increase Ali's salary was x.!12% of x = 12x/100 = 3x/25! !Now!13440 - 3x/25 = x!336000 - 3x = 25x!336000 = 28x!x = 12000! !Hence Ali's salary before increase was Rs. 12000"
+            "explain": "Sea x el salario de Ali antes del aumento. 12% de x = 12x/100 = 3x/25. Ahora, 13440 - 3x/25 = x. 336000 - 3x = 25x. 336000 = 28x. x = 12000. Por lo tanto, el salario de Ali antes del aumento era de 12.000 rupias."
         },
         {
-            "question": "Cost price of a camera was $430 and it was sold at profit of 16%. What is its selling price?",
-            "a": "$498.8",
-            "b": "$508",
-            "c": "$508.8",
-            "d": "$520",
+            "question": "El precio de costo de una cámara era de 430 $ y se vendió con un beneficio del 16%. ¿Cuál es su precio de venta?",
+            "a": "498,8 $",
+            "b": "508 $",
+            "c": "508,8 $",
+            "d": "520 $",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "16% of 430 = (430*16)/100 = 68.8! !Selling price = 430 + 68.8 = 498.8"
+            "explain": "16% de 430 = (430*16)/100 = 68,8. Precio de venta = 430 + 68,8 = 498,8"
         },
         {
-            "question": "By selling a car for Rs. 495000 an agent gains 10%. What was his cost?",
+            "question": "Al vender un coche por 495.000 rupias, un agente gana un 10%. ¿Cuál era su costo?",
             "a": "425000",
             "b": "450000",
             "c": "465000",
@@ -592,21 +592,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let cost price of the car is x.!10% of x = 10x/100 = x/10! !Now!495000 - (x/10) = x!4950000 - x = 10x!4950000 = 11x!x = 450000"
+            "explain": "Sea x el precio de costo del coche. 10% de x = 10x/100 = x/10. Ahora, 495000 - (x/10) = x. 4950000 - x = 10x. 4950000 = 11x. x = 450000"
         },
         {
-            "question": "Price of a fuel increased by 10% during budget. If its price before budget was Rs. 55 per liter what is its price after the budget?",
-            "a": "Rs. 60",
-            "b": "Rs. 60.5",
-            "c": "Rs. 61",
-            "d": "Rs. 61.5",
+            "question": "El precio de un combustible aumentó un 10% durante el presupuesto. Si su precio antes del presupuesto era de 55 rupias por litro, ¿cuál es su precio después del presupuesto?",
+            "a": "60 rupias",
+            "b": "60,5 rupias",
+            "c": "61 rupias",
+            "d": "61,5 rupias",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "10% of 55 = (55*10)/100 = 5.5! !Price of fuel after butget = 55+5.5 = 60.5"
+            "explain": "10% de 55 = (55*10)/100 = 5,5. Precio del combustible después del presupuesto = 55+5,5 = 60,5"
         },
         {
-            "question": "In a fort there is enough food sufficient for 1200 men for 10 days. How long the food would have last for if there would have been 1000 men.",
+            "question": "En un fuerte hay suficiente comida para 1200 hombres durante 10 días. ¿Cuánto tiempo duraría la comida si hubiera 1000 hombres?",
             "a": "15",
             "b": "12",
             "c": "10",
@@ -614,10 +614,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let food will last for x days.!As men and days are inversely proportional to each other so!x/10 = 1200/1000!x = 12! !Hence food will last for 12 days if there were 1000 men."
+            "explain": "Sea que la comida durará x días. Como los hombres y los días son inversamente proporcionales entre sí, entonces x/10 = 1200/1000. x = 12. Por lo tanto, la comida durará 12 días si hubiera 1000 hombres."
         },
         {
-            "question": "In a ship the provisions  are sufficient for 800 men for 50 days. How long will these be sufficient for if there would have been 200 more men?",
+            "question": "En un barco, las provisiones son suficientes para 800 hombres durante 50 días. ¿Cuánto tiempo serán suficientes si hubiera 200 hombres más?",
             "a": "40",
             "b": "50",
             "c": "30",
@@ -625,10 +625,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let provisions will be sufficient for 200 men for x days.!As men and days are inversely proportional to each other so!x/50 = 800/1000!x = 40! !Hence provisions will be sufficient for 200 men for 40 days."
+            "explain": "Sea que las provisiones serán suficientes para 200 hombres durante x días. Como los hombres y los días son inversamente proporcionales entre sí, entonces x/50 = 800/1000. x = 40. Por lo tanto, las provisiones serán suficientes para 200 hombres durante 40 días."
         },
         {
-            "question": "A group of workers can do a piece of work in 24 days. However as 7 of them were absent it took 30 days to complete the work. How many people actually worked on the job to complete it?",
+            "question": "Un grupo de trabajadores puede hacer un trabajo en 24 días. Sin embargo, como 7 de ellos estaban ausentes, se tardó 30 días en completar el trabajo. ¿Cuántas personas trabajaron realmente en el trabajo para completarlo?",
             "a": "35",
             "b": "30",
             "c": "28",
@@ -636,10 +636,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let x workers are required to complete the job.!As workers and days are inversely proportional to each other so!(x-7)/x = 24/30!30x - 210 = 24x!6x = 210!x = 35! !Hence 35 workers are required to complete the job in time."
+            "explain": "Sea que se requieren x trabajadores para completar el trabajo. Como los trabajadores y los días son inversamente proporcionales entre sí, entonces (x-7)/x = 24/30. 30x - 210 = 24x. 6x = 210. x = 35. Por lo tanto, se requieren 35 trabajadores para completar el trabajo a tiempo."
         },
         {
-            "question": "25 tailors can make 35 dresses in 1 day. How many dresses can 6 tailors make in 5 days?",
+            "question": "25 sastres pueden hacer 35 vestidos en 1 día. ¿Cuántos vestidos pueden hacer 6 sastres en 5 días?",
             "a": "35",
             "b": "42",
             "c": "30",
@@ -647,10 +647,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let x dresses can be made.!As dresses are directly proportional to tailors and days so!x/35 = (6/25)*(5/1)!x = 42! !Hence 42 dresses can be made by 6 tailors in 5 days."
+            "explain": "Sea que se pueden hacer x vestidos. Como los vestidos son directamente proporcionales a los sastres y los días, entonces x/35 = (6/25)*(5/1). x = 42. Por lo tanto, 6 sastres pueden hacer 42 vestidos en 5 días."
         },
         {
-            "question": "9 excavators working 10 hours a day remove 2500 cubic feet of earth in 3 days. How many excavators working 6 hours a day are required to remove 5000 cubic feet of earth in 2 days?",
+            "question": "9 excavadoras que trabajan 10 horas al día remueven 2500 pies cúbicos de tierra en 3 días. ¿Cuántas excavadoras que trabajan 6 horas al día se requieren para remover 5000 pies cúbicos de tierra en 2 días?",
             "a": "55",
             "b": "50",
             "c": "45",
@@ -658,7 +658,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let x excavators are required.!As excavators are inversely proportional to hours and days and directly proportional to work progress so!x/9 = (10/6)*(5000/2500)*(3/2)!x = 45! !Hence 45 excavators are required to remove 5000 cubic feet of earth."
+            "explain": "Sea que se requieren x excavadoras. Como las excavadoras son inversamente proporcionales a las horas y los días y directamente proporcionales al progreso del trabajo, entonces x/9 = (10/6)*(5000/2500)*(3/2). x = 45. Por lo tanto, se requieren 45 excavadoras para remover 5000 pies cúbicos de tierra."
         }
     ]
 }

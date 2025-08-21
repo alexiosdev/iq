@@ -1,62 +1,62 @@
 {
     "data": [
         {
-            "question": "The reflex angle between the hands of a clock at 10:25 is",
-            "a": "180 degree",
-            "b": "192.5 degree",
-            "c": "197.5 degree",
-            "d": "195 degree",
+            "question": "Η αντανακλαστική γωνία μεταξύ των δεικτών ενός ρολογιού στις 10:25 είναι",
+            "a": "180 μοίρες",
+            "b": "192,5 μοίρες",
+            "c": "197,5 μοίρες",
+            "d": "195 μοίρες",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 125/12 hrs = (360/12 * 125/12) = 625/2 degree! !Angle traced by minute hand in 25 min = (360/60 * 25) = 150 degree! !So, Reflex angle = 360 - (625/2 - 150) = 197.5 degree"
+            "explain": "Γωνία που διαγράφεται από τον ωροδείκτη σε 125/12 ώρες = (360/12 * 125/12) = 625/2 μοίρες! !Γωνία που διαγράφεται από τον λεπτοδείκτη σε 25 λεπτά = (360/60 * 25) = 150 μοίρες! !Έτσι, η αντανακλαστική γωνία = 360 - (625/2 - 150) = 197,5 μοίρες"
         },
         {
-            "question": "On 8th Dec, 2007 Saturday falls.What day of the week was it on 8th Dec, 2006?",
-            "a": "Sunday",
-            "b": "Thursday",
-            "c": "Tuesday",
-            "d": "Friday",
+            "question": "Στις 8 Δεκεμβρίου 2007 έπεφτε Σάββατο. Τι μέρα της εβδομάδας ήταν στις 8 Δεκεμβρίου 2006;",
+            "a": "Κυριακή",
+            "b": "Πέμπτη",
+            "c": "Τρίτη",
+            "d": "Παρασκευή",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2006 is an ordinary year. So, it has 1 odd day.! !So, the day on 8th Dec, 2007 will be 1 day beyond the day on 8th Dec, 2006.! !But, 8th Dec, 2007 is Saturday.! !Hence, 8th Dec, 2006 is Friday."
+            "explain": "Το έτος 2006 είναι ένα κοινό έτος. Έτσι, έχει 1 περιττή ημέρα.! !Έτσι, η ημέρα στις 8 Δεκεμβρίου 2007 θα είναι 1 ημέρα μετά την ημέρα στις 8 Δεκεμβρίου 2006.! !Αλλά, η 8η Δεκεμβρίου 2007 είναι Σάββατο.! !Ως εκ τούτου, η 8η Δεκεμβρίου 2006 είναι Παρασκευή."
         },
         {
-            "question": "January 1, 2008 is Tuesday.What day of the week lies on Jan 1, 2009?",
-            "a": "Monday",
-            "b": "Wednesday",
-            "c": "Thursday",
-            "d": "Sunday",
+            "question": "Η 1η Ιανουαρίου 2008 είναι Τρίτη. Τι μέρα της εβδομάδας είναι η 1η Ιανουαρίου 2009;",
+            "a": "Δευτέρα",
+            "b": "Τετάρτη",
+            "c": "Πέμπτη",
+            "d": "Κυριακή",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2008 is a leap year. So, it has 2 odd days.! !1st day of the year 2008 is Tuesday (Given)! !So, 1st day of the year 2009 is 2 days beyond Tuesday.! !Hence, it will be Thursday."
+            "explain": "Το έτος 2008 είναι δίσεκτο. Έτσι, έχει 2 περιττές ημέρες.! !Η 1η ημέρα του έτους 2008 είναι Τρίτη (Δεδομένο)! !Έτσι, η 1η ημέρα του έτους 2009 είναι 2 ημέρες μετά την Τρίτη.! !Ως εκ τούτου, θα είναι Πέμπτη."
         },
         {
-            "question": "At what angle the hands of a clock are inclined at 15 minutes past 5?",
-            "a": "58.5 degree",
-            "b": "64 degree",
-            "c": "67.5 degree",
-            "d": "72.5 degree",
+            "question": "Σε ποια γωνία είναι οι δείκτες ενός ρολογιού στις 5 και 15;",
+            "a": "58,5 μοίρες",
+            "b": "64 μοίρες",
+            "c": "67,5 μοίρες",
+            "d": "72,5 μοίρες",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 21/4 hrs = (360/12 * 21/4) = 157.5 degree! !Angle traced by minute hand in 15 min = (360/60 * 15) = 90 degree! !So, required angle = (157.5 - 90) = 67.5 degree"
+            "explain": "Γωνία που διαγράφεται από τον ωροδείκτη σε 21/4 ώρες = (360/12 * 21/4) = 157,5 μοίρες! !Γωνία που διαγράφεται από τον λεπτοδείκτη σε 15 λεπτά = (360/60 * 15) = 90 μοίρες! !Έτσι, η απαιτούμενη γωνία = (157,5 - 90) = 67,5 μοίρες"
         },
         {
-            "question": "At 3:40, the hour hand and the minute hand of a clock form an angle of ...",
-            "a": "120 degree",
-            "b": "125 degree",
-            "c": "130 degree",
-            "d": "135 degree",
+            "question": "Στις 3:40, ο ωροδείκτης και ο λεπτοδείκτης ενός ρολογιού σχηματίζουν μια γωνία ...",
+            "a": "120 μοιρών",
+            "b": "125 μοιρών",
+            "c": "130 μοιρών",
+            "d": "135 μοιρών",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 12 hrs = 360 degree! !Angle traced by it in 11/3 hrs = (360/12 * 11/3) = 110 degree! !Angle traced by minute hand in 60 min. = 360 degree! !Angle traced by it in 40 min = (360/60 * 40) = 240 degree! ! So, Required angle (240 - 110) = 130 degree"
+            "explain": "Γωνία που διαγράφεται από τον ωροδείκτη σε 12 ώρες = 360 μοίρες! !Γωνία που διαγράφεται από αυτόν σε 11/3 ώρες = (360/12 * 11/3) = 110 μοίρες! !Γωνία που διαγράφεται από τον λεπτοδείκτη σε 60 λεπτά = 360 μοίρες! !Γωνία που διαγράφεται από αυτόν σε 40 λεπτά = (360/60 * 40) = 240 μοίρες! !Έτσι, η απαιτούμενη γωνία (240 - 110) = 130 μοίρες"
         },
         {
-            "question": "How many times are the hands of a clock at right angle in a day?",
+            "question": "Πόσες φορές οι δείκτες ενός ρολογιού βρίσκονται σε ορθή γωνία σε μια μέρα;",
             "a": "22",
             "b": "24",
             "c": "44",
@@ -64,21 +64,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In 12 hours, they are at right angles 22 times! !So, In 24 hours, they are at right angles 44 times."
+            "explain": "Σε 12 ώρες, βρίσκονται σε ορθή γωνία 22 φορές! !Έτσι, σε 24 ώρες, βρίσκονται σε ορθή γωνία 44 φορές."
         },
         {
-            "question": "The angle between the minute hand and the hour hand of a clock when the time is 8:30, is ?",
-            "a": "80 degree",
-            "b": "75 degree",
-            "c": "60 degree",
-            "d": "105 degree",
+            "question": "Η γωνία μεταξύ του λεπτοδείκτη και του ωροδείκτη ενός ρολογιού όταν η ώρα είναι 8:30, είναι;",
+            "a": "80 μοίρες",
+            "b": "75 μοίρες",
+            "c": "60 μοίρες",
+            "d": "105 μοίρες",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 17/2 hrs = (360/12 * 17/2) = 255 degree! !Angle traced by minute hand in 30 min = (360/60 * 30) = 180 degree! !So, Required angle = (255 - 180) = 75 degree"
+            "explain": "Γωνία που διαγράφεται από τον ωροδείκτη σε 17/2 ώρες = (360/12 * 17/2) = 255 μοίρες! !Γωνία που διαγράφεται από τον λεπτοδείκτη σε 30 λεπτά = (360/60 * 30) = 180 μοίρες! !Έτσι, η απαιτούμενη γωνία = (255 - 180) = 75 μοίρες"
         },
         {
-            "question": "How many times in a day, are the hands of a clock in straight line but opposite in direction?",
+            "question": "Πόσες φορές την ημέρα, οι δείκτες ενός ρολογιού βρίσκονται σε ευθεία γραμμή αλλά σε αντίθετη κατεύθυνση;",
             "a": "24",
             "b": "4",
             "c": "22",
@@ -86,10 +86,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The hands of a clock point in opposite directions (in the same straight line) 11 times in every 12 hours. (Because between 5 and 7 they point in opposite directions at 6 o'clcok only).! !So, in a day, the hands point in the opposite directions 22 times."
+            "explain": "Οι δείκτες ενός ρολογιού δείχνουν σε αντίθετες κατευθύνσεις (στην ίδια ευθεία γραμμή) 11 φορές κάθε 12 ώρες. (Επειδή μεταξύ 5 και 7 δείχνουν σε αντίθετες κατευθύνσεις μόνο στις 6 η ώρα).! !Έτσι, σε μια μέρα, οι δείκτες δείχνουν σε αντίθετες κατευθύνσεις 22 φορές."
         },
         {
-            "question": "Which of the following is not a leap year?",
+            "question": "Ποιο από τα παρακάτω δεν είναι δίσεκτο έτος;",
             "a": "700",
             "b": "800",
             "c": "1200",
@@ -97,10 +97,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The century divisible by 400 is a leap year.! !So, The year 700 is not a leap year."
+            "explain": "Ο αιώνας που διαιρείται με το 400 είναι δίσεκτο έτος.! !Έτσι, το έτος 700 δεν είναι δίσεκτο έτος."
         },
         {
-            "question": "How many times in a day, the hands of a clock are straight?",
+            "question": "Πόσες φορές την ημέρα, οι δείκτες ενός ρολογιού είναι ευθείες;",
             "a": "22",
             "b": "24",
             "c": "44",
@@ -108,98 +108,98 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In 12 hours, the hands coincide or are in opposite direction 22 times.! !So,  In 24 hours, the hands coincide or are in opposite direction 44 times a day."
+            "explain": "Σε 12 ώρες, οι δείκτες συμπίπτουν ή βρίσκονται σε αντίθετη κατεύθυνση 22 φορές.! !Έτσι, σε 24 ώρες, οι δείκτες συμπίπτουν ή βρίσκονται σε αντίθετη κατεύθυνση 44 φορές την ημέρα."
         },
         {
-            "question": "It was Sunday on Jan 1, 2006.What was the day of the week Jan 1, 2010?",
-            "a": "Sunday",
-            "b": "Saturday",
-            "c": "Friday",
-            "d": "Wednesday",
+            "question": "Ήταν Κυριακή την 1η Ιανουαρίου 2006. Τι μέρα της εβδομάδας ήταν η 1η Ιανουαρίου 2010;",
+            "a": "Κυριακή",
+            "b": "Σάββατο",
+            "c": "Παρασκευή",
+            "d": "Τετάρτη",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "On 31st December, 2005 it was Saturday.!Number of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.! !So, On 31st December 2009, it was Thursday.! !Thus, on 1st Jan, 2010 it is Friday."
+            "explain": "Στις 31 Δεκεμβρίου 2005 ήταν Σάββατο.!Αριθμός περιττών ημερών από το έτος 2006 έως το έτος 2009 = (1 + 1 + 2 + 1) = 5 ημέρες.! !Έτσι, στις 31 Δεκεμβρίου 2009, ήταν Πέμπτη.! !Έτσι, την 1η Ιανουαρίου 2010 είναι Παρασκευή."
         },
         {
-            "question": "What was the day of the week on 28th May, 2006?",
-            "a": "Thursday",
-            "b": "Friday",
-            "c": "Saturday",
-            "d": "Sunday",
+            "question": "Ποια ήταν η ημέρα της εβδομάδας στις 28 Μαΐου 2006;",
+            "a": "Πέμπτη",
+            "b": "Παρασκευή",
+            "c": "Σάββατο",
+            "d": "Κυριακή",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "28 May, 2006 = (2005 years + Period from 1.1.2006 to 28.5.2006)! !Odd days in 1600 years = 0! !Odd days in 400 years = 0! !5 years = (4 ordinary years + 1 leap year) = (4 x 1 + 1 x 2) = 6 odd days! !From January to 28 May (31 +  28  +  31   +   30   +   28 ) = 148 days! !So, 148 days = (21 weeks + 1 day) = 1 odd day.! !Total number of odd days = (0 + 0 + 6 + 1) = 7 = 0 odd day.! !Hence Given day is Sunday"
+            "explain": "28 Μαΐου 2006 = (2005 έτη + Περίοδος από 1.1.2006 έως 28.5.2006)! !Περιττές ημέρες σε 1600 έτη = 0! !Περιττές ημέρες σε 400 έτη = 0! !5 έτη = (4 κοινά έτη + 1 δίσεκτο έτος) = (4 x 1 + 1 x 2) = 6 περιττές ημέρες! !Από Ιανουάριο έως 28 Μαΐου (31 + 28 + 31 + 30 + 28) = 148 ημέρες! !Έτσι, 148 ημέρες = (21 εβδομάδες + 1 ημέρα) = 1 περιττή ημέρα.! !Συνολικός αριθμός περιττών ημερών = (0 + 0 + 6 + 1) = 7 = 0 περιττή ημέρα.! !Ως εκ τούτου, η δεδομένη ημέρα είναι Κυριακή"
         },
         {
-            "question": "What was the day of the week on 17th June, 1998?",
-            "a": "Monday",
-            "b": "Tuesday",
-            "c": "Wednesday",
-            "d": "Thursday",
+            "question": "Ποια ήταν η ημέρα της εβδομάδας στις 17 Ιουνίου 1998;",
+            "a": "Δευτέρα",
+            "b": "Τρίτη",
+            "c": "Τετάρτη",
+            "d": "Πέμπτη",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "17th June, 1998 = (1997 years + Period from 1.1.1998 to 17.6.1998)! !Odd days in 1600 years = 0! !Odd days in 300 years = (5 x 3) = 1! !97 years has 24 leap years + 73 ordinary years.! !Number of odd days in 97 years ( 24 x 2 + 73) = 121 = 2 odd days.! !From January to 17 June (31 +  28  +  31   +   30   +   31   +   17) = 168 days! !168 days = 24 weeks = 0 odd day.! !Total number of odd days = (0 + 1 + 2 + 0) = 3.! !Hence Given day is Wednesday."
+            "explain": "17 Ιουνίου 1998 = (1997 έτη + Περίοδος από 1.1.1998 έως 17.6.1998)! !Περιττές ημέρες σε 1600 έτη = 0! !Περιττές ημέρες σε 300 έτη = (5 x 3) = 1! !97 έτη έχουν 24 δίσεκτα έτη + 73 κοινά έτη.! !Αριθμός περιττών ημερών σε 97 έτη (24 x 2 + 73) = 121 = 2 περιττές ημέρες.! !Από Ιανουάριο έως 17 Ιουνίου (31 + 28 + 31 + 30 + 31 + 17) = 168 ημέρες! !168 ημέρες = 24 εβδομάδες = 0 περιττή ημέρα.! !Συνολικός αριθμός περιττών ημερών = (0 + 1 + 2 + 0) = 3.! !Ως εκ τούτου, η δεδομένη ημέρα είναι Τετάρτη."
         },
         {
-            "question": "What will be the day of the week 15th August, 2010?",
-            "a": "Sunday",
-            "b": "Monday",
-            "c": "Tuesday",
-            "d": "Friday",
+            "question": "Ποια θα είναι η ημέρα της εβδομάδας στις 15 Αυγούστου 2010;",
+            "a": "Κυριακή",
+            "b": "Δευτέρα",
+            "c": "Τρίτη",
+            "d": "Παρασκευή",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "15th August, 2010 = (2009 years + Period 1.1.2010 to 15.8.2010)! !Odd days in 1600 years = 0! !Odd days in 400 years = 0! !9 years = (2 leap years + 7 ordinary years) = (2 x 2 + 7 x 1) = 11 odd days = 4 odd days.! !From January to 15 August (31 +  28  +  31   +   30   +  31  + 30  + 31  + 15) = 227 days! !227 days = (32 weeks + 3 days) = 3 odd days.! !Total number of odd days = (0 + 0 + 4 + 3) = 7.! !Hence, Given day is Sunday."
+            "explain": "15 Αυγούστου 2010 = (2009 έτη + Περίοδος 1.1.2010 έως 15.8.2010)! !Περιττές ημέρες σε 1600 έτη = 0! !Περιττές ημέρες σε 400 έτη = 0! !9 έτη = (2 δίσεκτα έτη + 7 κοινά έτη) = (2 x 2 + 7 x 1) = 11 περιττές ημέρες = 4 περιττές ημέρες.! !Από Ιανουάριο έως 15 Αυγούστου (31 + 28 + 31 + 30 + 31 + 30 + 31 + 15) = 227 ημέρες! !227 ημέρες = (32 εβδομάδες + 3 ημέρες) = 3 περιττές ημέρες.! !Συνολικός αριθμός περιττών ημερών = (0 + 0 + 4 + 3) = 7.! !Ως εκ τούτου, η δεδομένη ημέρα είναι Κυριακή."
         },
         {
-            "question": "Today is Monday.After 61 days, it will be ...",
-            "a": "Wednesday",
-            "b": "Saturday",
-            "c": "Tuesday",
-            "d": "Thursday",
+            "question": "Σήμερα είναι Δευτέρα. Μετά από 61 ημέρες, θα είναι ...",
+            "a": "Τετάρτη",
+            "b": "Σάββατο",
+            "c": "Τρίτη",
+            "d": "Πέμπτη",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each day of the week is repeated after 7 days.! !So, after 63 days, it will be Monday.! !Hence After 61 days, it will be Saturday."
+            "explain": "Κάθε μέρα της εβδομάδας επαναλαμβάνεται μετά από 7 ημέρες.! !Έτσι, μετά από 63 ημέρες, θα είναι Δευτέρα.! !Ως εκ τούτου, μετά από 61 ημέρες, θα είναι Σάββατο."
         },
         {
-            "question": "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
-            "a": "Sunday",
-            "b": "Saturday",
-            "c": "Tuesday",
-            "d": "Wednesday",
+            "question": "Αν η 6η Μαρτίου 2005 είναι Δευτέρα, ποια ήταν η ημέρα της εβδομάδας στις 6 Μαρτίου 2004;",
+            "a": "Κυριακή",
+            "b": "Σάββατο",
+            "c": "Τρίτη",
+            "d": "Τετάρτη",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2004 is a leap year. So, it has 2 odd days.! !But, Feb 2004 not included because we are calculating from March 2004 to March 2005. So it has 1 odd day only.! !So, the day on 6th March, 2005 will be 1 day beyond the day on 6th March, 2004.! !Given that, 6th March, 2005 is Monday.! !Hence 6th March, 2004 is Sunday."
+            "explain": "Το έτος 2004 είναι δίσεκτο. Έτσι, έχει 2 περιττές ημέρες.! !Αλλά, ο Φεβρουάριος του 2004 δεν περιλαμβάνεται επειδή υπολογίζουμε από τον Μάρτιο του 2004 έως τον Μάρτιο του 2005. Έτσι έχει μόνο 1 περιττή ημέρα.! !Έτσι, η ημέρα στις 6 Μαρτίου 2005 θα είναι 1 ημέρα μετά την ημέρα στις 6 Μαρτίου 2004.! !Δεδομένου ότι, η 6η Μαρτίου 2005 είναι Δευτέρα.! !Ως εκ τούτου, η 6η Μαρτίου 2004 είναι Κυριακή."
         },
         {
-            "question": "The last day of a century cannot be ...",
-            "a": "Monday",
-            "b": "Wednesday",
-            "c": "Tuesday",
-            "d": "Friday",
+            "question": "Η τελευταία ημέρα ενός αιώνα δεν μπορεί να είναι ...",
+            "a": "Δευτέρα",
+            "b": "Τετάρτη",
+            "c": "Τρίτη",
+            "d": "Παρασκευή",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "100 years contain 5 odd days.! !So, last day of 1st century is Friday.! !200 years contain (5 x 2) = 3 odd days.! !So, Last day of 2nd century is Wednesday.! !300 years contain (5 x 3) = 15 = 1 odd day.! !So, Last day of 3rd century is Monday.! !400 years contain 0 odd day.! !So, Last day of 4th century is Sunday.! !This cycle is repeated.!Hence Last day of a century cannot be Tuesday or Thursday or Saturday."
+            "explain": "100 χρόνια περιέχουν 5 περιττές ημέρες.! !Έτσι, η τελευταία ημέρα του 1ου αιώνα είναι Παρασκευή.! !200 χρόνια περιέχουν (5 x 2) = 3 περιττές ημέρες.! !Έτσι, η τελευταία ημέρα του 2ου αιώνα είναι Τετάρτη.! !300 χρόνια περιέχουν (5 x 3) = 15 = 1 περιττή ημέρα.! !Έτσι, η τελευταία ημέρα του 3ου αιώνα είναι Δευτέρα.! !400 χρόνια περιέχουν 0 περιττή ημέρα.! !Έτσι, η τελευταία ημέρα του 4ου αιώνα είναι Κυριακή.! !Αυτός ο κύκλος επαναλαμβάνεται.!Ως εκ τούτου, η τελευταία ημέρα ενός αιώνα δεν μπορεί να είναι Τρίτη ή Πέμπτη ή Σάββατο."
         },
         {
-            "question": "On 8th Feb, 2005 it was Tuesday.What was the day of the week on 8th Feb, 2004?",
-            "a": "Tuesday",
-            "b": "Monday",
-            "c": "Sunday",
-            "d": "Wednesday",
+            "question": "Στις 8 Φεβρουαρίου 2005 ήταν Τρίτη. Ποια ήταν η ημέρα της εβδομάδας στις 8 Φεβρουαρίου 2004;",
+            "a": "Τρίτη",
+            "b": "Δευτέρα",
+            "c": "Κυριακή",
+            "d": "Τετάρτη",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2004 is a leap year. It has 2 odd days.! !So, The day on 8th Feb, 2004 is 2 days before the day on 8th Feb, 2005.! !Hence, this day is Sunday."
+            "explain": "Το έτος 2004 είναι δίσεκτο. Έχει 2 περιττές ημέρες.! !Έτσι, η ημέρα στις 8 Φεβρουαρίου 2004 είναι 2 ημέρες πριν από την ημέρα στις 8 Φεβρουαρίου 2005.! !Ως εκ τούτου, αυτή η ημέρα είναι Κυριακή."
         },
         {
-            "question": "The calendar for the year 2007 will be the same for the year ...",
+            "question": "Το ημερολόγιο για το έτος 2007 θα είναι το ίδιο για το έτος ...",
             "a": "2014",
             "b": "2016",
             "c": "2017",
@@ -207,10 +207,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Count the number of odd days from the year 2007 onwards to get the sum equal to 0 odd day.! !Year 2007 has 1 odd day!2008 has 2 odd day!2009 has 1 odd day!2010 has 1 odd day!2011 has 1 odd day!2012 has 2 odd day!2013 has 1 odd day!2014 has 1 odd day!2015 has 1 odd day!2016 has 2 odd day!2017 has 1 odd day! !Sum = 14 odd days = 0 odd days.! !Hence, Calendar for the year 2018 will be the same as for the year 2007."
+            "explain": "Μετρήστε τον αριθμό των περιττών ημερών από το έτος 2007 και μετά για να πάρετε το άθροισμα ίσο με 0 περιττή ημέρα.! !Το έτος 2007 έχει 1 περιττή ημέρα!Το 2008 έχει 2 περιττές ημέρες!Το 2009 έχει 1 περιττή ημέρα!Το 2010 έχει 1 περιττή ημέρα!Το 2011 έχει 1 περιττή ημέρα!Το 2012 έχει 2 περιττές ημέρες!Το 2013 έχει 1 περιττή ημέρα!Το 2014 έχει 1 περιττή ημέρα!Το 2015 έχει 1 περιττή ημέρα!Το 2016 έχει 2 περιττές ημέρες!Το 2017 έχει 1 περιττή ημέρα! !Άθροισμα = 14 περιττές ημέρες = 0 περιττές ημέρες.! !Ως εκ τούτου, το ημερολόγιο για το έτος 2018 θα είναι το ίδιο με το έτος 2007."
         },
         {
-            "question": "How many times do the hands of a clock coincide in a day?",
+            "question": "Πόσες φορές συμπίπτουν οι δείκτες ενός ρολογιού σε μια μέρα;",
             "a": "20",
             "b": "21",
             "c": "22",
@@ -218,54 +218,54 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The hands of a clock coincide 11 times in every 12 hours (Since between 11 and 1, they coincide only once, i.e., at 12 o'clock).! !The hands overlap about every 65 minutes, not every 60 minutes. So, the hands coincide 22 times in a day."
+            "explain": "Οι δείκτες ενός ρολογιού συμπίπτουν 11 φορές κάθε 12 ώρες (αφού μεταξύ 11 και 1, συμπίπτουν μόνο μία φορά, δηλαδή στις 12 η ώρα).! !Οι δείκτες συμπίπτουν περίπου κάθε 65 λεπτά, όχι κάθε 60 λεπτά. Έτσι, οι δείκτες συμπίπτουν 22 φορές την ημέρα."
         },
         {
-            "question": "A clock is started at noon.By 10 minutes past 5, the hour hand has turned through ...",
-            "a": "145 degree",
-            "b": "150 degree",
-            "c": "155 degree",
-            "d": "160 degree",
+            "question": "Ένα ρολόι ξεκινά το μεσημέρι. Μέχρι τις 5 και 10 λεπτά, ο ωροδείκτης έχει γυρίσει κατά ...",
+            "a": "145 μοίρες",
+            "b": "150 μοίρες",
+            "c": "155 μοίρες",
+            "d": "160 μοίρες",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 12 hrs = 360 degree! !Angle traced by hour hand in 5 hrs 10 min. i.e.,! 31/6 hrs = (360/12 * 31/6) = 155 degree"
+            "explain": "Γωνία που διαγράφεται από τον ωροδείκτη σε 12 ώρες = 360 μοίρες! !Γωνία που διαγράφεται από τον ωροδείκτη σε 5 ώρες και 10 λεπτά, δηλαδή! 31/6 ώρες = (360/12 * 31/6) = 155 μοίρες"
         },
         {
-            "question": "The angle between the minute hand and the hour hand of a clock when the time is 4:20, is ?",
-            "a": "0 degree",
-            "b": "10 degree",
-            "c": "5 degree",
-            "d": "20 degree",
+            "question": "Η γωνία μεταξύ του λεπτοδείκτη και του ωροδείκτη ενός ρολογιού όταν η ώρα είναι 4:20, είναι;",
+            "a": "0 μοίρες",
+            "b": "10 μοίρες",
+            "c": "5 μοίρες",
+            "d": "20 μοίρες",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 13/3 hrs = (360/12 * 13/3) = 130 degree! !Angle traced by minute hand in 20 min = (360/60 * 20) = 120 degree! !So, required angle = 130 - 120 = 10 degree"
+            "explain": "Γωνία που διαγράφεται από τον ωροδείκτη σε 13/3 ώρες = (360/12 * 13/3) = 130 μοίρες! !Γωνία που διαγράφεται από τον λεπτοδείκτη σε 20 λεπτά = (360/60 * 20) = 120 μοίρες! !Έτσι, η απαιτούμενη γωνία = 130 - 120 = 10 μοίρες"
         },
         {
-            "question": "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
-            "a": "Monday",
-            "b": "Tuesday",
-            "c": "Wednesday",
-            "d": "Sunday",
+            "question": "Η 1η Ιανουαρίου 2007 ήταν Δευτέρα. Τι μέρα της εβδομάδας είναι η 1η Ιανουαρίου 2008;",
+            "a": "Δευτέρα",
+            "b": "Τρίτη",
+            "c": "Τετάρτη",
+            "d": "Κυριακή",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The year 2007 is an ordinary year. So, it has 1 odd day.! !1st day of the year 2007 was Monday.! !1st day of the year 2008 will be 1 day beyond Monday.! !Hence, it will be Tuesday."
+            "explain": "Το έτος 2007 είναι ένα κοινό έτος. Έτσι, έχει 1 περιττή ημέρα.! !Η 1η ημέρα του έτους 2007 ήταν Δευτέρα.! !Η 1η ημέρα του έτους 2008 θα είναι 1 ημέρα μετά τη Δευτέρα.! !Ως εκ τούτου, θα είναι Τρίτη."
         },
         {
-            "question": "A clock is started at noon. By 10 minutes past 5, the hour hand has turned through",
-            "a": "155 degree",
-            "b": "145 degree",
-            "c": "152 degree",
-            "d": "140 degree",
+            "question": "Ένα ρολόι ξεκινά το μεσημέρι. Μέχρι τις 5 και 10 λεπτά, ο ωροδείκτης έχει γυρίσει κατά",
+            "a": "155 μοίρες",
+            "b": "145 μοίρες",
+            "c": "152 μοίρες",
+            "d": "140 μοίρες",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by hour hand in 12 hrs = 360 degree! !Angle traced by hour hand in 5 hrs 10 min. i.e., 31/6 hrs = (360/12 * 31/6) = 155 degree"
+            "explain": "Γωνία που διαγράφεται από τον ωροδείκτη σε 12 ώρες = 360 μοίρες! !Γωνία που διαγράφεται από τον ωροδείκτη σε 5 ώρες και 10 λεπτά, δηλαδή 31/6 ώρες = (360/12 * 31/6) = 155 μοίρες"
         },
         {
-            "question": "By how many degrees does the minute hand move in the same time, in which the hour hand move by 280?",
+            "question": "Κατά πόσες μοίρες κινείται ο λεπτοδείκτης στον ίδιο χρόνο, στον οποίο ο ωροδείκτης κινείται κατά 280;",
             "a": "168",
             "b": "336",
             "c": "196",
@@ -273,10 +273,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "28 * 2 * 6 = 336 degree"
+            "explain": "28 * 2 * 6 = 336 μοίρες"
         },
         {
-            "question": "How many degrees will the minute hand move, in the same time in which the second hand move 4800",
+            "question": "Πόσες μοίρες θα κινηθεί ο λεπτοδείκτης, στον ίδιο χρόνο που ο δευτερολεπτοδείκτης θα κινηθεί 4800",
             "a": "60",
             "b": "90",
             "c": "40",
@@ -284,10 +284,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Minute hand covers 480/60= 80"
+            "explain": "Ο λεπτοδείκτης καλύπτει 480/60= 80"
         },
         {
-            "question": "How many years have 29 days in February from 2001 to 2100.",
+            "question": "Πόσα χρόνια έχουν 29 ημέρες τον Φεβρουάριο από το 2001 έως το 2100.",
             "a": "26",
             "b": "25",
             "c": "23",
@@ -295,21 +295,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "100th year is not a leap year.!So 24 February's has 29 days."
+            "explain": "Το 100ο έτος δεν είναι δίσεκτο έτος.!Έτσι, 24 Φεβρουάριοι έχουν 29 ημέρες."
         },
         {
-            "question": "2012 January 1st is Sunday,then which day is the Indian Independence day of the same year.",
-            "a": "Saturday",
-            "b": "Wednesday",
-            "c": "Thursday",
-            "d": "Friday",
+            "question": "Η 1η Ιανουαρίου 2012 είναι Κυριακή, τότε ποια ημέρα είναι η Ημέρα Ανεξαρτησίας της Ινδίας του ίδιου έτους.",
+            "a": "Σάββατο",
+            "b": "Τετάρτη",
+            "c": "Πέμπτη",
+            "d": "Παρασκευή",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "30+ 29+ 31 + 30 + 31 + 30 + 31+15 = 227/7 = reminder = 3! !So, Independence day is Wednesday."
+            "explain": "30+ 29+ 31 + 30 + 31 + 30 + 31+15 = 227/7 = υπόλοιπο = 3! !Έτσι, η Ημέρα Ανεξαρτησίας είναι Τετάρτη."
         },
         {
-            "question": "Which year has the same calendar as 1700 ?",
+            "question": "Ποιο έτος έχει το ίδιο ημερολόγιο με το 1700;",
             "a": "1705",
             "b": "1706",
             "c": "1707",
@@ -317,65 +317,65 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Year 1700 has 1 odd day!1701 has 1 odd day!1702 has 1 odd day!1703 has 1 odd day!1704 has 2 odd day!1705 has 1 odd day! !Hence, 1706 will has same calender."
+            "explain": "Το έτος 1700 έχει 1 περιττή ημέρα!Το 1701 έχει 1 περιττή ημέρα!Το 1702 έχει 1 περιττή ημέρα!Το 1703 έχει 1 περιττή ημέρα!Το 1704 έχει 2 περιττές ημέρες!Το 1705 έχει 1 περιττή ημέρα! !Ως εκ τούτου, το 1706 θα έχει το ίδιο ημερολόγιο."
         },
         {
-            "question": "March 1st  is Wednesday. Which month of the same year starts with the same day?",
-            "a": "October",
-            "b": "November",
-            "c": "December",
-            "d": "None",
+            "question": "Η 1η Μαρτίου είναι Τετάρτη. Ποιος μήνας του ίδιου έτους ξεκινά με την ίδια ημέρα;",
+            "a": "Οκτώβριος",
+            "b": "Νοέμβριος",
+            "c": "Δεκέμβριος",
+            "d": "Κανένα",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "March has 3 odd days!April has 2 odd days!May has 3 odd days!June has 2 odd days!July has 3 odd days!August has 3 odd days!September has 2 odd days!October has 3 odd days! !Total 21 odd days. 21/7 = 0. So November has start with the same day."
+            "explain": "Ο Μάρτιος έχει 3 περιττές ημέρες!Ο Απρίλιος έχει 2 περιττές ημέρες!Ο Μάιος έχει 3 περιττές ημέρες!Ο Ιούνιος έχει 2 περιττές ημέρες!Ο Ιούλιος έχει 3 περιττές ημέρες!Ο Αύγουστος έχει 3 περιττές ημέρες!Ο Σεπτέμβριος έχει 2 περιττές ημέρες!Ο Οκτώβριος έχει 3 περιττές ημέρες! !Σύνολο 21 περιττές ημέρες. 21/7 = 0. Άρα ο Νοέμβριος θα ξεκινήσει με την ίδια ημέρα."
         },
         {
-            "question": "What is the angle between the two hands of a clock when the time shown by the clock is 5:30 p.m. ?",
-            "a": "0 degree",
-            "b": "5 degree",
-            "c": "3 degree",
-            "d": "15 degree",
+            "question": "Ποια είναι η γωνία μεταξύ των δύο δεικτών ενός ρολογιού όταν η ώρα που δείχνει το ρολόι είναι 5:30 μ.μ.;",
+            "a": "0 μοίρες",
+            "b": "5 μοίρες",
+            "c": "3 μοίρες",
+            "d": "15 μοίρες",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "q = 11/2 m ñ 30h = 11/2 *30  - 30 *5 = 165-150 = 15 degree! ! "
+            "explain": "q = 11/2 m ñ 30h = 11/2 *30 - 30 *5 = 165-150 = 15 μοίρες! ! "
         },
         {
-            "question": "By how many degrees does the minute hand move in the same time, in which the hour hand move by 18 degree?",
-            "a": "168 degree",
-            "b": "216 degree",
-            "c": "196 degree",
-            "d": "276 degree",
+            "question": "Κατά πόσες μοίρες κινείται ο λεπτοδείκτης στον ίδιο χρόνο, στον οποίο ο ωροδείκτης κινείται κατά 18 μοίρες;",
+            "a": "168 μοίρες",
+            "b": "216 μοίρες",
+            "c": "196 μοίρες",
+            "d": "276 μοίρες",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "18*2 *6 = 216 degree! ! "
+            "explain": "18*2 *6 = 216 μοίρες! ! "
         },
         {
-            "question": "In the time in which the second hand covers 3960 degrees, how many degrees does the hour hand move?",
-            "a": "11 degree",
-            "b": "5.5 degree",
-            "c": "3/4 degree",
-            "d": "55 degree",
+            "question": "Στο χρόνο που ο δευτερολεπτοδείκτης καλύπτει 3960 μοίρες, πόσες μοίρες κινείται ο ωροδείκτης;",
+            "a": "11 μοίρες",
+            "b": "5,5 μοίρες",
+            "c": "3/4 μοίρες",
+            "d": "55 μοίρες",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "3960/(360*2) = 5.5 degree! ! "
+            "explain": "3960/(360*2) = 5,5 μοίρες! ! "
         },
         {
-            "question": "March 1st  is Wednesday. Which month of the same year has the same calendar?",
-            "a": "July",
-            "b": "November",
-            "c": "December",
-            "d": "October",
+            "question": "Η 1η Μαρτίου είναι Τετάρτη. Ποιος μήνας του ίδιου έτους έχει το ίδιο ημερολόγιο;",
+            "a": "Ιούλιος",
+            "b": "Νοέμβριος",
+            "c": "Δεκέμβριος",
+            "d": "Οκτώβριος",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Odd days from March to October! !3 + 2 +3 +2 +3 +3 +2 +3 = 21/7 = 0.! !If odd day is 0 then next month has the same calendar.! !Hence, November will have same calender as March."
+            "explain": "Περιττές ημέρες από Μάρτιο έως Οκτώβριο! !3 + 2 +3 +2 +3 +3 +2 +3 = 21/7 = 0.! !Αν η περιττή ημέρα είναι 0, τότε ο επόμενος μήνας έχει το ίδιο ημερολόγιο.! !Ως εκ τούτου, ο Νοέμβριος θα έχει το ίδιο ημερολόγιο με τον Μάρτιο."
         },
         {
-            "question": "If a light flashes every 6 seconds, how many times will it flash in 3/4 of an hour?",
+            "question": "Αν ένα φως αναβοσβήνει κάθε 6 δευτερόλεπτα, πόσες φορές θα αναβοσβήσει σε 3/4 της ώρας;",
             "a": "450",
             "b": "451",
             "c": "350",
@@ -383,10 +383,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "3/4 of an hour = 3/4 * 60 * 60 = 2700! !Light will flash in 6 seconds = 2700/6 = 450 times"
+            "explain": "3/4 της ώρας = 3/4 * 60 * 60 = 2700! !Το φως θα αναβοσβήνει σε 6 δευτερόλεπτα = 2700/6 = 450 φορές"
         },
         {
-            "question": "How many non-leap years are there from 1801 to 1900?",
+            "question": "Πόσα μη δίσεκτα έτη υπάρχουν από το 1801 έως το 1900;",
             "a": "74",
             "b": "75",
             "c": "76",
@@ -394,43 +394,43 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Leap year comes after 4 years!In one century there will be 24 leap years! !Hence, there will be 76 non leap years from 1801 to 1900."
+            "explain": "Το δίσεκτο έτος έρχεται μετά από 4 χρόνια!Σε έναν αιώνα θα υπάρχουν 24 δίσεκτα έτη! !Ως εκ τούτου, θα υπάρχουν 76 μη δίσεκτα έτη από το 1801 έως το 1900."
         },
         {
-            "question": "The time in a clock is 20 minute past 2. Find the angle between the hands of the clock.",
-            "a": "90 degree",
-            "b": "120 degree",
-            "c": "45 degree",
-            "d": "50 degree",
+            "question": "Η ώρα σε ένα ρολόι είναι 20 λεπτά μετά τις 2. Βρείτε τη γωνία μεταξύ των δεικτών του ρολογιού.",
+            "a": "90 μοίρες",
+            "b": "120 μοίρες",
+            "c": "45 μοίρες",
+            "d": "50 μοίρες",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Time is 2.20.!Hour hand at 2 (nearly) and minute hand at 4.! !Angle between 2 and 4 is 60 degrees [(360/12) * (4-2)]! !Angle made by the hour hand in 20 minutes is 10 degrees, since it turns through 1/2 degrees in a minute.! !Therefore, angle between the hands is 60 degrees - 10 degrees = 50 degrees"
+            "explain": "Η ώρα είναι 2:20.!Ο ωροδείκτης είναι στο 2 (περίπου) και ο λεπτοδείκτης στο 4.! !Η γωνία μεταξύ 2 και 4 είναι 60 μοίρες [(360/12) * (4-2)]! !Η γωνία που σχηματίζεται από τον ωροδείκτη σε 20 λεπτά είναι 10 μοίρες, αφού περιστρέφεται κατά 1/2 μοίρες σε ένα λεπτό.! !Επομένως, η γωνία μεταξύ των δεικτών είναι 60 μοίρες - 10 μοίρες = 50 μοίρες"
         },
         {
-            "question": "Given that on 27th February 2003 is Thursday.What was the day on 27th February 1603?",
-            "a": "Monday",
-            "b": "Thursday",
-            "c": "Sunday",
-            "d": "Tuesday",
+            "question": "Δεδομένου ότι στις 27 Φεβρουαρίου 2003 είναι Πέμπτη. Ποια ήταν η ημέρα στις 27 Φεβρουαρίου 1603;",
+            "a": "Δευτέρα",
+            "b": "Πέμπτη",
+            "c": "Κυριακή",
+            "d": "Τρίτη",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "After every 400 years, the same day occurs.! !Thus, if 27th February 2003 is Thursday, before 400 years i.e., on 27th February 1603 has to be Thursday."
+            "explain": "Μετά από κάθε 400 χρόνια, συμβαίνει η ίδια ημέρα.! !Έτσι, αν η 27η Φεβρουαρίου 2003 είναι Πέμπτη, πριν από 400 χρόνια, δηλαδή στις 27 Φεβρουαρίου 1603, πρέπει να είναι Πέμπτη."
         },
         {
-            "question": "What is the angle between the minute hand and the hour hand when the time is 1540 hours?",
-            "a": "150 degree",
-            "b": "160 degree",
-            "c": "140 degree",
-            "d": "130 degree",
+            "question": "Ποια είναι η γωνία μεταξύ του λεπτοδείκτη και του ωροδείκτη όταν η ώρα είναι 15:40;",
+            "a": "150 μοίρες",
+            "b": "160 μοίρες",
+            "c": "140 μοίρες",
+            "d": "130 μοίρες",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Hour hand is nearly at 3!Minute hand is at 8! !Angle between 3 and 8 is 150 degree.! !In 40 Minutes hour hand will move 1/2 * 40 = 20 degree! !Hence, Angle between hands is 150 - 20 = 130 degree"
+            "explain": "Ο ωροδείκτης είναι σχεδόν στο 3!Ο λεπτοδείκτης είναι στο 8! !Η γωνία μεταξύ 3 και 8 είναι 150 μοίρες.! !Σε 40 λεπτά ο ωροδείκτης θα κινηθεί 1/2 * 40 = 20 μοίρες! !Ως εκ τούτου, η γωνία μεταξύ των δεικτών είναι 150 - 20 = 130 μοίρες"
         },
         {
-            "question": "Which of the following is not a leap year?",
+            "question": "Ποιο από τα παρακάτω δεν είναι δίσεκτο έτος;",
             "a": "600",
             "b": "1600",
             "c": "2400",
@@ -438,109 +438,109 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The century divisible by 400 is a leap year.! !So, The year 600 is not a leap year."
+            "explain": "Ο αιώνας που διαιρείται με το 400 είναι δίσεκτο έτος.! !Έτσι, το έτος 600 δεν είναι δίσεκτο έτος."
         },
         {
-            "question": "11th of April falls on Tuesday, what day will the last day of the month April occurs.",
-            "a": "Thursday",
-            "b": "Saturday",
-            "c": "Sunday",
-            "d": "Monday",
+            "question": "Η 11η Απριλίου πέφτει Τρίτη, ποια μέρα θα είναι η τελευταία μέρα του μήνα Απριλίου.",
+            "a": "Πέμπτη",
+            "b": "Σάββατο",
+            "c": "Κυριακή",
+            "d": "Δευτέρα",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Tuesday will be on 11, 18 and 25 then 30th April will be on Sunday."
+            "explain": "Η Τρίτη θα είναι στις 11, 18 και 25, τότε η 30η Απριλίου θα είναι Κυριακή."
         },
         {
-            "question": "If 7th of the month falls two days after Wednesday. What day of the week will precede the 18th of month?",
-            "a": "Monday",
-            "b": "Tuesday",
-            "c": "Wednesday",
-            "d": "Friday",
+            "question": "Αν η 7η του μήνα πέφτει δύο ημέρες μετά την Τετάρτη. Τι μέρα της εβδομάδας θα προηγείται της 18ης του μήνα;",
+            "a": "Δευτέρα",
+            "b": "Τρίτη",
+            "c": "Τετάρτη",
+            "d": "Παρασκευή",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "On 7th the day is Friday. On 17 (day before 18) there will be Monday"
+            "explain": "Στις 7 η ημέρα είναι Παρασκευή. Στις 17 (ημέρα πριν από τις 18) θα είναι Δευτέρα"
         },
         {
-            "question": "The day that will come two days after tomorrow will be Thursday. What was the day that Dawned two days before yesterday.",
-            "a": "Wednesday",
-            "b": "Thursday",
-            "c": "Friday",
-            "d": "Monday",
+            "question": "Η μέρα που θα έρθει δύο μέρες μετά το αύριο θα είναι Πέμπτη. Ποια ήταν η μέρα που ξημέρωσε δύο μέρες πριν από χθες.",
+            "a": "Τετάρτη",
+            "b": "Πέμπτη",
+            "c": "Παρασκευή",
+            "d": "Δευτέρα",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the day, two days after tomorrow is Thursday so tomorrow is Tuesday and today is Monday and yesterday was Sunday. Hence the day two days before yesterday was Friday."
+            "explain": "Καθώς η ημέρα, δύο ημέρες μετά το αύριο είναι Πέμπτη, άρα αύριο είναι Τρίτη και σήμερα είναι Δευτέρα και χθες ήταν Κυριακή. Ως εκ τούτου, η ημέρα δύο ημέρες πριν από χθες ήταν Παρασκευή."
         },
         {
-            "question": "It would be Tuesday two days after tomorrow. What was two days before yesterday?",
-            "a": "Saturday",
-            "b": "Monday",
-            "c": "Friday",
-            "d": "Wednesday",
+            "question": "Θα ήταν Τρίτη δύο μέρες μετά το αύριο. Τι ήταν δύο μέρες πριν από χθες;",
+            "a": "Σάββατο",
+            "b": "Δευτέρα",
+            "c": "Παρασκευή",
+            "d": "Τετάρτη",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the day, two days after tomorrow is Tuesday so tomorrow is Sunday and today is Saturday and yesterday was Friday. Hence the day two days before yesterday was Wednesday."
+            "explain": "Καθώς η ημέρα, δύο ημέρες μετά το αύριο είναι Τρίτη, άρα αύριο είναι Κυριακή και σήμερα είναι Σάββατο και χθες ήταν Παρασκευή. Ως εκ τούτου, η ημέρα δύο ημέρες πριν από χθες ήταν Τετάρτη."
         },
         {
-            "question": "The 15th of the month falls on the day preceding Sunday, on what day will the 6th of the month fall?",
-            "a": "Friday",
-            "b": "Saturday",
-            "c": "Thursday",
-            "d": "Sunday",
+            "question": "Η 15η του μήνα πέφτει την ημέρα που προηγείται της Κυριακής, ποια μέρα θα πέσει η 6η του μήνα;",
+            "a": "Παρασκευή",
+            "b": "Σάββατο",
+            "c": "Πέμπτη",
+            "d": "Κυριακή",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As on 15th of the month day is Saturday so on 8th the day will also Saturday. Hence on 6th of the month day will be Thursday(Two days before Saturday)."
+            "explain": "Καθώς στις 15 του μήνα η ημέρα είναι Σάββατο, έτσι και στις 8 η ημέρα θα είναι Σάββατο. Ως εκ τούτου, στις 6 του μήνα η ημέρα θα είναι Πέμπτη (δύο ημέρες πριν από το Σάββατο)."
         },
         {
-            "question": "If 20th of February of a leap year falls on Thursday, what day of the week will be on 3rd of next March?",
-            "a": "Tuesday",
-            "b": "Wednesday",
-            "c": "Friday",
-            "d": "Monday",
+            "question": "Αν η 20η Φεβρουαρίου ενός δίσεκτου έτους πέφτει Πέμπτη, ποια μέρα της εβδομάδας θα είναι η 3η του επόμενου Μαρτίου;",
+            "a": "Τρίτη",
+            "b": "Τετάρτη",
+            "c": "Παρασκευή",
+            "d": "Δευτέρα",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "On 27th February there will be Thursday and by counting 4 days after it Monday falls on 3rd of March."
+            "explain": "Στις 27 Φεβρουαρίου θα είναι Πέμπτη και μετρώντας 4 ημέρες μετά, η Δευτέρα πέφτει στις 3 Μαρτίου."
         },
         {
-            "question": "Reaching a party day before yesterday, I found myself two days late. If day after tomorrow is Friday. On what day was the party scheduled to be held?",
-            "a": "Sunday",
-            "b": "Monday",
-            "c": "Thursday",
-            "d": "Saturday",
+            "question": "Φτάνοντας σε ένα πάρτι προχθές, βρέθηκα δύο μέρες αργοπορημένος. Αν μεθαύριο είναι Παρασκευή. Ποια μέρα ήταν προγραμματισμένο να γίνει το πάρτι;",
+            "a": "Κυριακή",
+            "b": "Δευτέρα",
+            "c": "Πέμπτη",
+            "d": "Σάββατο",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As day after tomorrow is Friday so tomorrow is Thursday, today is Wednesday, yesterday was Tuesday and day before yesterday was Monday. Today before the day before yesterday was Saturday. Hence party was scheduled on Saturday."
+            "explain": "Καθώς μεθαύριο είναι Παρασκευή, άρα αύριο είναι Πέμπτη, σήμερα είναι Τετάρτη, χθες ήταν Τρίτη και προχθές ήταν Δευτέρα. Σήμερα πριν από προχθές ήταν Σάββατο. Ως εκ τούτου, το πάρτι ήταν προγραμματισμένο για το Σάββατο."
         },
         {
-            "question": "If 14th August falls on Monday, then what will be the day on 14th September.",
-            "a": "Sunday",
-            "b": "Monday",
-            "c": "Thursday",
-            "d": "Friday",
+            "question": "Αν η 14η Αυγούστου πέφτει Δευτέρα, τότε ποια θα είναι η ημέρα στις 14 Σεπτεμβρίου.",
+            "a": "Κυριακή",
+            "b": "Δευτέρα",
+            "c": "Πέμπτη",
+            "d": "Παρασκευή",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Monday will fall on 14, 21 and 28th August. By taking into account that August has 31 days 1st September will be fall on Friday. So, 7th and 14th September will be on Friday."
+            "explain": "Η Δευτέρα θα πέσει στις 14, 21 και 28 Αυγούστου. Λαμβάνοντας υπόψη ότι ο Αύγουστος έχει 31 ημέρες, η 1η Σεπτεμβρίου θα πέσει Παρασκευή. Έτσι, η 7η και η 14η Σεπτεμβρίου θα είναι Παρασκευή."
         },
         {
-            "question": "Our teacher has come out with another puzzle for her students. It is, \"If three days ago was the day before Friday, What day will be after tomorrow?\"",
-            "a": "Wednesday",
-            "b": "Monday",
-            "c": "Tuesday",
-            "d": "None",
+            "question": "Η δασκάλα μας έχει βρει ένα άλλο παζλ για τους μαθητές της. Είναι, «Αν πριν από τρεις ημέρες ήταν η ημέρα πριν από την Παρασκευή, ποια μέρα θα είναι μετά το αύριο;»",
+            "a": "Τετάρτη",
+            "b": "Δευτέρα",
+            "c": "Τρίτη",
+            "d": "Κανένα",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Three days ago was Thursday and today is Sunday, so the day after tomorrow will be Tuesday."
+            "explain": "Πριν από τρεις ημέρες ήταν Πέμπτη και σήμερα είναι Κυριακή, οπότε η ημέρα μετά το αύριο θα είναι Τρίτη."
         },
         {
-            "question": "Seen through a mirror, the arms of a clock show 9:30 what is the actual time?",
+            "question": "Όταν φαίνονται μέσα από έναν καθρέφτη, οι δείκτες ενός ρολογιού δείχνουν 9:30, ποια είναι η πραγματική ώρα;",
             "a": "3:30",
             "b": "6:30",
             "c": "6:10",
@@ -548,10 +548,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Δεν υπάρχει διαθέσιμη περιγραφή απάντησης για αυτήν την ερώτηση."
         },
         {
-            "question": "Which of the following is a leap year?",
+            "question": "Ποιο από τα παρακάτω είναι δίσεκτο έτος;",
             "a": "700",
             "b": "800",
             "c": "900",
@@ -559,21 +559,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The century divisible by 400 is a leap year.! !So, The year 800 is a leap year."
+            "explain": "Ο αιώνας που διαιρείται με το 400 είναι δίσεκτο έτος.! !Έτσι, το έτος 800 είναι δίσεκτο έτος."
         },
         {
-            "question": "An accurate clock shows 8 o'clock in the morning. Through how many degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
-            "a": "144 degree",
-            "b": "150 degree",
-            "c": "168 degree",
-            "d": "180 degree",
+            "question": "Ένα ακριβές ρολόι δείχνει 8 η ώρα το πρωί. Πόσες μοίρες θα περιστραφεί ο ωροδείκτης όταν το ρολόι δείξει 2 η ώρα το απόγευμα;",
+            "a": "144 μοίρες",
+            "b": "150 μοίρες",
+            "c": "168 μοίρες",
+            "d": "180 μοίρες",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Angle traced by the hour hand in 6 hours = (360/12)*6 = 180 degree"
+            "explain": "Γωνία που διαγράφεται από τον ωροδείκτη σε 6 ώρες = (360/12)*6 = 180 μοίρες"
         },
         {
-            "question": "What is the angle between the hands of a clock at 1 o'clock?",
+            "question": "Ποια είναι η γωνία μεταξύ των δεικτών ενός ρολογιού στη 1 η ώρα;",
             "a": "30",
             "b": "60",
             "c": "15",
@@ -581,84 +581,84 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 1 o'clock the minute hand points to the 12 and the hour hand points to the 1.! !So we need to find the angle between the 12 and the 1.! !There are 12 total numbers on the clock and total angle on complete turn of the clock is 360 degree, so each one must be 360/12 = 30 degree.! !So the angle between the hands of a clock at 1 o'clock is 30 degree."
+            "explain": "Στη 1 η ώρα ο λεπτοδείκτης δείχνει το 12 και ο ωροδείκτης δείχνει το 1.! !Έτσι πρέπει να βρούμε τη γωνία μεταξύ του 12 και του 1.! !Υπάρχουν συνολικά 12 αριθμοί στο ρολόι και η συνολική γωνία σε μια πλήρη περιστροφή του ρολογιού είναι 360 μοίρες, οπότε κάθε ένας πρέπει να είναι 360/12 = 30 μοίρες.! !Έτσι, η γωνία μεταξύ των δεικτών ενός ρολογιού στη 1 η ώρα είναι 30 μοίρες."
         },
         {
-            "question": "What is the angle between the hands of a clock at 2:30?",
-            "a": "120 degree",
-            "b": "115 degree",
-            "c": "105 degree",
-            "d": "125 degree",
+            "question": "Ποια είναι η γωνία μεταξύ των δεικτών ενός ρολογιού στις 2:30;",
+            "a": "120 μοίρες",
+            "b": "115 μοίρες",
+            "c": "105 μοίρες",
+            "d": "125 μοίρες",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Hour hand is nearly at 2!Minute hand is at 6! !Angle between 2 and 6 is 120 degree.! !Hour hand move 1/2 degree in one minute.! !In 30 Minutes hour hand will move 1/2 * 30 = 15 degree! !Hence, Angle between hands is 120 - 15 = 105 degree"
+            "explain": "Ο ωροδείκτης είναι σχεδόν στο 2!Ο λεπτοδείκτης είναι στο 6! !Η γωνία μεταξύ 2 και 6 είναι 120 μοίρες.! !Ο ωροδείκτης κινείται 1/2 μοίρα σε ένα λεπτό.! !Σε 30 λεπτά ο ωροδείκτης θα κινηθεί 1/2 * 30 = 15 μοίρες! !Ως εκ τούτου, η γωνία μεταξύ των δεικτών είναι 120 - 15 = 105 μοίρες"
         },
         {
-            "question": "What is the angle between the hands of a clock at 7 o'clock?",
-            "a": "130 degree",
-            "b": "160 degree",
-            "c": "120 degree",
-            "d": "150 degree",
+            "question": "Ποια είναι η γωνία μεταξύ των δεικτών ενός ρολογιού στις 7 η ώρα;",
+            "a": "130 μοίρες",
+            "b": "160 μοίρες",
+            "c": "120 μοίρες",
+            "d": "150 μοίρες",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 7 o'clock the minute hand points to 12 and hour hand points to 7.! !Angle between 7 and 12 is 150 degree."
+            "explain": "Στις 7 η ώρα ο λεπτοδείκτης δείχνει το 12 και ο ωροδείκτης δείχνει το 7.! !Η γωνία μεταξύ 7 και 12 είναι 150 μοίρες."
         },
         {
-            "question": "What is the angle between the hands of a clock at 7:05 am?",
-            "a": "182.5 degree",
-            "b": "180 degree",
-            "c": "177.5 degree",
-            "d": "181.5 degree",
+            "question": "Ποια είναι η γωνία μεταξύ των δεικτών ενός ρολογιού στις 7:05 π.μ.;",
+            "a": "182,5 μοίρες",
+            "b": "180 μοίρες",
+            "c": "177,5 μοίρες",
+            "d": "181,5 μοίρες",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 7:05 hour hand is nearly at 7!Minute hand is at 1! !Angle between 7 and 1 is 180 degree.! !Hour hand move 1/2 degree in one minute.! !In 5 Minutes hour hand will move 1/2 * 5 = 2.5 degree! !Hence, Angle between hands is 180 - 2.5 = 177.5 degree"
+            "explain": "Στις 7:05 ο ωροδείκτης είναι σχεδόν στο 7!Ο λεπτοδείκτης είναι στο 1! !Η γωνία μεταξύ 7 και 1 είναι 180 μοίρες.! !Ο ωροδείκτης κινείται 1/2 μοίρα σε ένα λεπτό.! !Σε 5 λεπτά ο ωροδείκτης θα κινηθεί 1/2 * 5 = 2,5 μοίρες! !Ως εκ τούτου, η γωνία μεταξύ των δεικτών είναι 180 - 2,5 = 177,5 μοίρες"
         },
         {
-            "question": "What is the angle between the hands of a clock at 9 o'clock?",
-            "a": "45 degree",
-            "b": "90 degree",
-            "c": "105 degree",
-            "d": "75 degree",
+            "question": "Ποια είναι η γωνία μεταξύ των δεικτών ενός ρολογιού στις 9 η ώρα;",
+            "a": "45 μοίρες",
+            "b": "90 μοίρες",
+            "c": "105 μοίρες",
+            "d": "75 μοίρες",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 9 o'clock the minute hand points to 12 and hour hand points to 9.! !Angle between 9 and 12 at the clock is 90 degree."
+            "explain": "Στις 9 η ώρα ο λεπτοδείκτης δείχνει το 12 και ο ωροδείκτης δείχνει το 9.! !Η γωνία μεταξύ 9 και 12 στο ρολόι είναι 90 μοίρες."
         },
         {
-            "question": "What is the angle between the hands of a clock at 3:35 pm?",
-            "a": "75 degree",
-            "b": "45 degree",
-            "c": "102.5 degree",
-            "d": "88.5 degree",
+            "question": "Ποια είναι η γωνία μεταξύ των δεικτών ενός ρολογιού στις 3:35 μ.μ.;",
+            "a": "75 μοίρες",
+            "b": "45 μοίρες",
+            "c": "102,5 μοίρες",
+            "d": "88,5 μοίρες",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 3:35 hour hand is nearly at 3!Minute hand is at 7! !Angle between 3 and 7 is 120 degree.! !Hour hand move 1/2 degree in one minute.! !In 35 Minutes hour hand will move 1/2 * 35 = 17.5 degree! !Hence, Angle between hands is 120 - 17.5 = 102.5 degree"
+            "explain": "Στις 3:35 ο ωροδείκτης είναι σχεδόν στο 3!Ο λεπτοδείκτης είναι στο 7! !Η γωνία μεταξύ 3 και 7 είναι 120 μοίρες.! !Ο ωροδείκτης κινείται 1/2 μοίρα σε ένα λεπτό.! !Σε 35 λεπτά ο ωροδείκτης θα κινηθεί 1/2 * 35 = 17,5 μοίρες! !Ως εκ τούτου, η γωνία μεταξύ των δεικτών είναι 120 - 17,5 = 102,5 μοίρες"
         },
         {
-            "question": "What is the angle between the hands of a clock at 8:50 am?",
-            "a": "45 degree",
-            "b": "25 degree",
-            "c": "65 degree",
-            "d": "35 degree",
+            "question": "Ποια είναι η γωνία μεταξύ των δεικτών ενός ρολογιού στις 8:50 π.μ.;",
+            "a": "45 μοίρες",
+            "b": "25 μοίρες",
+            "c": "65 μοίρες",
+            "d": "35 μοίρες",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 8:50 hour hand is nearly at 8!Minute hand is at 10! !Angle between 8 and 10 is 60 degree.! !Hour hand move 1/2 degree in one minute.! !In 50 Minutes hour hand will move 1/2 * 50 = 25 degree! !Hence, Angle between hands is 60 - 25 = 35 degree"
+            "explain": "Στις 8:50 ο ωροδείκτης είναι σχεδόν στο 8!Ο λεπτοδείκτης είναι στο 10! !Η γωνία μεταξύ 8 και 10 είναι 60 μοίρες.! !Ο ωροδείκτης κινείται 1/2 μοίρα σε ένα λεπτό.! !Σε 50 λεπτά ο ωροδείκτης θα κινηθεί 1/2 * 50 = 25 μοίρες! !Ως εκ τούτου, η γωνία μεταξύ των δεικτών είναι 60 - 25 = 35 μοίρες"
         },
         {
-            "question": "What is the angle between the hands of a clock at 4:20 pm?",
-            "a": "0 degree",
-            "b": "10 degree",
-            "c": "20 degree",
-            "d": "30 degree",
+            "question": "Ποια είναι η γωνία μεταξύ των δεικτών ενός ρολογιού στις 4:20 μ.μ.;",
+            "a": "0 μοίρες",
+            "b": "10 μοίρες",
+            "c": "20 μοίρες",
+            "d": "30 μοίρες",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "At 4:20 hour hand is nearly at 4 but not perfectly at 4.!Minute hand is at 4! !If both hands are at 4 then angle is 0 degree.! !Hour hand move 1/2 degree in one minute.! !In 20 Minutes hour hand will move 1/2 * 20 = 10 degree! !Hence, Angle between hands is 0 + 10 = 10 degree"
+            "explain": "Στις 4:20 ο ωροδείκτης είναι σχεδόν στο 4 αλλά όχι ακριβώς στο 4.!Ο λεπτοδείκτης είναι στο 4! !Αν και οι δύο δείκτες είναι στο 4 τότε η γωνία είναι 0 μοίρες.! !Ο ωροδείκτης κινείται 1/2 μοίρα σε ένα λεπτό.! !Σε 20 λεπτά ο ωροδείκτης θα κινηθεί 1/2 * 20 = 10 μοίρες! !Ως εκ τούτου, η γωνία μεταξύ των δεικτών είναι 0 + 10 = 10 μοίρες"
         }
     ]
 }

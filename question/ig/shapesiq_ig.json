@@ -9,7 +9,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Square is rotating 90 degree clockwise at each step."
+            "explain": "Square na-agbagharị ogo 90 n'akụkụ aka nri na nzọụkwụ ọ bụla."
         },
         {
             "question": "aaq2",
@@ -20,7 +20,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "As in first row 3rd shape has the shaded region of both first two shapes!So in second row both of the bottom rectangles will be shaded."
+            "explain": "Dị ka ọ dị n'ahịrị nke mbụ, ọdịdị nke atọ nwere mpaghara ndò nke ọdịdị abụọ mbụ! Yabụ n'ahịrị nke abụọ, a ga-enwe ndò n'akụkụ abụọ nke ala."
         },
         {
             "question": "aaq3",
@@ -31,7 +31,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "In each line and column, each of the three rings is shaded black once."
+            "explain": "N'ahịrị na kọlụm ọ bụla, a na-etinye onyinyo ojii n'otu n'ime mgbanaka atọ ahụ otu ugboro."
         },
         {
             "question": "aaq4",
@@ -42,7 +42,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "In each line across and down the arrows point in each of three directions left, right and down. The number of arrows increases 1, 2, 3 in each row."
+            "explain": "N'ahịrị ọ bụla gafee na ala, akụ na-atụ aka n'akụkụ atọ ọ bụla aka ekpe, aka nri na ala. Ọnụ ọgụgụ akụ na-abawanye 1, 2, 3 n'ahịrị ọ bụla."
         },
         {
             "question": "aaq5",
@@ -53,7 +53,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The black dot is moving up (then down) by one position at each stage."
+            "explain": "Ntụpọ ojii na-aga n'elu (mgbe ahụ ala) site n'otu ọnọdụ n'ọkwa ọ bụla."
         },
         {
             "question": "aaq6",
@@ -64,7 +64,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Black dot is moving on step down and starts from after last step.!One triangle is shaded and unshaded triangles are alternative."
+            "explain": "Ntụpọ ojii na-aga n'otu nzọụkwụ wee malite mgbe nzọụkwụ ikpeazụ gasịrị.!Otu triangle nwere ndò na triangle ndị na-enweghị ndò bụ ihe ọzọ."
         },
         {
             "question": "aaq7",
@@ -75,7 +75,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Inner and outer black circles are moving up and down in opposite direction and vanishes on reaching at corner and starts again."
+            "explain": "Okirikiri ojii dị n'ime na n'èzí na-aga n'elu na ala n'akụkụ dị iche ma na-apụ n'anya mgbe ha ruru n'akụkụ wee malite ọzọ."
         },
         {
             "question": "aaq8",
@@ -86,7 +86,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Two black circles are filling up the white circles by moving in anticlockwise direction but at one step only one black circle moves."
+            "explain": "Okirikiri ojii abụọ na-ejuputa okirikiri ọcha site n'ịga n'akụkụ elekere mana n'otu nzọụkwụ naanị otu okirikiri ojii na-aga."
         },
         {
             "question": "aaq9",
@@ -97,7 +97,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Triangle is rotating 90 degree in clockwise direction at each step and inner and outer circles are filling and infilling alternatively and step by step."
+            "explain": "Triangle na-agbagharị ogo 90 n'akụkụ elekere n'oge ọ bụla na okirikiri dị n'ime na n'èzí na-ejuputa ma na-ejuputa n'ụzọ ọzọ na nzọụkwụ site na nzọụkwụ."
         },
         {
             "question": "aaq10",
@@ -108,7 +108,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Starting from first row triangle rotates 90 degree clockwise in 2 steps and then rotates 90 degree anticlockwise to start new row."
+            "explain": "Malite n'ahịrị mbụ triangle na-agbagharị ogo 90 n'akụkụ elekere na nzọụkwụ 2 wee gbagharịa ogo 90 n'akụkụ elekere iji malite ahịrị ọhụrụ."
         },
         {
             "question": "aaq11",
@@ -119,7 +119,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking at lines of numbers from the top! !9 * 8 = 72!72 * 8 = 576!576 * 8 = 4608"
+            "explain": "Na-ele ahịrị nọmba site n'elu! !9 * 8 = 72!72 * 8 = 576!576 * 8 = 4608"
         },
         {
             "question": "aaq12",
@@ -130,7 +130,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The number of white dots is increased by one each time, both vertically and horizontally, and all white dots are connected"
+            "explain": "A na-abawanye ọnụ ọgụgụ ntụpọ ọcha site n'otu oge ọ bụla, ma n'ụzọ kwụ ọtọ ma n'ụzọ kwụ ọtọ, na ntụpọ ọcha niile jikọtara"
         },
         {
             "question": "aaq13",
@@ -141,7 +141,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "lines across proceed!+2, –3, +2.! !Lines down proceed!–3, +2, –3"
+            "explain": "ahịrị gafee na-aga n'ihu!+2, –3, +2.! !Ahịrị ala na-aga n'ihu!–3, +2, –3"
         },
         {
             "question": "aaq14",
@@ -163,7 +163,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "In lines and columns, add the first three numbers to arrive at the fourth number"
+            "explain": "N'ahịrị na kọlụm, tinye nọmba atọ mbụ iji ruo nọmba nke anọ"
         },
         {
             "question": "aaq16",
@@ -174,7 +174,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Each line across and down contains five black dots and four white dots"
+            "explain": "Ahịrị ọ bụla gafee na ala nwere ntụpọ ojii ise na ntụpọ ọcha anọ"
         },
         {
             "question": "aaq17",
@@ -196,7 +196,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Only lines that appear three times in the same position in the first three squares are carried forward to the final square."
+            "explain": "Naanị ahịrị ndị pụtara ugboro atọ n'otu ọnọdụ na square atọ mbụ ka a na-ebufe na square ikpeazụ."
         },
         {
             "question": "aaq19",
@@ -207,7 +207,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "To each arc, add a quarter of a circle clockwise"
+            "explain": "N'akụkụ arc ọ bụla, tinye otu ụzọ n'ụzọ anọ nke okirikiri n'akụkụ elekere"
         },
         {
             "question": "aaq20",
@@ -218,7 +218,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "6 * 9 = 54 (reading down the middle two blocks)"
+            "explain": "6 * 9 = 54 (na-agụ ala n'etiti blọk abụọ)"
         },
         {
             "question": "aaq21",
@@ -229,7 +229,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across and down the triangles turn through 90 degrees"
+            "explain": "Na-ele anya gafee na ala triangle na-atụgharị site na ogo 90"
         },
         {
             "question": "aaq22",
@@ -240,7 +240,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Each number indicates its position in the grid. 55 indicates row 5 column 5"
+            "explain": "Nọmba ọ bụla na-egosi ọnọdụ ya na grid. 55 na-egosi ahịrị 5 kọlụm 5"
         },
         {
             "question": "aaq23",
@@ -251,7 +251,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Add the digits of each three-digit number to obtain the two-digit numbers"
+            "explain": "Tinye nọmba nke nọmba atọ ọ bụla iji nweta nọmba abụọ"
         },
         {
             "question": "aaq24",
@@ -262,7 +262,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "In each row and column only lines that are common to the first two squares are carried forward to the final square."
+            "explain": "N'ahịrị na kọlụm ọ bụla, naanị ahịrị ndị jikọrọ na square abụọ mbụ ka a na-ebufe na square ikpeazụ."
         },
         {
             "question": "aaq25",
@@ -273,7 +273,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "After two rotations both white and black dots will be at the lowest corner of the hexagon where black dot is present now."
+            "explain": "Mgbe ntụgharị abụọ gasịrị, ma ntụpọ ọcha ma nke ojii ga-adị n'akụkụ kacha ala nke hexagon ebe ntụpọ ojii dị ugbu a."
         },
         {
             "question": "aaq26",
@@ -284,7 +284,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The inner hexagon is being dismantled one side at a time working anticlockwise, while the outer hexagon is being constructed one side at a time working clockwise."
+            "explain": "A na-akwatu hexagon dị n'ime otu akụkụ n'otu oge na-arụ ọrụ n'akụkụ elekere, ebe a na-ewu hexagon dị n'èzí otu akụkụ n'otu oge na-arụ ọrụ n'akụkụ elekere."
         },
         {
             "question": "aaq27",
@@ -295,7 +295,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "42 / 3 = 14!and! !51 / 3 = 17"
+            "explain": "42 / 3 = 14!na! !51 / 3 = 17"
         },
         {
             "question": "aaq28",
@@ -306,7 +306,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The numbers round the centre increase by seven (in the others they increase by three and five respectively)."
+            "explain": "Ọnụ ọgụgụ ndị gbara etiti na-abawanye site na asaa (na ndị ọzọ ha na-abawanye site na atọ na ise n'otu n'otu)."
         },
         {
             "question": "aaq29",
@@ -317,7 +317,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across an outer circle is removed, looking down an outer circle is added."
+            "explain": "Na-ele anya gafee, a na-ewepụ okirikiri dị n'èzí, na-ele anya ala, a na-agbakwunye okirikiri dị n'èzí."
         },
         {
             "question": "aaq30",
@@ -328,7 +328,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across, the dot in the top left-hand quarter moves to the opposite corner, the dot in the top right-hand quarter moves one corner anticlockwise at each stage, the dot in the bottom left-hand quarter moves between the top two corners, and the dot in the bottom right-hand quarter moves one corner clockwise at each stage."
+            "explain": "Na-ele anya gafee, ntụpọ dị n'akụkụ aka ekpe nke elu na-aga n'akụkụ nke ọzọ, ntụpọ dị n'akụkụ aka nri nke elu na-aga otu akụkụ n'akụkụ elekere n'ọkwa ọ bụla, ntụpọ dị n'akụkụ aka ekpe nke ala na-aga n'etiti akụkụ abụọ dị n'elu, na ntụpọ dị n'akụkụ aka nri nke ala na-aga otu akụkụ n'akụkụ elekere n'ọkwa ọ bụla."
         },
         {
             "question": "aaq31",
@@ -339,7 +339,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across each line add three!and!looking down each column add two."
+            "explain": "Na-ele anya gafee ahịrị ọ bụla tinye atọ!na!na-ele anya ala kọlụm ọ bụla tinye abụọ."
         },
         {
             "question": "aaq32",
@@ -350,7 +350,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Start at the top left corner and work along the top line, then back along the second line, etc, adding nine then deducting three."
+            "explain": "Malite n'akụkụ aka ekpe nke elu wee rụọ ọrụ n'akụkụ ahịrị elu, wee laghachi azụ n'akụkụ ahịrị nke abụọ, wdg, na-agbakwunye itoolu wee wepụ atọ."
         },
         {
             "question": "aaq33",
@@ -372,7 +372,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The large rectangle is being dismantled, half a side at a time anticlockwise! !the small rectangle is being constructed half a side at a time clockwise."
+            "explain": "A na-akwatu akụkụ anọ buru ibu, ọkara otu akụkụ n'otu oge n'akụkụ elekere! !a na-ewu obere akụkụ anọ ọkara otu akụkụ n'otu oge n'akụkụ elekere."
         },
         {
             "question": "aaq35",
@@ -383,7 +383,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "So that the numbers in the triangles, squares and circles add up to 33"
+            "explain": "Ka ọnụọgụgụ dị na triangle, square na okirikiri wee gbakọọ ruo 33"
         },
         {
             "question": "aaq36",
@@ -394,7 +394,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across and down, only dots that appear in the same position in the first two squares are carried forward to the third square! !however, they then change from black to white and vice versa."
+            "explain": "Na-ele anya gafee na ala, naanị ntụpọ ndị pụtara n'otu ọnọdụ na square abụọ mbụ ka a na-ebufe na square nke atọ! ! Otú ọ dị, ha na-agbanwe site na oji gaa na ọcha na ntụgharị."
         },
         {
             "question": "aaq37",
@@ -405,7 +405,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "In each row and column in order to arrive at the final number multiply the first two numbers together and divide by 6."
+            "explain": "N'ahịrị na kọlụm ọ bụla iji ruo nọmba ikpeazụ, mụbaa nọmba abụọ mbụ ọnụ wee kee ya na 6."
         },
         {
             "question": "aaq38",
@@ -416,7 +416,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking both across and down, only lines that appear in both the first two squares are carried forward to the third square."
+            "explain": "Na-ele ma gafee ma ala, naanị ahịrị ndị pụtara na square abụọ mbụ ka a na-ebufe na square nke atọ."
         },
         {
             "question": "aaq39",
@@ -427,7 +427,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Each pair of circles are mirror images of each other."
+            "explain": "Okirikiri abụọ ọ bụla bụ onyinyo enyo nke ibe ha."
         },
         {
             "question": "aaq40",
@@ -438,7 +438,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "6 * 4 = 6 + 18!7 * 3 = 11 + 10!9 * 2 = 5 + 13!and!16 * 4 = 32 + 32"
+            "explain": "6 * 4 = 6 + 18!7 * 3 = 11 + 10!9 * 2 = 5 + 13!na!16 * 4 = 32 + 32"
         },
         {
             "question": "aaq41",
@@ -460,7 +460,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The square goes inside the diamond and the diamond in turn goes inside the pentagon, which turns onto its base."
+            "explain": "Square na-abanye n'ime diamond na diamond n'aka nke ya na-abanye n'ime pentagon, nke na-atụgharị n'elu ntọala ya."
         },
         {
             "question": "aaq43",
@@ -471,7 +471,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across, the dot moves 45 degree clockwise at each stage, but looking down it moves 45 degree anticlockwise"
+            "explain": "Na-ele anya gafee, ntụpọ ahụ na-aga ogo 45 n'akụkụ elekere n'ọkwa ọ bụla, mana na-ele anya ala ọ na-aga ogo 45 n'akụkụ elekere"
         },
         {
             "question": "aaq44",
@@ -482,7 +482,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "the dot moves corner/side anticlockwise, the straight line and the curved line both move corner to corner clockwise."
+            "explain": "ntụpọ ahụ na-aga n'akụkụ/akụkụ n'akụkụ elekere, ahịrị kwụ ọtọ na ahịrị gbagọrọ agbagọ na-aga n'akụkụ n'akụkụ n'akụkụ elekere."
         },
         {
             "question": "aaq45",
@@ -493,7 +493,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The rectangle starting on the left is moving from left to right one place at a time at each stage"
+            "explain": "Akụkụ anọ malite n'aka ekpe na-aga site n'aka ekpe gaa n'aka nri otu ebe n'otu oge n'ọkwa ọ bụla"
         },
         {
             "question": "aaq46",
@@ -504,7 +504,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across and down, lines are carried forward from the first two squares to the final square, except where two lines appear in the same position in the first two squares, in which case they are cancelled out."
+            "explain": "Na-ele anya gafee na ala, a na-ebufe ahịrị site na square abụọ mbụ gaa na square ikpeazụ, ewezuga ebe ahịrị abụọ pụtara n'otu ọnọdụ na square abụọ mbụ, n'ọnọdụ ahụ a na-akagbu ha."
         },
         {
             "question": "aaq47",
@@ -526,7 +526,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across, the letters jump +2, +3 in the alphabet!For Example!AbCdeF.! !Looking down, they progress +4, +5!For Example!AbcdEfghiJ."
+            "explain": "Na-ele anya gafee, mkpụrụedemede na-awụli elu +2, +3 na mkpụrụedemede!Dịka ọmụmaatụ!AbCdeF.! !Na-ele anya ala, ha na-aga n'ihu +4, +5!Dịka ọmụmaatụ!AbcdEfghiJ."
         },
         {
             "question": "aaq49",
@@ -537,7 +537,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "The circle becomes a square and the four white squares become white circles."
+            "explain": "Okirikiri ahụ na-aghọ square na square anọ ọcha na-aghọ okirikiri ọcha."
         },
         {
             "question": "aaq50",
@@ -548,7 +548,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": true,
-            "explain": "Looking across, the number of dots increases by one and white becomes black.! !Looking down, the number of dots decreases by one and the dots stay the same colour."
+            "explain": "Na-ele anya gafee, ọnụ ọgụgụ ntụpọ na-abawanye site n'otu na ọcha na-aghọ oji.! !Na-ele anya ala, ọnụ ọgụgụ ntụpọ na-ebelata site n'otu na ntụpọ na-anọgide n'otu agba."
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "question": "Ten years ago, P was half of Q in age. If the ratio of their present ages is 3/4, what will be the total of their present ages?",
+            "question": "Hace diez años, la edad de P era la mitad de la de Q. Si la proporción de sus edades actuales es 3/4, ¿cuál será la suma de sus edades actuales?",
             "a": "45",
             "b": "40",
             "c": "35",
@@ -9,32 +9,32 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of P and Q be 3x and 4x respectively.! !Ten years ago, P was half of Q in age.! !(3x - 10) = 1/2 * (4x - 10)!6x - 20 = 4x - 10!2x = 10!x = 5! !total of their present ages!= 3x + 4x = 7x = 7 * 5!= 35"
+            "explain": "Sea la edad actual de P y Q 3x y 4x respectivamente. ¡!Hace diez años, P tenía la mitad de la edad de Q.¡ !(3x - 10) = 1/2 * (4x - 10)!6x - 20 = 4x - 10!2x = 10!x = 5! !suma de sus edades actuales!= 3x + 4x = 7x = 7 * 5!= 35"
         },
         {
-            "question": "A man is 24 years older than his son. In two years, his age will be twice the age of his son. What is the present age of his son?",
-            "a": "23 years",
-            "b": "22 years",
-            "c": "21 years",
-            "d": "20 years",
+            "question": "Un hombre es 24 años mayor que su hijo. En dos años, su edad será el doble de la edad de su hijo. ¿Cuál es la edad actual de su hijo?",
+            "a": "23 años",
+            "b": "22 años",
+            "c": "21 años",
+            "d": "20 años",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of the son = x years! !Then present age the man = (x+24) years! !Given that in 2 years, man's age will be twice the age of his son! !(x+24) +2 = 2(x+2)!x = 22"
+            "explain": "Sea la edad actual del hijo = x años! !Entonces la edad actual del hombre = (x+24) años! !Dado que en 2 años, la edad del hombre será el doble de la edad de su hijo! !(x+24) +2 = 2(x+2)!x = 22"
         },
         {
-            "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. Find out the age of the youngest child?",
-            "a": "6 years",
-            "b": "5 years",
-            "c": "4 years",
-            "d": "3 years",
+            "question": "La suma de las edades de 5 niños nacidos a intervalos de 3 años cada uno es de 50 años. ¿Averigua la edad del niño más pequeño?",
+            "a": "6 años",
+            "b": "5 años",
+            "c": "4 años",
+            "d": "3 años",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the youngest child = x! !Then the ages of 5 children can be written as x, (x+3), (x+6),(x+9) and (x+12).! !Then,!X + (x+3) + (x+6) + (x+9) + (x+12) = 50!5x + 30 =50!5x = 20!x = 20/5 = 4"
+            "explain": "Sea la edad del niño más pequeño = x! !Entonces las edades de los 5 niños se pueden escribir como x, (x+3), (x+6),(x+9) y (x+12).! !Entonces,!X + (x+3) + (x+6) + (x+9) + (x+12) = 50!5x + 30 =50!5x = 20!x = 20/5 = 4"
         },
         {
-            "question": "A is two years older than B who is twice as old as C. The total of the ages of A, B and C is 27. How old is B?",
+            "question": "A es dos años mayor que B, quien es el doble de viejo que C. La suma de las edades de A, B y C es 27. ¿Qué edad tiene B?",
             "a": "10",
             "b": "9",
             "c": "8",
@@ -42,10 +42,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of C = x.! !Then! !Age of B = 2x! !Age of A = 2 + 2x! !The total age of A,B and C =27! !(2+2x) + 2x + x = 27!5x = 25!B's age = 2x = 2 * 5 = 10"
+            "explain": "Sea la edad de C = x.! !Entonces! !Edad de B = 2x! !Edad de A = 2 + 2x! !La edad total de A, B y C = 27! !(2+2x) + 2x + x = 27!5x = 25!La edad de B = 2x = 2 * 5 = 10"
         },
         {
-            "question": "The Average age of a class of 22 subjects in 21 years. The average increased by 1 when the teacher's age also included. What is the age of the teacher?",
+            "question": "La edad promedio de una clase de 22 asignaturas en 21 años. El promedio aumentó en 1 cuando también se incluyó la edad del maestro. ¿Cuál es la edad del maestro?",
             "a": "48",
             "b": "45",
             "c": "43",
@@ -53,21 +53,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Total age of all students = 22 * 21 = 462! !Total age of all students + age of the teacher = 23 * 22 = 506! !Age of the teacher = 506 - 462 = 44"
+            "explain": "Edad total de todos los estudiantes = 22 * 21 = 462! !Edad total de todos los estudiantes + edad del maestro = 23 * 22 = 506! !Edad del maestro = 506 - 462 = 44"
         },
         {
-            "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, what was the son's age five years back?",
-            "a": "20 years",
-            "b": "18 years",
-            "c": "14 years",
-            "d": "22 years",
+            "question": "Un padre le dijo a su hijo: \"Yo tenía la edad que tienes tú ahora en el momento de tu nacimiento\". Si la edad del padre es de 38 años ahora, ¿cuál era la edad del hijo hace cinco años?",
+            "a": "20 años",
+            "b": "18 años",
+            "c": "14 años",
+            "d": "22 años",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the son's present age be x years.! !Then! (38 - x) = x! !2x = 38!x = 38/2 = 19! !Son's age 5 years back = 19-5 = 14 years"
+            "explain": "Sea la edad actual del hijo x años. !Entonces! (38 - x) = x! !2x = 38!x = 38/2 = 19! !La edad del hijo hace 5 años = 19-5 = 14 años"
         },
         {
-            "question": "Kiran is younger than Bineesh by 7 years and their ages are in the respective ratio of 7 / 9, how old is Kiran?",
+            "question": "Kiran es menor que Bineesh por 7 años y sus edades están en la proporción respectiva de 7/9, ¿qué edad tiene Kiran?",
             "a": "25",
             "b": "24.5",
             "c": "24",
@@ -75,10 +75,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of Kiran and Bineesh are 7x and 9x respectively! !7x = 9x-7!x = 7/2 = 3.5! !Kiran's age = 7x!= 7 * 3.5 = 24.5"
+            "explain": "Sean las edades de Kiran y Bineesh 7x y 9x respectivamente! !7x = 9x-7!x = 7/2 = 3.5! !La edad de Kiran = 7x!= 7 * 3.5 = 24.5"
         },
         {
-            "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. What is the present age of the mother?",
+            "question": "La edad actual de una persona es dos quintos de la edad de su madre. Después de 8 años, tendrá la mitad de la edad de su madre. ¿Cuál es la edad actual de la madre?",
             "a": "60",
             "b": "50",
             "c": "40",
@@ -86,21 +86,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of the person = x! !Then present age of the mother = 5x/2! !Given that , after 8 years, the person will be one-half of the age of his mother.! !(x + 8) = (1/2)(5x/2 + 8)!2x + 16 = 5x/2 + 8!x/2 = 8!x = 16! !Present age of the mother = 5x/2!= 5 * 16/2 = 40"
+            "explain": "Sea la edad actual de la persona = x! !Entonces la edad actual de la madre = 5x/2! !Dado que, después de 8 años, la persona tendrá la mitad de la edad de su madre.! !(x + 8) = (1/2)(5x/2 + 8)!2x + 16 = 5x/2 + 8!x/2 = 8!x = 16! !Edad actual de la madre = 5x/2!= 5 * 16/2 = 40"
         },
         {
-            "question": "A is as much younger than B and he is older than C. If the sum of the ages of B and C is 50 years, what is definitely the difference between B and A's age?",
-            "a": "Data inadequate",
-            "b": "3 years",
-            "c": "2 years",
-            "d": "5 years",
+            "question": "A es tanto más joven que B como mayor que C. Si la suma de las edades de B y C es de 50 años, ¿cuál es definitivamente la diferencia entre la edad de B y la de A?",
+            "a": "Datos insuficientes",
+            "b": "3 años",
+            "c": "2 años",
+            "d": "5 años",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Age of C < Age of A < Age of B! !Given that sum of the ages of B and C is 50 years.! !Let's take B's age = x and C's age = 50-x! !Now we need to find out B's age - A's age.!But we cannot find out this with the given data."
+            "explain": "Edad de C < Edad de A < Edad de B! !Dado que la suma de las edades de B y C es de 50 años.! !Tomemos la edad de B = x y la edad de C = 50-x! !Ahora necesitamos averiguar la edad de B - la edad de A.!Pero no podemos averiguarlo con los datos proporcionados."
         },
         {
-            "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. What is the ratio of their present ages?",
+            "question": "La edad del padre hace 10 años era el triple de la edad de su hijo. Dentro de diez años, la edad del padre será el doble de la de su hijo. ¿Cuál es la proporción de sus edades actuales?",
             "a": "7/3",
             "b": "3/7",
             "c": "9/4",
@@ -108,10 +108,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the son before 10 years = x!and age of the father before 10 years = 3x! !Now we can write as (3x + 20) = 2(x + 20)!x = 20! !Age of Father the son at present = x + 10!= 20 + 10 = 30! !Age of the father at present = 3x + 10!= 3 * 20 + 10 = 70! !Required ratio = 70/30 = 7/3"
+            "explain": "Sea la edad del hijo hace 10 años = x!y la edad del padre hace 10 años = 3x! !Ahora podemos escribir como (3x + 20) = 2(x + 20)!x = 20! !Edad del Padre el hijo en la actualidad = x + 10!= 20 + 10 = 30! !Edad del padre en la actualidad = 3x + 10!= 3 * 20 + 10 = 70! !Proporción requerida = 70/30 = 7/3"
         },
         {
-            "question": "The ages of two persons differ by 16 years. 6 years ago, the elder one was 3 times as old as the younger one. What are their present ages of the elder person?",
+            "question": "Las edades de dos personas difieren en 16 años. Hace 6 años, el mayor tenía 3 veces la edad del menor. ¿Cuáles son sus edades actuales de la persona mayor?",
             "a": "10",
             "b": "20",
             "c": "30",
@@ -119,21 +119,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let's take the present age of the elder person = x! !and the present age of the younger person = x - 16! !(x - 6) = 3 (x-16-6)!x - 6 = 3x - 66!2x = 60!x = 60/2 = 30"
+            "explain": "Tomemos la edad actual de la persona mayor = x! !y la edad actual de la persona menor = x - 16! !(x - 6) = 3 (x-16-6)!x - 6 = 3x - 66!2x = 60!x = 60/2 = 30"
         },
         {
-            "question": "Kamal was 4 times as old as his son 8 years ago. After 8 years, Kamal will be twice as old as his son. Find out the present age of Kamal.",
-            "a": "40 years",
-            "b": "38 years",
-            "c": "42 years",
-            "d": "36 years",
+            "question": "Kamal era 4 veces mayor que su hijo hace 8 años. Después de 8 años, Kamal tendrá el doble de edad que su hijo. Averigüe la edad actual de Kamal.",
+            "a": "40 años",
+            "b": "38 años",
+            "c": "42 años",
+            "d": "36 años",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of the son before 8 years = x! !Then age of Kamal before 8 years ago = 4x! !After 8 years, Kamal will be twice as old as his son! !4x + 16 = 2(x + 16)!x = 8! !Present age of Kamal = 4x + 8 = (4*8) + 8 = 40"
+            "explain": "Sea la edad del hijo hace 8 años = x! !Entonces la edad de Kamal hace 8 años = 4x! !Después de 8 años, Kamal tendrá el doble de edad que su hijo! !4x + 16 = 2(x + 16)!x = 8! !Edad actual de Kamal = 4x + 8 = (4*8) + 8 = 40"
         },
         {
-            "question": "One year ago, the ratio of Sooraj's and Vimal's age was 6/7 respectively. Four years hence, this ratio would become 7/8. How old is Vimal?",
+            "question": "Hace un año, la proporción de la edad de Sooraj y Vimal era de 6/7 respectivamente. Dentro de cuatro años, esta proporción sería de 7/8. ¿Qué edad tiene Vimal?",
             "a": "32",
             "b": "34",
             "c": "36",
@@ -141,10 +141,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let take the age of Sooraj and Vimal, 1 year ago as 6x and 7x respectively.! !Given that, four years hence, this ratio would become 7/8.! !(6x + 5)/(7x + 5) = 7/8!48x + 40 = 49x + 35!x = 5! !Vimal's present age = 7x + 1 = 7*5 + 1 = 36"
+            "explain": "Tomemos la edad de Sooraj y Vimal, hace 1 año como 6x y 7x respectivamente. !Dado que, dentro de cuatro años, esta proporción se convertiría en 7/8.! !(6x + 5)/(7x + 5) = 7/8!48x + 40 = 49x + 35!x = 5! !La edad actual de Vimal = 7x + 1 = 7*5 + 1 = 36"
         },
         {
-            "question": "The total age of A and B is 12 years more than the total age of B and C. C is how many year younger than A?",
+            "question": "La edad total de A y B es 12 años más que la edad total de B y C. ¿C es cuántos años más joven que A?",
             "a": "10",
             "b": "11",
             "c": "12",
@@ -152,54 +152,54 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that A+B = 12 + B + C! !A - C = 12 + B - B = 12! !C is younger than A by 12 years."
+            "explain": "Dado que A+B = 12 + B + C! !A - C = 12 + B - B = 12! !C es 12 años más joven que A."
         },
         {
-            "question": "Sachin's age after 15 years will be 5 times his age 5 years back. Find out the present age of Sachin?",
-            "a": "10 years",
-            "b": "11 years",
-            "c": "12 years",
-            "d": "13 years",
+            "question": "La edad de Sachin después de 15 años será 5 veces su edad de hace 5 años. ¿Averigua la edad actual de Sachin?",
+            "a": "10 años",
+            "b": "11 años",
+            "c": "12 años",
+            "d": "13 años",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present age of Sachin = x! !Then (x+15) = 5(x-5)!4x = 40!x = 10"
+            "explain": "Sea la edad actual de Sachin = x! !Entonces (x+15) = 5(x-5)!4x = 40!x = 10"
         },
         {
-            "question": "Sandeep's age after six years will be three-seventh of his father's age. Ten years ago the ratio of their ages was 1/5. What is Sandeep's father's age at present?",
-            "a": "30 years",
-            "b": "40 years",
-            "c": "50 years",
-            "d": "60 years",
+            "question": "La edad de Sandeep después de seis años será tres séptimos de la edad de su padre. Hace diez años, la proporción de sus edades era de 1/5. ¿Cuál es la edad actual del padre de Sandeep?",
+            "a": "30 años",
+            "b": "40 años",
+            "c": "50 años",
+            "d": "60 años",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the age of Sandeep and his father before 10 years be x and 5x respectively.! !Given that Sandeep's age after six years will be three-seventh of his father's age! !x + 16 = (3/7)(5x + 16)!7x + 112 = 15x + 48!8x = 64!x = 8! !Sandeep's father's present age = 5x + 10!= 5*8 + 10 = 50"
+            "explain": "Sean las edades de Sandeep y su padre hace 10 años x y 5x respectivamente. !Dado que la edad de Sandeep después de seis años será tres séptimos de la edad de su padre! !x + 16 = (3/7)(5x + 16)!7x + 112 = 15x + 48!8x = 64!x = 8! !La edad actual del padre de Sandeep = 5x + 10!= 5*8 + 10 = 50"
         },
         {
-            "question": "Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
-            "a": "2 times",
-            "b": "1 time",
-            "c": "4 times",
-            "d": "6 times",
+            "question": "Un padre tiene tres veces más edad que su hijo Ronit. Después de 8 años, tendrá dos veces y media la edad de Ronit. Después de otros 8 años, ¿cuántas veces tendrá la edad de Ronit?",
+            "a": "2 veces",
+            "b": "1 vez",
+            "c": "4 veces",
+            "d": "6 veces",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Ronit's present age be x years. Then, father's present age =(x + 3x) years!= 4x years.! !(4x + 8) = 5/2 (x+8)!8x + 16 = 5x + 40!3x = 24!x = 8! !Hence, required ratio = (4x+16)/(x+160)!= 48/24 = 2"
+            "explain": "Sea la edad actual de Ronit x años. Entonces, la edad actual del padre = (x + 3x) años != 4x años. !(4x + 8) = 5/2 (x+8)!8x + 16 = 5x + 40!3x = 24!x = 8! !Por lo tanto, la proporción requerida = (4x+16)/(x+160)!= 48/24 = 2"
         },
         {
-            "question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was?",
-            "a": "14 years",
-            "b": "19 years",
-            "c": "33 years",
-            "d": "38 years",
+            "question": "Un padre le dijo a su hijo: \"Yo tenía la edad que tienes tú ahora en el momento de tu nacimiento\". Si la edad del padre es de 38 años ahora, ¿la edad del hijo hace cinco años era?",
+            "a": "14 años",
+            "b": "19 años",
+            "c": "33 años",
+            "d": "38 años",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the son's present age be x years. Then, (38 - x) = x! !2x = 38!x = 19! !Hence, Son's age 5 years back (19 - 5) = 14 years."
+            "explain": "Sea la edad actual del hijo x años. Entonces, (38 - x) = x! !2x = 38!x = 19! !Por lo tanto, la edad del hijo hace 5 años (19 - 5) = 14 años."
         },
         {
-            "question": "Present ages of Sameer and Anand are in the ratio of 5/4 respectively. Three years hence, the ratio of their ages will become 11/9 respectively. What is Anand's present age in years?",
+            "question": "Las edades actuales de Sameer y Anand están en la proporción de 5/4 respectivamente. Dentro de tres años, la proporción de sus edades será de 11/9 respectivamente. ¿Cuál es la edad actual de Anand en años?",
             "a": "24",
             "b": "27",
             "c": "40",
@@ -207,76 +207,76 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of Sameer and Anand be 5x years and 4x years respectively.! !Then,!(5x+3)/(4x+3) = 11/9!9(5x + 3) = 11(4x + 3)!45x + 27 = 44x + 33!45x - 44x = 33 - 27!x = 6! !nand's present age = 4x = 24 years"
+            "explain": "Sean las edades actuales de Sameer y Anand 5x años y 4x años respectivamente. !Entonces,!(5x+3)/(4x+3) = 11/9!9(5x + 3) = 11(4x + 3)!45x + 27 = 44x + 33!45x - 44x = 33 - 27!x = 6! !La edad actual de Anand = 4x = 24 años"
         },
         {
-            "question": "Six years ago, the ratio of the ages of Kunal and Sagar was 6/5. Four years hence, the ratio of their ages will be 11/10. What is Sagar's age at present?",
-            "a": "16 years",
-            "b": "18 years",
-            "c": "20 years",
-            "d": "None of these",
+            "question": "Hace seis años, la proporción de las edades de Kunal y Sagar era de 6/5. Dentro de cuatro años, la proporción de sus edades será de 11/10. ¿Cuál es la edad actual de Sagar?",
+            "a": "16 años",
+            "b": "18 años",
+            "c": "20 años",
+            "d": "Ninguno de estos",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of Kunal and Sagar 6 years ago be 6x and 5x years respectively.! !Then,![(6x + 6) + 4]/[(5x + 6) + 4] = 11/10!10(6x + 10) = 11(5x + 10)!5x = 10!x = 2! !Hence, Sagar's present age = (5x + 6) = 16 years."
+            "explain": "Sean las edades de Kunal y Sagar hace 6 años 6x y 5x años respectivamente. !Entonces,![(6x + 6) + 4]/[(5x + 6) + 4] = 11/10!10(6x + 10) = 11(5x + 10)!5x = 10!x = 2! !Por lo tanto, la edad actual de Sagar = (5x + 6) = 16 años."
         },
         {
-            "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, father's age was five times the age of the son. After 6 years, son's age will be",
-            "a": "12 years",
-            "b": "14 years",
-            "c": "18 years",
-            "d": "20 years",
+            "question": "La suma de las edades actuales de un padre y su hijo es de 60 años. Hace seis años, la edad del padre era cinco veces la edad del hijo. Después de 6 años, la edad del hijo será",
+            "a": "12 años",
+            "b": "14 años",
+            "c": "18 años",
+            "d": "20 años",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of son and father be x and (60 -x) years respectively.! !Then,!(60 - x) - 6 = 5(x - 6)!54 - x = 5x - 30!6x = 84!x = 14! !Hence, Son's age after 6 years = (x+ 6)!= 20 years"
+            "explain": "Sean las edades actuales del hijo y del padre x y (60 -x) años respectivamente. !Entonces,!(60 - x) - 6 = 5(x - 6)!54 - x = 5x - 30!6x = 84!x = 14! !Por lo tanto, la edad del hijo después de 6 años = (x+ 6)!= 20 años"
         },
         {
-            "question": "At present, the ratio between the ages of Arun and Deepak is 4/3. After 6 years, Arun's age will be 26 years. What is the age of Deepak at present ?",
-            "a": "12 years",
-            "b": "15 years",
-            "c": "19 and half",
-            "d": "21 years",
+            "question": "En la actualidad, la proporción entre las edades de Arun y Deepak es de 4/3. Después de 6 años, la edad de Arun será de 26 años. ¿Cuál es la edad de Deepak en la actualidad?",
+            "a": "12 años",
+            "b": "15 años",
+            "c": "19 y medio",
+            "d": "21 años",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the present ages of Arun and Deepak be 4x years and 3x years respectively.! !Then,!4x + 6 = 26!4x = 20!x = 5! !Hence, Deepak's age = 3x = 15 years."
+            "explain": "Sean las edades actuales de Arun y Deepak 4x años y 3x años respectivamente. !Entonces,!4x + 6 = 26!4x = 20!x = 5! !Por lo tanto, la edad de Deepak = 3x = 15 años."
         },
         {
-            "question": "Sachin is younger than Rahul by 7 years. If their ages are in the respective ratio of 7/9, how old is Sachin?",
-            "a": "16 years",
-            "b": "18 years",
-            "c": "28 years",
-            "d": "24.5 years",
+            "question": "Sachin es menor que Rahul por 7 años. Si sus edades están en la proporción respectiva de 7/9, ¿qué edad tiene Sachin?",
+            "a": "16 años",
+            "b": "18 años",
+            "c": "28 años",
+            "d": "24.5 años",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Rahul's age be x years.! !Then,!Sachin's age = (x - 7) years.! !(x-7)/x = 7/9!9x - 63 = 7x!2x = 63!x = 31.5! !Hence, Sachin's age =(x - 7)= 24.5 years"
+            "explain": "Sea la edad de Rahul x años. !Entonces,!La edad de Sachin = (x - 7) años. !(x-7)/x = 7/9!9x - 63 = 7x!2x = 63!x = 31.5! !Por lo tanto, la edad de Sachin = (x - 7) = 24.5 años"
         },
         {
-            "question": "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present?",
-            "a": "32 years",
-            "b": "36 years",
-            "c": "40 years",
-            "d": "48 years",
+            "question": "La edad actual de una persona es dos quintos de la edad de su madre. Después de 8 años, tendrá la mitad de la edad de su madre. ¿Qué edad tiene la madre en la actualidad?",
+            "a": "32 años",
+            "b": "36 años",
+            "c": "40 años",
+            "d": "48 años",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the mother's present age be x years.! !Then,! the person's present age = (2/5)x years.! !(2/5)x + 8 = (1/2)(x + 8)!2(2x + 40) = 5(x + 8)!x = 40!"
+            "explain": "Sea la edad actual de la madre x años. !Entonces,! la edad actual de la persona = (2/5)x años. !(2/5)x + 8 = (1/2)(x + 8)!2(2x + 40) = 5(x + 8)!x = 40!"
         },
         {
-            "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. Find out the age of the youngest child?",
-            "a": "6 years",
-            "b": "5 years",
-            "c": "4 years",
-            "d": "3 years",
+            "question": "La suma de las edades de 5 niños nacidos a intervalos de 3 años cada uno es de 50 años. ¿Averigua la edad del niño más pequeño?",
+            "a": "6 años",
+            "b": "5 años",
+            "c": "4 años",
+            "d": "3 años",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of children be x, (x + 3), (x + 6), (x + 9) and (x + 12) years.! !Then,!x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 50!5x = 20!x = 4! !Hence, Age of the youngest child = x = 4 years"
+            "explain": "Sean las edades de los niños x, (x + 3), (x + 6), (x + 9) y (x + 12) años. !Entonces,!x + (x + 3) + (x + 6) + (x + 9) + (x + 12) = 50!5x = 20!x = 4! !Por lo tanto, la edad del niño más pequeño = x = 4 años"
         },
         {
-            "question": "A is two years older than B who is twice as old as C. The total of the ages of A, B and C is 27.How old is B?",
+            "question": "A es dos años mayor que B, quien es el doble de viejo que C. La suma de las edades de A, B y C es 27. ¿Qué edad tiene B?",
             "a": "10",
             "b": "9",
             "c": "8",
@@ -284,10 +284,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let C's age be x years. Then, B's age = 2x years. A's age = (2x + 2) years.! !So, (2x + 2) + 2x + x = 27!5x = 25!x = 5! !Hence, B's age = 2x = 10 years"
+            "explain": "Sea la edad de C x años. Entonces, la edad de B = 2x años. La edad de A = (2x + 2) años. !Entonces, (2x + 2) + 2x + x = 27!5x = 25!x = 5! !Por lo tanto, la edad de B = 2x = 10 años"
         },
         {
-            "question": "The Average age of a class of 22 students is 21 years.The average increased by 1 when the teacher's age also included.What is the age of the teacher?",
+            "question": "La edad promedio de una clase de 22 estudiantes es de 21 años. El promedio aumentó en 1 cuando también se incluyó la edad del maestro. ¿Cuál es la edad del maestro?",
             "a": "48",
             "b": "45",
             "c": "43",
@@ -295,21 +295,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "No hay descripción de respuesta disponible para esta pregunta."
         },
         {
-            "question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
-            "a": "1 year",
-            "b": "2 years",
-            "c": "25 years",
-            "d": "Data inadequate",
+            "question": "Q es tanto más joven que R como mayor que T. Si la suma de las edades de R y T es de 50 años, ¿cuál es definitivamente la diferencia entre la edad de R y la de Q?",
+            "a": "1 año",
+            "b": "2 años",
+            "c": "25 años",
+            "d": "Datos insuficientes",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that! !(i)The difference of age b/w R and Q = The difference of age b/w Q and T!(ii) (R + T) = 50! !So,R - Q = Q - T! !(R + T) = 2Q! !Now given that, (R + T) = 50! !So, 50 = 2Q and therefore Q = 25! !Question is (R - Q) = ?! !Here we know the value(age) of Q (25), but we don't know the age of R.! !Therefore, (R-Q) cannot be determined."
+            "explain": "Dado que! !(i)La diferencia de edad entre R y Q = La diferencia de edad entre Q y T!(ii) (R + T) = 50! !Entonces,R - Q = Q - T! !(R + T) = 2Q! !Ahora dado que, (R + T) = 50! !Entonces, 50 = 2Q y por lo tanto Q = 25! !La pregunta es (R - Q) = ?! !Aquí conocemos el valor (edad) de Q (25), pero no conocemos la edad de R.! !Por lo tanto, (R-Q) no se puede determinar."
         },
         {
-            "question": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is",
+            "question": "La edad del padre hace 10 años era el triple de la edad de su hijo. Dentro de diez años, la edad del padre será el doble de la de su son. La proporción de sus edades actuales es",
             "a": "5/2",
             "b": "7/3",
             "c": "9/2",
@@ -317,43 +317,43 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let the ages of father and son 10 years ago be 3x and x years respectively.! !Then,!(3x + 10) + 10 = 2[(x + 10) + 10]!3x + 20 = 2x + 40!x = 20!So, 3x + 10 = 70!and x + 10 = 30! !Hence, ratio is 70/30 = 7/3."
+            "explain": "Sean las edades del padre y del hijo hace 10 años 3x y x años respectivamente. !Entonces,!(3x + 10) + 10 = 2[(x + 10) + 10]!3x + 20 = 2x + 40!x = 20!Entonces, 3x + 10 = 70!y x + 10 = 30! !Por lo tanto, la proporción es 70/30 = 7/3."
         },
         {
-            "question": "A is as much younger than B and he is older than C. If the sum of the ages of B and C is 50 years, what is definitely the difference between B and A's age?",
-            "a": "Data inadequate",
-            "b": "3 years",
-            "c": "2 years",
-            "d": "5 years",
+            "question": "A es tanto más joven que B como mayor que C. Si la suma de las edades de B y C es de 50 años, ¿cuál es definitivamente la diferencia entre la edad de B y la de A?",
+            "a": "Datos insuficientes",
+            "b": "3 años",
+            "c": "2 años",
+            "d": "5 años",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "No hay descripción de respuesta disponible para esta pregunta."
         },
         {
-            "question": "A man's age is three times his son's. In 15 years it will be double that of his son's. How old is the son now?",
+            "question": "La edad de un hombre es tres veces la de su hijo. En 15 años será el doble de la de su hijo. ¿Qué edad tiene el hijo ahora?",
             "a": "30",
             "b": "15",
             "c": "45",
-            "d": "none",
+            "d": "ninguno",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Son's age is x!Mans Age = 3x! !Given that!3x+15 = 2(x+15)!3x+15 = 2x+30!3x-2x = 30-15! !x = 15! !Hence son is 15 years old."
+            "explain": "Sea la edad del hijo x!Edad del hombre = 3x! !Dado que!3x+15 = 2(x+15)!3x+15 = 2x+30!3x-2x = 30-15! !x = 15! !Por lo tanto, el hijo tiene 15 años."
         },
         {
-            "question": "The sum of the present ages of a mother and daughter is 63. Three years back if the age of the mother was double that of the daughter, then the present age of the daughter is",
-            "a": "21 years",
-            "b": "24 years",
-            "c": "22 years",
-            "d": "15 years",
+            "question": "La suma de las edades actuales de una madre y una hija es de 63. Hace tres años, si la edad de la madre era el doble de la de la hija, entonces la edad actual de la hija es",
+            "a": "21 años",
+            "b": "24 años",
+            "c": "22 años",
+            "d": "15 años",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let mother's present age is x and daughters present age is y! !Given that!x+y = 63 ...(1)!and! !x-3 = 2(y-3)!x-3 = 2y-6!x-2y = -6+3!x-2y = -3 ...(2)! !By simultaneously solving equation(1) and equation(2) We'll find!y = 22! !Hence present age of the daughter is 22 years."
+            "explain": "Sea la edad actual de la madre x y la edad actual de la hija y! !Dado que!x+y = 63 ...(1)!y! !x-3 = 2(y-3)!x-3 = 2y-6!x-2y = -6+3!x-2y = -3 ...(2)! !Resolviendo simultáneamente la ecuación (1) y la ecuación (2) encontraremos!y = 22! !Por lo tanto, la edad actual de la hija es de 22 años."
         },
         {
-            "question": "The product of the ages of two class fellows is 24. If the greater fellow is 3/2 times the smaller one, then the age of the smaller fellow is",
+            "question": "El producto de las edades de dos compañeros de clase es 24. Si el compañero mayor es 3/2 veces el menor, entonces la edad del compañero menor es",
             "a": "8",
             "b": "6",
             "c": "4",
@@ -361,10 +361,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of the greater fellow is x and present age of smaller fellow is y.! !Given that xy = 24 ...(1)!and! !x = (3/2)y!Put value of x in equation(1).! !(3/2)y^2 = 24!y^2 = 24*(2/3)!y^2 = 16!y = 4! !Hence age of smaller fellow is 4 years."
+            "explain": "Sea la edad actual del compañero mayor x y la edad actual del compañero menor y. !Dado que xy = 24 ...(1)!y! !x = (3/2)y!Ponga el valor de x en la ecuación (1).! !(3/2)y^2 = 24!y^2 = 24*(2/3)!y^2 = 16!y = 4! !Por lo tanto, la edad del compañero menor es de 4 años."
         },
         {
-            "question": "Meena is thrice as old as Sheraz. Fatima will be twice as old as Meena 6 years hence. Six years ago Sheraz was five years old. What is Fatima's present age?",
+            "question": "Meena es tres veces mayor que Sheraz. Fátima tendrá el doble de edad que Meena dentro de 6 años. Hace seis años, Sheraz tenía cinco años. ¿Cuál es la edad actual de Fátima?",
             "a": "65",
             "b": "70",
             "c": "68",
@@ -372,10 +372,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of Sheraz is x and present age of Fatima is y.! !So,!Meena's age = 3x! !Given that!y+6 = 2(3x+6) ...(1)!and!x-6 = 5!x = 11! !Put value of x in equation(1)! !y+6 = 2(33+6)!y+6 = 78!y = 72! !Hence Fatima's present age is 72 years."
+            "explain": "Sea la edad actual de Sheraz x y la edad actual de Fátima y. !Entonces,!La edad de Meena = 3x! !Dado que!y+6 = 2(3x+6) ...(1)!y!x-6 = 5!x = 11! !Ponga el valor de x en la ecuación (1)! !y+6 = 2(33+6)!y+6 = 78!y = 72! !Por lo tanto, la edad actual de Fátima es de 72 años."
         },
         {
-            "question": "C's mother was four times as old as C ten years ago. After 10 years she will be twice as old as C is now. How old C is now?",
+            "question": "La madre de C era cuatro veces mayor que C hace diez años. Después de 10 años, tendrá el doble de la edad que C tiene ahora. ¿Qué edad tiene C ahora?",
             "a": "15",
             "b": "30",
             "c": "20",
@@ -383,10 +383,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let C's present age is x and his mother's age is y.! !Given that!y = 4(x-10)!y = 4x-40!4x-y = 40 ...(1)! !and!y+10 = 2x!2x-y = 10 ...(2).! !By simultaneously solving equation(1) and equation(2) we find! x = 15! !Hence C is 15 years old."
+            "explain": "Sea la edad actual de C x y la edad de su madre y. !Dado que!y = 4(x-10)!y = 4x-40!4x-y = 40 ...(1)! !y!y+10 = 2x!2x-y = 10 ...(2).! !Resolviendo simultáneamente la ecuación (1) y la ecuación (2) encontramos! x = 15! !Por lo tanto, C tiene 15 años."
         },
         {
-            "question": "A mother's age after 5 years, will be twice the age of her daughter. The difference of their ages is 19. What is the age of mother?",
+            "question": "La edad de una madre después de 5 años será el doble de la edad de su hija. La diferencia de sus edades es de 19. ¿Cuál es la edad de la madre?",
             "a": "13",
             "b": "33",
             "c": "15",
@@ -394,10 +394,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of daughter is x and present age of mother is y.! !Given that!y+5 = 2(x+5)!y+5 = 2x+10!5-10 = 2x-y!y-2x = 5 ...(1)! !and also given that!y-x = 19 ...(2)! !By simultaneously solving equation(1) and equation(2) we can find!y = 33! !Hence mothers present age is 33 years."
+            "explain": "Sea la edad actual de la hija x y la edad actual de la madre y. !Dado que!y+5 = 2(x+5)!y+5 = 2x+10!5-10 = 2x-y!y-2x = 5 ...(1)! !y también dado que!y-x = 19 ...(2)! !Resolviendo simultáneamente la ecuación (1) y la ecuación (2) podemos encontrar!y = 33! !Por lo tanto, la edad actual de la madre es de 33 años."
         },
         {
-            "question": "The ages of X and Y are in the ratio 7/4. If the sum of their present ages is 55, then the age of X is",
+            "question": "Las edades de X e Y están en la proporción de 7/4. Si la suma de sus edades actuales es de 55, entonces la edad de X es",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -405,10 +405,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!x/y = 7/4 ...(1)! !and!x+y = 55 ...(2)! !From equation(1)!4x = 7y!y = (4/7)x! !Put value of y in equation(2)!x + (4/7)x = 55!(7x+4x)/7 = 55!11x = 385!x = 35! !Hence the age of x is 35 years."
+            "explain": "Dado que!x/y = 7/4 ...(1)! !y!x+y = 55 ...(2)! !De la ecuación (1)!4x = 7y!y = (4/7)x! !Ponga el valor de y en la ecuación (2)!x + (4/7)x = 55!(7x+4x)/7 = 55!11x = 385!x = 35! !Por lo tanto, la edad de x es de 35 años."
         },
         {
-            "question": "The sum of the ages of a son and a father is 64. After 4 years the age of father will be three times that of his son's. The age of father is",
+            "question": "La suma de las edades de un hijo y un padre es de 64. Después de 4 años, la edad del padre será tres veces la de su hijo. La edad del padre es",
             "a": "46",
             "b": "50",
             "c": "44",
@@ -416,10 +416,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!x+y = 64 ...(1)! !and!y+4 = 3(x+4)!y+4 = 3x + 12!y-3x = 8 ...(2)! !Put value of x from equation(1) in equation(2)! !y-3(64-y) = 8!y-192+3y = 8!4y = 200!y = 50! !Hence present age of the father is 50 years."
+            "explain": "Sea la edad actual del hijo x y la edad actual del padre y. !Dado que!x+y = 64 ...(1)! !y!y+4 = 3(x+4)!y+4 = 3x + 12!y-3x = 8 ...(2)! !Ponga el valor de x de la ecuación (1) en la ecuación (2)! !y-3(64-y) = 8!y-192+3y = 8!4y = 200!y = 50! !Por lo tanto, la edad actual del padre es de 50 años."
         },
         {
-            "question": "Ages of A and B are in ratio 8/7. 27 years ago their ages were in the ratio 5/4. The age of B is",
+            "question": "Las edades de A y B están en una proporción de 8/7. Hace 27 años, sus edades estaban en la proporción de 5/4. La edad de B es",
             "a": "63",
             "b": "65",
             "c": "68",
@@ -427,10 +427,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A/B = 8/7 ...(1)! !and!(A-27)/(B-27) = 5/4!5B-135 = 4A-108 ...(2)! !From equation(1) we have!A = (8/7)B! !Put value of A in equation(2)!5B-135 = 4*[(8/7)B]-108!5B-27 = (32/7)B!5B-(32/7)B = 27!(35B-32B)/7 = 27!3B = 189!B = 63! !Hence the age of B is 63 years."
+            "explain": "Dado que!A/B = 8/7 ...(1)! !y!(A-27)/(B-27) = 5/4!5B-135 = 4A-108 ...(2)! !De la ecuación (1) tenemos!A = (8/7)B! !Ponga el valor de A en la ecuación (2)!5B-135 = 4*[(8/7)B]-108!5B-27 = (32/7)B!5B-(32/7)B = 27!(35B-32B)/7 = 27!3B = 189!B = 63! !Por lo tanto, la edad de B es de 63 años."
         },
         {
-            "question": "A father is 15 times as old as his son. however, 18 years later, he will be only thrice as old as the son. What is the father's present age?",
+            "question": "Un padre es 15 veces mayor que su hijo. sin embargo, 18 años después, solo tendrá el triple de edad que el hijo. ¿Cuál es la edad actual del padre?",
             "a": "21",
             "b": "25",
             "c": "45",
@@ -438,10 +438,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of the son is x and present age of Father is y.! !Given that!y = 15x!15x-y = 0 ...(1)! !and also given that!y+18 = 3(x+18)!y+18 = 3x+54!y-3x = 36 ...(2)! !By simultaneously solving equation(1) and equation(2)!y = 45! !Hence father's present age is 45 years."
+            "explain": "Sea la edad actual del hijo x y la edad actual del padre y. !Dado que!y = 15x!15x-y = 0 ...(1)! !y también dado que!y+18 = 3(x+18)!y+18 = 3x+54!y-3x = 36 ...(2)! !Resolviendo simultáneamente la ecuación (1) y la ecuación (2)!y = 45! !Por lo tanto, la edad actual del padre es de 45 años."
         },
         {
-            "question": "Ten years ago a father was seven times as old as his son, two years hence, twice his age will be equal to five times his son's. What is the present age of son?",
+            "question": "Hace diez años, un padre tenía siete veces la edad de su hijo, dentro de dos años, el doble de su edad será igual a cinco veces la de su hijo. ¿Cuál es la edad actual del hijo?",
             "a": "14",
             "b": "20",
             "c": "16",
@@ -449,10 +449,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!y-10 = 7(x-10)!y-10 = 7x-70!y-7x = -70+10!7x-y = 60 ...(1)! ! and also given that!2(y+2) = 5(x+2)!2y+4 = 5x+10!2y-5x = 6 ...(2)By simultaneously soving equation(1) and equation(2)!x = 14! !Hence present age of son is 14 years."
+            "explain": "Sea la edad actual del hijo x y la edad actual del padre y. !Dado que!y-10 = 7(x-10)!y-10 = 7x-70!y-7x = -70+10!7x-y = 60 ...(1)! ! y también dado que!2(y+2) = 5(x+2)!2y+4 = 5x+10!2y-5x = 6 ...(2)Resolviendo simultáneamente la ecuación (1) y la ecuación (2)!x = 14! !Por lo tanto, la edad actual del hijo es de 14 años."
         },
         {
-            "question": "Ten years ago Akram was thrice as old as Aslam was, but 10 years hence, he will be only twice as old. What is Akram's present age?",
+            "question": "Hace diez años, Akram tenía el triple de edad que Aslam, pero dentro de 10 años, solo tendrá el doble. ¿Cuál es la edad actual de Akram?",
             "a": "30",
             "b": "50",
             "c": "60",
@@ -460,10 +460,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Aslam's present age is x and Akram's present age is y.! !Given that!y-10 = 3(x-10)!y-10 = 3x-30!y-3x = -20!3x-y = 20 ...(1)! !and also given that!y+10 = 2(x+10)!y+10 = 2x+20!y-2x = 10 ...(2)! !By simultaneously solving equation(1) and equation(2)!y=70! !Hence Akram's present age is 70 years."
+            "explain": "Sea la edad actual de Aslam x y la edad actual de Akram y. !Dado que!y-10 = 3(x-10)!y-10 = 3x-30!y-3x = -20!3x-y = 20 ...(1)! !y también dado que!y+10 = 2(x+10)!y+10 = 2x+20!y-2x = 10 ...(2)! !Resolviendo simultáneamente la ecuación (1) y la ecuación (2)!y=70! !Por lo tanto, la edad actual de Akram es de 70 años."
         },
         {
-            "question": "20 years ago my age was 1/3 of what it is now. What is my present age?",
+            "question": "Hace 20 años mi edad era 1/3 de la que tengo ahora. ¿Cuál es mi edad actual?",
             "a": "30",
             "b": "33",
             "c": "36",
@@ -471,10 +471,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let my present age is x.! !Given that!x-20 = (1/3)x!3x-60 = x!2x = 60!x = 30! !Hence my present age is 30 years."
+            "explain": "Sea mi edad actual x. !Dado que!x-20 = (1/3)x!3x-60 = x!2x = 60!x = 30! !Por lo tanto, mi edad actual es de 30 años."
         },
         {
-            "question": "The average age of A and B is 20. If C were to replace A, the average would be 19, and if B was replaced by C, the average would be 21. The age of C is",
+            "question": "La edad promedio de A y B es 20. Si C reemplazara a A, el promedio sería 19, y si B fuera reemplazado por C, el promedio sería 21. La edad de C es",
             "a": "18",
             "b": "19",
             "c": "20",
@@ -482,10 +482,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!(A+B)/2 = 20!A+B = 40 ...(1)! !and!(C+B)/2 = 19!C+B = 38 ...(2)! !and!(A+C)/2 = 21!A+C = 42 ...(3)! !Put value of A from equation(1) in equation(3)!(40-B)+C = 42!C-B = 2 ...(4)! !By simultaneously solving equation(2) and equation(4)!C = 20! !Hence C is 20 years old."
+            "explain": "Dado que!(A+B)/2 = 20!A+B = 40 ...(1)! !y!(C+B)/2 = 19!C+B = 38 ...(2)! !y!(A+C)/2 = 21!A+C = 42 ...(3)! !Ponga el valor de A de la ecuación (1) en la ecuación (3)!(40-B)+C = 42!C-B = 2 ...(4)! !Resolviendo simultáneamente la ecuación (2) y la ecuación (4)!C = 20! !Por lo tanto, C tiene 20 años."
         },
         {
-            "question": "The ratio of the ages of two friends A and B is 3/2. However if the age of A is decreased by 10 and that of B is increased by 10 then the original ratio is reversed. Age of A is",
+            "question": "La proporción de las edades de dos amigos A y B es de 3/2. Sin embargo, si la edad de A se reduce en 10 y la de B se aumenta en 10, la proporción original se invierte. La edad de A es",
             "a": "20",
             "b": "25",
             "c": "30",
@@ -493,10 +493,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A/B = 3/2!2A = 3B!2A-3B = 0 ...(1)! !and also given that!(A-10)/(B+10) = 2/3!3A-30 = 2B+20!3A-2B = 50 ...(2)! !By simultaneously solving equation(1) and equation(2)!A = 30! !Hence age of A is 30 years."
+            "explain": "Dado que!A/B = 3/2!2A = 3B!2A-3B = 0 ...(1)! !y también dado que!(A-10)/(B+10) = 2/3!3A-30 = 2B+20!3A-2B = 50 ...(2)! !Resolviendo simultáneamente la ecuación (1) y la ecuación (2)!A = 30! !Por lo tanto, la edad de A es de 30 años."
         },
         {
-            "question": "The sum of the ages of two children is 12  and their product is 32. The age of elder one is",
+            "question": "La suma de las edades de dos niños es 12 y su producto es 32. La edad del mayor es",
             "a": "2",
             "b": "3",
             "c": "4",
@@ -504,10 +504,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let age of younger child is x and age of elder child is y.! !Given that!x+y = 12 ...(1)! !and!xy = 32!x = 32/y! !Put value of x in equation(1)!(32/y)+y = 12!32+(y^2) = 12y!(y^2)-12y+32 = 0!(y^2)-8y-4y+32 = 0!y(y-8)+4(y-8) = 0!(y-8)(y+4) = 0!y = -4 (impossible)!or!y = 8! !Hence age of elder child is 8 years."
+            "explain": "Sea la edad del niño menor x y la edad del niño mayor y. !Dado que!x+y = 12 ...(1)! !y!xy = 32!x = 32/y! !Ponga el valor de x en la ecuación (1)!(32/y)+y = 12!32+(y^2) = 12y!(y^2)-12y+32 = 0!(y^2)-8y-4y+32 = 0!y(y-8)+4(y-8) = 0!(y-8)(y+4) = 0!y = -4 (imposible)!o!y = 8! !Por lo tanto, la edad del niño mayor es de 8 años."
         },
         {
-            "question": "The ratio of A's age and B's age is 3/7, and the difference of their ages is 16 years. Find the age of B.",
+            "question": "La proporción de la edad de A y la edad de B es de 3/7, y la diferencia de sus edades es de 16 años. Averigüe la edad de B.",
             "a": "25",
             "b": "26",
             "c": "27",
@@ -515,12 +515,12 @@
             "answer": "",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "We can simply check it from options. If John's cousins age is 7 then John's age is 42!and!1/6 0f 42 = 7!Hence 7 fulfills the required condition.",
+            "explain": "Podemos simplemente comprobarlo desde las opciones. Si la edad del primo de John es 7, entonces la edad de John es 42!y!1/6 de 42 = 7!Por lo tanto, 7 cumple la condición requerida.",
             "e": "28",
-            "f": "Given that!A/B = 3/7 ...(1)! !and!B-A = 16 ...(2)!Put value of A from equation(1) in equation(2)!B-(3/7)B = 16!(7B-3B)/7 = 16!4B = 112!B = 28! !Hence Age of B is 28 years."
+            "f": "Dado que!A/B = 3/7 ...(1)! !y!B-A = 16 ...(2)!Ponga el valor de A de la ecuación (1) en la ecuación (2)!B-(3/7)B = 16!(7B-3B)/7 = 16!4B = 112!B = 28! !Por lo tanto, la edad de B es de 28 años."
         },
         {
-            "question": "Tina is twice as old as David. 15 years ago, Tina's age was 5 times the age of David. What is the present age of Tina?",
+            "question": "Tina tiene el doble de edad que David. Hace 15 años, la edad de Tina era 5 veces la edad de David. ¿Cuál es la edad actual de Tina?",
             "a": "20",
             "b": "35",
             "c": "40",
@@ -528,10 +528,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let David's age is x and Tina's age is y.! !Given that!y = 2x!y-2x = 0 ...(1)! !and also given that!y-15 = 5(x-15)!y-15 = 5x-75!y-5x = -60 ...(2)! !By simultaneously solving equation(1) and equation(2)!y = 40! !Hence Tina's present age is 40 years."
+            "explain": "Sea la edad de David x y la edad de Tina y. !Dado que!y = 2x!y-2x = 0 ...(1)! !y también dado que!y-15 = 5(x-15)!y-15 = 5x-75!y-5x = -60 ...(2)! !Resolviendo simultáneamente la ecuación (1) y la ecuación (2)!y = 40! !Por lo tanto, la edad actual de Tina es de 40 años."
         },
         {
-            "question": "The present age of A is 45 yeras. 5 years ago the age of A was 5 times the age of his son B. How old is B now?",
+            "question": "La edad actual de A es de 45 años. Hace 5 años, la edad de A era 5 veces la edad de su hijo B. ¿Qué edad tiene B ahora?",
             "a": "5",
             "b": "15",
             "c": "13",
@@ -539,10 +539,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A = 45! !and!A-5 = 5(B-5)!40 = 5B-25!65 = 5B!B = 13! !Hence B is 13 years old now."
+            "explain": "Dado que!A = 45! !y!A-5 = 5(B-5)!40 = 5B-25!65 = 5B!B = 13! !Por lo tanto, B tiene 13 años ahora."
         },
         {
-            "question": "A's age is 3/4 of that of B's. Two years ago A's age was 1/2 of what B will be in 4 years. How old is A now?",
+            "question": "La edad de A es 3/4 de la de B. Hace dos años, la edad de A era 1/2 de la que tendrá B en 4 años. ¿Qué edad tiene A ahora?",
             "a": "17",
             "b": "12",
             "c": "20",
@@ -550,10 +550,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A = (3/4)B ...(1)! !and!A-2 = (1/2)(B+4)!2A-4 = B+4!2A-B = 8! !Put value of B from equation(1)!2A-(4/3)A = 8!6A-4A = 24!2A = 24!A = 12! !Hence A is 12 years old now."
+            "explain": "Dado que!A = (3/4)B ...(1)! !y!A-2 = (1/2)(B+4)!2A-4 = B+4!2A-B = 8! !Ponga el valor de B de la ecuación (1)!2A-(4/3)A = 8!6A-4A = 24!2A = 24!A = 12! !Por lo tanto, A tiene 12 años ahora."
         },
         {
-            "question": "A father is 3 years older than 3 times the age of his son. If the sum of their ages is 31 years, how old was father 3 years ago?",
+            "question": "Un padre es 3 años mayor que 3 veces la edad de su hijo. Si la suma de sus edades es de 31 años, ¿qué edad tenía el padre hace 3 años?",
             "a": "21",
             "b": "18",
             "c": "14",
@@ -561,10 +561,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of son is x and present age of father is y.! !Given that!y = 3x+3 ...(1)! !and!x+y = 31!x = 31-y! !Put value of x in equation(1)!y = 3(31-y)+3!y = 93-3y+3!4y = 96!y = 24! !Three years ago!y = 24-3!y = 21! !Hence father was 21 years old 3 years ago."
+            "explain": "Sea la edad actual del hijo x y la edad actual del padre y. !Dado que!y = 3x+3 ...(1)! !y!x+y = 31!x = 31-y! !Ponga el valor de x en la ecuación (1)!y = 3(31-y)+3!y = 93-3y+3!4y = 96!y = 24! !Hace tres años!y = 24-3!y = 21! !Por lo tanto, el padre tenía 21 años hace 3 años."
         },
         {
-            "question": "X is 4 times as old as y. 4 years ago, X was 10 times as old as Y. What will be the ratio of their ages 6 years hence?",
+            "question": "X es 4 veces mayor que y. Hace 4 años, X era 10 veces mayor que Y. ¿Cuál será la proporción de sus edades dentro de 6 años?",
             "a": "5/2",
             "b": "3/5",
             "c": "5/4",
@@ -572,10 +572,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!X = 4Y ...(1)! !and!X-4 = 10(Y-4)!X-4 = 10Y-40!X-10Y = -36!10Y-X = 36 ...(2)! !Put value of X from equation(1) in equation(2)!10Y-4Y = 36!6Y = 36!Y = 6! !Put value of Y in equation(1)!X = 4*6!X = 24! !After 6 years!Y = 24+6!Y = 30!and!X = 6+6!X = 12! !Ratio between X and Y is!30/12 = 5/2! !Hence after 6 years ratio between ages of X and Y will be 5/2."
+            "explain": "Dado que!X = 4Y ...(1)! !y!X-4 = 10(Y-4)!X-4 = 10Y-40!X-10Y = -36!10Y-X = 36 ...(2)! !Ponga el valor de X de la ecuación (1) en la ecuación (2)!10Y-4Y = 36!6Y = 36!Y = 6! !Ponga el valor de Y en la ecuación (1)!X = 4*6!X = 24! !Después de 6 años!Y = 24+6!Y = 30!y!X = 6+6!X = 12! !La proporción entre X e Y es!30/12 = 5/2! !Por lo tanto, después de 6 años, la proporción entre las edades de X e Y será de 5/2."
         },
         {
-            "question": "The ages of C and D are in 6/11 and E is 6 years younger than D. If the sum of ages is 134, then what is the age of D?",
+            "question": "Las edades de C y D están en 6/11 y E es 6 años más joven que D. Si la suma de las edades es 134, ¿cuál es la edad de D?",
             "a": "65",
             "b": "70",
             "c": "35",
@@ -583,10 +583,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!C/D = 6/11!C = (6/11)D ...(1)! !and!C+D+E = 134! !As E is 6 years younger from D so we can put D-6 instead of D!C+D+D-6 = 134!C+2D = 140!Put value of C from equation(1)!(6/11)D+2D = 140!6D+22D = 140!28D = 1540!D = 55! !Hence D is 55 years old."
+            "explain": "Dado que!C/D = 6/11!C = (6/11)D ...(1)! !y!C+D+E = 134! !Como E es 6 años más joven que D, podemos poner D-6 en lugar de D!C+D+D-6 = 134!C+2D = 140!Ponga el valor de C de la ecuación (1)!(6/11)D+2D = 140!6D+22D = 140!28D = 1540!D = 55! !Por lo tanto, D tiene 55 años."
         },
         {
-            "question": "Kamal's age is 1/6 of his father's age. If kamal's 8th birthday was celebrated 2 years ago, what is father's present age?",
+            "question": "La edad de Kamal es 1/6 de la edad de su padre. Si el octavo cumpleaños de Kamal se celebró hace 2 años, ¿cuál es la edad actual del padre?",
             "a": "2",
             "b": "3",
             "c": "6",
@@ -594,10 +594,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Kamal's present age is x and his father's present age is y.! !Given that!y = 6x ...(1)! !and!x-2 = 8!x = 10! !Put value of x in equation(1)!y = 6*10!y = 60! !Hence father's present age is 60 years."
+            "explain": "Sea la edad actual de Kamal x y la edad actual de su padre y. !Dado que!y = 6x ...(1)! !y!x-2 = 8!x = 10! !Ponga el valor de x en la ecuación (1)!y = 6*10!y = 60! !Por lo tanto, la edad actual del padre es de 60 años."
         },
         {
-            "question": "3 years ago, the average age of C and D was 18 years. With E joining them, the average becomes 22 years. How old is E now?",
+            "question": "Hace 3 años, la edad promedio de C y D era de 18 años. Con E uniéndose a ellos, el promedio se convierte en 22 años. ¿Qué edad tiene E ahora?",
             "a": "24",
             "b": "27",
             "c": "28",
@@ -605,10 +605,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that![(C-3)+(D-3)]/2 = 18!C-3+D-3 = 36!C+D = 42 ...(1)! !and also given that!(C+D+E)/3 = 22!C+D+E = 66! !Put value of C+D from equation(1)!42+E = 66!E = 66-42!E = 24! !Hence E is 24 years old now."
+            "explain": "Dado que![(C-3)+(D-3)]/2 = 18!C-3+D-3 = 36!C+D = 42 ...(1)! !y también dado que!(C+D+E)/3 = 22!C+D+E = 66! !Ponga el valor de C+D de la ecuación (1)!42+E = 66!E = 66-42!E = 24! !Por lo tanto, E tiene 24 años ahora."
         },
         {
-            "question": "Bill's age is 1/3 of Mike's age, who is 60% of James' age. Tom is twice as old as Mike. What is the ratio of Bill's age to Tom's age?",
+            "question": "La edad de Bill es 1/3 de la edad de Mike, que es el 60% de la edad de James. Tom tiene el doble de edad que Mike. ¿Cuál es la proporción de la edad de Bill con la de Tom?",
             "a": "1/6",
             "b": "1/3",
             "c": "3/1",
@@ -616,10 +616,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let Bill's age is Z, Mike's age is Y and Tom's age is X.! !Given that!Z = (1/3)Y!and!Y = (60/100)X!Y = (6/10)X! !Tom's Age is double of Mike's age mean his age is 2y.!Now Bill's age is (1/3)Y and Tom's age is 2Y and ratio between them is![(1/3)Y] / 2Y!(1/3)*(1/2) = 1/6! !Hence ratio between Bill's and Tom's age is 1/6."
+            "explain": "Sea la edad de Bill Z, la edad de Mike Y y la edad de Tom X. !Dado que!Z = (1/3)Y!y!Y = (60/100)X!Y = (6/10)X! !La edad de Tom es el doble de la edad de Mike, lo que significa que su edad es 2y. !Ahora la edad de Bill es (1/3)Y y la edad de Tom es 2Y y la proporción entre ellos es![(1/3)Y] / 2Y!(1/3)*(1/2) = 1/6! !Por lo tanto, la proporción entre la edad de Bill y la de Tom es 1/6."
         },
         {
-            "question": "In 1975, A was thrice as old as B but in 1979, A was only twice as old as B was. How old was A in 1985?",
+            "question": "En 1975, A tenía el triple de edad que B, pero en 1979, A solo tenía el doble de edad que B. ¿Qué edad tenía A en 1985?",
             "a": "25",
             "b": "20",
             "c": "15",
@@ -627,10 +627,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let A's age in 1985 was X.! !Given that!X-10 = 3(B-10)!X-10 = 3B-30!3B-X = 20 ...(1)! !and!X-6 = 2(B-6)!X-6 = 2B-12!2B-X = 6 ...(2)! !By simultaneously solving equation(1) and (2) we have!X = 22! !Hence A's age in 1985 was 22 years."
+            "explain": "Sea la edad de A en 1985 X. !Dado que!X-10 = 3(B-10)!X-10 = 3B-30!3B-X = 20 ...(1)! !y!X-6 = 2(B-6)!X-6 = 2B-12!2B-X = 6 ...(2)! !Resolviendo simultáneamente la ecuación (1) y (2) tenemos!X = 22! !Por lo tanto, la edad de A en 1985 era de 22 años."
         },
         {
-            "question": "If 1/2 x year ago A was 12 and 1/2 x years from now he will be 2x years old, how old will he be 3x years from now?",
+            "question": "Si hace 1/2 x años A tenía 12 y dentro de 1/2 x años tendrá 2x años, ¿qué edad tendrá dentro de 3x años?",
             "a": "18",
             "b": "24",
             "c": "30",
@@ -638,10 +638,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Given that!A-(1/2)x = 12!2A-x = 24 ...(1)!and!A+(1/2)x = 2x!A+(1/2)x-2x = 0!A+(x-4x)/2 = 0!A-(3/2)x = 0!2A-3x = 0 ...(2)!By simultaneously solving equation(1) and (2) we have!x = 12!and!A = 18! !Now!3x = 3*12 = 36! !After 3x years A will be!18+36 = 54 years old"
+            "explain": "Dado que!A-(1/2)x = 12!2A-x = 24 ...(1)!y!A+(1/2)x = 2x!A+(1/2)x-2x = 0!A+(x-4x)/2 = 0!A-(3/2)x = 0!2A-3x = 0 ...(2)!Resolviendo simultáneamente la ecuación (1) y (2) tenemos!x = 12!y!A = 18! !Ahora!3x = 3*12 = 36! !Después de 3x años A tendrá!18+36 = 54 años"
         },
         {
-            "question": "The difference of the ages of two brothers is 2 and the difference of the square of their ages is 16. The age of smaller one is?",
+            "question": "La diferencia de las edades de dos hermanos es 2 y la diferencia del cuadrado de sus edades es 16. ¿La edad del menor es?",
             "a": "4",
             "b": "5",
             "c": "2",
@@ -649,7 +649,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let present age of elder brother is y and present age of younger brother is x.! !Given that!y-x = 2 ...(1)! !and!(y^2)-(x^2) = 16!(y+x)(y-x) = 16! !Put value of (y-x) from equation(1)!2(y+x) = 16!y+x = 8 ...(2)! !By simultaneously solving equation(1) and equation(2) we have!y = 5!and!x = 3! !Hence present age of younger brother is 3 years."
+            "explain": "Sea la edad actual del hermano mayor y y la edad actual del hermano menor x. !Dado que!y-x = 2 ...(1)! !y!(y^2)-(x^2) = 16!(y+x)(y-x) = 16! !Ponga el valor de (y-x) de la ecuación (1)!2(y+x) = 16!y+x = 8 ...(2)! !Resolviendo simultáneamente la ecuación (1) y la ecuación (2) tenemos!y = 5!y!x = 3! !Por lo tanto, la edad actual del hermano menor es de 3 años."
         }
     ]
 }

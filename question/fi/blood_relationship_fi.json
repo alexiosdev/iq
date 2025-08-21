@@ -1,18 +1,18 @@
 {
     "data": [
         {
-            "question": "Pointing to a photograph of a boy Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Father",
+            "question": "Osoittaessaan pojan valokuvaa Suresh sanoi: \"Hän on äitini ainoan pojan poika.\" Miten Suresh liittyy tuohon poikaan?",
+            "a": "Veli",
+            "b": "Setä",
+            "c": "Serkku",
+            "d": "Isä",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of the son of Suresh's mother i.e., the son of Suresh.! !Hence, Suresh is the father of boy."
+            "explain": "Valokuvassa oleva poika on Sureshin äidin pojan ainoa poika, eli Sureshin poika.! !Siksi Suresh on pojan isä."
         },
         {
-            "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+            "question": "Jos A + B tarkoittaa, että A on B:n äiti; A - B tarkoittaa, että A on B:n veli; A % B tarkoittaa, että A on B:n isä ja A x B tarkoittaa, että A on B:n sisar, mikä seuraavista osoittaa, että P on Q:n eno?",
             "a": "Q - N + M x P",
             "b": "P + S x N - Q",
             "c": "P - M + N x Q",
@@ -20,21 +20,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P - M = P is the brother of M! !M + N = M is the mother of N! !N x Q = N is the sister of Q! !Therefore, P is the maternal uncle of Q."
+            "explain": "P - M = P on M:n veli! !M + N = M on N:n äiti! !N x Q = N on Q:n sisar! !Siksi P on Q:n eno."
         },
         {
-            "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how D is related to A?",
-            "a": "Brother",
-            "b": "Sister",
-            "c": "Nephew",
-            "d": "None of these",
+            "question": "Jos A on B:n veli; B on C:n sisar; ja C on D:n isä, miten D liittyy A:han?",
+            "a": "Veli",
+            "b": "Sisar",
+            "c": "Veljenpoika",
+            "d": "Ei mikään näistä",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "If D is Male, the answer is Nephew.! !If D is Female, the answer is Niece.! !As the sex of D is not known, hence, the relation between D and A cannot be determined.! !Note;!   Niece - A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law.!Nephew - A son of one's brother or sister, or of one's brother-in-law or sister-in-law."
+            "explain": "Jos D on mies, vastaus on veljenpoika.! !Jos D on nainen, vastaus on veljentytär.! !Koska D:n sukupuolta ei tiedetä, D:n ja A:n välistä suhdetta ei voida määrittää.! !Huomautus;!   Veljentytär - Veljen tai sisaren tai langon tai kälyn tytär.!Veljenpoika - Veljen tai sisaren tai langon tai kälyn poika."
         },
         {
-            "question": "If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?",
+            "question": "Jos A + B tarkoittaa, että A on B:n veli; A - B tarkoittaa, että A on B:n sisar ja A x B tarkoittaa, että A on B:n isä. Mikä seuraavista tarkoittaa, että C on M:n poika?",
             "a": "M - N x C + F",
             "b": "F - C + N x M",
             "c": "N + M - F x C",
@@ -42,87 +42,87 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M x N = M is the father of N! !N - C = N is the sister of C! !and C + F = C is the brother of F.! !Hence, M is the father of C or C is the son of M."
+            "explain": "M x N = M on N:n isä! !N - C = N on C:n sisar! !ja C + F = C on F:n veli.! !Siksi M on C:n isä tai C on M:n poika."
         },
         {
-            "question": "Introducing a boy, a girl said, \"He is the son of the daughter of the father of my uncle.\" How is the boy related to the girl?",
-            "a": "Brother",
-            "b": "Nephew",
-            "c": "Uncle",
-            "d": "Son",
+            "question": "Esitellessään poikaa tyttö sanoi: \"Hän on setäni isän tyttären poika.\" Miten poika liittyy tyttöön?",
+            "a": "Veli",
+            "b": "Veljenpoika",
+            "c": "Setä",
+            "d": "Poika",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The father of the boy's uncle = the grandfather of the boy! !daughter of the grandfather = sister of father."
+            "explain": "Pojan sedän isä = pojan isoisä! !isoisän tytär = isän sisar."
         },
         {
-            "question": "Pointing to a photograph Lata says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Lata?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Cousin",
-            "d": "Data inadequate",
+            "question": "Osoittaessaan valokuvaa Lata sanoo: \"Hän on isoisäni ainoan pojan poika.\" Miten valokuvassa oleva mies liittyy Lataan?",
+            "a": "Veli",
+            "b": "Setä",
+            "c": "Serkku",
+            "d": "Tiedot riittämättömät",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is the son of the only son of Lata's grandfather i.e., the man is the son of Lata's father. Hence, the man is the brother of Lata."
+            "explain": "Valokuvassa oleva mies on Latan isoisän ainoan pojan poika, eli mies on Latan isän poika. Siksi mies on Latan veli."
         },
         {
-            "question": "If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?",
+            "question": "Jos A + B tarkoittaa, että A on B:n veli; A x B tarkoittaa, että A on B:n poika; ja A % B tarkoittaa, että B on A:n tytär, mikä seuraavista tarkoittaa, että M on N:n eno?",
             "a": "M + O x N",
             "b": "M % O x N + P",
             "c": "M + O % N",
-            "d": "None of these",
+            "d": "Ei mikään näistä",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Because the sex of O is not known."
+            "explain": "Koska O:n sukupuolta ei tiedetä."
         },
         {
-            "question": "Pointing to a photograph. Bajpai said, \"He is the son of the only daughter of the father of my brother.\" How Bajpai is related to the man in the photograph?",
-            "a": "Nephew",
-            "b": "Brother",
-            "c": "Father",
-            "d": "Maternal Uncle",
+            "question": "Osoittaessaan valokuvaa. Bajpai sanoi: \"Hän on veljeni isän ainoan tyttären poika.\" Miten Bajpai liittyy valokuvassa olevaan mieheen?",
+            "a": "Veljenpoika",
+            "b": "Veli",
+            "c": "Isä",
+            "d": "Eno",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photo is the son of the sister of Bajpai. Hence, Bajpai is the maternal uncle of the man in the photograph."
+            "explain": "Valokuvassa oleva mies on Bajpain sisaren poika. Siksi Bajpai on valokuvassa olevan miehen eno."
         },
         {
-            "question": "Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?",
-            "a": "Son",
-            "b": "Brother",
-            "c": "Cousin",
-            "d": "Brother-in-law",
+            "question": "Deepak sanoi Nitinille: \"Tuo jalkapalloa pelaava poika on nuorempi kahdesta veljestä isäni vaimon tyttärestä.\" Miten jalkapalloa pelaava poika liittyy Deepakiin?",
+            "a": "Poika",
+            "b": "Veli",
+            "c": "Serkku",
+            "d": "Lanko",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father's wife = mother.! !Hence, the daughter of the mother means sister and sister's younger brother means brother.! !Therefore, the boy is the brother of Deepak."
+            "explain": "Isän vaimo = äiti.! !Siksi äidin tytär tarkoittaa sisarta ja sisaren nuorempi veli tarkoittaa veljeä.! !Siksi poika on Deepakin veli."
         },
         {
-            "question": "Pointing a photograph X said to his friend Y, \"She is the only daughter of the father of my mother.\" How X is related to the person of photograph?",
-            "a": "Daughter",
-            "b": "Son",
-            "c": "Nephew",
-            "d": "Brother",
+            "question": "Osoittaessaan valokuvaa X sanoi ystävälleen Y:lle: \"Hän on äitini isän ainoa tytär.\" Miten X liittyy valokuvan henkilöön?",
+            "a": "Tytär",
+            "b": "Poika",
+            "c": "Veljenpoika",
+            "d": "Veli",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "'The only daughter of the father of X's mother' means mother of X.! !Hence X is the son of the lady in the photograph."
+            "explain": "'X:n äidin isän ainoa tytär' tarkoittaa X:n äitiä.! !Siksi X on valokuvassa olevan naisen poika."
         },
         {
-            "question": "Veena who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep who is the only brother of Ashok. How Kalyani is related to Ashok?",
-            "a": "Mother-in-law",
-            "b": "Aunt",
-            "c": "Wife",
-            "d": "None of these",
+            "question": "Veena, joka on Ashokin käly, on Kalyanin miniä. Dheeraj on Sudeepin isä, joka on Ashokin ainoa veli. Miten Kalyani liittyy Ashokiin?",
+            "a": "Anoppi",
+            "b": "Täti",
+            "c": "Vaimo",
+            "d": "Ei mikään näistä",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Ashok is the only brother of Sudeep and Veena is the sister-in-law of Ashok.! !Hence Veena is the wife of Sudeep.! !Kalyani is the mother-in-law of Veena.!Kalyani is the mother of Ashok."
+            "explain": "Ashok on Sudeepin ainoa veli ja Veena on Ashokin käly.! !Siksi Veena on Sudeepin vaimo.! !Kalyani on Veenan anoppi.!Kalyani on Ashokin äiti."
         },
         {
-            "question": "If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?",
+            "question": "Jos A + B tarkoittaa, että A on B:n sisar; A x B tarkoittaa, että A on B:n vaimo, A % B tarkoittaa, että A on B:n isä ja A - B tarkoittaa, että A on B:n veli. Mikä seuraavista tarkoittaa, että T on P:n tytär?",
             "a": "P x Q % R + S - T",
             "b": "P x Q % R - T + S",
             "c": "P x Q % R + T - S",
@@ -130,76 +130,76 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P x Q = P is the wife of Q! !Q % R = Q is the father of R! !R - T = R is the brother of T! !T + S = T is the sister of S.! !Therefore, T is the daughter of P."
+            "explain": "P x Q = P on Q:n vaimo! !Q % R = Q on R:n isä! !R - T = R on T:n veli! !T + S = T on S:n sisar.! !Siksi T on P:n tytär."
         },
         {
-            "question": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Mother-in-law",
-            "d": "Sister",
+            "question": "Osoittaessaan naista Abhijit sanoi: \"Hänen tyttärentyttärensä on veljeni ainoa tytär.\" Miten nainen liittyy Abhijitiin?",
+            "a": "Äiti",
+            "b": "Isoäiti",
+            "c": "Anoppi",
+            "d": "Sisar",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Daughter of Abhijit's brother = niece of Abhijit.! !Thus the granddaughter of the woman is Abhijit's niece.! !Hence, the woman is the mother of Abhijit."
+            "explain": "Abhijitin veljen tytär = Abhijitin veljentytär.! !Siten naisen tyttärentytär on Abhijitin veljentytär.! !Siksi nainen on Abhijitin äiti."
         },
         {
-            "question": "Amit said - \"This girl is the wife of the grandson of my mother\". How is Amit related to the girl?",
-            "a": "Brother",
-            "b": "Grandfather",
-            "c": "Father-in-law",
-            "d": "Husband",
+            "question": "Amit sanoi - \"Tämä tyttö on äitini pojanpojan vaimo\". Miten Amit liittyy tyttöön?",
+            "a": "Veli",
+            "b": "Isoisä",
+            "c": "Appi",
+            "d": "Aviomies",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the wife of grandson of Amit's mother i.e., the girl is the wife of son of Amit.! !Hence, Amit is the father-in-law of the girl."
+            "explain": "Tyttö on Amitin äidin pojanpojan vaimo, eli tyttö on Amitin pojan vaimo.! !Siksi Amit on tytön appi."
         },
         {
-            "question": "A and B are children of D. Who is the father of A? To answer this question which of the statements (1) and (2) is necessary? (1) C is the brother of A and the son of E.   (2) F is the mother B.",
-            "a": "Only (1)",
-            "b": "Only (2)",
-            "c": "Either (1) or (2)",
-            "d": "(1) and (2) both",
+            "question": "A ja B ovat D:n lapsia. Kuka on A:n isä? Tämän kysymyksen vastaamiseksi, kumpi väittämistä (1) ja (2) on välttämätön? (1) C on A:n veli ja E:n poika.   (2) F on B:n äiti.",
+            "a": "Vain (1)",
+            "b": "Vain (2)",
+            "c": "Joko (1) tai (2)",
+            "d": "(1) ja (2) molemmat",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A and B are children of D.! !From (1), C is the brother B and son of E.! !Since, the sex of D and E are not known. Hence (1) is not sufficient to answer the question.! !From (2). F is the mother of B. Hence, F is also the mother of A. Hence D is the father of A.! !Thus, (2) is sufficient to answer the question."
+            "explain": "A ja B ovat D:n lapsia.! !Kohdasta (1), C on B:n veli ja E:n poika.! !Koska D:n ja E:n sukupuolta ei tiedetä. Siksi (1) ei riitä vastaamaan kysymykseen.! !Kohdasta (2). F on B:n äiti. Siksi F on myös A:n äiti. Siksi D on A:n isä.! !Siten (2) riittää vastaamaan kysymykseen."
         },
         {
-            "question": "Pointing towards a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Sister",
-            "d": "Daughter",
+            "question": "Osoittaessaan miestä nainen sanoi: \"Hänen äitinsä on äitini ainoa tytär.\" Miten nainen liittyy mieheen?",
+            "a": "Äiti",
+            "b": "Isoäiti",
+            "c": "Sisar",
+            "d": "Tytär",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Only daughter of my mother = myself.! !Hence, the woman is the mother of the man."
+            "explain": "Äitini ainoa tytär = minä itse.! !Siksi nainen on miehen äiti."
         },
         {
-            "question": "If P $ Q means P is the brother of Q; P # Q means P is the mother of Q; P * Q means P is the daughter of Q in A # B $ C * D, who is the father?",
+            "question": "Jos P $ Q tarkoittaa, että P on Q:n veli; P # Q tarkoittaa, että P on Q:n äiti; P * Q tarkoittaa, että P on Q:n tytär A # B $ C * D:ssä, kuka on isä?",
             "a": "D",
             "b": "B",
             "c": "C",
-            "d": "None of these",
+            "d": "Ei mikään näistä",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A is the mother of B, B is the brother of C and C is the daughter of D.! !Hence, D is the father."
+            "explain": "A on B:n äiti, B on C:n veli ja C on D:n tytär.! !Siksi D on isä."
         },
         {
-            "question": "Introducing Sonia, Aamir says, \"She is the wife of only nephew of only brother of my mother.\" How Sonia is related to Aamir?",
-            "a": "Sister-in-law",
-            "b": "Sister",
-            "c": "Wife",
-            "d": "Data is inadequate",
+            "question": "Esitellessään Soniaa Aamir sanoo: \"Hän on äitini ainoan veljen ainoan veljenpojan vaimo.\" Miten Sonia liittyy Aamiriin?",
+            "a": "Käly",
+            "b": "Sisar",
+            "c": "Vaimo",
+            "d": "Tiedot ovat riittämättömät",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of mother means maternal uncle.! !Hence only nephew of Aamir's maternal uncle means Aamir himself.! !Therefore Sonia is the wife of Aamir."
+            "explain": "Äidin veli tarkoittaa enoa.! !Siksi Aamirin enon ainoa veljenpoika tarkoittaa Aamiria itseään.! !Siksi Sonia on Aamirin vaimo."
         },
         {
-            "question": "If A + B means A is the brother of B; A % B means A is the father of B and A x B means A is the sister of B. Which of the following means M is the uncle of P?",
+            "question": "Jos A + B tarkoittaa, että A on B:n veli; A % B tarkoittaa, että A on B:n isä ja A x B tarkoittaa, että A on B:n sisar. Mikä seuraavista tarkoittaa, että M on P:n setä?",
             "a": "M % N x P",
             "b": "N x P % M",
             "c": "M + S % R % P",
@@ -207,32 +207,32 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M + K = M is the brother of K! !K % T = K is the father of T! !T x P = T is the sister of P! !Therefore, K is the father of P and M is the uncle of P."
+            "explain": "M + K = M on K:n veli! !K % T = K on T:n isä! !T x P = T on P:n sisar! !Siksi K on P:n isä ja M on P:n setä."
         },
         {
-            "question": "Pointing to Varman, Madhav said, \"I am the only son of one of the sons of his father.\" How is Varman related to Madhav?",
-            "a": "Nephew",
-            "b": "Uncle",
-            "c": "Father or Uncle",
-            "d": "Father",
+            "question": "Osoittaessaan Varmania Madhav sanoi: \"Olen hänen isänsä yhden pojan ainoa poika.\" Miten Varman liittyy Madhaviin?",
+            "a": "Veljenpoika",
+            "b": "Setä",
+            "c": "Isä tai setä",
+            "d": "Isä",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Madhav is the only son of one of the sons of Varman's father! !So, Either Varman is the father or uncle of Madhav."
+            "explain": "Madhav on Varmanin isän yhden pojan ainoa poika! !Joten joko Varman on Madhavin isä tai setä."
         },
         {
-            "question": "Introducing a woman, Shashank said, \"She is the mother of the only daughter of my son.\" How that woman is related to Shashank?",
-            "a": "Daughter",
-            "b": "Sister-in-law",
-            "c": "Wife",
-            "d": "Daughter-in-law",
+            "question": "Esitellessään naista Shashank sanoi: \"Hän on poikani ainoan tyttären äiti.\" Miten tuo nainen liittyy Shashankiin?",
+            "a": "Tytär",
+            "b": "Käly",
+            "c": "Vaimo",
+            "d": "Miniä",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The woman is the mother of Shashank's granddaughter.! !Hence, the woman is the daughter-in-law of Shashank. "
+            "explain": "Nainen on Shashankin tyttärentyttären äiti.! !Siksi nainen on Shashankin miniä. "
         },
         {
-            "question": "If A + B means B is the brother of A; A x B means B is the husband of A; A - B means A is the mother of B and A % B means A is the father of B, which of the following relations shows that Q is the grandmother of T?",
+            "question": "Jos A + B tarkoittaa, että B on A:n veli; A x B tarkoittaa, että B on A:n aviomies; A - B tarkoittaa, että A on B:n äiti ja A % B tarkoittaa, että A on B:n isä, mikä seuraavista suhteista osoittaa, että Q on T:n isoäiti?",
             "a": "Q - P + R % T",
             "b": "P x Q % R - T",
             "c": "P x Q % R + T",
@@ -240,10 +240,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q - P = Q is the mother of P! !P + R = R is the brother of P! !Hence, Q is the mother of R! !R % T = R is the father of T.! !Hence, Q is the grandmother of T."
+            "explain": "Q - P = Q on P:n äiti! !P + R = R on P:n veli! !Siksi Q on R:n äiti! !R % T = R on T:n isä.! !Siksi Q on T:n isoäiti."
         },
         {
-            "question": "A3P means A is the mother of P , A4P means A is the brother of P , A9P means A is the husband of P , A5P means A is the daughter of P ; Which of the following means that K is the mother-in-law of M?",
+            "question": "A3P tarkoittaa, että A on P:n äiti, A4P tarkoittaa, että A on P:n veli, A9P tarkoittaa, että A on P:n aviomies, A5P tarkoittaa, että A on P:n tytär; Mikä seuraavista tarkoittaa, että K on M:n anoppi?",
             "a": "M9N3K4J",
             "b": "M9N5K3J",
             "c": "K5J9M3N",
@@ -251,54 +251,54 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M9N = M is the husband of N! !N5K = N is the daughter of K! !Hence, M is the son-in-law of K! !K3J = K is the mother of J! !Hence, K is a lady! !Hence, K is the mother-in-law of M."
+            "explain": "M9N = M on N:n aviomies! !N5K = N on K:n tytär! !Siksi M on K:n vävy! !K3J = K on J:n äiti! !Siksi K on nainen! !Siksi K on M:n anoppi."
         },
         {
-            "question": "Pointing to a photograph Anjali said, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Anjali?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Son",
-            "d": "Data inadequate",
+            "question": "Osoittaessaan valokuvaa Anjali sanoi: \"Hän on isoisäni ainoan pojan poika.\" Miten valokuvassa oleva mies liittyy Anjaliin?",
+            "a": "Veli",
+            "b": "Setä",
+            "c": "Poika",
+            "d": "Tiedot riittämättömät",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man in the photograph is son of Anjali's grandfather's son i.e., the son of Anjali's father.! !Hence, the boy is the brother of Anjali."
+            "explain": "Valokuvassa oleva mies on Anjalin isoisän pojan poika, eli Anjalin isän poika.! !Siksi poika on Anjalin veli."
         },
         {
-            "question": "Pointing to a person, Deepak said, \"His only brother is the father of my daughter's father\". How is the person related to Deepak?",
-            "a": "Father",
-            "b": "Grandfather",
-            "c": "Uncle",
-            "d": "Brother-in-law",
+            "question": "Osoittaessaan henkilöä Deepak sanoi: \"Hänen ainoa veljensä on tyttäreni isän isä\". Miten henkilö liittyy Deepakiin?",
+            "a": "Isä",
+            "b": "Isoisä",
+            "c": "Setä",
+            "d": "Lanko",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Father of Deepak's daughter's father = Deepak's father.! !Hence, the person in the brother of Deepak's father.! !Therefore, the person is the uncle of Deepak."
+            "explain": "Deepakin tyttären isän isä = Deepakin isä.! !Siksi henkilö on Deepakin isän veli.! !Siksi henkilö on Deepakin setä."
         },
         {
-            "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
-            "a": "Mother",
-            "b": "Grandmother",
-            "c": "Aunt",
-            "d": "Data inadequate",
+            "question": "P on K:n äiti; K on D:n sisar; D on J:n isä. Miten P liittyy J:hin?",
+            "a": "Äiti",
+            "b": "Isoäiti",
+            "c": "Täti",
+            "d": "Tiedot riittämättömät",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P is the mother of K! !K is the sister of D! !D is the father of J.! !Therefore, J is the nephew or niece of K and P is the grandmother of J."
+            "explain": "P on K:n äiti! !K on D:n sisar! !D on J:n isä.! !Siksi J on K:n veljenpoika tai veljentytär ja P on J:n isoäiti."
         },
         {
-            "question": "If P $ Q means P is the father of Q; P # Q means P is the mother of Q and P * Q means P is the sister of Q, then N # L $ P * Q shows which of the relation of Q to N?",
-            "a": "Grand son",
-            "b": "Grand daughter",
-            "c": "Nephew",
-            "d": "Data is inadequate",
+            "question": "Jos P $ Q tarkoittaa, että P on Q:n isä; P # Q tarkoittaa, että P on Q:n äiti ja P * Q tarkoittaa, että P on Q:n sisar, niin N # L $ P * Q osoittaa, mikä on Q:n suhde N:ään?",
+            "a": "Pojanpoika",
+            "b": "Tyttärentytär",
+            "c": "Veljenpoika",
+            "d": "Tiedot ovat riittämättömät",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As the sex of Q is not known, hence, data is inadequate."
+            "explain": "Koska Q:n sukupuolta ei tiedetä, tiedot ovat riittämättömät."
         },
         {
-            "question": "If A $ B means A is the brother of B; A / B means A is the wife of B; A # B means A is the daughter of B and A * B means A is the father of B, which of the following indicates that U is the father-in-law of P?",
+            "question": "Jos A $ B tarkoittaa, että A on B:n veli; A / B tarkoittaa, että A on B:n vaimo; A # B tarkoittaa, että A on B:n tytär ja A * B tarkoittaa, että A on B:n isä, mikä seuraavista osoittaa, että U on P:n appi?",
             "a": "P / Q $ T # U * W",
             "b": "P / W $ Q * T # U",
             "c": "P / Q $ W * T # U",
@@ -306,54 +306,54 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(1) P / Q = P is the wife of Q! !(2) Q $ T = Q is the brother of T! !T # U = T is the daughter of U! !Hence,!(3)Q is the son of U! !U * W = U is the father of W.! !From (1) and (3), U is the father-in-law of P."
+            "explain": "(1) P / Q = P on Q:n vaimo! !(2) Q $ T = Q on T:n veli! !T # U = T on U:n tytär! !Siksi,!(3)Q on U:n poika! !U * W = U on W:n isä.! !Kohdista (1) ja (3) U on P:n appi."
         },
         {
-            "question": "Introducing a man, a woman said, \"He is the only son of the mother of my mother.\" How is the woman related to the man?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Niece",
-            "d": "Maternal aunt",
+            "question": "Esitellessään miestä nainen sanoi: \"Hän on äitini äidin ainoa poika.\" Miten nainen liittyy mieheen?",
+            "a": "Äiti",
+            "b": "Sisar",
+            "c": "Veljentytär",
+            "d": "Eno",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man is the only son of the mother of the woman.! !Hence, the man is the maternal uncle of the woman.! !So, the woman is the niece of the man."
+            "explain": "Mies on naisen äidin ainoa poika.! !Siksi mies on naisen eno.! !Joten nainen on miehen veljentytär."
         },
         {
-            "question": "Pointing to Gopi, Nalni says, \"I am the daughter of the only son of his grandfather.\" How Nalni is related to Gopi?",
-            "a": "Niece",
-            "b": "Daughter",
-            "c": "Sister",
-            "d": "Aunt",
+            "question": "Osoittaessaan Gopia Nalni sanoo: \"Olen hänen isoisänsä ainoan pojan tytär.\" Miten Nalni liittyy Gopiin?",
+            "a": "Veljentytär",
+            "b": "Tytär",
+            "c": "Sisar",
+            "d": "Täti",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Nalni is the daughter of the only son of Gopi's grandfather.! !Hence, it's clear that Nalni is the sister of Gopi."
+            "explain": "Nalni on Gopin isoisän ainoan pojan tytär.! !Siksi on selvää, että Nalni on Gopin sisar."
         },
         {
-            "question": "A's son B is married with C whose sister D is married to E the brother of B. How D is related to A?",
-            "a": "Sister",
-            "b": "Daughter's-in-law",
-            "c": "Sister-in-law",
-            "d": "Cousin",
+            "question": "A:n poika B on naimisissa C:n kanssa, jonka sisar D on naimisissa E:n kanssa, joka on B:n veli. Miten D liittyy A:han?",
+            "a": "Sisar",
+            "b": "Miniä",
+            "c": "Käly",
+            "d": "Serkku",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Since E is the brother of B! !Therefore, A is the father of E! !but D is the wife of E.! !Hence, D is the daughter-in-law of A."
+            "explain": "Koska E on B:n veli! !Siksi A on E:n isä! !mutta D on E:n vaimo.! !Siksi D on A:n miniä."
         },
         {
-            "question": "Pointing to a lady a person said, \"The son of her only brother is the brother of my wife.\" How is the lady related to the person?",
-            "a": "Maternal aunt",
-            "b": "Grandmother",
-            "c": "Sister of father-in-law",
-            "d": "None of these",
+            "question": "Osoittaessaan naista henkilö sanoi: \"Hänen ainoan veljensä poika on vaimoni veli.\" Miten nainen liittyy henkilöön?",
+            "a": "Eno",
+            "b": "Isoäiti",
+            "c": "Appiukon sisar",
+            "d": "Ei mikään näistä",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Brother of person's wife is brother-in-law of the person.! !Hence, the son of lady's brother is brother-in-law of the person.! !Therefore, the brother of the lady is the father-in-law of the person. Hence, the lady is the sister of the person's father-in-law."
+            "explain": "Henkilön vaimon veli on henkilön lanko.! !Siksi naisen veljen poika on henkilön lanko.! !Siksi naisen veli on henkilön appi. Siksi nainen on henkilön appiukon sisar."
         },
         {
-            "question": "B5D means B is the father of D , B9D means B is the sister of D , B4D means B is the brother of D , B3D means B is the wife of D ; Which of the following means F is the mother of K?",
+            "question": "B5D tarkoittaa, että B on D:n isä, B9D tarkoittaa, että B on D:n sisar, B4D tarkoittaa, että B on D:n veli, B3D tarkoittaa, että B on D:n vaimo; Mikä seuraavista tarkoittaa, että F on K:n äiti?",
             "a": "F3M5K",
             "b": "F5M3K",
             "c": "F9M4N3K",
@@ -361,10 +361,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "F3M = F is the wife of M! !M5K = M is the father of K! !Therefore, F is the mother of K."
+            "explain": "F3M = F on M:n vaimo! !M5K = M on K:n isä! !Siksi F on K:n äiti."
         },
         {
-            "question": "A $ B means A is the father of B; A # B means A is the sister of B; A * B means A is the daughter of B and A / B means A is the brother of B. Which of the following indicates that M is the wife of Q?",
+            "question": "A $ B tarkoittaa, että A on B:n isä; A # B tarkoittaa, että A on B:n sisar; A * B tarkoittaa, että A on B:n tytär ja A / B tarkoittaa, että A on B:n veli. Mikä seuraavista osoittaa, että M on Q:n vaimo?",
             "a": "Q $ R # T / M",
             "b": "Q $ R / T # M",
             "c": "Q $ R * T # M",
@@ -372,65 +372,65 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Q $ R = Q is the father of R! !R / T = R is the brother of T! !Hence, Q is the father of T! !T * M = T is the daughter of M! !Hence, M is the mother of T! !Hence, M is the wife of Q."
+            "explain": "Q $ R = Q on R:n isä! !R / T = R on T:n veli! !Siksi Q on T:n isä! !T * M = T on M:n tytär! !Siksi M on T:n äiti! !Siksi M on Q:n vaimo."
         },
         {
-            "question": "If A $ B means A is the brother of B; B * C means B is the son of C; C / D means C is the wife of D and A # D means A is the son of D, how C is related to A?",
-            "a": "Grandmother",
-            "b": "Maternal aunt",
-            "c": "Aunt",
-            "d": "Mother",
+            "question": "Jos A $ B tarkoittaa, että A on B:n veli; B * C tarkoittaa, että B on C:n poika; C / D tarkoittaa, että C on D:n vaimo ja A # D tarkoittaa, että A on D:n poika, miten C liittyy A:han?",
+            "a": "Isoäiti",
+            "b": "Eno",
+            "c": "Täti",
+            "d": "Äiti",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A $ B = A is the brother of B! !B * C = B is the son of C! !Hence, A is the son of C! !C / D = C is the wife of D! !Hence, C is the mother of A."
+            "explain": "A $ B = A on B:n veli! !B * C = B on C:n poika! !Siksi A on C:n poika! !C / D = C on D:n vaimo! !Siksi C on A:n äiti."
         },
         {
-            "question": "Pointing to a girl Sandeep said, \"She is the daughter of the only sister of my father.\" How is sandeep related to the girl?",
-            "a": "Uncle",
-            "b": "Cousin",
-            "c": "Father",
-            "d": "Grandfather",
+            "question": "Osoittaessaan tyttöä Sandeep sanoi: \"Hän on isäni ainoan sisaren tytär.\" Miten Sandeep liittyy tyttöön?",
+            "a": "Setä",
+            "b": "Serkku",
+            "c": "Isä",
+            "d": "Isoisä",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The girl is the daughter of the sister of Sandeep's father.! !Hence, the girl is the cousin or Sandeep is the cousin of the girl."
+            "explain": "Tyttö on Sandeepin isän sisaren tytär.! !Siksi tyttö on serkku tai Sandeep on tytön serkku."
         },
         {
-            "question": "Pointing to a boy in the photograph Reena said, \"He is the only son of the only child of my grandfather.\" How Reena is related to that boy?",
-            "a": "Mother",
-            "b": "Sister",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "Osoittaessaan poikaa valokuvassa Reena sanoi: \"Hän on isoisäni ainoan lapsen ainoa poika.\" Miten Reena liittyy tuohon poikaan?",
+            "a": "Äiti",
+            "b": "Sisar",
+            "c": "Täti",
+            "d": "Ei mikään näistä",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The boy in the photograph is the only son of Reena's grandfather's only son; i.e., the boy is the only son of Reena's father.! !Hence, the boy is the brother of Reena or Reena is the sister of the boy."
+            "explain": "Valokuvassa oleva poika on Reenan isoisän ainoan pojan ainoa poika; eli poika on Reenan isän ainoa poika.! !Siksi poika on Reenan veli tai Reena on pojan sisar."
         },
         {
-            "question": "A * B means A is the sister of B , A $ B means B is the mother of A , A + B means A is the brother of B , A = B means B is the father of A ; Which of the following means M is the maternal uncle of N?",
+            "question": "A * B tarkoittaa, että A on B:n sisar, A $ B tarkoittaa, että B on A:n äiti, A + B tarkoittaa, että A on B:n veli, A = B tarkoittaa, että B on A:n isä; Mikä seuraavista tarkoittaa, että M on N:n eno?",
             "a": "M = P + Q * N",
             "b": "N + P = Q * M",
             "c": "N * P $ Q * M",
-            "d": "None of these",
+            "d": "Ei mikään näistä",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Tähän kysymykseen ei ole saatavilla vastauskuvausta."
         },
         {
-            "question": "If M x N means M is the daughter of N; M + N means M is the father of N; M % N means M is the mother of N and M - N means M is the brother of N then P % Q + R - T x K indicates which relation of P to K?",
-            "a": "Daughter-in-law",
-            "b": "Sister-in-law",
-            "c": "Aunt",
-            "d": "None of these",
+            "question": "Jos M x N tarkoittaa, että M on N:n tytär; M + N tarkoittaa, että M on N:n isä; M % N tarkoittaa, että M on N:n äiti ja M - N tarkoittaa, että M on N:n veli, niin P % Q + R - T x K osoittaa, mikä on P:n suhde K:hon?",
+            "a": "Miniä",
+            "b": "Käly",
+            "c": "Täti",
+            "d": "Ei mikään näistä",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "P % Q = P is the mother of Q! !Q + R = Q is the father of R! !R - T = R is the brother of T! !Hence, Q is the father of T! !T x K = T is the daughter of K! !Hence, Q is the husband of K.! !Therefore, P is the mother-in-law of K."
+            "explain": "P % Q = P on Q:n äiti! !Q + R = Q on R:n isä! !R - T = R on T:n veli! !Siksi Q on T:n isä! !T x K = T on K:n tytär! !Siksi Q on K:n aviomies.! !Siksi P on K:n anoppi."
         },
         {
-            "question": "If P + Q means P is the brother of Q; P x Q means P is the father of Q and P - Q means P is the sister of Q, which of the following relations shows that I is the niece of K?",
+            "question": "Jos P + Q tarkoittaa, että P on Q:n veli; P x Q tarkoittaa, että P on Q:n isä ja P - Q tarkoittaa, että P on Q:n sisar, mikä seuraavista suhteista osoittaa, että I on K:n veljentytär?",
             "a": "K + Y + Z - I",
             "b": "K + Y x I - Z",
             "c": "Z - I x Y + K",
@@ -438,337 +438,338 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "K + Y = K is the brother of Y! !Y x I = Y is the father of I! !Hence, K is the uncle of I! !and I - Z = I is the sister of Z! !Hence, I is the niece of K."
+            "explain": "K + Y = K on Y:n veli! !Y x I = Y on I:n isä! !Siksi K on I:n setä! !ja I - Z = I on Z:n sisar! !Siksi I on K:n veljentytär."
         },
         {
-            "question": "Pointing towards a girl, Abhisek says, \"This girl is the daughter of only a child of my father.\" What is the relation of Abhisek's wife to that girl?",
-            "a": "Daughter",
-            "b": "Mother",
-            "c": "Aunt",
-            "d": "Sister",
+            "question": "Osoittaessaan tyttöä Abhisek sanoo: \"Tämä tyttö on isäni ainoan lapsen tytär.\" Mikä on Abhisekin vaimon suhde tuohon tyttöön?",
+            "a": "Tytär",
+            "b": "Äiti",
+            "c": "Täti",
+            "d": "Sisar",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Only the child of my father means 'Abhisek' himself.!This means the girl is the daughter od Abhisek.! !Hence, Abhisek's wife is the mother of the girl."
+            "explain": "Isäni ainoa lapsi tarkoittaa 'Abhisekia' itseään.!Tämä tarkoittaa, että tyttö on Abhisekin tytär.! !Siksi Abhisekin vaimo on tytön äiti."
         },
         {
-            "question": "If A $ B means B is the father of A; A # B means B is the mother of A; A * B means B is the sister of A and A / B means B is the husband of A, which of the following indicates that N is the grandmother of P?",
+            "question": "Jos A $ B tarkoittaa, että B on A:n isä; A # B tarkoittaa, että B on A:n äiti; A * B tarkoittaa, että B on A:n sisar ja A / B tarkoittaa, että B on A:n aviomies, mikä seuraavista osoittaa, että N on P:n isoäiti?",
             "a": "P * Q # M $ N",
             "b": "P / Q $ M # N",
             "c": "P # Q $ N * M",
-            "d": "None of these",
+            "d": "Ei mikään näistä",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Tähän kysymykseen ei ole saatavilla vastauskuvausta."
         },
         {
-            "question": "Anupam said to a lady sitting in a car, \"The only daughter of the brother of my wife is the sister-in-law of the brother of your sister.\" How the husband of the lady is related to Anupam?",
-            "a": "Maternal uncle",
-            "b": "Uncle",
-            "c": "Father",
-            "d": "Son-in-law",
+            "question": "Anupam sanoi autossa istuvalle naiselle: \"Vaimoni veljen ainoa tytär on sisaresi veljen käly.\" Miten naisen aviomies liittyy Anupamiin?",
+            "a": "Eno",
+            "b": "Setä",
+            "c": "Isä",
+            "d": "Vävy",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Anupam's son-in-law is the brother of the lady who was sitting in the car. Hence, the husband is also the son-in-law of Anupam."
+            "explain": "Anupamin vävy on autossa istuvan naisen veli. Siksi aviomies on myös Anupamin vävy."
         },
         {
-            "question": "If P + Q means P is the brother of Q; P x Q means P is the wife of Q and P % Q means P is the daughter of Q then which of the following means D is the uncle of A?",
+            "question": "Jos P + Q tarkoittaa, että P on Q:n veli; P x Q tarkoittaa, että P on Q:n vaimo ja P % Q tarkoittaa, että P on Q:n tytär, mikä seuraavista tarkoittaa, että D on A:n setä?",
             "a": "A % B x C + D",
             "b": "A x B + C % D",
             "c": "A + C % B x D",
-            "d": "None of these",
+            "d": "Ei mikään näistä",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Tähän kysymykseen ei ole saatavilla vastauskuvausta."
         },
         {
-            "question": "M is the father of N who is the son of V. In order to know the relation of M to P, which of the statement/statements is/are necessary?  (1) P is the brother of V  (2) The daughter of N is the granddaughter of V",
-            "a": "Only (1)",
-            "b": "Only (2)",
-            "c": "Either (1) or (2)",
-            "d": "(1) and (2) both",
+            "question": "M on N:n isä, joka on V:n poika. Jotta tiedettäisiin M:n suhde P:hen, mikä väittämä/väittämät on/ovat välttämättömiä?  (1) P on V:n veli  (2) N:n tytär on V:n tyttärentytär",
+            "a": "Vain (1)",
+            "b": "Vain (2)",
+            "c": "Joko (1) tai (2)",
+            "d": "(1) ja (2) molemmat",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "M is the father of N and N is the son of V.! !Hence, V is the mother of N.! !From (1), P is the brother of V! !Therefore, M is the brother-in-law of P because V is the wife of M.! !From (2), the daughter of N, is the granddaughter of V.!From this we do not get any relation of M to P."
+            "explain": "M on N:n isä ja N on V:n poika.! !Siksi V on N:n äiti.! !Kohdasta (1), P on V:n veli! !Siksi M on P:n lanko, koska V on M:n vaimo.! !Kohdasta (2), N:n tytär on V:n tyttärentytär.!Tästä emme saa mitään suhdetta M:n ja P:n välille."
         },
         {
-            "question": "A and B are sisters. C and D are brothers. A is the mother of D, what is the relation of B to C.",
-            "a": "Mother",
-            "b": "Mother-in-Law",
-            "c": "Aunt",
-            "d": "Sister-In-Law",
+            "question": "A ja B ovat sisaria. C ja D ovat veljiä. A on D:n äiti, mikä on B:n suhde C:hen.",
+            "a": "Äiti",
+            "b": "Anoppi",
+            "c": "Täti",
+            "d": "Käly",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As A is mother of D so A is also mother of C because C and D are brothers.! !B is sister of A which means B is Aunt of both C and D."
+            "explain": "Koska A on D:n äiti, A on myös C:n äiti, koska C ja D ovat veljiä.! !B on A:n sisar, mikä tarkoittaa, että B on sekä C:n että D:n täti."
         },
         {
-            "question": "P, the daughter of K is married to G, X and G are brothers, on the basis of this information tell how P is related to G.",
-            "a": "Daughter",
-            "b": "Wife",
-            "c": "Cousin",
-            "d": "Sister",
+            "question": "P, K:n tytär, on naimisissa G:n kanssa, X ja G ovat veljiä, kerro tämän tiedon perusteella, miten P liittyy G:hen.",
+            "a": "Tytär",
+            "b": "Vaimo",
+            "c": "Serkku",
+            "d": "Sisar",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "\"P, the daughter of K is married to G\" means P is wife of G."
+            "explain": "\"P, K:n tytär, on naimisissa G:n kanssa\" tarkoittaa, että P on G:n vaimo."
         },
         {
-            "question": "Ali and Nadeem are brothers. Maria and Mariam are sisters. If Ali's son is Mariam's brother, them what is the relation of Nadeem to Maria?",
-            "a": "Brother",
-            "b": "Uncle",
-            "c": "Niece",
-            "d": "Cousin",
+            "question": "Ali ja Nadeem ovat veljiä. Maria ja Mariam ovat sisaria. Jos Alin poika on Mariamin veli, mikä on Nadeemin suhde Mariaan?",
+            "a": "Veli",
+            "b": "Setä",
+            "c": "Veljentytär",
+            "d": "Serkku",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "\"Ali's son is Mariam's brothers\" means Mariam and Maria are Ali's daughters.! !So Nadeem (brother of Ali) is Uncle of Maria."
+            "explain": "\"Alin poika on Mariamin veli\" tarkoittaa, että Mariam ja Maria ovat Alin tyttäriä.! !Joten Nadeem (Alin veli) on Marian setä."
         },
         {
-            "question": "A and B are married couple. X and Y are brothers. X is the brother of A. How is Y related to B.",
-            "a": "Brother",
-            "b": "Brother-in-Law",
-            "c": "Father",
-            "d": "Father-in-Law",
+            "question": "A ja B ovat aviopari. X ja Y ovat veljiä. X on A:n veli. Miten Y liittyy B:hen.",
+            "a": "Veli",
+            "b": "Lanko",
+            "c": "Isä",
+            "d": "Appi",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "X and Y both are brothers of A!which means both are Brother-in-law of B."
+            "explain": "X ja Y ovat molemmat A:n veljiä!mikä tarkoittaa, että molemmat ovat B:n lankoja."
         },
         {
-            "question": "'A' is without sons and brothers, but the father of B is A's father's son. What is 'B' to 'A'?",
-            "a": "Daughter",
-            "b": "Sister",
-            "c": "Son",
-            "d": "Wife",
+            "question": "'A' on ilman poikia ja veljiä, mutta B:n isä on A:n isän poika. Mikä 'B' on 'A':lle?",
+            "a": "Tytär",
+            "b": "Sisar",
+            "c": "Poika",
+            "d": "Vaimo",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A's father's son means A himself because A has no brother.! !So A is father of B.!As A has no son, B must be her daughter."
+            "explain": "A:n isän poika tarkoittaa A:ta itseään, koska A:lla ei ole veljeä.! !Joten A on B:n isä.!Koska A:lla ei ole poikaa, B:n on oltava hänen tyttärensä."
         },
         {
-            "question": "A man was accompanying a girl, on being asked who the girl was the man said, \"Her father was the only son of my father\". What was the girl to man?",
-            "a": "Daughter",
-            "b": "Sister",
-            "c": "Mother",
-            "d": "Niece",
+            "question": "Mies oli tytön seurassa, kun kysyttiin, kuka tyttö oli, mies sanoi: \"Hänen isänsä oli isäni ainoa poika\". Mikä tyttö oli miehelle?",
+            "a": "Tytär",
+            "b": "Sisar",
+            "c": "Äiti",
+            "d": "Veljentytär",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "If I am a boy and I am only son of my father it means I am talking about myself.! !Same is the case here man is father of the girl."
+            "explain": "Jos olen poika ja olen isäni ainoa poika, se tarkoittaa, että puhun itsestäni.! !Sama pätee tässä, mies on tytön isä."
         },
         {
-            "question": "John's mother is sister of David's brother. What is John to David?",
-            "a": "Nephew",
-            "b": "Uncle",
-            "c": "Father",
-            "d": "Brother-in-law",
+            "question": "Johnin äiti on Davidin veljen sisar. Mikä John on Davidille?",
+            "a": "Veljenpoika",
+            "b": "Setä",
+            "c": "Isä",
+            "d": "Lanko",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "David is brother of John's mother.! !So John is nephew of David."
+            "explain": "David on Johnin äidin veli.! !Joten John on Davidin veljenpoika."
         },
         {
-            "question": "My mother is sister of your brother. What am I to you?",
-            "a": "Cousin",
-            "b": "Nephew",
-            "c": "Uncle",
-            "d": "Brother",
+            "question": "Äitini on veljesi sisar. Mikä minä olen sinulle?",
+            "a": "Serkku",
+            "b": "Veljenpoika",
+            "c": "Setä",
+            "d": "Veli",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "\"My mother is sister of your brother\" you are brother of my mother and I am your nephew."
+            "explain": "\"Äitini on veljesi sisar\" olet äitini veli ja minä olen sinun veljenpoikasi."
         },
         {
-            "question": "A man pointing to Stephen said, \"I have no brother or sister, but that man's father is my father's son\". What is he to Stephen?",
-            "a": "Father",
-            "b": "Son",
-            "c": "Brother",
-            "d": "Grand Father",
+            "question": "Mies osoitti Stepheniä ja sanoi: \"Minulla ei ole veljeä tai sisarta, mutta tuon miehen isä on isäni poika\". Mikä hän on Stephenille?",
+            "a": "Isä",
+            "b": "Poika",
+            "c": "Veli",
+            "d": "Isoisä",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The man who is pointing has no brother so Son of his father means he himself.! !So, he is Stephen's father."
+            "explain": "Osoittavalla miehellä ei ole veljeä, joten hänen isänsä poika tarkoittaa häntä itseään.! !Joten hän on Stephenin isä."
         },
         {
-            "question": "Hussey introduced a girl to his friend and said, \"Her mother is the only daughter of my Mother-in-law\". What is the girl to Hussey?",
-            "a": "Mother",
-            "b": "Wife",
-            "c": "Daughter",
-            "d": "Cousin",
+            "question": "Hussey esitteli tytön ystävälleen ja sanoi: \"Hänen äitinsä on anoppini ainoa tytär\". Mikä tyttö on Husseylle?",
+            "a": "Äiti",
+            "b": "Vaimo",
+            "c": "Tytär",
+            "d": "Serkku",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "\"Girl's mothers is only daughter of my mother-in-law\" means Girls mother is the wife of Hussey. So Hussey is father of the girl."
+            "explain": "\"Tytön äiti on anoppini ainoa tytär\" tarkoittaa, että tytön äiti on Husseyn vaimo. Joten Hussey on tytön isä."
         },
         {
-            "question": "A said to B, My mother gave birth to a child, who was neither my brother nor my sister. Can you guess who was the child?",
+            "question": "A sanoi B:lle: Äitini synnytti lapsen, joka ei ollut veljeni eikä sisareni. Voitko arvata, kuka lapsi oli?",
             "a": "A",
             "b": "B",
-            "c": "A's brother",
-            "d": "B's sister",
+            "c": "A:n veli",
+            "d": "B:n sisar",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A's mother gave birth to A and A has no brother and no sister.!He is just talking about himself."
+            "explain": "A:n äiti synnytti A:n ja A:lla ei ole veljeä eikä sisarta.!Hän puhuu vain itsestään."
         },
         {
-            "question": "A is the father of B, but B is not A's daughter. Establish relationship of B with A.",
-            "a": "Son",
-            "b": "Nephew",
-            "c": "Daughter",
-            "d": "None",
+            "question": "A on B:n isä, mutta B ei ole A:n tytär. Määritä B:n suhde A:han.",
+            "a": "Poika",
+            "b": "Veljenpoika",
+            "c": "Tytär",
+            "d": "Ei mitään",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A is father of B but B is not daughter of A, then B must be son of A."
+            "explain": "A on B:n isä, mutta B ei ole A:n tytär, silloin B:n on oltava A:n poika."
         },
         {
-            "question": "A girl accompanied a woman. on being asked who the girl was, the woman replied. \"She is the daughter of the wife of my mother's only son\". How was the girl related to woman?",
-            "a": "Daughter",
-            "b": "Niece",
-            "c": "Sister",
-            "d": "None",
+            "question": "Tyttö seurasi naista. kun kysyttiin, kuka tyttö oli, nainen vastasi. \"Hän on äitini ainoan pojan vaimon tytär\". Miten tyttö liittyi naiseen?",
+            "a": "Tytär",
+            "b": "Veljentytär",
+            "c": "Sisar",
+            "d": "Ei mitään",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Woman's mother's only son means her brother and the girl is daughter of her brother.!So the girl is niece of the woman."
+            "explain": "Naisen äidin ainoa poika tarkoittaa hänen veljeään ja tyttö on hänen veljensä tytär.!Joten tyttö on naisen veljentytär."
         },
         {
-            "question": "The old man's son is my son's uncle. What is the old man to me?",
-            "a": "Brother",
-            "b": "Father",
-            "c": "Son",
-            "d": "None",
+            "question": "Vanhan miehen poika on poikani setä. Mikä vanha mies on minulle?",
+            "a": "Veli",
+            "b": "Isä",
+            "c": "Poika",
+            "d": "Ei mitään",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "My brother is my son's uncle so the father of my brother is also my father."
+            "explain": "Veljeni on poikani setä, joten veljeni isä on myös minun isäni."
         },
         {
-            "question": "A is the father of B but B is not A's son. What is relationship of B to A.",
-            "a": "Uncle",
-            "b": "Cousin",
-            "c": "Daughter",
-            "d": "Sister",
+            "question": "A on B:n isä, mutta B ei ole A:n poika. Mikä on B:n suhde A:han.",
+            "a": "Setä",
+            "b": "Serkku",
+            "c": "Tytär",
+            "d": "Sisar",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A is father of B but B is not A's son, then B must be daughter of A."
+            "explain": "A on B:n isä, mutta B ei ole A:n poika, silloin B:n on oltava A:n tytär."
         },
         {
-            "question": "A tells B that the old man is the father of the lady by his side. The lady is the wife of A and the old man is grandpa of B, what is the relation between A and B?",
-            "a": "Brother",
-            "b": "Son & Father",
-            "c": "Father & Son",
-            "d": "Sister",
+            "question": "A kertoo B:lle, että vanha mies on vieressään olevan naisen isä. Nainen on A:n vaimo ja vanha mies on B:n isoisä, mikä on A:n ja B:n välinen suhde?",
+            "a": "Veli",
+            "b": "Poika ja isä",
+            "c": "Isä ja poika",
+            "d": "Sisar",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Old man is grandpa of B and A's wife is daughter of old man its mean the lady is the mother of B.!She is also A's wife. So, B is A's son."
+            "explain": "Vanha mies on B:n isoisä ja A:n vaimo on vanhan miehen tytär, mikä tarkoittaa, että nainen on B:n äiti.!Hän on myös A:n vaimo. Joten B on A:n poika."
         },
         {
-            "question": "X & Y are the parents of Z but Z is not the son of X. What is Z to X.",
-            "a": "Nephew",
-            "b": "Daughter",
-            "c": "Father",
-            "d": "Aunt",
+            "question": "X ja Y ovat Z:n vanhempia, mutta Z ei ole X:n poika. Mikä Z on X:lle.",
+            "a": "Veljenpoika",
+            "b": "Tytär",
+            "c": "Isä",
+            "d": "Täti",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "X and Y are parents of Z. But Z is not the son of X its mean Z is the daughter of X."
+            "explain": "X ja Y ovat Z:n vanhempia. Mutta Z ei ole X:n poika, mikä tarkoittaa, että Z on X:n tytär."
         },
         {
-            "question": "A does not have any sons or brothers, but B's father is A's father's son. What is B to A?",
-            "a": "Daughter",
-            "b": "Sister",
-            "c": "Mother",
-            "d": "None",
+            "question": "A:lla ei ole poikia tai veljiä, mutta B:n isä on A:n isän poika. Mikä B on A:lle?",
+            "a": "Tytär",
+            "b": "Sisar",
+            "c": "Äiti",
+            "d": "Ei mitään",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A's father's son means A himself. And B is his child. may be daughter or son. In options only daughter is given so it must be the answer."
+            "explain": "A:n isän poika tarkoittaa A:ta itseään. Ja B on hänen lapsensa. voi olla tytär tai poika. Vaihtoehdoissa on vain tytär, joten sen on oltava vastaus."
         },
         {
-            "question": "A little American and a big American are walking along a road. The little American is the big American's son. The big American is not the little American's father. Who is big American?",
-            "a": "Daughter",
-            "b": "Mother",
-            "c": "Sister",
-            "d": "None",
+            "question": "Pieni amerikkalainen ja iso amerikkalainen kävelevät tietä pitkin. Pieni amerikkalainen on ison amerikkalaisen poika. Iso amerikkalainen ei ole pienen amerikkalaisen isä. Kuka on iso amerikkalainen?",
+            "a": "Tytär",
+            "b": "Äiti",
+            "c": "Sisar",
+            "d": "Ei mitään",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Little American is son of big American but big American is not his father, then big American must be his mother."
+            "explain": "Pieni amerikkalainen on ison amerikkalaisen poika, mutta iso amerikkalainen ei ole hänen isänsä, silloin ison amerikkalaisen on oltava hänen äitinsä."
         },
         {
-            "question": "If Preety's daughter is my son's mother, if I am male what am I to Preety?",
-            "a": "Brother",
-            "b": "Son-in-law",
-            "c": "Husband",
-            "d": "None",
+            "question": "Jos Preetyn tytär on poikani äiti, jos olen mies, mikä minä olen Preetylle?",
+            "a": "Veli",
+            "b": "Vävy",
+            "c": "Aviomies",
+            "d": "Ei mitään",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "I am the husband of Preety's daughter because she is mother of my son. So Preety is my mother-in-law."
+            "explain": "Olen Preetyn tyttären aviomies, koska hän on poikani äiti. Joten Preety on anoppini."
         },
         {
-            "question": "A child was accompanying a woman. On being asked who the boy was, the woman said, His mother was the only daughter of my mother. How has the boy related to the woman?",
-            "a": "Son",
-            "b": "Brother",
-            "c": "Nephew",
-            "d": "None",
+            "question": "Lapsi oli naisen seurassa. Kun kysyttiin, kuka poika oli, nainen sanoi: Hänen äitinsä oli äitini ainoa tytär. Miten poika liittyi naiseen?",
+            "a": "Poika",
+            "b": "Veli",
+            "c": "Veljenpoika",
+            "d": "Ei mitään",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Woman's mother's only daughter means she is talking about herself. So she is the mother of the child."
+            "explain": "Naisen äidin ainoa tytär tarkoittaa, että hän puhuu itsestään. Joten hän on lapsen äiti."
         },
         {
-            "question": "your father says, \"I have four sons\". But you say, \"I have only three brothers\". Who is wrong?",
-            "a": "Father",
-            "b": "Son",
-            "c": "Both",
-            "d": "None",
+            "question": "Isäsi sanoo: \"Minulla on neljä poikaa\". Mutta sinä sanot: \"Minulla on vain kolme veljeä\". Kuka on väärässä?",
+            "a": "Isä",
+            "b": "Poika",
+            "c": "Molemmat",
+            "d": "Ei mitään",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Both are correct. The boy who is talking excluded himself."
+            "explain": "Molemmat ovat oikeassa. Puhuva poika jätti itsensä pois laskuista."
         },
         {
-            "question": "You are the son of my father's brother. What am I to you?",
-            "a": "Father",
-            "b": "Mother",
-            "c": "Cousin",
-            "d": "None",
+            "question": "Olet isäni veljen poika. Mikä minä olen sinulle?",
+            "a": "Isä",
+            "b": "Äiti",
+            "c": "Serkku",
+            "d": "Ei mitään",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "You are my uncle's child and I am your cousin."
+            "explain": "Olet setäni lapsi ja minä olen sinun serkkusi."
         },
         {
-            "question": "If A is Brother of B but B is not Brother of A then who is B?",
-            "a": "Son of A",
-            "b": "Sister of A",
-            "c": "Father of A",
-            "d": "None",
+            "question": "Jos A on B:n veli, mutta B ei ole A:n veli, kuka B on?",
+            "a": "A:n poika",
+            "b": "A:n sisar",
+            "c": "A:n isä",
+            "d": "Ei mitään",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "B is a girl and A is her brother."
+            "explain": "B on tyttö ja A on hänen veljensä."
         },
         {
-            "question": "A is Son of B but B is not the father of A. Who is B?",
-            "a": "Impossible",
-            "b": "Daughter",
-            "c": "Mother",
-            "d": "Grand father",
+            "question": "A on B:n poika, mutta B ei ole A:n isä. Kuka B on?",
+            "a": "Mahdotonta",
+            "b": "Tytär",
+            "c": "Äiti",
+            "d": "Isoisä",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "B is female and she is mother of A"
+            "explain": "B on nainen ja hän on A:n äiti"
         }
     ]
 }
+

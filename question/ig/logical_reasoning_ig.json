@@ -1,40 +1,40 @@
 {
     "data": [
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Chicken",
-            "b": "Snake",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Ọkụkọ",
+            "b": "Agwọ",
             "c": "Swan",
-            "d": "Crocodile",
+            "d": "Agụ iyi",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Chicken can live in water."
+            "explain": "Ewezuga ọkụkọ, ihe niile nwere ike ibi na mmiri."
         },
         {
-            "question": "A train always has",
-            "a": "Rails",
-            "b": "Driver",
-            "c": "Guard",
-            "d": "Engine",
+            "question": "Ụgbọ oloko na-enwe mgbe niile",
+            "a": "Ụgbọ okporo ígwè",
+            "b": "Onye ọkwọ ụgbọala",
+            "c": "Onye nche",
+            "d": "Injin",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Which one of the following is always found in 'Bravery'?",
-            "a": "Experience",
-            "b": "Power",
-            "c": "Courage",
-            "d": "Knowledge",
+            "question": "Kedu n'ime ihe ndị a na-ahụ mgbe niile na 'Obi ike'?",
+            "a": "Ahụmahụ",
+            "b": "Ike",
+            "c": "Obi ike",
+            "d": "Amamihe",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Rigveda",
             "b": "Yajurveda",
             "c": "Atharvaveda",
@@ -42,98 +42,98 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Ayurveda are names of holy scriptures, the four Vedas. Ayurveda is a branch of medicine."
+            "explain": "Ewezuga Ayurveda, ihe niile bụ aha akwụkwọ nsọ, Veda anọ. Ayurveda bụ ngalaba ọgwụ."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Curd",
-            "b": "Butter",
-            "c": "Oil",
-            "d": "Cheese",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Mmiri ara ehi gbara ụka",
+            "b": "Bọta",
+            "c": "Mmanụ",
+            "d": "Chiiz",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Oil are products obtained from milk."
+            "explain": "Ewezuga mmanụ, ihe niile bụ ngwaahịa a na-enweta site na mmiri ara ehi."
         },
         {
-            "question": "Which one of the following is always with 'Bargain'?",
-            "a": "Exchange",
-            "b": "Sumptuousness",
-            "c": "Triviality",
-            "d": "Eloquence",
+            "question": "Kedu n'ime ihe ndị a na-esonyere 'Bargain' mgbe niile?",
+            "a": "Mgbanwe",
+            "b": "Ịdị okomoko",
+            "c": "Ịdị obere",
+            "d": "Ịkọ okwu",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Which one of the following a 'Drama' must have?",
-            "a": "Actors",
-            "b": "Story",
-            "c": "Sets",
-            "d": "Director",
+            "question": "Kedu n'ime ihe ndị a ka 'Drama' ga-enwerịrị?",
+            "a": "Ndị na-eme ihe nkiri",
+            "b": "Akụkọ",
+            "c": "Ntọala",
+            "d": "Onye nduzi",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Hangar",
-            "b": "Platform",
-            "c": "Dock",
-            "d": "Park",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Ebe a na-adọba ụgbọelu",
+            "b": "Ikpo okwu",
+            "c": "Ọdụ ụgbọ mmiri",
+            "d": "Ogige",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Park are halting places of various transport means."
+            "explain": "Ewezuga ogige, ihe niile bụ ebe a na-adọba ụgbọala dị iche iche."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"school\"",
-            "a": "student",
-            "b": "report card",
-            "c": "test",
-            "d": "learning",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"ụlọ akwụkwọ\"",
+            "a": "nwa akwụkwọ",
+            "b": "kaadị akụkọ",
+            "c": "ule",
+            "d": "ịmụ ihe",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Without students, a school cannot exist; therefore, students are the essential part of schools. The other choices may be related, but they are not essential."
+            "explain": "Na-enweghị ụmụ akwụkwọ, ụlọ akwụkwọ enweghị ike ịdị; ya mere, ụmụ akwụkwọ bụ akụkụ dị mkpa nke ụlọ akwụkwọ. Nhọrọ ndị ọzọ nwere ike ịdị mkpa, mana ha abụghị ihe dị mkpa."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"pain\"",
-            "a": "cut",
-            "b": "burn",
-            "c": "nuisance",
-            "d": "hurt",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"ihe mgbu\"",
+            "a": "ịkpụ",
+            "b": "ọkụ",
+            "c": "ihe mgbakasị ahụ",
+            "d": "mmerụ ahụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Pain is suffering or hurt, so choice d is the essential element. Without hurt, there is no pain. A cut (choice a) or a burn (choice b) may cause pain, but so do many other types of injury. A nuisance (choice c) is an annoyance that may or may not cause pain."
+            "explain": "Ihe mgbu bụ ahụhụ ma ọ bụ mmerụ ahụ, yabụ nhọrọ d bụ ihe dị mkpa. Na-enweghị mmerụ ahụ, enweghị ihe mgbu. Mkpụ (nhọrọ a) ma ọ bụ ọkụ (nhọrọ b) nwere ike ịkpata ihe mgbu, mana ọtụtụ ụdị mmerụ ahụ ndị ọzọ na-emekwa otu ihe ahụ. Ihe mgbakasị ahụ (nhọrọ c) bụ ihe mgbakasị ahụ nke nwere ike ma ọ bụ na ọ gaghị akpata ihe mgbu."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Pear",
-            "b": "Orrange",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Ube",
+            "b": "Orọma",
             "c": "Litchi",
             "d": "Guava",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Orange is the only citrus fruit in the group."
+            "explain": "Orọma bụ naanị mkpụrụ osisi citrus n'ime otu ahụ."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Dagger",
-            "b": "Hammer",
-            "c": "Knife",
-            "d": "Sword",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Mma agha",
+            "b": "Hama",
+            "c": "Mma",
+            "d": "Mma agha",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Hammer are sharp-edged and have a cutting action."
+            "explain": "Ewezuga hama, ihe niile dị nkọ ma nwee ike ịkpụ."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Kanpur",
             "b": "Allahabad",
             "c": "Varanasi",
@@ -141,21 +141,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Mathura are cities situated on the banks of Ganga river."
+            "explain": "Ewezuga Mathura, ihe niile bụ obodo ndị dị n'akụkụ osimiri Ganga."
         },
         {
-            "question": "What is the product of all the numbers in the dial of a telephone ?",
+            "question": "Gịnị bụ ngwaahịa nke nọmba niile dị na dial nke ekwentị?",
             "a": "1,58,480",
             "b": "1,59,450",
             "c": "1,59,480",
-            "d": "None of these",
+            "d": "Ọ dịghị nke ọ bụla n'ime ndị a",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Since one of the numbers on the dial of a telephone is zero, so the product of all the numbers on it is 0."
+            "explain": "Ebe ọ bụ na otu n'ime nọmba dị na dial nke ekwentị bụ efu, yabụ ngwaahịa nke nọmba niile dị na ya bụ 0."
         },
         {
-            "question": "A is 3 years older to B and 3 years younger to C, while B and D are twins. How many years older is C to D?",
+            "question": "A dị afọ 3 karịa B ma dị afọ 3 tọọ C, ebe B na D bụ ejima. Afọ ole ka C ji kara D?",
             "a": "2",
             "b": "3",
             "c": "6",
@@ -163,175 +163,175 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "C is 3 years older to A and A is 3 years older to B which has same age as D! !So, C is 3+3 = 6 years older to D."
+            "explain": "C dị afọ 3 karịa A ma A dị afọ 3 karịa B nke nwere otu afọ dị ka D! !Yabụ, C dị afọ 3+3 = 6 karịa D."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Producer",
-            "b": "Director",
-            "c": "Investor",
-            "d": "Financier",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Onye na-emepụta ihe",
+            "b": "Onye nduzi",
+            "c": "Onye na-etinye ego",
+            "d": "Onye na-akwado ego",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Director spend money."
+            "explain": "Ewezuga onye nduzi, onye ọ bụla na-emefu ego."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Tricycle",
-            "b": "Trident",
-            "c": "Trifle",
-            "d": "Tricolour",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Ụgbọala nwere ụkwụ atọ",
+            "b": "Mma agha nwere alaka atọ",
+            "c": "Ihe na-abaghị uru",
+            "d": "Agba atọ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In all except Trifle, 'tri' indicates 'three'."
+            "explain": "N'ime ihe niile ma e wezụga Trifle, 'tri' na-egosi 'atọ'."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Chameleon",
-            "b": "Crocodile",
+            "b": "Agụ iyi",
             "c": "Alligator",
-            "d": "Locust",
+            "d": "Igurube",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Locust are reptiles, while locust is an insect."
+            "explain": "Ewezuga igurube, ihe niile bụ anụ na-akpụ akpụ, ebe igurube bụ ụmụ ahụhụ."
         },
         {
-            "question": "A lotus flower always has",
-            "a": "Mud",
+            "question": "Okooko osisi lotus na-enwe mgbe niile",
+            "a": "Apịtị",
             "b": "Petals",
-            "c": "Root",
-            "d": "Water",
+            "c": "Mgbọrọgwụ",
+            "d": "Mmiri",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "In India a widow can marry her brother-in-law although a man cannot marry the sister of his dead wife",
-            "a": "Always",
-            "b": "Never",
-            "c": "Often",
-            "d": "Sometimes",
+            "question": "N'India, nwanyị di ya nwụrụ nwere ike ịlụ ọgọ ya nwoke n'agbanyeghị na nwoke enweghị ike ịlụ nwanne nwunye ya nwụrụ anwụ",
+            "a": "Mgbe niile",
+            "b": "Ọ dịghị mgbe",
+            "c": "Ọtụtụ mgbe",
+            "d": "Mgbe ụfọdụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "As there is no such tradition hence this will happen sometimes."
+            "explain": "Ebe ọ bụ na enweghị omenala dị otú ahụ, nke a ga-eme mgbe ụfọdụ."
         },
         {
-            "question": "Which one of the following is always found in 'Remedy of fault'?",
-            "a": "Punishment",
-            "b": "Remedy",
-            "c": "Fault",
-            "d": "Scolding",
+            "question": "Kedu n'ime ihe ndị a na-ahụ mgbe niile na 'Ngwọta nke mmejọ'?",
+            "a": "Ntaramahụhụ",
+            "b": "Ngwọta",
+            "c": "Mmejọ",
+            "d": "Ịba mba",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "A car always has",
-            "a": "Driver",
-            "b": "Wheels",
+            "question": "Ụgbọ ala na-enwe mgbe niile",
+            "a": "Onye ọkwọ ụgbọala",
+            "b": "Ụkwụ",
             "c": "Bonnet",
             "d": "Bumper",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Stain",
-            "b": "Wipe",
-            "c": "Scrub",
-            "d": "Wash",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Ntụpọ",
+            "b": "Hichaa",
+            "c": "Kpochapụ",
+            "d": "Saa",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Stain are terms related to cleaning."
+            "explain": "Ewezuga ntụpọ, okwu niile metụtara ihicha."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Coat",
-            "b": "Shirt",
-            "c": "Blouse",
-            "d": "Trousers",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Uwe elu",
+            "b": "Uwe elu",
+            "c": "Uwe elu nwanyị",
+            "d": "Uwe ogologo ọkpa",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Trousers are garments which cover the upper part of the body."
+            "explain": "Ewezuga uwe ogologo ọkpa, uwe niile na-ekpuchi akụkụ elu nke ahụ."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Asia",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Eshia",
             "b": "Argentina",
-            "c": "Africa",
+            "c": "Afrịka",
             "d": "Australia",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Argentina are continents, while Argentina is a country."
+            "explain": "Ewezuga Argentina, kọntinent niile, ebe Argentina bụ obodo."
         },
         {
-            "question": "Rahul put his timepiece on the table in such a way that at 6 P.M. hour hand points to North. In which direction the minute hand will point at 9.15 P.M. ?",
-            "a": "South-East",
-            "b": "South",
-            "c": "North",
-            "d": "West",
+            "question": "Rahul tinyere elekere ya n'elu tebụl n'ụzọ nke na n'elekere isii nke mgbede, aka elekere na-atụ aka n'ebe ugwu. N'akụkụ ole ka aka nkeji ga-atụ aka n'elekere 9.15 nke mgbede?",
+            "a": "Ndịda-Ebe Ọwụwa Anyanwụ",
+            "b": "Ndịda",
+            "c": "Ugwu",
+            "d": "Ebe Ọdịda Anyanwụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Which one of the following is always in 'Sentiment'?",
-            "a": "Cruelty",
-            "b": "Insight",
-            "c": "Neutrality",
-            "d": "Emotion",
+            "question": "Kedu n'ime ihe ndị a dị mgbe niile na 'Mmetụta'?",
+            "a": "Obi ọjọọ",
+            "b": "Nghọta",
+            "c": "Anọpụ iche",
+            "d": "Mmetụta",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Controversy always involves",
-            "a": "Dislike",
-            "b": "Injustice",
-            "c": "Disagreement",
-            "d": "Passion",
+            "question": "Esemokwu na-agụnye mgbe niile",
+            "a": "Ịkpọasị",
+            "b": "Ikpe na-ezighị ezi",
+            "c": "Ekwekọrịtaghị",
+            "d": "Mmasị",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is found necessarily in newspaper?",
-            "a": "Date",
-            "b": "Advertisement",
-            "c": "News",
-            "d": "Editor",
+            "question": "Gịnị ka a na-ahụkarị n'akwụkwọ akụkọ?",
+            "a": "Ụbọchị",
+            "b": "Mgbasa ozi",
+            "c": "Akụkọ",
+            "d": "Onye nchịkọta akụkọ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "An institute organised a fete and 1/5 of the girls and 1/8 of the boys participated in the same. What fraction of the total number of students took part in the fete?",
+            "question": "Otu ụlọ ọrụ haziri ememme ma 1/5 nke ụmụ agbọghọ na 1/8 nke ụmụ nwoke sonyere na ya. Kedu akụkụ nke ọnụ ọgụgụ ụmụ akwụkwọ niile sonyere na ememme ahụ?",
             "a": "2/13",
             "b": "13/40",
-            "c": "Data inadequate",
-            "d": "None of these",
+            "c": "Data ezughi oke",
+            "d": "Ọ dịghị nke ọ bụla n'ime ndị a",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "A pineapple costs Rs. 7 each. A watermelon costs Rs. 5 each. X spends Rs. 38 on these fruits. The number of pineapples purchased is",
+            "question": "Otu painiapulu na-efu Rs. 7 nke ọ bụla. Otu anyụ na-efu Rs. 5 nke ọ bụla. X na-emefu Rs. 38 na mkpụrụ osisi ndị a. Ọnụ ọgụgụ painiapulu a zụrụ bụ",
             "a": "2",
             "b": "3",
             "c": "4",
@@ -339,43 +339,43 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Maximum PineApples that can be purchased are 5! !But 5 is not in options so best answer is 4."
+            "explain": "Painiapulu kachasị elu enwere ike ịzụta bụ 5! !Mana 5 adịghị na nhọrọ yabụ azịza kacha mma bụ 4."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Ant",
-            "b": "Bee",
-            "c": "Moth",
-            "d": "Spider",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Ndanda",
+            "b": "Añụ",
+            "c": "Nla",
+            "d": "Ududo",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Spider are insects having six legs."
+            "explain": "Ewezuga ududo, ihe niile bụ ụmụ ahụhụ nwere ụkwụ isii."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Flute",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Ọjà",
             "b": "Guitar",
             "c": "Sitar",
             "d": "Violin",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Flute are string instruments."
+            "explain": "Ewezuga ọjà, ihe niile bụ ngwa egwu nwere eriri."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Treachery",
-            "b": "Fraud",
-            "c": "Deceit",
-            "d": "Morbid",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Nraranye",
+            "b": "Ịghọ aghụghọ",
+            "c": "Ịghọ aghụghọ",
+            "d": "Ọrịa",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Morbid are synonyms of 'deceit'."
+            "explain": "Ewezuga Morbid, ihe niile bụ otu okwu nke 'aghụghọ'."
         },
         {
-            "question": "There are deer and peacocks in a zoo. By counting heads they are 80. The number of their legs is 200. How many peacocks are there ?",
+            "question": "E nwere mgbada na peacock n'ime anụ ọhịa. Site n'ịgụ isi ha bụ 80. Ọnụ ọgụgụ ụkwụ ha bụ 200. Peacock ole ka e nwere?",
             "a": "60",
             "b": "30",
             "c": "50",
@@ -383,10 +383,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Let x and y be the number of deer and peacocks in the zoo respectively. Then,!x + y = 80 ...(i) and!4x + 2y = 200 or 2x + y = 100 ...(ii)! !Solving (i) and (ii), we get) x = 20, y = 60."
+            "explain": "Ka x na y bụrụ ọnụ ọgụgụ mgbada na peacock n'ime anụ ọhịa n'otu n'otu. Mgbe ahụ,!x + y = 80 ...(i) na!4x + 2y = 200 ma ọ bụ 2x + y = 100 ...(ii)! !N'ịgbazi (i) na (ii), anyị na-enweta) x = 20, y = 60."
         },
         {
-            "question": "If you write down all the numbers from 1 to 100, then how many times do you write 3 ?",
+            "question": "Ọ bụrụ na ị dee nọmba niile site na 1 ruo 100, ugboro ole ka ị na-ede 3?",
             "a": "11",
             "b": "18",
             "c": "20",
@@ -394,109 +394,109 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Clearly, from 1 to 100, there are ten numbers with 3 as the unit's digit- 3, 13, 23, 33, 43, 53, 63, 73, 83, 93; and ten numbers with 3 as the ten's digit - 30, 31, 32, 33, 34, 35, 36, 37, 38, 39.! !So, will be written 10 + 10 = 20 times."
+            "explain": "N'ụzọ doro anya, site na 1 ruo 100, e nwere nọmba iri nwere 3 dị ka nkeji nkeji - 3, 13, 23, 33, 43, 53, 63, 73, 83, 93; na nọmba iri nwere 3 dị ka nkeji iri - 30, 31, 32, 33, 34, 35, 36, 37, 38, 39.! !Yabụ, a ga-ede ya ugboro 10 + 10 = 20."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Arrow",
-            "b": "Axe",
-            "c": "Knife",
-            "d": "Dagger",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Akụ",
+            "b": "Anyụike",
+            "c": "Mma",
+            "d": "Mma agha",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Arrow are used while holding in hand."
+            "explain": "Ewezuga akụ, a na-eji ihe niile eme ihe mgbe a na-ejide ya n'aka."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Feathers",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Nku",
             "b": "Tentacles",
-            "c": "Scales",
+            "c": "Akpịrịkpa",
             "d": "Flagella",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Feathers are organs for movement in different organisms."
+            "explain": "Ewezuga nku, ihe niile bụ akụkụ ahụ maka mmegharị n'ime ihe dị iche iche."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Dog",
-            "b": "Horse",
-            "c": "Goat",
-            "d": "Fox",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Nkịta",
+            "b": "Ịnyịnya",
+            "c": "Ewu",
+            "d": "Nkịta ọhịa",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Fox are domestic animals, while fox is a wild animal."
+            "explain": "Ewezuga nkịta ọhịa, anụmanụ niile bụ anụ ụlọ, ebe nkịta ọhịa bụ anụ ọhịa."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"book\"",
-            "a": "fiction",
-            "b": "pages",
-            "c": "pictures",
-            "d": "learning",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"akwụkwọ\"",
+            "a": "akụkọ ifo",
+            "b": "ibe",
+            "c": "foto",
+            "d": "ịmụ ihe",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The necessary part of a book is its pages; there is no book without pages. Not all books are fiction (choice a), and not all books have pictures (choice c). Learning (choice d) may or may not take place with a book."
+            "explain": "Akụkụ dị mkpa nke akwụkwọ bụ ibe ya; enweghị akwụkwọ na-enweghị ibe. Ọ bụghị akwụkwọ niile bụ akụkọ ifo (nhọrọ a), ọ bụghịkwa akwụkwọ niile nwere foto (nhọrọ c). Ịmụ ihe (nhọrọ d) nwere ike ma ọ bụ na ọ gaghị ewere ọnọdụ na akwụkwọ."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"language\"",
-            "a": "tongue",
-            "b": "slang",
-            "c": "writing",
-            "d": "words",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"asụsụ\"",
+            "a": "ire",
+            "b": "okwu mkparị",
+            "c": "ide ihe",
+            "d": "okwu",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Words are a necessary part of language. Slang is not necessary to language (choice b). Not all languages are written (choice c).Words do not have to be spoken in order to be part of a language (choice a)."
+            "explain": "Okwu bụ akụkụ dị mkpa nke asụsụ. Okwu mkparị adịghị mkpa maka asụsụ (nhọrọ b). Ọ bụghị asụsụ niile ka e dere (nhọrọ c). Okwu ekwesịghị ịbụ nke a na-ekwu iji bụrụ akụkụ nke asụsụ (nhọrọ a)."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Kiwi",
-            "b": "Eagle",
+            "b": "Ugo",
             "c": "Emu",
             "d": "Ostrich",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Eagle are flightless birds."
+            "explain": "Ewezuga ugo, nnụnụ niile enweghị ike ife efe."
         },
         {
-            "question": "A song always has",
-            "a": "Word",
-            "b": "Chorus",
-            "c": "Musician",
+            "question": "Abụ na-enwe mgbe niile",
+            "a": "Okwu",
+            "b": "Ndị na-abụ abụ",
+            "c": "Onye na-eti egwu",
             "d": "Tymbal",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Yesterday I saw an ice cube which had already melted due to heat of a nearby furnace.",
-            "a": "Always",
-            "b": "Never",
-            "c": "Often",
-            "d": "Sometimes",
+            "question": "Ụnyaahụ ahụrụ m otu ice cube nke gbazeworị n'ihi okpomọkụ nke ọkụ dị nso.",
+            "a": "Mgbe niile",
+            "b": "Ọ dịghị mgbe",
+            "c": "Ọtụtụ mgbe",
+            "d": "Mgbe ụfọdụ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Since the ice cube had already melted due to the heat of a nearby furnace so after this ice cannot remain as ice cube."
+            "explain": "Ebe ọ bụ na ice cube agbazeworị n'ihi okpomọkụ nke ọkụ dị nso, mgbe nke a gasịrị, ice enweghị ike ịdịgide dị ka ice cube."
         },
         {
-            "question": "What is found necessarily in milk?",
-            "a": "Cream",
-            "b": "Curd",
-            "c": "Water",
-            "d": "Whiteness",
+            "question": "Gịnị ka a na-ahụkarị na mmiri ara ehi?",
+            "a": "Ude",
+            "b": "Mmiri ara ehi gbara ụka",
+            "c": "Mmiri",
+            "d": "Ịdị ọcha",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Potassium",
             "b": "Silicon",
             "c": "Zirconium",
@@ -504,87 +504,87 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Potassium are metals used in semiconductor devices."
+            "explain": "Ewezuga Potassium, ihe niile bụ ọla a na-eji na ngwaọrụ semiconductor."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Tea",
-            "b": "Chalk",
-            "c": "Rubber",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Tii",
+            "b": "Chọọkị",
+            "c": "Rọba",
             "d": "Cardamom",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Chalk are obtained from crops."
+            "explain": "Ewezuga chọọkị, a na-enweta ihe niile site na ihe ọkụkụ."
         },
         {
-            "question": "A boy is sitting at the back seat of a car. When the driver suddenly starts moving the car (in forward direction), the boy experiences a backward force?",
-            "a": "Always",
-            "b": "Never",
-            "c": "Often",
-            "d": "Sometimes",
+            "question": "Otu nwoke nọ ọdụ n'azụ oche ụgbọ ala. Mgbe onye ọkwọ ụgbọala malitere ịkwọ ụgbọ ala na mberede (n'ihu), nwata nwoke ahụ na-enwe mmetụta nke ike azụ?",
+            "a": "Mgbe niile",
+            "b": "Ọ dịghị mgbe",
+            "c": "Ọtụtụ mgbe",
+            "d": "Mgbe ụfọdụ",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "When a car suddenly starts the lower part of the boy's body will be in the motion while his upper will be at rest.! !Hence he will always experience backward force."
+            "explain": "Mgbe ụgbọ ala malitere na mberede, akụkụ ala nke ahụ nwata nwoke ahụ ga-adị na mmegharị ebe akụkụ elu ya ga-adị na ezumike.! !Ya mere, ọ ga-enwe mmetụta nke ike azụ mgbe niile."
         },
         {
-            "question": "Which one of the following is always found in 'Wonder'?",
-            "a": "Crowd",
-            "b": "Lumber",
-            "c": "Astonishment",
-            "d": "Rustic",
+            "question": "Kedu n'ime ihe ndị a na-ahụ mgbe niile na 'Ihe ijuanya'?",
+            "a": "Ìgwè mmadụ",
+            "b": "Osisi",
+            "c": "Ijuanya",
+            "d": "Onye obodo",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Disclosure always involves",
-            "a": "Agents",
-            "b": "Display",
-            "c": "Exposition",
-            "d": "Secrets",
+            "question": "Nkpughe na-agụnye mgbe niile",
+            "a": "Ndị nnọchi anya",
+            "b": "Ngosipụta",
+            "c": "Ngosipụta",
+            "d": "Ihe nzuzo",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "A bulb always has",
+            "question": "Igwe ọkụ na-enwe mgbe niile",
             "a": "Glass",
-            "b": "Current",
+            "b": "Ugbu a",
             "c": "Filament",
-            "d": "Light",
+            "d": "Ìhè",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "A mirror always",
-            "a": "Retracts",
-            "b": "Distorts",
-            "c": "Refracts",
-            "d": "Reflects",
+            "question": "Enyo na-eme mgbe niile",
+            "a": "Na-eweghachi",
+            "b": "Na-agbagọ",
+            "c": "Na-agbaji",
+            "d": "Na-egosipụta",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Calendar",
-            "b": "Year",
-            "c": "Date",
-            "d": "Month",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Kalenda",
+            "b": "Afọ",
+            "c": "Ụbọchị",
+            "d": "Ọnwa",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All others are parts of a calendar."
+            "explain": "Ndị ọzọ niile bụ akụkụ nke kalenda."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Mumbai",
             "b": "Cochin",
             "c": "Kandla",
@@ -592,395 +592,395 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Mysore are harbours."
+            "explain": "Ewezuga Mysore, ọdụ ụgbọ mmiri niile."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Cumin",
-            "b": "Groundnut",
+            "b": "Ahụekere",
             "c": "Cinnamon",
-            "d": "Pepper",
+            "d": "Ose",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Groundnut are spices."
+            "explain": "Ewezuga ahụekere, ihe niile bụ ngwa nri."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Biscuits",
-            "b": "Chocolate",
-            "c": "Cake",
-            "d": "Bread",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Biskit",
+            "b": "Chọkọletị",
+            "c": "Achịcha",
+            "d": "Achịcha",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Chocolate are baked items."
+            "explain": "Ewezuga chọkọletị, ihe niile bụ ihe a na-eme achịcha."
         },
         {
-            "question": "Danger always involves",
-            "a": "Enemy",
-            "b": "Attack",
-            "c": "Fear",
-            "d": "Help",
+            "question": "Ihe egwu na-agụnye mgbe niile",
+            "a": "Onye iro",
+            "b": "Mwakpo",
+            "c": "Ụjọ",
+            "d": "Enyemaka",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "A disease always has",
-            "a": "Cure",
-            "b": "Germs",
-            "c": "Cause",
-            "d": "Virus",
+            "question": "Ọrịa na-enwe mgbe niile",
+            "a": "Ọgwụgwọ",
+            "b": "Nje",
+            "c": "Ihe kpatara ya",
+            "d": "Nje",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Management always involves",
-            "a": "Regulation",
-            "b": "Counsel",
-            "c": "Exhortation",
-            "d": "Coercion",
+            "question": "Nlekọta na-agụnye mgbe niile",
+            "a": "Iwu",
+            "b": "Ndụmọdụ",
+            "c": "Ịgba ume",
+            "d": "Ịmanye",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Which one of the following is always found in 'Phrase'?",
-            "a": "Nomenclature",
-            "b": "Manifestation",
-            "c": "Pictorial effect",
-            "d": "Glossary",
+            "question": "Kedu n'ime ihe ndị a na-ahụ mgbe niile na 'Okwu'?",
+            "a": "Aha",
+            "b": "Ngosipụta",
+            "c": "Mmetụta foto",
+            "d": "Nkọwa okwu",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "If we are going early in the morning towards the south the sun will be visible at our left..",
-            "a": "Always",
-            "b": "Never",
-            "c": "Often",
-            "d": "Sometimes",
+            "question": "Ọ bụrụ na anyị na-aga n'isi ụtụtụ gaa n'ebe ndịda, anyanwụ ga-ahụ anya n'aka ekpe anyị..",
+            "a": "Mgbe niile",
+            "b": "Ọ dịghị mgbe",
+            "c": "Ọtụtụ mgbe",
+            "d": "Mgbe ụfọdụ",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Early in the morning the sun is in the direction of east. If we are going towards the south, our face will be in the direction of South and our left hand will be in the direction of east.! !Hence if we go early in the morning towards the south the sun will always be visible at our left."
+            "explain": "N'isi ụtụtụ, anyanwụ dị n'akụkụ ọwụwa anyanwụ. Ọ bụrụ na anyị na-aga n'ebe ndịda, ihu anyị ga-adị n'akụkụ ndịda ma aka ekpe anyị ga-adị n'akụkụ ọwụwa anyanwụ.! !Ya mere, ọ bụrụ na anyị gaa n'isi ụtụtụ gaa n'ebe ndịda, anyanwụ ga-ahụ anya mgbe niile n'aka ekpe anyị."
         },
         {
-            "question": "My ten years old niece is taller than my twelve years old son..",
-            "a": "Always",
-            "b": "Never",
-            "c": "Often",
-            "d": "Sometimes",
+            "question": "Nwa nwanne m nwanyị dị afọ iri toro ogologo karịa nwa m nwoke dị afọ iri na abụọ..",
+            "a": "Mgbe niile",
+            "b": "Ọ dịghị mgbe",
+            "c": "Ọtụtụ mgbe",
+            "d": "Mgbe ụfọdụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is always in worry?",
-            "a": "Difficulty",
-            "b": "Unrest",
-            "c": "Non-Cooperation",
-            "d": "Poignancy",
+            "question": "Gịnị na-adị mgbe niile na nchegbu?",
+            "a": "Nsogbu",
+            "b": "Enweghị izu ike",
+            "c": "Enweghị nkwado",
+            "d": "Ịdị nkọ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Which one of the following is always associated with 'tree'?",
-            "a": "Flowers",
-            "b": "Leaves",
-            "c": "Fruits",
-            "d": "Roots",
+            "question": "Kedu n'ime ihe ndị a na-ejikọta mgbe niile na 'osisi'?",
+            "a": "Okooko osisi",
+            "b": "Akwụkwọ",
+            "c": "Mkpụrụ osisi",
+            "d": "Mgbọrọgwụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Which one of the following is always associated with 'justice'?",
-            "a": "Hypocrisy",
-            "b": "Legitimate",
-            "c": "Magnanimity",
-            "d": "Diminutiveness",
+            "question": "Kedu n'ime ihe ndị a na-ejikọta mgbe niile na 'ikpe ziri ezi'?",
+            "a": "Ihu abụọ",
+            "b": "Ihe ziri ezi",
+            "c": "Obiọma",
+            "d": "Ịdị obere",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "A camera always has",
+            "question": "Igwefoto na-enwe mgbe niile",
             "a": "Reels",
             "b": "Flash",
-            "c": "Stand",
+            "c": "Guzo",
             "d": "Lens",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is found necessarily in a race?",
-            "a": "Judge",
-            "b": "Spectators",
-            "c": "Competitor",
-            "d": "Prize",
+            "question": "Gịnị ka a na-ahụkarị n'ọsọ?",
+            "a": "Onyeikpe",
+            "b": "Ndị na-ekiri",
+            "c": "Onye asọmpi",
+            "d": "Ihe nrite",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "What is found necessarily in game?",
-            "a": "Players",
-            "b": "Spectators",
-            "c": "Referee",
-            "d": "Victory",
+            "question": "Gịnị ka a na-ahụkarị n'egwuregwu?",
+            "a": "Ndị na-egwu egwu",
+            "b": "Ndị na-ekiri",
+            "c": "Onye ọka ikpe",
+            "d": "Mmeri",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Which one of the following is always found in factories?",
-            "a": "Chimney",
-            "b": "Workers",
-            "c": "Electricity",
-            "d": "Sellers",
+            "question": "Kedu n'ime ihe ndị a na-ahụkarị n'ụlọ ọrụ mmepụta ihe?",
+            "a": "Chimni",
+            "b": "Ndị ọrụ",
+            "c": "Eletrik",
+            "d": "Ndị na-ere ahịa",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "A hill always has",
-            "a": "Trees",
-            "b": "Height",
-            "c": "Animals",
-            "d": "Water",
+            "question": "Ugwu na-enwe mgbe niile",
+            "a": "Osisi",
+            "b": "Elu",
+            "c": "Anụmanụ",
+            "d": "Mmiri",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"harvest\"",
-            "a": "autumn",
-            "b": "stockpile",
-            "c": "tractor",
-            "d": "crop",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"owuwe ihe ubi\"",
+            "a": "oge mgbụsị akwụkwọ",
+            "b": "nchịkọta",
+            "c": "traktọ",
+            "d": "ihe ọkụkụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "To harvest something, one must have a crop, which is the essential element for this item. Autumn (choice a) is not the only time crops are harvested. There may not be enough of a crop to stockpile (choice b), and you can harvest crops without a tractor (choice c)."
+            "explain": "Iji wepụta ihe, mmadụ ga-enwerịrị ihe ọkụkụ, nke bụ ihe dị mkpa maka ihe a. Oge mgbụsị akwụkwọ (nhọrọ a) abụghị naanị oge a na-ewe ihe ubi. Enwere ike ọ gaghị enwe ihe ọkụkụ zuru ezu iji chekwaa (nhọrọ b), ma ị nwere ike iwe ihe ubi na-enweghị traktọ (nhọrọ c)."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"desert\"",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"ọzara\"",
             "a": "cactus",
-            "b": "arid",
+            "b": "akọrọ",
             "c": "oasis",
-            "d": "flat",
+            "d": "dị larịị",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A desert is an arid tract of land. Not all deserts are flat (choice d). Not all deserts have cacti or oases (choices a and c)."
+            "explain": "Ọzara bụ ala kpọrọ nkụ. Ọ bụghị ọzara niile dị larịị (nhọrọ d). Ọ bụghị ọzara niile nwere cacti ma ọ bụ oases (nhọrọ a na c)."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "House",
-            "b": "Cottage",
-            "c": "School",
-            "d": "Palace",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Ụlọ",
+            "b": "Ụlọ nta",
+            "c": "Ụlọ akwụkwọ",
+            "d": "Obí eze",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except School are dwelling places."
+            "explain": "Ewezuga ụlọ akwụkwọ, ebe obibi niile."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Cap",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Okpu",
             "b": "Turban",
-            "c": "Helmet",
-            "d": "Veil",
+            "c": "Okpu agha",
+            "d": "Ihe mkpuchi",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Veil cover the head, while veil covers the face."
+            "explain": "Ewezuga ihe mkpuchi, ihe niile na-ekpuchi isi, ebe ihe mkpuchi na-ekpuchi ihu."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Sparrow",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Nza",
             "b": "Swan",
             "c": "Parrot",
             "d": "Koel",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Swan is the only water bird in the group."
+            "explain": "Swan bụ naanị nnụnụ mmiri n'ime otu ahụ."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Tall",
-            "b": "Huge",
-            "c": "Thin",
-            "d": "Sharp",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Ogologo",
+            "b": "Nnukwu",
+            "c": "Mkpa",
+            "d": "Nkọ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Sharp are related to dimension."
+            "explain": "Ewezuga nkọ, ihe niile metụtara akụkụ."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"gala\"",
-            "a": "celebration",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"gala\"",
+            "a": "ememe",
             "b": "tuxedo",
-            "c": "appetizer",
-            "d": "orator",
+            "c": "ihe oriri",
+            "d": "onye na-ekwu okwu",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A gala indicates a celebration, the necessary element here. A tuxedo (choice b) is not required garb at a gala, nor is an appetizer (choice c). A gala may be held without the benefit of anyone speaking (choice d)."
+            "explain": "Gala na-egosi ememe, ihe dị mkpa ebe a. A chọghị tuxedo (nhọrọ b) na gala, ma ọ bụ ihe oriri (nhọrọ c). Enwere ike ịme gala na-enweghị uru onye ọ bụla na-ekwu okwu (nhọrọ d)."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"monopoly\"",
-            "a": "corrupt",
-            "b": "exclusive",
-            "c": "rich",
-            "d": "gigantic",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"monopoly\"",
+            "a": "nrụrụ aka",
+            "b": "pụrụ iche",
+            "c": "ọgaranya",
+            "d": "nnukwu",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "The essential part of a monopoly is that it involves exclusive ownership or control."
+            "explain": "Akụkụ dị mkpa nke monopoly bụ na ọ na-agụnye ikike ma ọ bụ njikwa pụrụ iche."
         },
         {
-            "question": "K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?",
-            "a": "East",
-            "b": "West",
-            "c": "North-East",
-            "d": "South",
+            "question": "K dị mita 40 na ndịda ọdịda anyanwụ nke L. Ọ bụrụ na M dị mita 40 na ndịda ọwụwa anyanwụ nke L, mgbe ahụ M nọ n'akụkụ ole nke K?",
+            "a": "Ebe Ọwụwa Anyanwụ",
+            "b": "Ebe Ọdịda Anyanwụ",
+            "c": "Ugwu-Ebe Ọwụwa Anyanwụ",
+            "d": "Ndịda",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "One morning after sunrise, Suresh was standing facing a pole. The shadow of the pole fell exactly to his right. To which direction was he facing?",
-            "a": "East",
-            "b": "South",
-            "c": "West",
-            "d": "North",
+            "question": "Otu ụtụtụ mgbe anyanwụ wara, Suresh guzoro chere ihu n'otu osisi. Onyinyo osisi ahụ dara kpọmkwem n'aka nri ya. Olee akụkụ ọ na-eche ihu?",
+            "a": "Ebe Ọwụwa Anyanwụ",
+            "b": "Ndịda",
+            "c": "Ebe Ọdịda Anyanwụ",
+            "d": "Ugwu",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"shoe\"",
-            "a": "sole",
-            "b": "leather",
-            "c": "laces",
-            "d": "walking",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"akpụkpọ ụkwụ\"",
+            "a": "ọbụ ụkwụ",
+            "b": "akpụkpọ anụ",
+            "c": "eriri",
+            "d": "ije",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All shoes have a sole of some sort.Not all shoes are made of leather (choice b); nor do they all have laces (choice c).Walking (choice d) is not essential to a shoe."
+            "explain": "Akpụkpọ ụkwụ niile nwere ụdị ọbụ ụkwụ. Ọ bụghị akpụkpọ ụkwụ niile ka e ji akpụkpọ anụ mee (nhọrọ b); ha niile enweghịkwa eriri (nhọrọ c). Ije ije (nhọrọ d) adịghị mkpa maka akpụkpọ ụkwụ."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"swimming\"",
-            "a": "pool",
-            "b": "bathing suit",
-            "c": "water",
-            "d": "life jacket",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"igwu mmiri\"",
+            "a": "ọdọ mmiri",
+            "b": "uwe ịsa ahụ",
+            "c": "mmiri",
+            "d": "uwe nchekwa ndụ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Water is essential for swimming-without water, there is no swimming. The other choices are things that may or may not be present."
+            "explain": "Mmiri dị mkpa maka igwu mmiri - na-enweghị mmiri, enweghị igwu mmiri. Nhọrọ ndị ọzọ bụ ihe nwere ike ma ọ bụ na ọ gaghị adị."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"lightning\"",
-            "a": "electricity",
-            "b": "thunder",
-            "c": "brightness",
-            "d": "rain",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"àmụ̀mà\"",
+            "a": "eletrik",
+            "b": "egbeigwe",
+            "c": "ìhè",
+            "d": "mmiri ozuzo",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Lightning is produced from a discharge of electricity, so electricity is essential. Thunder and rain are not essential to the production of lightning (choices b and d). Brightness may be a byproduct of lightning, but it is not essential (choice c)."
+            "explain": "A na-emepụta àmụ̀mà site na mwepụ nke eletrik, yabụ eletrik dị mkpa. Egbeigwe na mmiri ozuzo adịghị mkpa maka mmepụta àmụ̀mà (nhọrọ b na d). Ìhè nwere ike ịbụ ihe sitere na àmụ̀mà, mana ọ dịghị mkpa (nhọrọ c)."
         },
         {
-            "question": "One morning Udai and Vishal were talking to each other face to face at a crossing. If Vishal's shadow was exactly to the left of Udai, which direction was Udai facing?",
-            "a": "East",
-            "b": "West",
-            "c": "North",
-            "d": "South",
+            "question": "Otu ụtụtụ Udai na Vishal na-agwa ibe ha okwu ihu na ihu n'otu nkwụsị. Ọ bụrụ na onyinyo Vishal dị kpọmkwem n'aka ekpe Udai, olee akụkụ Udai na-eche ihu?",
+            "a": "Ebe Ọwụwa Anyanwụ",
+            "b": "Ebe Ọdịda Anyanwụ",
+            "c": "Ugwu",
+            "d": "Ndịda",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Y is in the East of X which is in the North of Z. If P is in the South of Z, then in which direction of Y, is P?",
-            "a": "North",
-            "b": "South",
-            "c": "South-East",
-            "d": "None of these",
+            "question": "Y nọ n'ebe ọwụwa anyanwụ nke X nke nọ n'ebe ugwu nke Z. Ọ bụrụ na P nọ n'ebe ndịda nke Z, mgbe ahụ n'akụkụ ole nke Y, ka P nọ?",
+            "a": "Ugwu",
+            "b": "Ndịda",
+            "c": "Ndịda-Ebe Ọwụwa Anyanwụ",
+            "d": "Ọ dịghị nke ọ bụla n'ime ndị a",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "If South-East becomes North, North-East becomes West and so on. What will West become?",
-            "a": "North-East",
-            "b": "North-West",
-            "c": "South-East",
-            "d": "South-West",
+            "question": "Ọ bụrụ na ndịda ọwụwa anyanwụ ghọrọ ugwu, ugwu ọwụwa anyanwụ ghọrọ ọdịda anyanwụ na ihe ndị ọzọ. Gịnị ka ọdịda anyanwụ ga-aghọ?",
+            "a": "Ugwu-Ebe Ọwụwa Anyanwụ",
+            "b": "Ugwu-Ebe Ọdịda Anyanwụ",
+            "c": "Ndịda-Ebe Ọwụwa Anyanwụ",
+            "d": "Ndịda-Ebe Ọdịda Anyanwụ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"guitar\"",
-            "a": "band",
-            "b": "teacher",
-            "c": "songs",
-            "d": "strings",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"guitar\"",
+            "a": "ìgwè egwu",
+            "b": "onye nkuzi",
+            "c": "abụ",
+            "d": "eriri",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A guitar does not exist without strings, so strings are an essential part of a guitar. A band is not necessary to a guitar (choice a). Guitar playing can be learned without a teacher (choice b). Songs are byproducts of a guitar (choice c)."
+            "explain": "Guitar adịghị adị na-enweghị eriri, yabụ eriri bụ akụkụ dị mkpa nke guitar. Otu ìgwè egwu adịghị mkpa maka guitar (nhọrọ a). Enwere ike ịmụta ịkpọ guitar na-enweghị onye nkuzi (nhọrọ b). Abụ bụ ihe sitere na guitar (nhọrọ c)."
         },
         {
-            "question": "Choose the word that is a necessary part of the word \"election\"",
-            "a": "president",
-            "b": "voter",
-            "c": "November",
-            "d": "nation",
+            "question": "Họrọ okwu bụ akụkụ dị mkpa nke okwu \"ntuli aka\"",
+            "a": "onye isi ala",
+            "b": "onye ntuli aka",
+            "c": "Nọvemba",
+            "d": "mba",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "An election does not exist without voters. The election of a president (choice a) is a byproduct. Not all elections are held in November (choice c), nor are they nationwide (choice d)."
+            "explain": "Ntuli aka adịghị adị na-enweghị ndị ntuli aka. Nhọpụta onye isi ala (nhọrọ a) bụ ihe sitere na ya. Ọ bụghị ntuli aka niile ka a na-eme na Nọvemba (nhọrọ c), ma ọ bụ na ha abụghị mba niile (nhọrọ d)."
         },
         {
-            "question": "A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?",
-            "a": "West",
-            "b": "South",
-            "c": "North-East",
-            "d": "South-West",
+            "question": "Otu nwoke na-aga kilomita 5 gaa n'ebe ndịda wee tụgharịa gaa n'aka nri. Mgbe ọ gachara kilomita 3, ọ tụgharịrị gaa n'aka ekpe wee gaa kilomita 5. Ugbu a, n'akụkụ ole ka ọ nọ site na ebe ọ malitere?",
+            "a": "Ebe Ọdịda Anyanwụ",
+            "b": "Ndịda",
+            "c": "Ugwu-Ebe Ọwụwa Anyanwụ",
+            "d": "Ndịda-Ebe Ọdịda Anyanwụ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Japan",
             "b": "India",
             "c": "Sri Lanka",
@@ -988,65 +988,65 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except India are islands, while India is a peninsula."
+            "explain": "Ewezuga India, agwaetiti niile, ebe India bụ ala mmiri."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Spectacles",
-            "b": "Goggles",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Ugegbe anya",
+            "b": "Ugegbe anya",
             "c": "Binoculars",
-            "d": "Microphone",
+            "d": "Igwe okwu",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Microphone are related to eyes."
+            "explain": "Ewezuga igwe okwu, ihe niile metụtara anya."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Shehnai",
             "b": "Bagpipe",
-            "c": "Flute",
+            "c": "Ọjà",
             "d": "Sitar",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Sitar are wind instruments, while sitar is a string instrument."
+            "explain": "Ewezuga Sitar, ngwa egwu niile bụ ngwa ikuku, ebe sitar bụ ngwa eriri."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Leopard",
-            "b": "Lion",
-            "c": "Bear",
-            "d": "Tiger",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Agụ",
+            "b": "Ọdụm",
+            "c": "Anụ ọhịa bea",
+            "d": "Agụ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Bear belong to the cat family."
+            "explain": "Ewezuga anụ ọhịa bea, ihe niile bụ nke ezinụlọ nwamba."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Sheep",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Atụrụ",
             "b": "Gazel",
             "c": "Ibex",
             "d": "Shrew",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Gazel are animals found in the mountains."
+            "explain": "Ewezuga Gazel, anụmanụ niile a na-ahụ n'ugwu."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Flood",
-            "b": "Explosion",
-            "c": "Avalanche",
-            "d": "Earthquake",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Idei mmiri",
+            "b": "Mgbawa",
+            "c": "Mbuze",
+            "d": "Ala ọma jijiji",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Explosion are natural calamities."
+            "explain": "Ewezuga mgbawa, ọdachi niile bụ ọdachi ndị na-emere onwe ha."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Oyster",
             "b": "Clam",
             "c": "Scallop",
@@ -1054,10 +1054,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Scallop live in shells."
+            "explain": "Ewezuga Scallop, ihe niile bi n'ime shei."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Deck",
             "b": "Quay",
             "c": "Stern",
@@ -1065,21 +1065,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Quay are parts Of a ship."
+            "explain": "Ewezuga Quay, akụkụ niile nke ụgbọ mmiri."
         },
         {
-            "question": "12 year old Manick is three times as old as his brother Rahul. How old will Manick be when he is twice as old as Rahul?",
-            "a": "14 years",
-            "b": "16 years",
-            "c": "18 years",
-            "d": "20 years",
+            "question": "Manick dị afọ 12 ji okpukpu atọ karịa nwanne ya nwoke Rahul. Afọ ole ka Manick ga-adị mgbe ọ ga-eji okpukpu abụọ karịa Rahul?",
+            "a": "Afọ 14",
+            "b": "Afọ 16",
+            "c": "Afọ 18",
+            "d": "Afọ 20",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Manick's present age = 12 years, Rahul's present age = 4 years.! !Let Manick be twice as old as Rahul after x years from now.! !Then, 12 + x = 2 (4 + x)!12 + x = 8 + 2x!x = 4.! !Hence, Manick's required age = 12 + x = 16 years."
+            "explain": "Afọ Manick ugbu a = afọ 12, afọ Rahul ugbu a = afọ 4.! !Ka Manick jiri okpukpu abụọ karịa Rahul mgbe afọ x gachara site ugbu a.! !Mgbe ahụ, 12 + x = 2 (4 + x)!12 + x = 8 + 2x!x = 4.! !Ya mere, afọ Manick chọrọ = 12 + x = afọ 16."
         },
         {
-            "question": "Choose the word which is different from the rest.",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
             "a": "Lima",
             "b": "Algiers",
             "c": "New York",
@@ -1087,153 +1087,153 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except New York are capital cities."
+            "explain": "Ewezuga New York, isi obodo niile."
         },
         {
-            "question": "Choose the word which is different from the rest.",
-            "a": "Reader",
-            "b": "Writer",
-            "c": "Printer",
-            "d": "Publisher",
+            "question": "Họrọ okwu dị iche na ndị ọzọ.",
+            "a": "Onye na-agụ",
+            "b": "Onye na-ede",
+            "c": "Onye na-ebi akwụkwọ",
+            "d": "Onye na-ebipụta",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Reader are persons involved in the preparation of a journal, newspaper or magazine."
+            "explain": "Ewezuga onye na-agụ, ndị niile na-etinye aka na nkwadebe nke akwụkwọ akụkọ, akwụkwọ akụkọ ma ọ bụ magazin."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Cruise",
-            "b": "Holiday",
-            "c": "Voyage",
-            "d": "Trip",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Njem ụgbọ mmiri",
+            "b": "Ezumike",
+            "c": "Njem",
+            "d": "Njem",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except holiday make the same meanings."
+            "explain": "Ewezuga ezumike, ihe niile nwere otu ihe ọ pụtara."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Foolish",
-            "b": "Audacious",
-            "c": "Stalwart",
-            "d": "Intrepid",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Onye nzuzu",
+            "b": "Onye nwere obi ike",
+            "c": "Onye siri ike",
+            "d": "Onye na-atụghị egwu",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "House",
-            "b": "Residence",
-            "c": "Home",
-            "d": "Building",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Ụlọ",
+            "b": "Ebe obibi",
+            "c": "Ụlọ",
+            "d": "Ụlọ",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Building expresses the meaning of place where someone lives."
+            "explain": "Ewezuga ụlọ, ihe niile na-egosipụta ihe ebe mmadụ bi."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Gazette",
-            "b": "Book",
-            "c": "Newspaper",
-            "d": "Magazine",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Akwụkwọ akụkọ gọọmentị",
+            "b": "Akwụkwọ",
+            "c": "Akwụkwọ akụkọ",
+            "d": "Magazin",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Calm",
-            "b": "Quiet",
-            "c": "Relayed",
-            "d": "Unruffled",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Dị jụụ",
+            "b": "Dị jụụ",
+            "c": "E zigara",
+            "d": "Enweghị nsogbu",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Quiet express the same meaning."
+            "explain": "Ewezuga Quiet, ihe niile na-egosipụta otu ihe ọ pụtara."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Big",
-            "b": "Tall",
-            "c": "Large",
-            "d": "Massive",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Nnukwu",
+            "b": "Ogologo",
+            "c": "Nnukwu",
+            "d": "Nnukwu",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Admirer",
-            "b": "Fanatic",
-            "c": "Devotee",
-            "d": "Enthusiastic",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Onye na-enwe mmasị",
+            "b": "Onye na-anụ ọkụ n'obi",
+            "c": "Onye na-efe ofufe",
+            "d": "Onye na-anụ ọkụ n'obi",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except admirer have the same meanings."
+            "explain": "Ewezuga onye na-enwe mmasị, ihe niile nwere otu ihe ọ pụtara."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Playful",
-            "b": "Hateful",
-            "c": "Careful",
-            "d": "Bagful",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Na-egwu egwu",
+            "b": "Na-akpọ asị",
+            "c": "Kpachara anya",
+            "d": "Jupụtara na akpa",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Colt",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Nwa ịnyịnya",
             "b": "Doe",
-            "c": "Aunt",
-            "d": "Lass",
+            "c": "Nwanne nne",
+            "d": "Nwa agbọghọ",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Pineapple",
-            "b": "Banana",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Painiapulu",
+            "b": "Unere",
             "c": "Mango",
-            "d": "Carrot",
+            "d": "Karọt",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except carrot are fruits."
+            "explain": "Ewezuga karọt, mkpụrụ osisi niile."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Canal",
-            "b": "River",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Ọwa mmiri",
+            "b": "Osimiri",
             "c": "Tank",
-            "d": "Well",
+            "d": "Olulu mmiri",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Tank is an artificial resource to store water."
+            "explain": "Tank bụ ihe eji aka mee iji chekwaa mmiri."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "House",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Ụlọ",
             "b": "Igloo",
             "c": "Bungalow",
-            "d": "Office",
+            "d": "Ọfịs",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except office are residential places."
+            "explain": "Ewezuga ọfịs, ebe obibi niile."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Herring",
             "b": "Wheel",
             "c": "Shark",
@@ -1241,10 +1241,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except wheel are name of wishes."
+            "explain": "Ewezuga wheel, aha ọchịchọ niile."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "New York",
             "b": "Washington",
             "c": "London",
@@ -1252,32 +1252,32 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except New York capitals."
+            "explain": "Ewezuga isi obodo New York."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Honey",
-            "b": "Water",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Mmanụ aṅụ",
+            "b": "Mmiri",
             "c": "Wax",
-            "d": "Oil",
+            "d": "Mmanụ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Pious",
-            "b": "Righteous",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Onye nsọ",
+            "b": "Onye ezi omume",
             "c": "Holly",
-            "d": "Atheist",
+            "d": "Onye na-ekweghị na Chineke",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Atheist are the people who do not believe in God."
+            "explain": "Ndị na-ekweghị na Chineke bụ ndị na-ekweghị na Chineke."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "739",
             "b": "1341",
             "c": "1862",
@@ -1285,43 +1285,43 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "739 - 10 = 729(cube)! !1341 - 10 = 1331(cube)! !522 - 10 = 521(cube)! !But!1862 - 10 = 1852 is not a cube"
+            "explain": "739 - 10 = 729 (cube)! !1341 - 10 = 1331 (cube)! !522 - 10 = 521 (cube)! !Mana!1862 - 10 = 1852 abụghị cube"
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Courage",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Obi ike",
             "b": "Steamer",
             "c": "Measles",
-            "d": "Leave",
+            "d": "Hapụ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Steamer is a device."
+            "explain": "Steamer bụ ngwaọrụ."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Car",
-            "b": "Bus",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Ụgbọ ala",
+            "b": "Ụgbọ ala",
             "c": "Sleigh",
             "d": "Wagon",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Sleigh is a vehicle used for transportation at snow and pulled by horses or dogs."
+            "explain": "Sleigh bụ ụgbọ ala a na-eji ebufe n'elu snow nke ịnyịnya ma ọ bụ nkịta na-adọkpụ."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Ant",
-            "b": "Spider",
-            "c": "Moth",
-            "d": "Bee",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Ndanda",
+            "b": "Ududo",
+            "c": "Nla",
+            "d": "Añụ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Sash",
             "b": "German",
             "c": "Bow",
@@ -1329,21 +1329,21 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Other three are different type of windows."
+            "explain": "Atọ ndị ọzọ bụ ụdị windo dị iche iche."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Earth",
-            "b": "Moon",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Ụwa",
+            "b": "Ọnwa",
             "c": "Mars",
             "d": "Saturn",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except moon are planets."
+            "explain": "Ewezuga ọnwa, mbara ala niile."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Phi",
             "b": "Psi",
             "c": "Chi",
@@ -1351,10 +1351,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Shi is an English word."
+            "explain": "Shi bụ okwu Bekee."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Byron",
             "b": "Shelly",
             "c": "Keats",
@@ -1362,43 +1362,43 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Chamberlain is a politician while all other are poet."
+            "explain": "Chamberlain bụ onye ndọrọ ndọrọ ọchịchị ebe ndị ọzọ niile bụ ndị na-ede uri."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Efficiency",
-            "b": "Subordinate",
-            "c": "Population",
-            "d": "Pneumonia",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Ịrụ ọrụ nke ọma",
+            "b": "Onye nọ n'okpuru",
+            "c": "Ndị mmadụ",
+            "d": "Oyi baa",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All remaining have 5 vowels."
+            "explain": "Ndị fọdụrụnụ niile nwere ụdaume 5."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Imbecile",
-            "b": "Idiot",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Onye nzuzu",
+            "b": "Onye nzuzu",
             "c": "Cretin",
-            "d": "Genius",
+            "d": "Onye nwere ọgụgụ isi",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Cretin is a biological term while all other are behaviour."
+            "explain": "Cretin bụ okwu gbasara ihe ndị dị ndụ ebe ndị ọzọ niile bụ omume."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Tree",
-            "b": "Bird",
-            "c": "Rock",
-            "d": "Mushroom",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Osisi",
+            "b": "Nnụnụ",
+            "c": "Nkume",
+            "d": "Ero",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Rock is a non-living thing."
+            "explain": "Nkume bụ ihe na-adịghị ndụ."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Purple",
             "b": "Red",
             "c": "Orange",
@@ -1406,10 +1406,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Remaining are rainbow colours."
+            "explain": "Ndị fọdụrụ bụ agba egwurugwu."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "France",
             "b": "Netherlands",
             "c": "Luxembourg",
@@ -1417,21 +1417,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Rainbow",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Egwurugwu",
             "b": "Moat",
-            "c": "Cloud",
-            "d": "River",
+            "c": "Igwe ojii",
+            "d": "Osimiri",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Turquoise",
             "b": "Diamond",
             "c": "Ruby",
@@ -1439,10 +1439,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Rambrandt",
             "b": "Shakespeare",
             "c": "Tintorotto",
@@ -1450,10 +1450,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All remaining are painters."
+            "explain": "Ndị fọdụrụnụ niile bụ ndị na-ese ihe."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Sherring",
             "b": "Porpoise",
             "c": "Shark",
@@ -1461,10 +1461,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Belongs to dolphin family."
+            "explain": "Ọ bụ nke ezinụlọ dolphin."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Anemia",
             "b": "Anoxia",
             "c": "Cineraria",
@@ -1472,10 +1472,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Cineraria is not a disease."
+            "explain": "Cineraria abụghị ọrịa."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "David",
             "b": "William",
             "c": "Charles",
@@ -1483,65 +1483,65 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Remaining are names of British Kings."
+            "explain": "Ndị fọdụrụ bụ aha ndị eze Britain."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Captain",
             "b": "Swing",
-            "c": "House",
-            "d": "Labour",
+            "c": "Ụlọ",
+            "d": "Ọrụ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All except Swing have 3 vowels."
+            "explain": "Ewezuga Swing, ihe niile nwere ụdaume 3."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Chicane",
             "b": "Trick",
-            "c": "Insult",
-            "d": "Fraud",
+            "c": "Mkpọrọ",
+            "d": "Ịghọ aghụghọ",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Century",
-            "b": "Second",
-            "c": "Month",
-            "d": "Decadent",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Narị afọ",
+            "b": "Nke abụọ",
+            "c": "Ọnwa",
+            "d": "Onye na-emebi emebi",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Decadent is a condition."
+            "explain": "Decadent bụ ọnọdụ."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Through",
-            "b": "Thought",
-            "c": "Thorough",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Site na",
+            "b": "Echiche",
+            "c": "Zuru oke",
             "d": "Trough",
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Thorough have 3 vowels while all other have 2 vowels."
+            "explain": "Thorough nwere ụdaume 3 ebe ndị ọzọ niile nwere ụdaume 2."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Half",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Ọkara",
             "b": "Zero",
-            "c": "Quarter",
-            "d": "Triple",
+            "c": "Otu ụzọ n'ụzọ anọ",
+            "d": "Atọ",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "No answer description available for this question."
+            "explain": "Enweghị nkọwa azịza dị maka ajụjụ a."
         },
         {
-            "question": "Find the odd man out.",
+            "question": "Chọta nwoke dị iche.",
             "a": "Hashish",
             "b": "Heroin",
             "c": "Helium",
@@ -1549,29 +1549,29 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Remaining are narcotics."
+            "explain": "Ndị fọdụrụ bụ ọgwụ ọjọọ."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Newspaper",
-            "b": "Refrigerator",
-            "c": "Television",
-            "d": "Radio",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Akwụkwọ akụkọ",
+            "b": "Igwe nju oyi",
+            "c": "Igwe onyonyo",
+            "d": "Redio",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Others are means of communication."
+            "explain": "Ndị ọzọ bụ ụzọ nkwurịta okwu."
         },
         {
-            "question": "Find the odd man out.",
-            "a": "Airplane",
-            "b": "Cat",
-            "c": "Camel",
-            "d": "Car",
+            "question": "Chọta nwoke dị iche.",
+            "a": "Ụgbọelu",
+            "b": "Nwamba",
+            "c": "Kamel",
+            "d": "Ụgbọ ala",
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "others are means of transportation."
+            "explain": "ndị ọzọ bụ ụzọ njem."
         }
     ]
 }

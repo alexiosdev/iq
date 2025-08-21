@@ -9,10 +9,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 1, 3, 5, 7, etc."
+            "explain": "Προσθέστε 1, 3, 5, 7, κ.λπ."
         },
         {
-            "question": "Which number is the odd one out,    8, 27, 64, 100, 125, 216, 343",
+            "question": "Ποιος αριθμός είναι ο περιττός; 8, 27, 64, 100, 125, 216, 343",
             "a": "27",
             "b": "100",
             "c": "125",
@@ -20,7 +20,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All others are perfect cube of any number but 100 is not the perfect cube of any number."
+            "explain": "Όλοι οι άλλοι είναι τέλειοι κύβοι οποιουδήποτε αριθμού, αλλά το 100 δεν είναι ο τέλειος κύβος οποιουδήποτε αριθμού."
         },
         {
             "question": "100 ,  96.75 ,  93.5 ,  90.25 ,  87 ,  ?",
@@ -31,7 +31,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Deduct 3.25 each time."
+            "explain": "Αφαιρέστε 3.25 κάθε φορά."
         },
         {
             "question": "0 ,  100 ,  6 ,  94 ,  12 ,  88 ,  18 ,  82 ,  ? ,  ?",
@@ -42,10 +42,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two sequences interwoven.! !Add 6 starting at 0 and deduct 6 starting at 100."
+            "explain": "Υπάρχουν δύο αλληλένδετες ακολουθίες.! !Προσθέστε 6 ξεκινώντας από το 0 και αφαιρέστε 6 ξεκινώντας από το 100."
         },
         {
-            "question": "Which number is the odd one out,    10, 25, 45, 54, 60, 75, 80",
+            "question": "Ποιος αριθμός είναι ο περιττός; 10, 25, 45, 54, 60, 75, 80",
             "a": "10",
             "b": "45",
             "c": "54",
@@ -53,7 +53,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers except 54 is multiple of 5."
+            "explain": "Κάθε ένας από τους αριθμούς εκτός από το 54 είναι πολλαπλάσιο του 5."
         },
         {
             "question": "1 ,  1 ,  2 ,  ? ,  24 ,  120 ,  720",
@@ -64,10 +64,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply by 1, 2, 3 and so on..."
+            "explain": "Πολλαπλασιάστε με 1, 2, 3 και ούτω καθεξής..."
         },
         {
-            "question": "7964325  is to  6975234 ,  5822139  is to  2859312  as  7469851  is to ?",
+            "question": "Το 7964325 είναι προς το 6975234, το 5822139 είναι προς το 2859312 όπως το 7469851 είναι προς το;",
             "a": "6132798",
             "b": "3572612",
             "c": "6471589",
@@ -75,7 +75,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Reverse the first three digits then reverse the last four digits."
+            "explain": "Αντιστρέψτε τα τρία πρώτα ψηφία και στη συνέχεια αντιστρέψτε τα τέσσερα τελευταία ψηφία."
         },
         {
             "question": "1.5 ,  3 ,  5.5 ,  9 ,  13.5 ,  ?",
@@ -86,7 +86,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 1.5, 2.5, 3.5, 4.5, 5.5"
+            "explain": "Προσθέστε 1.5, 2.5, 3.5, 4.5, 5.5"
         },
         {
             "question": "100 ,  50 ,  200 ,  25 ,  400 ,  ?",
@@ -97,10 +97,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences.! ! Multiply 2 starting at 100 and devide by 2 starting at 50."
+            "explain": "Υπάρχουν δύο αλληλένδετες ακολουθίες.! !Πολλαπλασιάστε το 2 ξεκινώντας από το 100 και διαιρέστε με το 2 ξεκινώντας από το 50."
         },
         {
-            "question": "Which number is the odd one out,    6, 9, 15, 21, 24, 28, 30",
+            "question": "Ποιος αριθμός είναι ο περιττός; 6, 9, 15, 21, 24, 28, 30",
             "a": "28",
             "b": "21",
             "c": "24",
@@ -108,7 +108,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers except 28, is a multiple of 3."
+            "explain": "Κάθε ένας από τους αριθμούς εκτός από το 28, είναι πολλαπλάσιο του 3."
         },
         {
             "question": "100 ,  1 ,  97.5 ,  3.5 ,  92.5 ,  8.5 ,  85 ,  16 ,  ? ,  ?",
@@ -119,7 +119,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences.! ! subtract 2.5, 5, 7.5 starting at 100 and Add 2.5, 5, 7.5 starting at 1."
+            "explain": "Υπάρχουν δύο αλληλένδετες ακολουθίες.! !Αφαιρέστε 2.5, 5, 7.5 ξεκινώντας από το 100 και προσθέστε 2.5, 5, 7.5 ξεκινώντας από το 1."
         },
         {
             "question": "110 ,  ? ,  99 ,  81 ,  72 ,  63 ,  54 ,  45",
@@ -130,7 +130,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Deduct the sum of the digits of the previous number each time."
+            "explain": "Αφαιρέστε το άθροισμα των ψηφίων του προηγούμενου αριθμού κάθε φορά."
         },
         {
             "question": "1 ,  2 ,  3 ,  5 ,  7 ,  10 ,  13 ,  17 ,  21 ,  ? ,  ?",
@@ -152,10 +152,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply by 5 and add 1 each time."
+            "explain": "Πολλαπλασιάστε με 5 και προσθέστε 1 κάθε φορά."
         },
         {
-            "question": "Which number is the odd one out,    10, 14, 16, 18, 21, 24, 26",
+            "question": "Ποιος αριθμός είναι ο περιττός; 10, 14, 16, 18, 21, 24, 26",
             "a": "26",
             "b": "24",
             "c": "21",
@@ -163,7 +163,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All numbers are even except 21."
+            "explain": "Όλοι οι αριθμοί είναι άρτιοι εκτός από το 21."
         },
         {
             "question": "1 ,  1 ,  3 ,  15 ,  105 ,  ?",
@@ -174,7 +174,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply by 1, 3, 5, 7, 9"
+            "explain": "Πολλαπλασιάστε με 1, 3, 5, 7, 9"
         },
         {
             "question": "36 ,  72 ,  ? ,  144 ,  180 ,  216 ,  252",
@@ -185,10 +185,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 36 each time."
+            "explain": "Προσθέστε 36 κάθε φορά."
         },
         {
-            "question": "Which number is the odd one out,    835, 734, 642, 751, 853, 981, 532",
+            "question": "Ποιος αριθμός είναι ο περιττός; 835, 734, 642, 751, 853, 981, 532",
             "a": "751",
             "b": "853",
             "c": "981",
@@ -196,7 +196,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In each number except 751, the difference of third and first digit is the middle one."
+            "explain": "Σε κάθε αριθμό εκτός από το 751, η διαφορά του τρίτου και του πρώτου ψηφίου είναι το μεσαίο."
         },
         {
             "question": "1 ,  4 ,  2 ,  5 ,  3 ,  6 ,  4 ,  ?",
@@ -207,7 +207,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences.! !First starts with 1 and second with 4!Add 1 in both series"
+            "explain": "Υπάρχουν δύο αλληλένδετες ακολουθίες.! !Η πρώτη ξεκινά με 1 και η δεύτερη με 4!Προσθέστε 1 και στις δύο σειρές"
         },
         {
             "question": "14 ,  16 ,  28 ,  32 ,  42 ,  48 ,  56 ,  64 ,  ? ,  ?",
@@ -218,10 +218,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences, add 14 starting at 14 and add 16 starting at 16."
+            "explain": "Υπάρχουν δύο αλληλένδετες ακολουθίες, προσθέστε 14 ξεκινώντας από το 14 και προσθέστε 16 ξεκινώντας από το 16."
         },
         {
-            "question": "Find the odd man out,    3, 5, 11, 14, 17, 21",
+            "question": "Βρείτε τον περιττό, 3, 5, 11, 14, 17, 21",
             "a": "21",
             "b": "17",
             "c": "14",
@@ -229,7 +229,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers except 14 is an odd number.! !The number '14' is the only EVEN number."
+            "explain": "Κάθε ένας από τους αριθμούς εκτός από το 14 είναι περιττός αριθμός.! !Ο αριθμός '14' είναι ο μόνος ΑΡΤΙΟΣ αριθμός."
         },
         {
             "question": "9 ,  18 ,  27 ,  ? ,  45 ,  ? ,  63",
@@ -240,7 +240,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 9 each time."
+            "explain": "Προσθέστε 9 κάθε φορά."
         },
         {
             "question": "17 ,  34 ,  51 ,  68 ,  ?",
@@ -251,10 +251,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 17 each time."
+            "explain": "Προσθέστε 17 κάθε φορά."
         },
         {
-            "question": "Which number is the odd one out,    396, 462, 572, 427, 671, 264",
+            "question": "Ποιος αριθμός είναι ο περιττός; 396, 462, 572, 427, 671, 264",
             "a": "396",
             "b": "427",
             "c": "671",
@@ -262,7 +262,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In each number except 427, the middle digit is the sum of other two."
+            "explain": "Σε κάθε αριθμό εκτός από το 427, το μεσαίο ψηφίο είναι το άθροισμα των άλλων δύο."
         },
         {
             "question": "2 ,  5.75 ,  ? ,  13.25 ,  17 ,  20.75",
@@ -273,10 +273,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 3.75 each time."
+            "explain": "Προσθέστε 3.75 κάθε φορά."
         },
         {
-            "question": "Which number is the odd one out,     1, 4, 9, 16, 23, 25, 36",
+            "question": "Ποιος αριθμός είναι ο περιττός; 1, 4, 9, 16, 23, 25, 36",
             "a": "9",
             "b": "23",
             "c": "25",
@@ -284,7 +284,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers except 23, is perfect square."
+            "explain": "Κάθε ένας από τους αριθμούς εκτός από το 23, είναι τέλειο τετράγωνο."
         },
         {
             "question": "100 ,  98 ,  94 ,  88 ,  80 ,  70 ,  ?",
@@ -295,7 +295,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Deduct 2, 4, 6, 8, 10, 12"
+            "explain": "Αφαιρέστε 2, 4, 6, 8, 10, 12"
         },
         {
             "question": "9 ,  16 ,  13 ,  13 ,  17 ,  10 ,  21 ,  7 ,  ?",
@@ -306,10 +306,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences! !Add 4 starting with 9! !and subtract 3 starting with 16."
+            "explain": "Υπάρχουν δύο αλληλένδετες ακολουθίες! !Προσθέστε 4 ξεκινώντας με 9! !και αφαιρέστε 3 ξεκινώντας με 16."
         },
         {
-            "question": "64521  is to  41256  as  38297  is to..",
+            "question": "Το 64521 είναι προς το 41256 όπως το 38297 είναι προς το..",
             "a": "92837",
             "b": "29873",
             "c": "89732",
@@ -317,7 +317,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "A  B  C  D  E!6  4  5  2  1! !B  E  D  C  A!4  1  2  5  6! !A  B  C  D  E!3  8  2  9  7! !B  E  D  C  A!8  7  9  2  3"
+            "explain": "Α  Β  Γ  Δ  Ε!6  4  5  2  1! !Β  Ε  Δ  Γ  Α!4  1  2  5  6! !Α  Β  Γ  Δ  Ε!3  8  2  9  7! !Β  Ε  Δ  Γ  Α!8  7  9  2  3"
         },
         {
             "question": "1 ,  2 ,  4 ,  8 ,  ?",
@@ -328,7 +328,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 1 first and then add double of previously added number."
+            "explain": "Προσθέστε 1 πρώτα και στη συνέχεια προσθέστε το διπλάσιο του προηγουμένως προστιθέμενου αριθμού."
         },
         {
             "question": "100 ,  97 ,  91 , 82 ,  ?",
@@ -339,7 +339,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "-3 , -6 , -9 , -12!(Multiples of 3 are subtracted)"
+            "explain": "-3 , -6 , -9 , -12!(Αφαιρούνται πολλαπλάσια του 3)"
         },
         {
             "question": "1 ,  2.65 ,  4.3 ,  5.95 ,  7.6 ,  ?",
@@ -350,10 +350,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "1.65 is adding in each term."
+            "explain": "Το 1.65 προστίθεται σε κάθε όρο."
         },
         {
-            "question": "78214 and 292 ,  38421 and 459 ,  69517 and ?",
+            "question": "78214 και 292 ,  38421 και 459 ,  69517 και ?",
             "a": "712",
             "b": "586",
             "c": "58987",
@@ -361,10 +361,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "78 + 214 = 292!38 + 421 = 459! !So, 69 + 517 = 586"
+            "explain": "78 + 214 = 292!38 + 421 = 459! !Έτσι, 69 + 517 = 586"
         },
         {
-            "question": "3925 and 277 ,  4697 and 2416 ,  6257 and ?",
+            "question": "3925 και 277 ,  4697 και 2416 ,  6257 και ?",
             "a": "1212",
             "b": "409",
             "c": "32509",
@@ -372,7 +372,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "3 * 9 = 27! 5 + 2 = 7!(277).! !4 * 6 = 24!and 9 + 7 = 16!(2416)! !Similarly,!6 * 2 = 12!and 5 + 7 = 12!(1212)"
+            "explain": "3 * 9 = 27! 5 + 2 = 7!(277).! !4 * 6 = 24!και 9 + 7 = 16!(2416)! !Ομοίως,!6 * 2 = 12!και 5 + 7 = 12!(1212)"
         },
         {
             "question": "25 ,  50 ,  27 ,  46 ,  31 ,  38 ,  39 ,  ?",
@@ -383,7 +383,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences.!Add 2, 4 and 8 from the sequence starting with 25!and subtract 4, 8 and 16 from the sequence starting with 50"
+            "explain": "Υπάρχουν δύο αλληλένδετες ακολουθίες.!Προσθέστε 2, 4 και 8 από την ακολουθία που ξεκινά με 25!και αφαιρέστε 4, 8 και 16 από την ακολουθία που ξεκινά με 50"
         },
         {
             "question": "759 ,  675 ,  335 ,  165 ,  ?",
@@ -394,10 +394,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each number is formed by multiplying the number formed by the first two digits of the previous number by its third digit.! !So, 16 * 5 = 80"
+            "explain": "Κάθε αριθμός σχηματίζεται πολλαπλασιάζοντας τον αριθμό που σχηματίζεται από τα δύο πρώτα ψηφία του προηγούμενου αριθμού με το τρίτο του ψηφίο.! !Έτσι, 16 * 5 = 80"
         },
         {
-            "question": "Which number is the odd one out,   159,  248,  963,  357,  951,  852 ?",
+            "question": "Ποιος αριθμός είναι ο περιττός; 159, 248, 963, 357, 951, 852;",
             "a": "248",
             "b": "852",
             "c": "159",
@@ -405,10 +405,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In the rest there is the same difference between each digit! eg 8 (-3) 5 (-3) 2"
+            "explain": "Στα υπόλοιπα υπάρχει η ίδια διαφορά μεταξύ κάθε ψηφίου! π.χ. 8 (-3) 5 (-3) 2"
         },
         {
-            "question": "What four-digit number should replace the question mark? 4342 (3176) 1726,  7995 (7516) 2162,  8418 (????) 1725",
+            "question": "Ποιος τετραψήφιος αριθμός πρέπει να αντικαταστήσει το ερωτηματικό; 4342 (3176) 1726,  7995 (7516) 2162,  8418 (????) 1725",
             "a": "6748",
             "b": "4725",
             "c": "9797",
@@ -416,10 +416,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Delete the digits outside the brackets that appear twice, and insert the remaining digits in the brackets in the same order that they appear outside the brackets!8418 (4725) 1725"
+            "explain": "Διαγράψτε τα ψηφία εκτός των παρενθέσεων που εμφανίζονται δύο φορές και εισαγάγετε τα υπόλοιπα ψηφία στις παρενθέσεις με την ίδια σειρά που εμφανίζονται εκτός των παρενθέσεων!8418 (4725) 1725"
         },
         {
-            "question": "Which is the odd number out,  9421 ,  7532 ,  9854 ,  8612 ,  6531 ,  8541 ?",
+            "question": "Ποιος είναι ο περιττός αριθμός; 9421, 7532, 9854, 8612, 6531, 8541;",
             "a": "8612",
             "b": "6531",
             "c": "7532",
@@ -427,10 +427,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All the other numbers have their digits in descending order."
+            "explain": "Όλοι οι άλλοι αριθμοί έχουν τα ψηφία τους σε φθίνουσα σειρά."
         },
         {
-            "question": "Which two letters come next in the sequence A ,  D ,  I ,  P ,  Y ,  CF ,  DI ,  FD , ?",
+            "question": "Ποια δύο γράμματα έρχονται στη συνέχεια στην ακολουθία Α, Δ, Ι, Ρ, Υ, CF, DI, FD,;",
             "a": "HA",
             "b": "GK",
             "c": "JB",
@@ -438,7 +438,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "take the numerical position of each letter in the alphabet to reveal the sequence of consecutive square numbers 1, 4, 9, 16, 25, 36, 49, 64, 81"
+            "explain": "πάρτε την αριθμητική θέση κάθε γράμματος στο αλφάβητο για να αποκαλύψετε την ακολουθία των διαδοχικών τετραγωνικών αριθμών 1, 4, 9, 16, 25, 36, 49, 64, 81"
         },
         {
             "question": "0.67 ,  0.69 ,  0.48 ,  0.88 ,  0.29 ,  1.07 ,  ?",
@@ -449,7 +449,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two series!Subtract 0.19 from the series starting with 0.67 and add 0.19 from the series starting with 0.69."
+            "explain": "Υπάρχουν δύο σειρές!Αφαιρέστε 0.19 από τη σειρά που ξεκινά με 0.67 και προσθέστε 0.19 από τη σειρά που ξεκινά με 0.69."
         },
         {
             "question": "492 ,  366 ,  189 ,  810 ,  ?",
@@ -463,7 +463,7 @@
             "explain": "8 * 1 = 8, 8 + 0 = 8"
         },
         {
-            "question": "Which number is the odd one out,    1, 4, 9, 16, 20, 36, 49",
+            "question": "Ποιος αριθμός είναι ο περιττός; 1, 4, 9, 16, 20, 36, 49",
             "a": "1",
             "b": "9",
             "c": "20",
@@ -471,10 +471,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "All other numbers are perfect square of numbers but 20 is not perfect square of any number."
+            "explain": "Όλοι οι άλλοι αριθμοί είναι τέλειοι τετράγωνοι αριθμών, αλλά το 20 δεν είναι τέλειο τετράγωνο οποιουδήποτε αριθμού."
         },
         {
-            "question": "Which number is the odd one out,    2, 5, 10, 17, 26, 37, 50, 64",
+            "question": "Ποιος αριθμός είναι ο περιττός; 2, 5, 10, 17, 26, 37, 50, 64",
             "a": "50",
             "b": "26",
             "c": "37",
@@ -482,7 +482,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "(1*1)+1 , (2*2)+1 , (3*3)+1 , (4*4)+1 , (5*5)+1 , (6*6)+1 , (7*7)+1 , (8*8)+1! !But, 64 is out of pattern."
+            "explain": "(1*1)+1 , (2*2)+1 , (3*3)+1 , (4*4)+1 , (5*5)+1 , (6*6)+1 , (7*7)+1 , (8*8)+1! !Αλλά, το 64 είναι εκτός μοτίβου."
         },
         {
             "question": "1000 ,  971.4 ,  942.8 ,  914.2 ,  885.6 ,  ?",
@@ -493,10 +493,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Deduct 28.6 each time."
+            "explain": "Αφαιρέστε 28.6 κάθε φορά."
         },
         {
-            "question": "Which number is the odd one out,    16, 25, 36, 72, 144, 196, 225",
+            "question": "Ποιος αριθμός είναι ο περιττός; 16, 25, 36, 72, 144, 196, 225",
             "a": "36",
             "b": "72",
             "c": "196",
@@ -504,10 +504,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers except 72 is a perfect square."
+            "explain": "Κάθε ένας από τους αριθμούς εκτός από το 72 είναι τέλειο τετράγωνο."
         },
         {
-            "question": "Which number is the odd one out,    331, 482, 551, 263, 383, 362, 284",
+            "question": "Ποιος αριθμός είναι ο περιττός; 331, 482, 551, 263, 383, 362, 284",
             "a": "263",
             "b": "383",
             "c": "331",
@@ -515,7 +515,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "In each number except 383, the product of first and third digits is the middle one."
+            "explain": "Σε κάθε αριθμό εκτός από το 383, το γινόμενο του πρώτου και του τρίτου ψηφίου είναι το μεσαίο."
         },
         {
             "question": "1 ,  1 ,  2.5 ,  3.5 ,  4 ,  6 ,  5.5 ,  8.5 ,  ? ,  ?",
@@ -526,10 +526,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "There are two interwoven sequences.! !+1.5 starting at the first 1, and +2.5 starting at the second 1."
+            "explain": "Υπάρχουν δύο αλληλένδετες ακολουθίες.! !+1.5 ξεκινώντας από το πρώτο 1, και +2.5 ξεκινώντας από το δεύτερο 1."
         },
         {
-            "question": "Which number is the odd one out,    41, 43, 47, 53, 61, 71, 73, 81",
+            "question": "Ποιος αριθμός είναι ο περιττός; 41, 43, 47, 53, 61, 71, 73, 81",
             "a": "61",
             "b": "71",
             "c": "73",
@@ -537,10 +537,10 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers except 81 is a prime number."
+            "explain": "Κάθε ένας από τους αριθμούς εκτός από το 81 είναι πρώτος αριθμός."
         },
         {
-            "question": "Which number is the odd one out,    3, 5, 7, 12, 17, 19",
+            "question": "Ποιος αριθμός είναι ο περιττός; 3, 5, 7, 12, 17, 19",
             "a": "19",
             "b": "17",
             "c": "5",
@@ -548,7 +548,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Each of the numbers is a prime number except 12."
+            "explain": "Κάθε ένας από τους αριθμούς είναι πρώτος αριθμός εκτός από το 12."
         },
         {
             "question": "8 ,  16 ,  32 ,  64 ,  128 ,  ?",
@@ -559,7 +559,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply previous term with 2 to find next term."
+            "explain": "Πολλαπλασιάστε τον προηγούμενο όρο με 2 για να βρείτε τον επόμενο όρο."
         },
         {
             "question": "1/32 ,  1/16 ,  1/4 ,  1/2 ,  2 ,  4 ,  ?",
@@ -570,7 +570,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply with 2 and 4 alternatively"
+            "explain": "Πολλαπλασιάστε με 2 και 4 εναλλάξ"
         },
         {
             "question": "180 ,  140 ,  179 ,  138 ,  177 ,  134 ,  ?",
@@ -581,7 +581,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Two parallel series, one with subtracting 1,2,3,... and other with subtracting 2,4,6,..."
+            "explain": "Δύο παράλληλες σειρές, μία με αφαίρεση 1,2,3,... και άλλη με αφαίρεση 2,4,6,..."
         },
         {
             "question": "5 ,  2.5 ,  1.25 ,  0.625 ,  ?",
@@ -592,7 +592,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Divide previous term with 2 to find next term."
+            "explain": "Διαιρέστε τον προηγούμενο όρο με 2 για να βρείτε τον επόμενο όρο."
         },
         {
             "question": "20 ,  30 ,  45 ,  ?",
@@ -603,21 +603,21 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply previous term with 1.5 to find next term."
+            "explain": "Πολλαπλασιάστε τον προηγούμενο όρο με 1.5 για να βρείτε τον επόμενο όρο."
         },
         {
-            "question": "B ,  D ,  F ,  H ,  J ,  L ,  ?",
-            "a": "N",
-            "b": "M",
-            "c": "O",
-            "d": "P",
+            "question": "Β ,  Δ ,  Ζ ,  Η ,  Ι ,  Λ ,  ?",
+            "a": "Ν",
+            "b": "Μ",
+            "c": "Ο",
+            "d": "Ρ",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip one alphabet."
+            "explain": "Παραλείψτε ένα αλφάβητο."
         },
         {
-            "question": "E ,  H ,  K ,  N ,  Q ,  T ,  ?",
+            "question": "Ε ,  Η ,  Κ ,  Ν ,  Q ,  Τ ,  ?",
             "a": "R",
             "b": "W",
             "c": "X",
@@ -625,10 +625,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip two alphabets."
+            "explain": "Παραλείψτε δύο αλφάβητα."
         },
         {
-            "question": "A ,  Y ,  W ,  U ,  S ,  Q ,  ?",
+            "question": "Α ,  Υ ,  W ,  U ,  S ,  Q ,  ?",
             "a": "O",
             "b": "D",
             "c": "Z",
@@ -636,7 +636,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip one alphabet in reverse order."
+            "explain": "Παραλείψτε ένα αλφάβητο με αντίστροφη σειρά."
         },
         {
             "question": "F ,  G ,  I ,  L ,  P ,  ?",
@@ -647,10 +647,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip alphabets 0,1,2,..."
+            "explain": "Παραλείψτε αλφάβητα 0,1,2,..."
         },
         {
-            "question": "A ,  E ,  X ,  H ,  U ,  ?",
+            "question": "Α ,  Ε ,  Χ ,  Η ,  U ,  ?",
             "a": "R",
             "b": "K",
             "c": "S",
@@ -658,10 +658,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Two parallel series, one with skipping two alphabets in reverse order and other with skipping two alphabets in forward order"
+            "explain": "Δύο παράλληλες σειρές, μία με παράλειψη δύο αλφαβήτων με αντίστροφη σειρά και άλλη με παράλειψη δύο αλφαβήτων με κανονική σειρά"
         },
         {
-            "question": "B ,  L ,  R ,  T ,  ?",
+            "question": "Β ,  L ,  R ,  T ,  ?",
             "a": "Z",
             "b": "V",
             "c": "U",
@@ -669,7 +669,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip alphabets 10 , 6 , 2 , -2 , -6,..."
+            "explain": "Παραλείψτε αλφάβητα 10 , 6 , 2 , -2 , -6,..."
         },
         {
             "question": "3 ,  6 ,  9 ,  12 ,  15 ,  ?",
@@ -680,7 +680,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 3 in previous term to find next term."
+            "explain": "Προσθέστε 3 στον προηγούμενο όρο για να βρείτε τον επόμενο όρο."
         },
         {
             "question": "17 ,  20 ,  19 ,  22 ,  21 ,  24 ,  23 ,  ?",
@@ -691,7 +691,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 3 and subtract 1 alternatively."
+            "explain": "Προσθέστε 3 και αφαιρέστε 1 εναλλάξ."
         },
         {
             "question": "F ,  I ,  M ,  P ,  T ,  W ,  ?",
@@ -702,7 +702,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip 2 and 3 alphabets alternatively."
+            "explain": "Παραλείψτε 2 και 3 αλφάβητα εναλλάξ."
         },
         {
             "question": "6 ,  8 ,  10 ,  14 ,  18 ,  26 ,  34 ,  50 ,  66 ,  ?",
@@ -713,18 +713,18 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 2, 4, 4, 8, 8, 16,  16,..."
+            "explain": "Προσθέστε 2, 4, 4, 8, 8, 16,  16,..."
         },
         {
-            "question": "B ,  C ,  E ,  G ,  K ,  ?",
-            "a": "M",
+            "question": "Β ,  Γ ,  Ε ,  Ζ ,  Κ ,  ?",
+            "a": "Μ",
             "b": "Q",
             "c": "O",
             "d": "X",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Prime numbers 2, 3 , 5 , 7 , 11 , 13,..."
+            "explain": "Πρώτοι αριθμοί 2, 3 , 5 , 7 , 11 , 13,..."
         },
         {
             "question": "3 ,  10 ,  33 ,  104 ,  ?",
@@ -735,7 +735,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply with 3 and add 1, 3, 5, 7,..."
+            "explain": "Πολλαπλασιάστε με 3 και προσθέστε 1, 3, 5, 7,..."
         },
         {
             "question": "6 ,  H ,  9 ,  K ,  11 ,  M ,  14 ,  P ,  16 ,  R ,  19 ,  U ,  21 ,  ?",
@@ -746,7 +746,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 3 and 2 alternatively in number series and skip 2 and 1 alphabets alternatively"
+            "explain": "Προσθέστε 3 και 2 εναλλάξ στη σειρά αριθμών και παραλείψτε 2 και 1 αλφάβητα εναλλάξ"
         },
         {
             "question": "M ,  F ,  N ,  G ,  R ,  I ,  S ,  L ,  W ,  P ,  ?",
@@ -757,7 +757,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Two parallel series one with skipping 0 and 3 alphabets alternatively and other with skipping 0 , 1 , 2,..."
+            "explain": "Δύο παράλληλες σειρές, μία με παράλειψη 0 και 3 αλφαβήτων εναλλάξ και άλλη με παράλειψη 0 , 1 , 2,..."
         },
         {
             "question": "7 ,  12 ,  19 ,  28 ,  ?",
@@ -768,7 +768,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "add 5 , 7 , 9 , 11,..."
+            "explain": "προσθέστε 5 , 7 , 9 , 11,..."
         },
         {
             "question": "O ,  R ,  M ,  T ,  K ,  V ,  I ,  ?",
@@ -779,7 +779,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Two parallel series one with skipping one alphabet in reverse order and other with skipping one alphabet in forward order."
+            "explain": "Δύο παράλληλες σειρές, μία με παράλειψη ενός αλφαβήτου με αντίστροφη σειρά και άλλη με παράλειψη ενός αλφαβήτου με κανονική σειρά."
         },
         {
             "question": "2 ,  5 ,  10 ,  17 ,  26 ,  ?",
@@ -790,7 +790,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "add 3 , 5 , 7 ,  9 , 11,..."
+            "explain": "προσθέστε 3 , 5 , 7 ,  9 , 11,..."
         },
         {
             "question": "0 ,  7 ,  15 ,  24 ,  34 ,  ?",
@@ -801,18 +801,18 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "add 7 , 8 , 9 , 10 , 11,..."
+            "explain": "προσθέστε 7 , 8 , 9 , 10 , 11,..."
         },
         {
-            "question": "C ,  F ,  K ,  R ,  ?",
-            "a": "A",
-            "b": "Y",
-            "c": "Z",
-            "d": "B",
+            "question": "Γ ,  Ζ ,  Κ ,  Ρ ,  ?",
+            "a": "Α",
+            "b": "Υ",
+            "c": "Ζ",
+            "d": "Β",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip 2 , 4 , 6 , 8,... alphabets"
+            "explain": "Παραλείψτε 2 , 4 , 6 , 8,... αλφάβητα"
         },
         {
             "question": "3 ,  7 , 2 ,  47 ,  ?",
@@ -823,7 +823,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "3^2 - 7 = 2!7^2 - 2 = 47!In the same way!2^2 - 47 = -43"
+            "explain": "3^2 - 7 = 2!7^2 - 2 = 47!Με τον ίδιο τρόπο!2^2 - 47 = -43"
         },
         {
             "question": "2 ,  6 ,  18 ,  54 ,  162 ,  ?",
@@ -834,7 +834,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply previous term with 2 to find next term."
+            "explain": "Πολλαπλασιάστε τον προηγούμενο όρο με 2 για να βρείτε τον επόμενο όρο."
         },
         {
             "question": "2 ,  6 ,  15 ,  34 ,  73 ,  ?",
@@ -845,21 +845,21 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply with 2 and add 2 , 3 , 4 , 5 , 6,..."
+            "explain": "Πολλαπλασιάστε με 2 και προσθέστε 2 , 3 , 4 , 5 , 6,..."
         },
         {
-            "question": "C ,  G ,  L ,  R ,  ?",
-            "a": "Y",
+            "question": "Γ ,  Ζ ,  Λ ,  Ρ ,  ?",
+            "a": "Υ",
             "b": "W",
             "c": "U",
             "d": "Z",
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip 3 , 4 , 5,... alphabets."
+            "explain": "Παραλείψτε 3 , 4 , 5,... αλφάβητα."
         },
         {
-            "question": "N ,  N ,  P ,  L ,  S ,  I ,  W ,  ?",
+            "question": "Ν ,  Ν ,  Ρ ,  L ,  S ,  I ,  W ,  ?",
             "a": "A",
             "b": "E",
             "c": "I",
@@ -867,7 +867,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Two parallel series. One with skipping 1 , 2 , 3,... alphabets in forward order and other with skipping same alphabets in reverse order."
+            "explain": "Δύο παράλληλες σειρές. Μία με παράλειψη 1 , 2 , 3,... αλφαβήτων με κανονική σειρά και άλλη με παράλειψη των ίδιων αλφαβήτων με αντίστροφη σειρά."
         },
         {
             "question": "1/3 ,  3/7 ,  6/13 ,  10/21 ,  15/31 ,  ?",
@@ -878,7 +878,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 2 , 3 , 4,... in numerator and add 4 , 6 , 8,... in denominator."
+            "explain": "Προσθέστε 2 , 3 , 4,... στον αριθμητή και προσθέστε 4 , 6 , 8,... στον παρονομαστή."
         },
         {
             "question": "2 ,  7 ,  5 ,  5 ,  8 ,  3 ,  11 ,  ?",
@@ -889,7 +889,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Two parallel series one with adding 3 and other with subtracting 2."
+            "explain": "Δύο παράλληλες σειρές, μία με πρόσθεση 3 και άλλη με αφαίρεση 2."
         },
         {
             "question": "87 ,  102 ,  119 ,  138 ,  159 ,  ?",
@@ -900,7 +900,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Adding 15 , 17 , 19,..."
+            "explain": "Προσθήκη 15 , 17 , 19,..."
         },
         {
             "question": "0 ,  3 ,  8 ,  15 ,  ?",
@@ -911,7 +911,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 3 , 5 , 7,..."
+            "explain": "Προσθέστε 3 , 5 , 7,..."
         },
         {
             "question": "4 ,  7 ,  15 ,  29 ,  59 ,  117 ,  ?",
@@ -922,18 +922,18 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply with 2 and subtract and add 1 alternatively."
+            "explain": "Πολλαπλασιάστε με 2 και αφαιρέστε και προσθέστε 1 εναλλάξ."
         },
         {
-            "question": "B ,  D ,  G ,  K ,  P ,  ?",
-            "a": "A",
+            "question": "Β ,  Δ ,  Ζ ,  Κ ,  Ρ ,  ?",
+            "a": "Α",
             "b": "L",
             "c": "X",
             "d": "V",
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip 1 , 2 , 3,... alphabets."
+            "explain": "Παραλείψτε 1 , 2 , 3,... αλφάβητα."
         },
         {
             "question": "3.4 ,  6.3 ,  9.2 ,  12.1 ,  15 ,  ?",
@@ -944,10 +944,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 2.9 in previous term to find next term."
+            "explain": "Προσθέστε 2.9 στον προηγούμενο όρο για να βρείτε τον επόμενο όρο."
         },
         {
-            "question": "T ,  Q ,  M ,  H ,  ?",
+            "question": "Τ ,  Q ,  Μ ,  Η ,  ?",
             "a": "N",
             "b": "B",
             "c": "A",
@@ -955,7 +955,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip 2 , 3 , 4,... alphabets in reverse order."
+            "explain": "Παραλείψτε 2 , 3 , 4,... αλφάβητα με αντίστροφη σειρά."
         },
         {
             "question": "63 ,  35 ,  15 ,  3 ,  ?",
@@ -966,7 +966,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "8^2 - 1 = 63!and!6^2 - 1 = 35!and!4^2 - 1 = 15!and!2^2 - 1 = 3!in the same way!0^2 - 1 = -1"
+            "explain": "8^2 - 1 = 63!και!6^2 - 1 = 35!και!4^2 - 1 = 15!και!2^2 - 1 = 3!με τον ίδιο τρόπο!0^2 - 1 = -1"
         },
         {
             "question": "71 ,  25 ,  83 ,  37 ,  95 ,  49 ,  ?",
@@ -977,7 +977,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Two parallel series both with adding 12."
+            "explain": "Δύο παράλληλες σειρές και οι δύο με πρόσθεση 12."
         },
         {
             "question": "5 ,  5 ,  3 ,  -1 ,  -7 ,  ?",
@@ -988,7 +988,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Subtract 0 ,2 , 4,..."
+            "explain": "Αφαιρέστε 0 ,2 , 4,..."
         },
         {
             "question": "-6 ,  9 ,  -27/2 ,  81/4 ,  -243/8 ,  ?",
@@ -999,7 +999,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply previous term with -3/2 to find next term."
+            "explain": "Πολλαπλασιάστε τον προηγούμενο όρο με -3/2 για να βρείτε τον επόμενο όρο."
         },
         {
             "question": "2 ,  -1 ,  2 ,  -1 ,  2 ,  ?",
@@ -1010,10 +1010,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Subtract and add 3 alternatively."
+            "explain": "Αφαιρέστε και προσθέστε 3 εναλλάξ."
         },
         {
-            "question": "B ,  W ,  F ,  P ,  M ,  E ,  ?",
+            "question": "Β ,  W ,  F ,  P ,  M ,  E ,  ?",
             "a": "B",
             "b": "W",
             "c": "F",
@@ -1021,10 +1021,10 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Two parallel series one with skipping 3 , 6,... alphabets and other with skipping 6 , 12,... alphabets."
+            "explain": "Δύο παράλληλες σειρές, μία με παράλειψη 3 , 6,... αλφαβήτων και άλλη με παράλειψη 6 , 12,... αλφαβήτων."
         },
         {
-            "question": "C ,  F ,  J ,  O ,  ?",
+            "question": "Γ ,  Ζ ,  Ι ,  Ο ,  ?",
             "a": "C",
             "b": "O",
             "c": "U",
@@ -1032,10 +1032,10 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip 2 , 3 , 4,... alphabets."
+            "explain": "Παραλείψτε 2 , 3 , 4,... αλφάβητα."
         },
         {
-            "question": "O ,  P ,  R ,  U ,  ?",
+            "question": "Ο ,  Ρ ,  R ,  U ,  ?",
             "a": "W",
             "b": "X",
             "c": "Y",
@@ -1043,7 +1043,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip 0 , 1 , 2 , 3,... alphabets."
+            "explain": "Παραλείψτε 0 , 1 , 2 , 3,... αλφάβητα."
         },
         {
             "question": "1 ,  4 ,  9 ,  61 ,  52 ,  ?",
@@ -1054,7 +1054,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Square 1 , 2 , 3,... and change the sequence of digits."
+            "explain": "Τετραγωνίστε 1 , 2 , 3,... και αλλάξτε τη σειρά των ψηφίων."
         },
         {
             "question": "3/81 ,  4/256 ,  5/625 ,  ?",
@@ -1065,7 +1065,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 1 in numerator and in denominator!(3*3)^2 = 81!(4*4)^2 = 256!(5*5)^2 = 625!in the same way!(6*6)^2 = 1296"
+            "explain": "Προσθέστε 1 στον αριθμητή και στον παρονομαστή!(3*3)^2 = 81!(4*4)^2 = 256!(5*5)^2 = 625!με τον ίδιο τρόπο!(6*6)^2 = 1296"
         },
         {
             "question": "12 ,  14 ,  34 ,  36 ,  56 ,  58 ,  78 ,  ?",
@@ -1076,7 +1076,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 2 and 20 alternatively."
+            "explain": "Προσθέστε 2 και 20 εναλλάξ."
         },
         {
             "question": "7 ,  13 ,  24 ,  45 ,  86 ,  ?",
@@ -1087,7 +1087,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply previous term with 2 and subtract 1 , 2 , 3,... to find next term."
+            "explain": "Πολλαπλασιάστε τον προηγούμενο όρο με 2 και αφαιρέστε 1 , 2 , 3,... για να βρείτε τον επόμενο όρο."
         },
         {
             "question": "156 ,  76 ,  36 ,  16 ,  ?",
@@ -1098,7 +1098,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Subtract 4 from previous term and then divide it with 2 to find next term."
+            "explain": "Αφαιρέστε 4 από τον προηγούμενο όρο και στη συνέχεια διαιρέστε τον με 2 για να βρείτε τον επόμενο όρο."
         },
         {
             "question": "6 ,  10 ,  18 ,  34 ,  66 ,  ?",
@@ -1109,7 +1109,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 4 , 8 , 16 , 32,..."
+            "explain": "Προσθέστε 4 , 8 , 16 , 32,..."
         },
         {
             "question": "2 ,  14 ,  32 ,  56 ,  86 ,  ?",
@@ -1120,7 +1120,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 12 , 18 , 24 , 30 , 36,..."
+            "explain": "Προσθέστε 12 , 18 , 24 , 30 , 36,..."
         },
         {
             "question": "108 ,  189 ,  216 ,  225 ,  ?",
@@ -1131,7 +1131,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 81 , 27 , 9 , 3,..."
+            "explain": "Προσθέστε 81 , 27 , 9 , 3,..."
         },
         {
             "question": "7 ,  10 ,  25 ,  94 ,  463 ,  ?",
@@ -1142,10 +1142,10 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "7*2 - 4 = 10!and!10*3 - 5 = 25!and!25*4 - 6 = 94!and!94*5 - 7 = 463!In the same way!463*6 - 8 = 2770"
+            "explain": "7*2 - 4 = 10!και!10*3 - 5 = 25!και!25*4 - 6 = 94!και!94*5 - 7 = 463!Με τον ίδιο τρόπο!463*6 - 8 = 2770"
         },
         {
-            "question": "A ,  B ,  D ,  I ,  ?",
+            "question": "Α ,  Β ,  Δ ,  Ι ,  ?",
             "a": "O",
             "b": "S",
             "c": "W",
@@ -1153,7 +1153,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply position of previous alphabet with 3 and subtract 1 , 2 , 3,... respectively."
+            "explain": "Πολλαπλασιάστε τη θέση του προηγούμενου αλφαβήτου με 3 και αφαιρέστε 1 , 2 , 3,... αντίστοιχα."
         },
         {
             "question": "9 ,  11 ,  17 ,  35 ,  ?",
@@ -1164,7 +1164,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 2 , 6 , 18 , 54,...!here!6 = 2*3!18 = 6*3!and!54 = 18*3"
+            "explain": "Προσθέστε 2 , 6 , 18 , 54,...!εδώ!6 = 2*3!18 = 6*3!και!54 = 18*3"
         },
         {
             "question": "F ,  O ,  T ,  W ,  ?",
@@ -1175,7 +1175,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip 8 , 4 , 2 , 1 alphabets."
+            "explain": "Παραλείψτε 8 , 4 , 2 , 1 αλφάβητα."
         },
         {
             "question": "X ,  U ,  Q ,  N ,  J ,  G ,  ?",
@@ -1186,7 +1186,7 @@
             "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip 2 and 3 alphabets alternatively in reverse."
+            "explain": "Παραλείψτε 2 και 3 αλφάβητα εναλλάξ με αντίστροφη σειρά."
         },
         {
             "question": "7/2 ,  4 ,  7 ,  14 ,  ?",
@@ -1197,7 +1197,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Multiply previous 2 numbers and divide by 2."
+            "explain": "Πολλαπλασιάστε τους προηγούμενους 2 αριθμούς και διαιρέστε με 2."
         },
         {
             "question": "2 ,  20 ,  42 ,  68 ,  98 ,  ?",
@@ -1208,7 +1208,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Add 18 , 22 , 26 , 30 , 34,..."
+            "explain": "Προσθέστε 18 , 22 , 26 , 30 , 34,..."
         },
         {
             "question": "BZ ,  EW ,  HT ,  KQ ,  ?",
@@ -1219,7 +1219,7 @@
             "answer": "c",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Skip 2 alphabets in forward order to find first alphabet and skip 2 alphabets in reverse order to find 2nd alphabet."
+            "explain": "Παραλείψτε 2 αλφάβητα με κανονική σειρά για να βρείτε το πρώτο αλφάβητο και παραλείψτε 2 αλφάβητα με αντίστροφη σειρά για να βρείτε το 2ο αλφάβητο."
         },
         {
             "question": "XYZ ,  WVV ,  VSR ,  UPN ,  ?",
@@ -1230,7 +1230,7 @@
             "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "Subtract 1 from first 3 from second and 4 from third character."
+            "explain": "Αφαιρέστε 1 από τον πρώτο, 3 από τον δεύτερο και 4 από τον τρίτο χαρακτήρα."
         },
         {
             "question": "AZ ,  DX ,  HU ,  MQ ,  ?",
@@ -1241,7 +1241,7 @@
             "answer": "a",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "skip 2 , 3 , 4,... alphabets to find first character and subtract 1 , 2 , 3,... alphabets to find second character."
+            "explain": "παραλείψτε 2 , 3 , 4,... αλφάβητα για να βρείτε τον πρώτο χαρακτήρα και αφαιρέστε 1 , 2 , 3,... αλφάβητα για να βρείτε τον δεύτερο χαρακτήρα."
         }
     ]
 }
