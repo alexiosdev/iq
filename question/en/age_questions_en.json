@@ -512,12 +512,10 @@
             "b": "26",
             "c": "27",
             "d": "28",
-            "answer": "",
+            "answer": "d",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "We can simply check it from options. If John's cousins age is 7 then John's age is 42!and!1/6 0f 42 = 7!Hence 7 fulfills the required condition.",
-            "e": "28",
-            "f": "Given that!A/B = 3/7 ...(1)! !and!B-A = 16 ...(2)!Put value of A from equation(1) in equation(2)!B-(3/7)B = 16!(7B-3B)/7 = 16!4B = 112!B = 28! !Hence Age of B is 28 years."
+            "explain": "Given A/B = 3/7 and B − A = 16. Substitute A = (3/7)B into B − A = 16: B − (3/7)B = 16 ⇒ (4/7)B = 16 ⇒ B = 28. Hence age of B is 28 years."
         },
         {
             "question": "Tina is twice as old as David. 15 years ago, Tina's age was 5 times the age of David. What is the present age of Tina?",

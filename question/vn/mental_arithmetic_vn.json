@@ -716,15 +716,15 @@
             "explain": "Least common multiple of 12 and 18 is 36"
         },
         {
-            "question": "Sum of three consecutive odd integers is 51. Which of the following is the smallest of the three?",
+            "question": "Tổng của ba số nguyên lẻ liên tiếp là 51. Số nhỏ nhất trong ba số đó là số nào?",
             "a": "21",
             "b": "15",
             "c": "17",
             "d": "19",
-            "answer": "d",
+            "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "19+17+15 = 51"
+            "explain": "Gọi ba số nguyên lẻ liên tiếp là x, x+2, x+4. Tổng: 3x + 6 = 51 → x = 15. Vậy ba số là 15, 17, 19 và số nhỏ nhất là 15."
         },
         {
             "question": "If n is not equal to 0, Which of the following must be greater than n? (1) 2n  (2) n^2  (3) 2-n",

@@ -721,10 +721,10 @@
             "b": "15",
             "c": "17",
             "d": "19",
-            "answer": "d",
+            "answer": "b",
             "numAnswer": 4,
             "shapeQuestion": false,
-            "explain": "19+17+15 = 51"
+            "explain": "Let the three consecutive odd integers be x, x+2, x+4. Sum: 3x + 6 = 51 → x = 15. So the three are 15, 17, 19; the smallest is 15."
         },
         {
             "question": "If n is not equal to 0, Which of the following must be greater than n? (1) 2n  (2) n^2  (3) 2-n",
